@@ -169,38 +169,28 @@
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
-### 08:00 – 11:00 • Check-out e viagem para Kyoto
-- Check-out do Swissôtel Nankai Osaka (11:00)
-- **Transporte:** JR Tokaido Line de Osaka Station até Kyoto Station
+### 08:00 – 10:00 • Check-out CEDO e viagem para Nara
+- Check-out do Swissôtel Nankai Osaka
+- **Objetivo:** Sair NO MÁXIMO meio-dia para aproveitar Nara
+- **Transporte:** JR Yamatoji Rapid Line de Namba/Tennoji até Nara Station
 - **Duração:** 30-50 min
 - **Custo:** ¥570 (~R$ 21 / $4 USD) com Suica/Pasmo | Fonte: Hyperdia
 - Organizar malas com compras de Osaka
 
-### 11:00 – 13:00 • Viagem e chegada em Kyoto
+### 10:00 – 12:00 • Viagem e chegada em Nara
 
-### 13:00 – 15:00 • Check-in no Mercure Kyoto
-- Check-in oficial 15:00
-- Deixar malas, refresh
+### 12:00 – ... • Início do roteiro de Nara
+- Ver roteiro completo em [nara.md](./nara.md)
 
-### 15:00 – 17:00 • Ghibli Studios Shop Kyoto
-- **Localização:** Verificar Google Maps - "ghibli store kyoto"
-- Loja oficial do Studio Ghibli
-- Caixas cegas do Totoro (~¥400-500 / ~R$ 15 / $3 USD)
-- Pelúcias, souvenirs, itens colecionáveis
-- IMPERDÍVEL para fãs!
+---
 
-### 17:00 – 19:00 • Heian Jingu Shrine
-- **Entrada:** ¥600 para o jardim (~R$ 22 / $4 USD)
-- Santuário de 1895 mas impressionante
-- ENORME torii vermelho - um dos maiores do Japão
-- Jardim japonês com ponte coberta e lagoas
-- Arquitetura reproduz Palácio Imperial da era Heian
+**Dicas importantes para Osaka:**
+- **Apps essenciais:** Google Maps, Japan Travel by NAVITIME, Suica/Pasmo, HappyCow
+- **IC Card (Suica/Pasmo):** Configurar via Apple Pay ANTES da viagem
+- **Konbini (7-Eleven, Lawson, FamilyMart):** Opções vegetarianas marcadas sempre disponíveis
+- **Universal Studios:** Comprar ingresso E Express Pass com antecedência para evitar filas de 2-3h
+- **Shinsekai games:** Trazer cash (yen) para arcades e vending machines
 
-### 19:00 – 20:30 • Jantar
-**Opção vegetariana:**
-- **Mumokuteki Cafe** (Central Kyoto) - Vegan/Vegetarian orgânico | ¥1200-2000 (~R$ 44-73 / $8-14 USD)
-- Ambiente descolado, menu variado
-- Opções veganas claramente marcadas
+**Ghibli Store em Kyoto:** Visitar durante estadia em Kyoto (próxima cidade)
 
-### 20:30 – 22:30 • Gion à noite
-- Bairro histórico das gueixas/maikos
+**Câmbio:** ¥100 = R$ 3.65 | ¥100 = $2.33 USD

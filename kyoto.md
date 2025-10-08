@@ -1,5 +1,18 @@
 # Kyoto
 
+## Domingo, 14 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã em Nara
+
+### 08:00 – 11:00 • Check-out de Nara e viagem para Kyoto
+- Check-out do hotel em Nara
+- **Transporte:** JR Nara Line de Nara Station até Kyoto Station
+- **Duração:** 35-45 min
+- **Custo:** ¥720 (~R$ 26 / $5 USD) com Suica/Pasmo | Fonte: Hyperdia
+- Organizar malas com souvenirs de Nara
+
+### 11:00 – 13:00 • Viagem e chegada em Kyoto
+
 ### 13:00 – 15:00 • Check-in no Mercure Kyoto
 - Check-in oficial 15:00
 - Deixar malas, refresh
@@ -40,7 +53,7 @@
 
 ---
 
-## Domingo, 14 de dezembro de 2025
+## Segunda-feira, 15 de dezembro de 2025
 
 ### 06:00 – 07:00 • Acordar CEDO para Fushimi Inari
 
@@ -100,7 +113,7 @@
 
 ---
 
-## Segunda-feira, 15 de dezembro de 2025
+## Terça-feira, 16 de dezembro de 2025
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
@@ -169,32 +182,28 @@
 
 ---
 
-## Terça-feira, 16 de dezembro de 2025
+## Quarta-feira, 17 de dezembro de 2025
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
-### 08:00 – 11:00 • Check-out e viagem para Nara
-- Check-out do Mercure Kyoto (11:00)
-- **Transporte:** JR Nara Line de Kyoto Station até Nara Station
-- **Duração:** 35-45 min
-- **Custo:** ¥720 (~R$ 26 / $5 USD) com Suica/Pasmo | Fonte: Hyperdia
+### 08:00 – 10:00 • Últimas atividades em Kyoto
+- Últimas compras em Gion ou Sanjo Dori
+- Fotos finais
 - Organizar malas
 
-### 11:00 – 13:00 • Viagem e chegada em Nara
+### 10:00 – 13:00 • Check-out e viagem para Nagano
+- Check-out do Mercure Kyoto (11:00)
+- **Transporte:** Hokuriku Shinkansen de Kyoto Station até Nagano Station
+- **Duração:** ~2h30-3h (via Tokyo ou direto se disponível)
+- **Custo:** ¥10,000-13,000 (~R$ 365-474 / $70-90 USD) com JR Pass coberto
+- Almoço no trem ou na estação
 
-### 13:00 – 15:00 • Check-in hotel em Nara + almoço
-- Check-in hotel em Nara (reservar próximo ao Nara Park)
-- **Almoço vegetariano:** Vegan café near train station - Japanese vegan com bowls e karaage vegano | ¥800-1500 (~R$ 29-55 / $6-11 USD)
+### 13:00+ • Chegada em Nagano
+- Ver roteiro completo em [nagano.md](./nagano.md)
 
-### 15:00 – 18:00 • Kasuga Taisha
-- **Entrada:** ¥500 santuário + ¥500 museu + ¥500 jardim (~R$ 18-55 total / $3.50-11 USD)
-- **Horário:** Abr-Set 6h-18h | Out-Mar 6h30-17h | Museu 10h-17h
-- Templo XINTOÍSTA fundado em 768
-- FAMOSO pelas 3.000 lanternas de pedra e bronze
-- Lanternas acesas 2x/ano: Setsubun (fev) e Obon (ago 14-15)
-- Sala escura com lanternas acesas sempre disponível
-- Cedro milenar, placas de coração, cerimônias de casamento
+---
 
-### 18:00 – 19:30 • Nara Park - alimentar cervos
-- **Entrada:** FREE | Biscoitos Sembei ¥200 (~R$ 7 / $1.50 USD)
-- 1.200+ CERVOS selvagens - mensageiros divinos
+**Resumo Kyoto:**
+- **Dias:** 14-17 dezembro (3 noites, 4 dias)
+- **Destaques:** Fushimi Inari, Pavilhões Dourado/Prateado, Gion, Arashiyama
+- **Próximo destino:** Nagano (17-20 dezembro)
