@@ -1,0 +1,46 @@
+{
+  "trip_overview": {
+    "start_date": "2025-12-05",
+    "end_date": "2025-12-28",
+    "total_days": 24,
+    "countries": ["China", "Japão", "França"],
+    "cities": 9,
+    "purpose": "Viagem + criação de conteúdo para canal de viagens"
+  },
+  "travelers": [
+    {
+      "name": "Regis Kian Silva Caraja",
+      "email": "regisksc@gmail.com",
+      "phone": "+55 31 99638-9965",
+      "passport": "GE993426"
+    },
+    {
+      "name": "Larissa Cristina da Silva Monteiro",
+      "email": "eu.larimonteiro@gmail.com",
+      "phone": "+55 34 99154-0172",
+      "passport": "GE993425"
+    }
+  ],
+  "remote_work_schedule": {
+    "timezone": "EST (Eastern Standard Time)",
+    "daily_work": {
+      "time": "09:30 EST",
+      "days": "Todos os dias úteis (segunda a sexta)",
+      "local_times": {
+        "hong_kong_shenzhen": "22:30 (dia anterior se seg-sex, ou 22:30 mesmo dia)",
+        "japan": "23:30 (horário noturno)",
+        "paris": "15:30 (tarde)"
+      }
+    },
+    "fixed_weekly_call": {
+      "day": "Quintas-feiras",
+      "time": "10:30 EST",
+      "local_times": {
+        "hong_kong_shenzhen": "23:30 (noite de quinta)",
+        "japan": "00:30 sexta-feira (madrugada)",
+        "paris": "16:30 (tarde de quinta)"
+      }
+    },
+    "notes": "Planejar atividades considerando que precisará estar disponível online diariamente às 9:30 EST e quintas às 10:30 EST. No Japão o horário é muito tarde da noite/madrugada."
+  }
+}
