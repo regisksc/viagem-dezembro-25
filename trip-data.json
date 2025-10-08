@@ -42,5 +42,1507 @@
       }
     },
     "notes": "Planejar atividades considerando que precisará estar disponível online diariamente às 9:30 EST e quintas às 10:30 EST. No Japão o horário é muito tarde da noite/madrugada."
-  }
+  },
+  "japan_culinary_interests": {
+    "must_try": ["Sushi vegano", "Ramen vegano"],
+    "cooking_classes": {
+      "interest": "Cooking classes de culinária vegana japonesa",
+      "types": ["Sushi vegano", "Ramen vegano", "Culinária tradicional plant-based"],
+      "booking_platforms": ["Airbnb Experiences", "Cookly", "Klook", "Viator"],
+      "advance_booking": "1-2 semanas recomendado",
+      "notes": "Procurar classes que ensinem técnicas tradicionais adaptadas para vegano"
+    }
+  },
+  "possible_day_trips": {
+    "from_osaka_kyoto": [
+      {
+        "destination": "Kurashiki",
+        "from": "Osaka ou Kyoto",
+        "duration": "1 dia",
+        "transport": "JR ou Shinkansen",
+        "highlights": "Bikan Historical Quarter com canais, museus de arte, arquitetura preservada",
+        "notes": "Avaliar custo-benefício do transporte vs atrações"
+      },
+      {
+        "destination": "Himeji",
+        "from": "Osaka, Kyoto ou Kobe",
+        "duration": "Meio dia a 1 dia",
+        "transport": "JR (coberto por JR Pass)",
+        "highlights": "Castelo de Himeji (Patrimônio UNESCO) - um dos castelos mais bonitos do Japão",
+        "notes": "Pode combinar com Kobe no mesmo dia"
+      },
+      {
+        "destination": "Hiroshima",
+        "from": "Osaka ou Kyoto",
+        "duration": "1 dia (longo) ou 2 dias ideal",
+        "transport": "Shinkansen (coberto por JR Pass)",
+        "highlights": "Memorial da Paz, Miyajima (ilha com torii flutuante), museus históricos",
+        "notes": "Day trip longo. Considerar 1 noite em Hiroshima se orçamento permitir. Miyajima é imperdível"
+      }
+    ],
+    "jr_pass_consideration": {
+      "recommend_if": "Fizer 2+ day trips de longa distância (ex: Hiroshima + outros)",
+      "7_day_pass_cost": "¥50,000 (Standard) ou ¥70,000 (Green/First Class)",
+      "calculate_vs": "Soma dos custos individuais de cada trecho sem pass",
+      "notes": "JR Pass vale a pena se usar Shinkansen múltiplas vezes. Calcular custos antes de comprar."
+    }
+  },
+  "itinerary": [
+    {
+      "city": "Hong Kong",
+      "check_in": "2025-12-05T15:00",
+      "check_out": "2025-12-06T11:00",
+      "hotel": {
+        "name": "AKI Hong Kong – MGallery",
+        "expected_price": "HK$ 3033.51 (~R$ 2060)",
+        "notes": "Pretende sair o mais cedo possível para ganhar tempo em Shenzhen"
+      },
+      "departure_flight": {
+        "flight_number": "HX612",
+        "airline": "Hong Kong Airlines",
+        "departure_time": "14:35",
+        "arrival_time": "19:05",
+        "duration": "3h30m",
+        "departure_airport": "Hong Kong International Airport (HKG) - Terminal 1",
+        "arrival_airport": "Kansai International Airport (KIX) - Terminal 1",
+        "cabin_class": "Economy (W) - Value",
+        "aircraft": "A32Y",
+        "notes": "Voo direto. Qualifica para Kansai Airport Shuttle gratuito do aeroporto ao hotel em Osaka"
+      },
+      "essential_apps": [
+        {
+          "name": "VPN",
+          "options": ["Astrill VPN (mais confiável)", "Surfshark", "NordVPN"],
+          "purpose": "Acessar Google, Instagram, WhatsApp. CRUCIAL: Baixar ANTES de chegar na China",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Alipay",
+          "purpose": "Pagamentos essenciais. Configurar Tour Pass para estrangeiros",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "WeChat / WeChat Pay",
+          "purpose": "Mensagens + Pagamentos. Funciona sem VPN",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução. Baixar pacote de chinês/cantonês offline ANTES da viagem",
+          "priority": "ESSENCIAL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Sow Vegan",
+          "type": "Vegan fine dining",
+          "price": "HK$ 630+",
+          "location": "Room 1102, 11/F, Hung Tat Industrial Building, Kwun Tong",
+          "advance_booking": "1 dia",
+          "notes": "Menu degustação de 8 pratos, apresentação minimalista"
+        },
+        {
+          "name": "Veggie Kingdom",
+          "type": "Vegan dim sum",
+          "location": "Shop 1, G/F, 88 Commercial Building, Sheung Wan",
+          "advance_booking": "não necessário, mas recomendado em fins de semana",
+          "notes": "Especialidade em dim sum vegano e culinária cantonesa"
+        },
+        {
+          "name": "LockCha Tea House",
+          "type": "Vegetarian dim sum + chá",
+          "location": "Hong Kong Park (Admiralty) ou Tai Kwun (Central)",
+          "advance_booking": "recomendado",
+          "notes": "Casa de chá tradicional com dim sum vegetariano, opções veganas marcadas"
+        },
+        {
+          "name": "TREEHOUSE",
+          "type": "Vegan casual",
+          "price": "HK$ 78-148",
+          "location": "Várias localizações",
+          "advance_booking": "walk-in",
+          "notes": "Wraps, bowls, burgers plant-based. Rápido e saudável"
+        },
+        {
+          "name": "Years / The Park by Years",
+          "type": "Vegetarian/Vegan",
+          "location": "Sham Shui Po e outras localizações",
+          "advance_booking": "não necessário",
+          "notes": "Years tem opções veggie, The Park é 100% plant-based"
+        }
+      ],
+      "activities": [
+        { "name": "Lugard Road Lookout (pôr do sol e início da noite)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Temple Street Night Market", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Ngong Ping + Sightseeing Bus até Big Buddha", "ticket_required": true, "price": "HK$ 160 (~R$ 109)", "advance_booking": "1 semana" },
+        { "name": "Chi Lin Nunnery e Jardim Nan Lian", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Hong Kong Museum of Art", "ticket_required": true, "price": "HK$ 10 (~R$ 7)", "advance_booking": "na hora" },
+        { "name": "Central–Mid Levels Escalator", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Prédios residenciais caóticos (Montane Mansion, Quarry Bay)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Kowloon Walled City Park", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Sky100 Observation Deck", "ticket_required": true, "price": "HK$ 210 (~R$ 143)", "advance_booking": "1-2 dias" },
+        { "name": "Sai Kung (costa e trilhas leves)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Tsim Sha Tsui Promenade (vista noturna da baía)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Tai Kwun (antiga prisão e centro cultural)", "ticket_required": false, "price": 0, "advance_booking": null }
+      ]
+    },
+    {
+      "city": "Shenzhen",
+      "check_in": "2025-12-06T15:00",
+      "check_out": "2025-12-09T11:00",
+      "hotel": {
+        "name": "Pullman Shenzhen North",
+        "rate_per_night": "RMB 947.65 (~R$ 710)",
+        "confirmation_number": "32816889",
+        "room_type": "Executive Twin",
+        "includes": "2 cafés da manhã"
+      },
+      "promotion": {
+        "name": "Cross-Border Free Bus (Shenzhen → HKG)",
+        "airline": "Hong Kong Airlines",
+        "eligibility": "Passageiros com bilhete da Hong Kong Airlines partindo de HKG",
+        "rescue_window": "Até 4 horas antes do horário de partida do voo HX",
+        "pickup_points": {
+          "shenzhen": [
+            "Futian Guangyin Building",
+            "Nanshan Kingkey 100 Plaza",
+            "Luohu Liantang Checkpoint"
+          ],
+          "hong_kong_airport": [
+            "Aeroporto HKG Terminal 1 (Counter A01)",
+            "Aeroporto HKG Terminal 2 (Coach Hall C09-10)"
+          ]
+        },
+        "requirements": [
+          "Boarding pass da Hong Kong Airlines (físico ou eletrônico)",
+          "Documento de viagem válido com nome idêntico ao bilhete"
+        ],
+        "luggage_policy": {
+          "free_allowance": "1 peça até 55×45×20 cm e 10 kg + 1 peça pequena 37.5×25×15 cm",
+          "excess": "Taxa adicional aplicada para volumes maiores"
+        },
+        "limitations": [
+          "Uso único por passageiro e por trecho",
+          "Sujeito a disponibilidade de assentos (primeiro a chegar, primeiro a ser atendido)",
+          "Não pode ser combinado com outras promoções"
+        ]
+      },
+      "essential_apps": [
+        {
+          "name": "VPN",
+          "options": ["Astrill VPN (mais confiável)", "Surfshark", "NordVPN"],
+          "purpose": "Acessar Google, Instagram, WhatsApp, etc. CRUCIAL: Baixar ANTES de chegar na China",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Alipay",
+          "purpose": "Pagamentos essenciais - aceito em quase todo lugar. Configurar Tour Pass para estrangeiros",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "WeChat / WeChat Pay",
+          "purpose": "Mensagens + Pagamentos. Funciona sem VPN",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Amap (高德地图)",
+          "purpose": "Navegação/mapas (Google Maps não funciona bem). Agora tem interface em inglês (2025)",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Apple Maps",
+          "purpose": "Para usuários iOS - funciona bem na China sem VPN",
+          "priority": "ALTERNATIVA"
+        },
+        {
+          "name": "DiDi",
+          "purpose": "Táxi/transporte. Integrado com Alipay e WeChat",
+          "priority": "RECOMENDADO"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução. Baixar pacote de chinês offline ANTES da viagem",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Pleco",
+          "purpose": "Dicionário chinês com câmera para traduzir caracteres",
+          "priority": "ÚTIL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Green Room",
+          "type": "Vegan ocidental",
+          "location": "Houhai, Nanshan District",
+          "advance_booking": "recomendado",
+          "notes": "Restaurante vegan moderno e descolado, culinária criativa"
+        },
+        {
+          "name": "Windlucky (云来居)",
+          "type": "Vegetarian Yunnan-style",
+          "location": "Xiangmi Lake (香蜜湖店) - Futian District",
+          "address": "Futian District perto de Xiangmi Lake",
+          "advance_booking": "não necessário",
+          "notes": "Especialidade em cogumelos e especiarias de Yunnan"
+        },
+        {
+          "name": "Jing Yi Teahouse (静颐茶馆)",
+          "type": "Vegetarian tradicional + chá",
+          "location": "Luohu District",
+          "advance_booking": "recomendado",
+          "notes": "Frequentado por monges budistas, menu com fotos, culinária cantonesa vegetariana"
+        },
+        {
+          "name": "Vegan Awakening",
+          "type": "Vegan",
+          "location": "Futian District",
+          "advance_booking": "não necessário",
+          "notes": "Um dos restaurantes veganos mais antigos de Shenzhen, ponto de encontro popular"
+        }
+      ],
+      "activities": [
+        { "name": "Huaqiangbei Electronics Market", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Replica Shopping (Best Market de Shenzhen)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Fantasy Space (instalação de arte futurista)", "ticket_required": true, "price": "¥ 98 (~R$ 71)", "advance_booking": "1-2 dias" },
+        { "name": "Splendid China Folk Village", "ticket_required": true, "price": "¥ 220 (~R$ 158)", "advance_booking": "1 semana" },
+        { "name": "Shenzhen Safari Park", "ticket_required": true, "price": "¥ 240 (~R$ 173)", "advance_booking": "1 semana" },
+        { "name": "Shenzhen Bay Park (passeio à beira-mar)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Coco Park (shopping + vida noturna)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Ping An Finance Center (mirante)", "ticket_required": true, "price": "¥ 150 (~R$ 108)", "advance_booking": "1-2 dias" },
+        { "name": "Shenzhen Museum", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "OCT Loft Creative Culture Park", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Lianhuashan Park", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Dafen Oil Painting Village", "ticket_required": false, "price": 0, "advance_booking": null }
+      ],
+      "shopping_suggestions": {
+        "luggage": {
+          "best_place": "Luohu Commercial City",
+          "location": "Fronteira Shenzhen-Hong Kong, perto de Luohu Port",
+          "metro": "Line 1 - Luohu Station",
+          "details": "Shopping enorme na fronteira, com muitas lojas de malas. Boa qualidade e preços melhores que Huaqiangbei para esse item. Negociar é esperado."
+        },
+        "international_snacks": {
+          "must_visit": [
+            {
+              "name": "Sam's Club COCO Park Store",
+              "location": "COCO Park, Futian District",
+              "metro": "Line 1 ou Line 3 - Shopping Park Station (购物公园站)",
+              "address": "Coco Park, Futian District (福田区购物公园)",
+              "coordinates_approx": "22.5372°N, 114.0551°E",
+              "details": "Grande variedade de snacks e doces importados (chineses, japoneses, coreanos, americanos). Requer membership (¥260/ano). Vende em quantidade maior, ótimo para levar variedade.",
+              "categories": ["Snacks asiáticos", "Doces importados", "Produtos japoneses", "Produtos coreanos", "Alimentos americanos"],
+              "membership_note": "Pode ser temporário - pergunte sobre 1-day pass"
+            },
+            {
+              "name": "Sam's Club Qianhai Store / Longgang COCO Park",
+              "location": "Qianhai (Flagship) ou Longgang District",
+              "metro_longgang": "Line 3 - Universiade Station (大运站), Exit C",
+              "address_longgang": "666 Ainan Road, Longgang District (龙岗区爱南路666号)",
+              "details": "Lojas maiores com ainda mais variedade de produtos importados",
+              "categories": ["Snacks asiáticos", "Doces importados", "Produtos japoneses", "Produtos coreanos", "Alimentos americanos"]
+            },
+            {
+              "name": "Ole' Supermarket (MixC Mall)",
+              "location": "B48, the MixC, Luohu District",
+              "metro": "Line 1 - Dajuyuan Station (大剧院站)",
+              "address": "#1881, Bao'an Nanlu, Luohu District (罗湖区宝安南路1881号万象城B48铺)",
+              "opening_hours": "Seg-Qui & Dom: 10:00-22:00, Sex-Sáb: 10:00-22:30",
+              "details": "Supermercado premium com ampla seleção de chocolates, snacks e bebidas importadas. Mais caro que Sam's Club, mas não precisa de membership.",
+              "categories": ["Chocolates importados", "Snacks premium", "Bebidas especiais"]
+            },
+            {
+              "name": "BLT Supermarket",
+              "location": "Huaqiangbei Jiufang Shopping Center",
+              "metro": "Line 1 ou 2 - Huaqiang North (华强北站)",
+              "details": "Supermercado boutique com seleção de produtos importados, conhecido por frutas e vegetais de qualidade",
+              "categories": ["Produtos importados premium", "Snacks especiais"]
+            }
+          ],
+          "notes": "Sam's Club é a melhor opção para variedade ampla de snacks asiáticos (chineses, japoneses, coreanos) com bons preços. Ole' e BLT são boas alternativas mas mais caros."
+        },
+        "viral_snack_stores": {
+          "must_visit": [
+            {
+              "name": "零食很忙 (Lingshi Henmang / Busy Snacks)",
+              "type": "Viral snack superstore com snacks GIGANTES",
+              "locations": "Várias em Shenzhen: Nanshan District, Futian District, Shang Meilin Xincun, Yilong Huating",
+              "how_to_find": "Use Dianping ou Meituan app para encontrar a loja mais próxima",
+              "details": "VIRAL! Loja famosa por vender versões GIGANTES de snacks populares. Abriram 8 lojas em Shenzhen em abril/2024. Mesma experiência da flagship de Changsha",
+              "features": [
+                "Embalagens oversized de snacks",
+                "Mais de 1000 tipos de snacks",
+                "Preços competitivos (geralmente mais baratos que supermercados)",
+                "Experiência de compra temática",
+                "Produtos regionais e importados",
+                "Muito popular nas redes sociais"
+              ],
+              "categories": ["Snacks gigantes", "Doces virais", "Produtos chineses regionais", "Importados"],
+              "notes": "IMPERDÍVEL para quem gosta de snacks! Experiência única e instagramável. Use apps chineses (Dianping/Meituan) para encontrar"
+            }
+          ]
+        },
+        "pet_products": {
+          "must_visit": [
+            {
+              "name": "Dongmen Pet Market",
+              "location": "Dongmen Nan Lu, Luohu District (东门南路)",
+              "metro": "Line 1 ou 3 - Laojie Station (老街站), Exit A",
+              "area": "Dentro da área de Dongmen Pedestrian Street",
+              "opening_hours": "Diariamente, 09:00 às 21:00",
+              "details": "Mercado de pet com ampla variedade de produtos: snacks, brinquedos, acessórios, roupas para pets. Bons preços e possibilidade de negociação.",
+              "categories": ["Pet snacks", "Brinquedos", "Coleiras e guias", "Roupas para pets", "Acessórios diversos"]
+            },
+            {
+              "name": "Huanggang Pet Market",
+              "location": "Esquina de Huanggang Lu e Hongli Lu, Futian District",
+              "address": "皇岗路 (Huanggang Lu), Futian District",
+              "opening_hours": "Diariamente, 09:00 às 21:00",
+              "details": "Outro grande mercado de produtos pet com variedade similar ao Dongmen",
+              "categories": ["Pet snacks", "Brinquedos", "Acessórios", "Produtos de higiene"]
+            }
+          ],
+          "notes": "Dongmen Pet Market é mais acessível se estiver em Luohu. Ambos têm boa variedade e preços competitivos para snacks, brinquedos e acessórios pet."
+        },
+        "adult_stores": {
+          "note": "Shenzhen tem várias lojas de produtos adultos",
+          "areas": [
+            {
+              "name": "Huaqiangbei area",
+              "details": "Algumas lojas especializadas em produtos adultos/wellness na região de Huaqiangbei"
+            },
+            {
+              "name": "Dongmen area",
+              "details": "Lojas discretas em shopping centers. Procure por '成人用品店' em apps como Dianping"
+            }
+          ],
+          "online_tip": "Apps como Taobao e JD.com têm grande variedade com entrega rápida no hotel"
+        }
+      }
+    },
+    {
+      "city": "Osaka",
+      "check_in": "2025-12-09T15:00",
+      "check_out": "2025-12-13T10:00",
+      "hotel": {
+        "name": "Swissotel Nankai Osaka",
+        "discounted_rate": "JPY 153,000 total (~R$ 5100)",
+        "notes": "Best Price Guarantee aplicado (10% off). Hotel qualificado para Kansai Airport Shuttle. Check-out CEDO no dia 13 para aproveitar Nara (sair até meio-dia no máximo)"
+      },
+      "promotion": {
+        "name": "Kansai Airport Shuttle (KIX ⇄ Osaka city hotels)",
+        "airline": "Hong Kong Airlines",
+        "applies_to_flight": "HX612 (HKG → KIX 14:35-19:05)",
+        "eligibility": "Passageiros com bilhete da Hong Kong Airlines para voos entre HKG e KIX",
+        "rescue_window": {
+          "booking": "Deve ser feito online antes da viagem",
+          "qr_code_validity": "QR válido por 24h a partir do horário de pick-up agendado"
+        },
+        "pickup_points": {
+          "kix": "Terminal 1 – Aeroporto Internacional de Kansai",
+          "osaka_hotels": "Swissôtel Nankai Osaka e outros hotéis designados"
+        },
+        "requirements": [
+          "Número de ticket eletrônico começando com 851",
+          "Nome deve coincidir exatamente com o do bilhete",
+          "Upload do ticket/order screenshot no formulário",
+          "Informar contato (telefone/email acessível)"
+        ],
+        "luggage_policy": {
+          "free_allowance": "1 mala de 32'' ou menor + 1 mala de 20'' ou menor sem custo",
+          "excess": "Excedente cobrado a 80 RMB / 1700 JPY por peça",
+          "non_carriable": ["Pets", "Itens frágeis", "Líquidos não selados", "Frutos do mar vivos", "Cadeiras de rodas grandes"]
+        },
+        "limitations": [
+          "Sem modificação de pedidos",
+          "Cancelamento grátis até 6h antes do pick-up",
+          "Sem serviço de pick-up entre 21:00 e 04:59",
+          "Se QR code expirar, não pode ser reemitido"
+        ]
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação principal - funciona perfeitamente no Japão com horários de trem em tempo real",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Japan Travel by NAVITIME",
+          "purpose": "Planejamento de rotas de trem/ônibus. Suporta JR Pass. Mapas offline",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Suica / Pasmo (Apple/Google Wallet)",
+          "purpose": "IC Card digital para trens e pagamentos. Pode configurar ANTES de chegar ao Japão via Apple Pay",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Welcome Suica Mobile",
+          "purpose": "App de Suica turístico (válido 180 dias, só iOS por enquanto)",
+          "priority": "ALTERNATIVA iOS"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução com câmera para menus. Baixar pacote japonês offline",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Encontrar restaurantes vegetarianos/veganos",
+          "priority": "ÚTIL PARA VEGETARIANOS"
+        },
+        {
+          "name": "GO (antigo Japan Taxi)",
+          "purpose": "App de táxi",
+          "priority": "ÚTIL"
+        },
+        {
+          "name": "Klook",
+          "purpose": "Reservar atrações, passes de metrô, Universal Studios",
+          "priority": "RECOMENDADO"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "MERCY Vegan Factory",
+          "type": "100% Vegan",
+          "price": "¥ 2000",
+          "location": "Tanimachi, Chuo-ku",
+          "metro": "Tanimachi 9-chome Station (7 min walk)",
+          "opening_hours": "Seg-Sex & Feriados: 08:00-21:00, fechado sábado",
+          "advance_booking": "não necessário",
+          "notes": "FAMOSO pelo Egg Sandwich vegano (feito com abóbora e tofu). Também serve karaage, gimbap coreano, curry"
+        },
+        {
+          "name": "Green Earth",
+          "type": "Vegan",
+          "location": "Osaka central",
+          "advance_booking": "não necessário",
+          "notes": "Um dos restaurantes veganos mais antigos de Osaka, preços razoáveis"
+        },
+        {
+          "name": "Paprika Shokudo (OKO)",
+          "type": "Vegan takoyaki & okonomiyaki",
+          "location": "Namba/Dotonbori area",
+          "advance_booking": "esperar na fila",
+          "notes": "IMPERDÍVEL! Versões veganas de pratos típicos de Osaka. Administrado por uma mulher, filas longas. Ambiente excêntrico com graffiti e Nirvana tocando"
+        },
+        {
+          "name": "Asai Togei",
+          "type": "Vegetarian/Vegan fine dining",
+          "price": "Set lunch ¥3500-7000",
+          "location": "Shinsaibashi",
+          "opening_hours": "Seg-Sáb 11:30-14:30 / 17:00-23:00, fechado domingo",
+          "advance_booking": "recomendado",
+          "notes": "Culinária japonesa vegetariana sofisticada, cabines privadas"
+        },
+        {
+          "name": "Ain Soph Journey",
+          "type": "100% Vegan",
+          "location": "Umeda area",
+          "advance_booking": "não necessário",
+          "notes": "Panquecas veganas famosas, sobremesas"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Castelo de Osaka",
+          "ticket_required": true,
+          "price": "¥ 600 (~R$ 432)",
+          "advance_booking": "na hora",
+          "comments": [
+            "Um dos castelos mais FAMOSOS do Japão",
+            "Construído em 1583 por Toyotomi Hideyoshi",
+            "Torre principal: 5 andares externos, 8 internos",
+            "Destruído e reconstruído múltiplas vezes - atual de 1931 (concreto) mas exterior mantém estilo original",
+            "Museu interno com história dos samurais e período Sengoku",
+            "Parque ao redor lindo - cerejeiras na primavera, folhas de momiji no outono",
+            "CONTEÚDO: Vista do topo, história samurai, parque/fossa ao redor"
+          ]
+        },
+        {
+          "name": "Universal Studios Japan",
+          "ticket_required": true,
+          "price": "¥ 9600 (~R$ 6912)",
+          "advance_booking": "1 mês",
+          "comments": [
+            "SUPER NINTENDO WORLD - área temática da Nintendo (Mario, Luigi)",
+            "Harry Potter Wizarding World - Hogsmeade + Hogwarts",
+            "Minion Park, Jurassic Park, Jaws",
+            "Express Pass recomendado para evitar filas (custa extra)",
+            "DIA INTEIRO necessário",
+            "CONTEÚDO: Mario Kart ride (POV), butterbeer, attractions, compare com Orlando"
+          ]
+        },
+        {
+          "name": "Dotonbori e rua de neon",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "extra": "Se tiver tempo após chegar no hotel e climatizar (chegada 19:05)",
+          "comments": [
+            "CORAÇÃO da vida noturna de Osaka - neons INSANOS",
+            "FAMOSO letreiro do Glico Running Man",
+            "Ponte Ebisubashi - point para fotos",
+            "Rua de restaurantes, bares, takoyaki, okonomiyaki",
+            "Melhor à noite quando tudo está iluminado",
+            "Movimento INTENSO - energia contagiante",
+            "CONTEÚDO: Neons refletindo no rio, Glico Man, street food, vida noturna"
+          ]
+        },
+        {
+          "name": "Mercado Kuromon Ichiba",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Mercado coberto com 190 anos de história",
+            "APELIDADO 'cozinha de Osaka'",
+            "150+ lojas vendendo frutos do mar frescos, frutas, vegetais",
+            "Muitas barracas onde você come na hora",
+            "Procure por opções vegetarianas (frutas, vegetais grelhados)",
+            "Melhor de manhã quando está mais movimentado",
+            "CONTEÚDO: Atmosfera do mercado, produtos locais, cultura de rua"
+          ]
+        },
+        {
+          "name": "Aquário Kaiyukan",
+          "ticket_required": true,
+          "price": "¥ 2400 (~R$ 1728)",
+          "advance_booking": "1-2 dias",
+          "extra": "Depois ir ao Tempozan Mall",
+          "comments": [
+            "Um dos MAIORES aquários do mundo",
+            "Tanque principal: 9m de profundidade com tubarão-baleia",
+            "Tema: Oceano Pacífico - reproduz ecossistemas reais",
+            "15 tanques representando regiões diferentes",
+            "Tubarões-baleia, raias manta, lontras, pinguins, focas",
+            "2-3h para visita completa",
+            "CONTEÚDO: Tubarão-baleia (raro em aquários), biodiversidade, interações"
+          ]
+        },
+        {
+          "name": "Tempozan Mall",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "extra": "Shopping ao lado do Aquário Kaiyukan, com roda gigante Tempozan",
+          "comments": [
+            "Shopping próximo ao aquário",
+            "Tempozan Ferris Wheel - 112.5m de altura (já foi a mais alta do mundo)",
+            "Vista de Osaka e Osaka Bay",
+            "Food court com opções vegetarianas",
+            "CONTEÚDO: Vista da roda gigante, bay area"
+          ]
+        },
+        {
+          "name": "Namba Yasaka Jinja",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "extra": "Templo famoso pela cabeça de leão gigante - muito instagramável!",
+          "comments": [
+            "Santuário xintoísta com ENORME cabeça de leão (12m altura)",
+            "Palco Ema-Den em formato de leão - único no Japão!",
+            "Leão 'engole' má sorte e traz boa fortuna",
+            "Não tão antigo (reconstruído 1974) mas MUITO fotogênico",
+            "Tranquilo, poucos turistas comparado a outras atrações",
+            "CONTEÚDO VIRAL: Fotos/vídeos com leão gigante, arquitetura única"
+          ]
+        },
+        {
+          "name": "Passeio em Shinsekai",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "extra": "Área retro com lojas de games vintage e arcades clássicos. Explore as lojas de jogos antigos!",
+          "comments": [
+            "Bairro RETRÔ com atmosfera anos 50-60",
+            "Torre Tsutenkaku - símbolo do bairro (observation deck ¥900)",
+            "MECA dos games retro e arcades",
+            "Lojas de jogos vintage (Famicom, Super Famicom, PlayStation 1-2)",
+            "Kushikatsu (espetinho frito) é especialidade local",
+            "Atmosfera nostálgica, neons vintage",
+            "CONTEÚDO: Games vintage, arcades, torre, comida de rua, contraste moderno/retro"
+          ]
+        },
+        {
+          "name": "10-Yen Vending Machines",
+          "ticket_required": false,
+          "price": "¥10-100 por item",
+          "advance_booking": null,
+          "extra": "Procurar máquinas de venda de 10 ienes quando estiver próximo de outras atrações. Comuns em áreas como Shinsekai, Namba",
+          "comments": [
+            "Máquinas com itens SUPER baratos (¥10-100)",
+            "Comum em Shinsekai, Namba, áreas de arcades",
+            "Vendem brinquedos, acessórios, itens vintage, surpresas",
+            "Experiência divertida tipo 'loteria'",
+            "CONTEÚDO: Vídeo comprando itens aleatórios, mostrar surpresas"
+          ]
+        }
+      ],
+      "shopping_suggestions": {
+        "retro_games": {
+          "area": "Shinsekai",
+          "details": "Região conhecida por lojas de games retro e arcades clássicos. Procure por lojas de jogos vintage (Famicom, Super Famicom, PlayStation clássicos)",
+          "notes": "Além de jogos, a área tem atmosfera nostálgica dos anos 50-60 japoneses"
+        },
+        "ghibli_store": {
+          "name": "Ghibli Studios Shop Kyoto Souvenir store",
+          "location": "Kyoto (verificar localização exata)",
+          "notes": "Loja oficial do Studio Ghibli em Kyoto. Comprou caixa cega do Totoro por cerca de SGD$4 (~¥400-500). IMPERDÍVEL para fãs de Ghibli!",
+          "recommendation": "Visitar durante estadia em Kyoto"
+        },
+        "adult_stores": {
+          "note": "Osaka tem várias lojas especializadas, especialmente em distritos como Namba e Nipponbashi",
+          "areas": [
+            {
+              "name": "Nipponbashi (Den Den Town)",
+              "details": "Distrito eletrônico com várias lojas adultas misturadas com lojas de anime/manga. M's Pop Life e outras lojas conhecidas"
+            },
+            {
+              "name": "Dotonbori/Namba area",
+              "details": "Lojas discretas em edifícios próximos à área principal. Procure por 'アダルトショップ' ou '大人のおもちゃ'"
+            }
+          ],
+          "chain_stores": "Don Quijote (ドン・キホーテ) tem seções de produtos adultos em várias filiais de Osaka"
+        }
+      }
+    },
+    {
+      "city": "Nara",
+      "check_in": "2025-12-13T12:00",
+      "check_out": "2025-12-14T08:00",
+      "transport_from_osaka": {
+        "method": "JR Yamatoji Rapid Line",
+        "duration": "30-50 min",
+        "cost_without_pass": "¥570 (~R$ 21 / $4 USD)",
+        "from_station": "Namba/Tennoji Station",
+        "to_station": "Nara Station",
+        "notes": "Coberto por JR Pass se tiver. Sair de Osaka CEDO no dia 13 para aproveitar Nara - objetivo é chegar por volta do meio-dia"
+      },
+      "hotel": {
+        "notes": "Reservar hotel em Nara para 1 noite (13-14 dezembro). Ficar próximo ao Nara Park facilita. 2 cafés da manhã inclusos"
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Suica / Pasmo",
+          "purpose": "IC Card para trem",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Restaurantes vegetarianos",
+          "priority": "ÚTIL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Restaurante do Templo Yakushi-ji",
+          "type": "Vegetarian/Vegan options",
+          "location": "Dentro do complexo do Yakushi-ji",
+          "advance_booking": "não necessário",
+          "notes": "Comida excelente com opções para todos os paladares. Ótima pedida para fechar o dia"
+        },
+        {
+          "name": "Vegan café near train station",
+          "type": "Vegan Japanese",
+          "location": "Perto da estação de trem de Nara",
+          "advance_booking": "não necessário",
+          "notes": "Café japonês vegano com bowls coloridos e karaage (frango frito vegano)"
+        },
+        {
+          "name": "Rua Sanjo Dori",
+          "type": "Vários restaurantes",
+          "location": "Rua principal comercial",
+          "notes": "Variedade de restaurantes, alguns com opções vegetarianas. Boa para explorar"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Kasuga Taisha",
+          "ticket_required": true,
+          "price": "¥500 santuário + ¥500 museu + ¥500 jardim botânico",
+          "advance_booking": "na hora",
+          "opening_hours": "Abr-Set: 6h-18h | Out-Mar: 6h30-17h | Museu: 10h-17h",
+          "address": "160 Kasugano-cho, Nara-shi",
+          "comments": [
+            "Templo XINTOÍSTA fundado em 768 - dedicado ao deus protetor dos cervos",
+            "FAMOSO pelas 3.000 lanternas de pedra e bronze - cada uma diferente",
+            "Lanternas são acesas apenas 2x/ano: Setsubun (fev) e Obon (agosto 14-15)",
+            "Sala escura com lanternas acesas - preview mágico do festival",
+            "Cedro Milenar no complexo",
+            "Placas de coração - local de pedidos por amor",
+            "Chance de ver cerimônia de casamento xintoísta",
+            "CONTEÚDO: Lanternas únicas, cerimônias, cervos no templo, arquitetura vermelha"
+          ]
+        },
+        {
+          "name": "Nara Park (Nara Koen)",
+          "ticket_required": false,
+          "price": "¥200 para pacote de biscoitos Sembei",
+          "advance_booking": null,
+          "comments": [
+            "1.200+ CERVOS selvagens passeando LIVREMENTE - mensageiros divinos",
+            "Cervos são protegidos por LEI desde 1957",
+            "Vendedores de Sembei (biscoitos) espalhados - ÚNICA comida permitida",
+            "DICA: Cervos fazem reverência (head bow) para pedir biscoito!",
+            "CUIDADOS: Não brincar com comida, não deixar crianças sozinhas",
+            "Podem dar pequenas mordidas se você demorar - mais susto que dor",
+            "Lago Sarusawa com carpas e tartarugas",
+            "CONTEÚDO VIRAL: Vídeos alimentando cervos, reações engraçadas, interação",
+            "Parque conecta todos os templos principais - caminhe por dentro"
+          ]
+        },
+        {
+          "name": "Templo Todai-ji",
+          "ticket_required": true,
+          "price": "¥800 Grande Salão | ¥1.200 combo com museu",
+          "advance_booking": "na hora",
+          "opening_hours": "Abr-Out: 7h30-17h30 | Nov-Mar: 8h-17h",
+          "address": "406-1 Zoushi-cho, Nara-shi",
+          "comments": [
+            "MAIOR estrutura de MADEIRA do MUNDO",
+            "Patrimônio UNESCO - construído em 752",
+            "Grande Buda (Daibutsu): 14.98m de altura, feito de bronze",
+            "Orelhas do Buda: 2.54m cada!",
+            "FAMOSO 'buraco da sabedoria' em coluna - passar traz sorte",
+            "Buraco tem tamanho de narina do Buda",
+            "Dois Budas guardiões enormes na entrada",
+            "Museu de Arte Todai-ji com Budas milenares",
+            "CONTEÚDO: Escala gigante, turistas no buraco (filmagem engraçada), Buda majestoso"
+          ]
+        },
+        {
+          "name": "Templo Nigatsu-do",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "opening_hours": "24h",
+          "comments": [
+            "Parte do complexo Todai-ji - ao leste do Grande Salão",
+            "VISTA panorâmica de Nara da varanda de madeira",
+            "Festival Shuni-e em março - tochas gigantes acesas",
+            "Construção tradicional elegante em madeira",
+            "Interior com lanternas de papel",
+            "MELHOR ao entardecer para vista da cidade",
+            "CONTEÚDO: Vista panorâmica, arquitetura, atmosfera serena"
+          ]
+        },
+        {
+          "name": "Templo Kofuku-ji",
+          "ticket_required": true,
+          "price": "¥900 National Treasure Hall | ¥500 Central Golden Hall",
+          "advance_booking": "na hora",
+          "opening_hours": "9h-17h",
+          "comments": [
+            "Pagode de 5 andares - símbolo de Nara",
+            "Segunda pagode mais alta do Japão (50m)",
+            "Fundado em 669, reconstruído várias vezes",
+            "Museu com tesouros nacionais e esculturas budistas",
+            "Jardins tranquilos ao redor",
+            "CONTEÚDO: Pagode icônico (símbolo da cidade), arte budista, jardins"
+          ]
+        },
+        {
+          "name": "Rua Sanjo Dori",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "RUA COMERCIAL principal de Nara",
+            "Lojas de souvenirs - CERVOS em tudo (pelúcias, doces, artesanato)",
+            "Restaurantes com culinária local",
+            "Edifícios mantém arquitetura tradicional",
+            "Próxima à estação de trem",
+            "PERFEITA para comprar lembrancinhas no final do dia",
+            "CONTEÚDO: Shopping local, souvenirs únicos, arquitetura preservada"
+          ]
+        }
+      ],
+      "suggested_itinerary": {
+        "title": "Roteiro de Nara (13-14 dezembro)",
+        "day_1": "Sábado, 13 de dezembro - Chegada de Osaka ao meio-dia, check-in, almoço, Kasuga Taisha à tarde, alimentar cervos ao entardecer em Nara Park, jantar e explorar Sanjo Dori à noite",
+        "day_2": "Domingo, 14 de dezembro - Café da manhã, Todai-ji + Nigatsu-do pela manhã, almoço, Kofuku-ji à tarde, últimas compras em Sanjo Dori, check-out e viagem para Kyoto",
+        "time_management": "Começar cedo no dia 14 (café às 7h) para aproveitar Todai-ji antes de ficar lotado. Check-out às 8h e sair para Kyoto por volta das 8h-11h"
+      }
+    },
+    {
+      "city": "Kyoto",
+      "check_in": "2025-12-14T13:00",
+      "check_out": "2025-12-17T11:00",
+      "transport_from_nara": {
+        "method": "JR Nara Line",
+        "duration": "35-45 min",
+        "cost_without_pass": "¥720 (~R$ 26 / $5 USD)",
+        "from_station": "Nara Station",
+        "to_station": "Kyoto Station",
+        "notes": "Coberto por JR Pass se tiver. Trem frequente e confortável"
+      },
+      "hotel": {
+        "name": "Mercure Kyoto",
+        "expected_price": "JPY 42,726 (~R$ 1425)",
+        "notes": "6 cafés da manhã inclusos (14-17 dezembro). Check-in oficial 15:00 mas pode deixar malas antes"
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação principal",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Japan Travel by NAVITIME",
+          "purpose": "Rotas de trem e ônibus locais",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Suica / Pasmo (Apple/Google Wallet)",
+          "purpose": "IC Card digital para trens e pagamentos",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução com câmera. Pacote japonês offline",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Restaurantes vegetarianos/veganos",
+          "priority": "ÚTIL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Ain Soph",
+          "type": "100% Vegan",
+          "location": "Kawaramachi area",
+          "advance_booking": "não necessário",
+          "notes": "Parte da cadeia Ain Soph, panquecas veganas e pratos diversos"
+        },
+        {
+          "name": "Mumokuteki Cafe",
+          "type": "Vegan/Vegetarian orgânico",
+          "location": "Central Kyoto",
+          "specialty": "Pratos orgânicos, sobremesas veganas",
+          "advance_booking": "não necessário",
+          "notes": "Ambiente descolado, menu variado com opções veganas claramente marcadas"
+        },
+        {
+          "name": "Veg Out",
+          "type": "100% Vegan",
+          "location": "Kiyamachi",
+          "specialty": "Comfort food vegano - burgers, wraps, bowls",
+          "advance_booking": "não necessário",
+          "notes": "Casual, ótimo para almoço rápido"
+        },
+        {
+          "name": "Choice",
+          "type": "Vegan ramen",
+          "location": "Perto de Nishiki Market",
+          "specialty": "RAMEN VEGANO - vários sabores de caldo",
+          "advance_booking": "não necessário, mas pode ter fila",
+          "notes": "Um dos melhores ramen veganos de Kyoto!"
+        },
+        {
+          "name": "Shigetsu (em Tenryu-ji Temple)",
+          "type": "Shojin ryori (culinária budista)",
+          "location": "Arashiyama",
+          "advance_booking": "recomendado",
+          "notes": "Experiência tradicional de culinária de templo budista"
+        },
+        {
+          "name": "Vegetarian restaurants near temples",
+          "type": "Shojin ryori",
+          "notes": "Kyoto tem muitos restaurantes vegetarianos próximos a templos, especializado em shojin ryori (culinária budista tradicional)"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Templo Fushimi Inari Taisha",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "FAMOSO pelos milhares de torii gates (portões vermelhos) formando túneis",
+            "Patrimônio cultural - dedicado ao deus do arroz e prosperidade",
+            "Trilha de 2-3h até o topo do Monte Inari com vistas incríveis",
+            "MELHOR horário: BEM CEDO da manhã (6h-7h) para evitar multidões e conseguir fotos sem turistas",
+            "Gratuito e aberto 24h",
+            "CONTEÚDO: Fotos nos túneis de torii sem turistas (chegar cedo!), vídeos caminhando pela trilha, mini-shrines ao longo do caminho"
+          ]
+        },
+        {
+          "name": "Pavilhão Dourado (Kinkaku-ji)",
+          "ticket_required": true,
+          "price": "¥ 500 adultos, ¥ 300 crianças (~R$ 360/R$ 216)",
+          "advance_booking": "na hora",
+          "opening_hours": "9h-17h diariamente",
+          "comments": [
+            "Templo Zen LITERALMENTE coberto de folhas de OURO REAL",
+            "Patrimônio UNESCO desde 1994 - originalmente villa de shogun (1397)",
+            "INSPIRAÇÃO para região de Johto em Pokémon Gold/Silver",
+            "3 andares: cada andar representa estilo arquitetônico diferente",
+            "Queimado em 1950 por monge perturbado, reconstruído em 1955",
+            "Reflexo no lago Kyoko Chi (Mirror Pond) é ICÔNICO para fotos",
+            "Jardim japonês impecável ao redor com caminhos de pedra e áreas de musgo",
+            "Tea house no complexo - matcha e wagashi (doces japoneses tradicionais)",
+            "Estátua de FÊNIX no topo inspirou o Pokémon lendário Ho-Oh",
+            "TICKETS são talismãs japoneses decorativos - ótima lembrança!",
+            "CONTEÚDO: Golden hour para fotos, detalhes da arquitetura, história da reconstrução, conexão Pokémon"
+          ]
+        },
+        {
+          "name": "Pavilhão Prateado (Ginkaku-ji)",
+          "ticket_required": true,
+          "price": "¥ 500 adultos, ¥ 300 crianças (~R$ 360/R$ 216)",
+          "advance_booking": "na hora",
+          "opening_hours": "Inverno: 9h-16h30 | Verão: 8h-17h",
+          "comments": [
+            "CONTRAPARTE do Golden Pavilion - inspiração para Pokémon Silver",
+            "NÃO é coberto de prata de verdade, mas luz da lua reflete no exterior escuro criando aparência prateada",
+            "Templo Zen Budista com 6+ edifícios no complexo",
+            "Jardim de MUSGO deslumbrante e jardim de areia seca única (dry sand garden)",
+            "Rota circular permite apreciar todos os jardins e edifícios",
+            "INSPIROU Burned Tower de Ecruteak City em Pokémon (onde Lugia morava)",
+            "Atmosfera mais tranquila e contemplativa que Kinkaku-ji",
+            "CONTEÚDO: Jardins zen, comparação Gold vs Silver, conexão Pokémon"
+          ]
+        },
+        {
+          "name": "Bairro Gion e casas de gueixas",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Bairro histórico das gueixas (geishas) e maikos",
+            "Ruas de pedra preservadas, casas de chá tradicionais (ochaya)",
+            "Chance de ver geishas/maikos indo para compromissos (17h-18h)",
+            "Yasaka Shrine próximo - santuário importante",
+            "Hanamikoji Street é a rua principal",
+            "ATENÇÃO: Algumas ruas privadas implementaram restrições a turistas em 2024 para proteger privacidade das geishas",
+            "RESPEITO: Não tocar ou parar as geishas para fotos sem permissão. Fotografar de longe é ok",
+            "CONTEÚDO: Arquitetura tradicional, atmosfera ao entardecer, cultura das gueixas (com respeito)"
+          ]
+        },
+        {
+          "name": "Southern Higashiyama",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Área histórica com templos, santuários e ruas tradicionais",
+            "Inclui Kiyomizu-dera, Yasaka Pagoda, Ninenzaka e Sannenzaka",
+            "Ruas de pedra preservadas com lojas de artesanato e cafés",
+            "Muitos turistas alugam kimonos para fotos nessa área",
+            "CONTEÚDO: Kimono experience, ruas preservadas, templos secundários"
+          ]
+        },
+        {
+          "name": "Bosque de Bambu de Arashiyama (Sagano)",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Floresta de bambu ICÔNICA - bambus gigantes de até 20m",
+            "Som do vento nos bambus é considerado 'patrimônio sonoro' do Japão",
+            "Caminho principal tem 400m, melhor cedo da manhã (7h-9h) para evitar multidões",
+            "Próximo: Templo Tenryu-ji (jardim Zen) e ponte Togetsukyo",
+            "DICA: Explorar ruelas laterais com menos turistas",
+            "CONTEÚDO: Vídeo caminhando com áudio do bambu, fotos early morning, comparar horários vazios vs lotados"
+          ]
+        },
+        {
+          "name": "Heian Jingu Shrine",
+          "ticket_required": true,
+          "price": "¥600 para o jardim",
+          "advance_booking": "na hora",
+          "comments": [
+            "Santuário relativamente 'novo' (1895) mas impressionante",
+            "ENORME torii vermelho na entrada - um dos maiores do Japão",
+            "Jardim japonês espetacular com ponte coberta e lagoas",
+            "Arquitetura reproduz o Palácio Imperial da era Heian",
+            "Cerejeiras lindas na primavera",
+            "CONTEÚDO: Torii gigante, jardim zen, arquitetura tradicional"
+          ]
+        },
+        {
+          "name": "Okazaki Shrine (Rabbit Shrine)",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": "na hora",
+          "location": "Higashiyama District",
+          "address": "〒606-8344 Kyoto, Sakyo Ward, Okazaki Higashitennocho, 51",
+          "transport": {
+            "bus": "Bus #5 ou #100 até 'Okazaki Jinja-mae' (~30 min de Kyoto Station)",
+            "subway": "15 min walk de Keage Station (Tozai Subway Line)"
+          },
+          "comments": [
+            "Santuário ADORÁVEL famoso por coelhos de pedra e cerâmica",
+            "Fundado no período Heian (~794) pelo Imperador Kanmu para proteger a capital",
+            "Dedicado ao deus do parto seguro, fertilidade e matchmaking",
+            "Coelhos simbolizam crescimento rápido e prosperidade familiar",
+            "RABBIT FOUNTAIN - beber água (mizu) traz bênçãos",
+            "Estatuetas de coelhos guardiões por todo o santuário",
+            "Popular para orações de fertilidade e casamento",
+            "CONTEÚDO: Fotos com coelhos fofos, fonte dos coelhos, atmosfera tranquila e única"
+          ]
+        },
+        {
+          "name": "Tenju-an Temple (em Nanzen-ji)",
+          "ticket_required": true,
+          "price": "¥500",
+          "advance_booking": "na hora",
+          "address": "Japan, 〒606-8435 Kyoto, Sakyo Ward, Nanzenji Fukuchicho, 86−８",
+          "comments": [
+            "HIDDEN GEM - muitos visitantes perdem este lugar em Kyoto!",
+            "Sub-templo dentro do complexo Nanzen-ji",
+            "Jardins japoneses ESPETACULARES com lagos, pontes e vegetação",
+            "Menos turistas que outros templos famosos",
+            "Arquitetura tradicional preservada",
+            "Perfeito para fotos tranquilas e meditação",
+            "CONTEÚDO: Jardins secretos, arquitetura zen, atmosfera peaceful"
+          ]
+        },
+        {
+          "name": "Castelo de Nijo",
+          "ticket_required": true,
+          "price": "¥ 800 (~R$ 576)",
+          "advance_booking": "na hora",
+          "comments": [
+            "Patrimônio UNESCO - residência dos shoguns Tokugawa",
+            "FAMOSO pelo 'nightingale floor' - piso que chia para detectar intrusos",
+            "Pinturas deslumbrantes nas portas deslizantes (fusuma)",
+            "Jardim japonês com carpas e pinheiros centenários",
+            "Demonstra poder dos shogun vs imperadores",
+            "CONTEÚDO: Piso rouxinol (gravar som), arte nas portas, arquitetura feudal"
+          ]
+        }
+      ],
+      "shopping_suggestions": {
+        "ghibli_store": {
+          "name": "Ghibli Studios Shop Kyoto Souvenir store",
+          "location": "Kyoto (verificar localização exata - pode estar em área turística principal)",
+          "notes": "Loja oficial do Studio Ghibli. Vende caixas cegas do Totoro (~¥400-500 / SGD$4), pelúcias, souvenirs. IMPERDÍVEL para fãs!",
+          "recommendation": "Visitar durante estadia em Kyoto. Procurar 'ghibli store kyoto' no Google Maps"
+        }
+      }
+    },
+    {
+      "city": "Nagano City & Surroundings",
+      "check_in": "2025-12-17T15:00",
+      "check_out": "2025-12-19T11:00",
+      "hotel": {
+        "name": "Novotel Nagano",
+        "remaining_to_pay": "JPY 55,100 (~R$ 1840)"
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação para onsen e parque dos macacos",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Japan Travel by NAVITIME",
+          "purpose": "Rotas de trem/ônibus para Jigokudani",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Suica / Pasmo",
+          "purpose": "IC Card",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Restaurantes vegetarianos",
+          "priority": "ÚTIL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Restaurantes locais",
+          "notes": "Nagano tem opções vegetarianas em restaurantes tradicionais. Use HappyCow para encontrar opções próximas ao templo e área de onsen"
+        }
+      ],
+      "activities": [
+        { "name": "Templo Zenko-ji", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "na hora" },
+        { "name": "Parque dos Macacos Jigokudani", "ticket_required": true, "price": "¥ 800 (~R$ 576)", "advance_booking": "1-2 dias" },
+        { "name": "Passeio por onsen em Yudanaka ou Shibu", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "1 semana" },
+        { "name": "Explorar montanhas e neve (dependendo do clima)", "ticket_required": false, "price": 0, "advance_booking": null }
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "check_in": "2025-12-19T15:00",
+      "check_out": "2025-12-24T11:00",
+      "hotel": {
+        "name": "Ibis Styles Tokyo Ginza",
+        "rate_per_night": "JPY 20,149 (~R$ 675)",
+        "notes": "Café da manhã incluso"
+      },
+      "departure_info": {
+        "flight_time": "08:30",
+        "airport": "Tokyo Haneda Airport (HND)",
+        "airport_note": "VOO É DE HANEDA (HND), NÃO NARITA! Mais próximo do centro de Tokyo",
+        "recommended_hotel_departure": "05:30-06:00",
+        "transport_to_airport": {
+          "option_1": {
+            "name": "Tokyo Monorail",
+            "duration": "~20-25 min",
+            "from": "Hamamatsucho Station (15 min de Ginza via JR Yamanote)",
+            "first_train": "~05:17 de Hamamatsucho",
+            "cost": "¥500",
+            "notes": "Opção mais rápida e barata. Funciona com Suica/Pasmo. Sair do hotel às 05:30"
+          },
+          "option_2": {
+            "name": "Keikyu Line",
+            "duration": "~15-20 min direto",
+            "from": "Shinagawa Station (20 min de Ginza)",
+            "cost": "¥300",
+            "notes": "Alternativa rápida, também aceita Suica/Pasmo"
+          },
+          "option_3": {
+            "name": "Airport Limousine Bus",
+            "duration": "~30-40 min",
+            "pickup": "Vários hotéis em Ginza",
+            "first_bus": "~05:30-06:00",
+            "cost": "¥1,200",
+            "notes": "Mais confortável para malas, direto do hotel/área"
+          },
+          "option_4": {
+            "name": "Táxi",
+            "duration": "~20-30 min dependendo do trânsito",
+            "cost": "¥5,000-7,000 (~R$ 175-245)",
+            "notes": "Bem mais barato que para Narita. Conveniente para horário cedo"
+          }
+        },
+        "airport_arrival_recommendation": "06:30-07:00 (1.5-2h antes do voo para check-in internacional + sala VIP)",
+        "lounge_time": "30-45 min para curtir a sala VIP antes do embarque"
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação principal - excelente para Tokyo",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Japan Travel by NAVITIME",
+          "purpose": "Sistema de metrô complexo de Tokyo, rotas otimizadas",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Suica / Pasmo (Apple/Google Wallet)",
+          "purpose": "ESSENCIAL para metrô de Tokyo. Configurar antes da viagem",
+          "priority": "CRÍTICO"
+        },
+        {
+          "name": "Tokyo Metro Subway Pass (via Klook)",
+          "purpose": "Passes ilimitados de 1-3 dias",
+          "priority": "RECOMENDADO"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução de menus e sinais",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Restaurantes vegetarianos/veganos",
+          "priority": "ÚTIL"
+        },
+        {
+          "name": "Klook",
+          "purpose": "teamLab Planets, Tokyo Skytree, passes",
+          "priority": "RECOMENDADO"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Ain Soph Ginza",
+          "type": "100% Vegan",
+          "location": "Ginza",
+          "opening_hours": "Seg-Sáb Lunch 11:30-14:30, Tea Time 14:30-17:00, Dinner 18:00-21:00, Dom 11:30-17:30 + Dinner 18:00-21:00",
+          "advance_booking": "não necessário",
+          "notes": "1º andar: patisserie vegana. 2º andar: restaurante com panquecas veganas famosas, pudim japonês vegano, tiramisu"
+        },
+        {
+          "name": "Plus Veganique Jiyugaoka",
+          "type": "100% Vegan orgânico",
+          "price": "¥ 2500 lunch",
+          "location": "Jiyugaoka (8 min walk da estação)",
+          "opening_hours": "Qua-Seg: Lunch 12:00-15:00, Dinner 17:00-23:00 (LO 21:00), fechado quarta",
+          "advance_booking": "recomendado para grupos",
+          "notes": "Buffet e pratos à la carte. Opções gluten-free com reserva antecipada. Prato antipasto vegano recomendado"
+        },
+        {
+          "name": "Tsumugu Café",
+          "type": "Vegetarian (sem alho, cebola)",
+          "location": "Tokyo central",
+          "advance_booking": "não necessário",
+          "notes": "Culinária vegetariana sem 5 vegetais aromáticos (estilo budista)"
+        },
+        {
+          "name": "Bon",
+          "type": "100% Vegan fine dining",
+          "advance_booking": "pelo menos 1 semana",
+          "notes": "Experiência vegan kaiseki tradicional, ambiente em tatami"
+        },
+        {
+          "name": "Tokyo Vegan Ramen Center",
+          "type": "100% Vegan - Cooking class + Restaurant",
+          "location": "Tokyo",
+          "specialty": "Aula de sushi vegano e matcha making class",
+          "price_range": "Classes ~¥5,000-8,000",
+          "advance_booking": "1-2 semanas recomendado",
+          "menu_highlights": [
+            "Family style bento box",
+            "Ramen GIGANTE com vegetais inteiros (raízes de bardana, berinjela baby, etc)",
+            "Sushi vegano feito na aula",
+            "Matcha preparation class"
+          ],
+          "notes": "EXPERIÊNCIA ÚNICA! Aula hands-on de culinária vegana japonesa. Ramen é massivo, saudável e delicioso. Ênfase em família e affordability. Ótimo para veganos e não-veganos"
+        },
+        {
+          "name": "Asian Inspired Vegan Burger Place",
+          "type": "Vegan burgers asiáticos",
+          "location": "Tokyo (verificar localização exata)",
+          "specialty": "Spicy soy meat burger (sabor de bulgogi vegano)",
+          "notes": "Hambúrgueres veganos com twist asiático. O burger picante tem gosto de bulgogi coreano em pão"
+        },
+        {
+          "name": "Luxury Dessert Mall - Vegan Vendor",
+          "type": "Vegan desserts",
+          "location": "Mall em Tokyo com andar inteiro de sobremesas de luxo",
+          "specialty": "Matcha cheesecake vegano",
+          "notes": "IMPERDÍVEL! Mall com andar inteiro de sobremesas premium. Um vendor 100% vegano. Matcha cheesecake é INCRÍVEL - dá pra comer em menos de 1 minuto"
+        },
+        {
+          "name": "Mall with Vegan Pizza",
+          "type": "Vegan pizza slice",
+          "location": "Shopping em Tokyo",
+          "notes": "Pizza vegana de vegetais. Boa opção para snack rápido"
+        },
+        {
+          "name": "Vegan Bistro Jangara",
+          "type": "100% Vegan ramen especializado",
+          "location": "Tokyo",
+          "specialty": [
+            "Buffalo chicken vegano (tangy e spicy)",
+            "Karabun - tonkatsu ramen picante",
+            "Mentaiko vegano (ovas de peixe picantes)"
+          ],
+          "advance_booking": "esperar fila - muito popular",
+          "notes": "FILAS LONGAS mas VALE A PENA! Ramen vegan autêntico com sabores intensos. Buffalo chicken e karabun são destaques"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Shibuya Crossing e Hachiko",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "CRUZAMENTO mais FAMOSO do mundo - até 3.000 pessoas atravessam por vez",
+            "Estátua de Hachiko - cão leal que esperou dono por 9 anos",
+            "Melhor vista: Starbucks no 2º andar do edifício Tsutaya",
+            "À noite os neons ficam ainda mais impressionantes",
+            "CONTEÚDO: Timelapse do crossing, estátua Hachiko, energia da multidão"
+          ]
+        },
+        {
+          "name": "Templo Senso-ji em Asakusa",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Templo budista mais ANTIGO de Tokyo (fundado em 628)",
+            "Nakamise Shopping Street - 250m de lojas tradicionais",
+            "Kaminarimon Gate com lanterna gigante de 700kg",
+            "Omikuji (papelzinhos de sorte) por ¥100",
+            "Incenso purificador na entrada",
+            "Melhor cedo da manhã ou à noite iluminado",
+            "CONTEÚDO: Portão icônico, street food, sorte no omikuji"
+          ]
+        },
+        {
+          "name": "Tokyo Skytree",
+          "ticket_required": true,
+          "price": "¥ 2100 (~R$ 1512)",
+          "advance_booking": "1 semana",
+          "comments": [
+            "TORRE mais ALTA do Japão - 634m de altura",
+            "Deck de observação a 350m e 450m",
+            "Vista 360° de Tokyo - em dias claros vê Monte Fuji",
+            "Piso de vidro no deck para os corajosos",
+            "Shopping Solamachi na base",
+            "Melhor ao pôr do sol para ver dia e noite",
+            "CONTEÚDO: Vista panorâmica, sunset timelapse, piso de vidro"
+          ]
+        },
+        {
+          "name": "Akihabara (eletrônicos e cultura otaku)",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "CAPITAL mundial de anime, manga e eletrônicos",
+            "Lojas de 7-8 andares só de anime/games",
+            "Arcades com jogos clássicos e modernos",
+            "Maid cafés e themed cafés",
+            "Eletrônicos, figuras, cards, cosplay",
+            "Mandarake, Animate, Yodobashi Camera",
+            "CONTEÚDO: Lojas insanas, arcades, cultura otaku"
+          ]
+        },
+        {
+          "name": "Meiji Jingu e Harajuku",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Santuário xintoísta dedicado ao Imperador Meiji",
+            "Floresta de 100.000 árvores no meio de Tokyo",
+            "Torii gates gigantes de madeira cipreste",
+            "Takeshita Street em Harajuku - moda kawaii",
+            "Crepes, cotton candy, lojas vintage",
+            "Contraste: paz do templo vs energia de Harajuku",
+            "CONTEÚDO: Natureza urbana, street fashion, crepes"
+          ]
+        },
+        {
+          "name": "Palácio Imperial e jardins",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Residência do Imperador do Japão",
+            "East Gardens abertos ao público (grátis)",
+            "Ponte Nijubashi icônica",
+            "Tours guiados do palácio interior (reservar com antecedência)",
+            "Cerejeiras lindas na primavera",
+            "Área tranquila no centro de Tokyo",
+            "CONTEÚDO: Jardins, ponte histórica, arquitetura imperial"
+          ]
+        },
+        {
+          "name": "Odaiba (teamLab Planets, shopping e vista da Rainbow Bridge)",
+          "ticket_required": true,
+          "price": "¥ 3800 teamLab Planets (~R$ 2736)",
+          "advance_booking": "1-2 meses",
+          "comments": [
+            "Ilha artificial futurística na baía de Tokyo",
+            "teamLab Planets - museu de arte digital IMERSIVO",
+            "Andar descalço em água, flores digitais interativas",
+            "DiverCity Tokyo Plaza com Gundam gigante",
+            "Rainbow Bridge iluminada à noite",
+            "Onsen Oedo Onsen Monogatari (tema Edo)",
+            "CONTEÚDO: Arte digital interativa, Gundam, Rainbow Bridge sunset"
+          ]
+        },
+        {
+          "name": "Inari Sando (alternativa ao Fushimi Inari)",
+          "ticket_required": false,
+          "price": 0,
+          "advance_booking": null,
+          "location": "Tokyo",
+          "comments": [
+            "ALTERNATIVA menos turística ao famoso Fushimi Inari de Kyoto",
+            "Torii gates SEM multidões - perfeito para fotos tranquilas",
+            "Hidden gem em Tokyo",
+            "Atmosfera mais serena e autêntica",
+            "Mesmo estilo de túneis de torii vermelhos",
+            "CONTEÚDO: Fotos sem turistas, atmosfera peaceful, comparação com Fushimi Inari"
+          ]
+        }
+      ],
+      "cooking_classes": {
+        "vegan_japanese_cuisine": {
+          "provider": "Tokyo Vegan Ramen Center",
+          "types": ["Sushi vegano", "Ramen vegano", "Matcha making"],
+          "booking": "Airbnb Experiences, Cookly, Klook, ou diretamente",
+          "advance_booking": "1-2 semanas",
+          "price_range": "¥5,000-8,000 por pessoa",
+          "notes": "Experiência hands-on completa. Aprende técnicas tradicionais adaptadas para vegano. Inclui refeição family-style após a aula"
+        }
+      }
+    },
+    {
+      "city": "Paris",
+      "check_in": "2025-12-24T15:00",
+      "check_out": "2025-12-28T11:00",
+      "hotel": {
+        "name": "Aparthotel Adagio Paris Centre Tour Eiffel",
+        "amount_due_at_checkin": "€ 611.25 (~R$ 3660)",
+        "room_type": "Studio City View"
+      },
+      "essential_apps": [
+        {
+          "name": "Google Maps",
+          "purpose": "Navegação e transporte público",
+          "priority": "ESSENCIAL"
+        },
+        {
+          "name": "Citymapper",
+          "purpose": "Transporte público em Paris - excelente app local",
+          "priority": "RECOMENDADO"
+        },
+        {
+          "name": "Google Translate",
+          "purpose": "Tradução francês-português",
+          "priority": "ÚTIL"
+        },
+        {
+          "name": "HappyCow",
+          "purpose": "Restaurantes vegetarianos/veganos",
+          "priority": "ÚTIL"
+        }
+      ],
+      "vegetarian_restaurants": [
+        {
+          "name": "Hank Burger",
+          "type": "Vegan burgers",
+          "location": "Várias localizações em Paris",
+          "advance_booking": "não necessário",
+          "notes": "Cadeia de hambúrgueres veganos, rápido e saboroso"
+        },
+        {
+          "name": "Gentle Gourmet",
+          "type": "Vegan fine dining",
+          "location": "Marais",
+          "advance_booking": "1 semana recomendado",
+          "notes": "Alta gastronomia vegana francesa"
+        },
+        {
+          "name": "Wild & The Moon",
+          "type": "Vegan health food",
+          "location": "Várias localizações",
+          "advance_booking":"não necessário",
+          "notes": "Bowls, smoothies, comida saudável plant-based"
+        },
+        {
+          "name": "Le Potager du Marais",
+          "type": "Vegetarian/Vegan",
+          "location": "Le Marais",
+          "advance_booking": "recomendado fins de semana",
+          "notes": "Culinária vegetariana francesa criativa"
+        }
+      ],
+      "activities": [
+        { "name": "Catacumbas de Paris", "ticket_required": true, "price": "€ 29 (~R$ 168)", "advance_booking": "1-2 meses" },
+        { "name": "Palácio de Versalhes", "ticket_required": true, "price": "€ 21 (~R$ 122)", "advance_booking": "1 mês" },
+        { "name": "Museu de Orsay", "ticket_required": true, "price": "€ 16 (~R$ 93)", "advance_booking": "1-2 semanas" },
+        { "name": "Basílica de Sacré-Cœur em Montmartre", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Catedral de Notre-Dame (área externa)", "ticket_required": false, "price": 0, "advance_booking": null },
+        { "name": "Arco do Triunfo e Champs-Élysées", "ticket_required": true, "price": "€ 13 (~R$ 75)", "advance_booking": "1 semana" },
+        { "name": "Passeio pelo Rio Sena", "ticket_required": true, "price": "€ 18 (~R$ 104)", "advance_booking": "1 semana" },
+        { "name": "Museu do Louvre", "ticket_required": true, "price": "€ 22 (~R$ 126)", "advance_booking": "1-2 meses" },
+        { "name": "Centre Pompidou", "ticket_required": true, "price": "€ 15 (~R$ 86)", "advance_booking": "1 semana" },
+        { "name": "Galeries Lafayette para compras", "ticket_required": false, "price": 0, "advance_booking": null }
+      ]
+    }
+  ]
 }
