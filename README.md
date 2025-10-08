@@ -653,8 +653,623 @@ Período: 5 a 28 de dezembro de 2025
 - Check-in hotel em Nara (reservar próximo ao Nara Park)
 - **Almoço vegetariano:** Vegan café near train station - Japanese vegan com bowls e karaage vegano | ¥800-1500 (~R$ 29-55 / $6-11 USD)
 
-### 15:00 – ... • Início do roteiro de Nara
+### 15:00 – 18:00 • Kasuga Taisha
+- **Entrada:** ¥500 santuário + ¥500 museu + ¥500 jardim (~R$ 18-55 total / $3.50-11 USD)
+- **Horário:** Abr-Set 6h-18h | Out-Mar 6h30-17h | Museu 10h-17h
+- Templo XINTOÍSTA fundado em 768
+- FAMOSO pelas 3.000 lanternas de pedra e bronze
+- Lanternas acesas 2x/ano: Setsubun (fev) e Obon (ago 14-15)
+- Sala escura com lanternas acesas sempre disponível
+- Cedro milenar, placas de coração, cerimônias de casamento
+
+### 18:00 – 19:30 • Nara Park - alimentar cervos
+- **Entrada:** FREE | Biscoitos Sembei ¥200 (~R$ 7 / $1.50 USD)
+- 1.200+ CERVOS selvagens - mensageiros divinos
+- Protegidos por LEI desde 1957
+- Cervos fazem reverência (head bow) para pedir biscoito!
+- **CUIDADOS:** Não brincar com comida, podem dar pequenas mordidas
+- Lago Sarusawa com carpas e tartarugas
+
+### 19:30 – 21:00 • Jantar na Rua Sanjo Dori
+**Opções vegetarianas:**
+- Explorar restaurantes na rua principal comercial
+- Várias opções vegetarianas disponíveis
+
+### 21:00 – 22:30 • Retorno ao hotel e descanso
+
+### 22:30 – 23:00 • Preparação
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Quarta-feira, 17 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 12:00 • Todai-ji + Nigatsu-do
+**Todai-ji:**
+- **Entrada:** ¥800 Grande Salão | ¥1200 combo com museu (~R$ 29-44 / $5.50-8.50 USD)
+- **Horário:** Abr-Out 7h30-17h30 | Nov-Mar 8h-17h
+- MAIOR estrutura de MADEIRA do MUNDO
+- Patrimônio UNESCO (construído 752)
+- Grande Buda (Daibutsu): 14.98m altura, bronze
+- Orelhas do Buda: 2.54m cada!
+- FAMOSO "buraco da sabedoria" em coluna - passar traz sorte
+- Buraco tem tamanho de narina do Buda
+- Dois Budas guardiões enormes na entrada
+
+**Nigatsu-do:**
+- **Entrada:** FREE, aberto 24h
+- Parte do complexo Todai-ji
+- VISTA panorâmica de Nara da varanda de madeira
+- Festival Shuni-e em março com tochas gigantes
+- Interior com lanternas de papel
+- **MELHOR ao entardecer**
+
+### 12:00 – 13:30 • Almoço
+**Opção vegetariana:**
+- Restaurantes próximos aos templos
+
+### 13:30 – 17:00 • Kofuku-ji + Museu Nacional de Nara
+**Kofuku-ji:**
+- **Entrada:** ¥900 National Treasure Hall | ¥500 Central Golden Hall (~R$ 33-18 / $6-3.50 USD)
+- **Horário:** 9h-17h
+- Pagode de 5 andares - SÍMBOLO de Nara
+- Segunda pagode mais alta do Japão (50m)
+- Museu com tesouros nacionais
+
+**Museu Nacional de Nara (opcional):**
+- **Entrada:** ¥700, grátis <18 e >70 (~R$ 26 / $5 USD)
+- **Horário:** 9h30-17h, fechado segundas
+- Arte budista, esculturas, cerâmicas período Nara/Heian
+
+### 17:00 – 19:00 • Rua Sanjo Dori - souvenirs
+- RUA COMERCIAL principal
+- Lojas de souvenirs - CERVOS em tudo!
+- Pelúcias, doces, artesanato
+- Arquitetura tradicional preservada
+- Comprar lembrancinhas
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- Explorar restaurantes em Sanjo Dori
+
+### 20:30 – 22:00 • Retorno ao hotel, organizar malas
+
+### 22:00 – 23:00 • Descanso
+
+### 23:00 – 23:30 • Preparação
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Quinta-feira, 18 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 11:00 • Check-out e viagem para Nagano
+- Check-out hotel em Nara (11:00)
+- **Transporte:** JR até Kyoto, depois Hokuriku Shinkansen até Nagano
+- **Duração total:** ~4-5h
+- **Custo:** ~¥10,000-12,000 (~R$ 365-438 / $70-84 USD) | Fonte: Hyperdia
+- Organizar malas com souvenirs de Nara
+
+### 11:00 – 15:00 • Viagem para Nagano
+
+### 15:00 – 17:00 • Check-in no Novotel Nagano
+- Check-in oficial 15:00
+- Deixar malas, refresh
+
+### 17:00 – 19:00 • Templo Zenko-ji
+- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- Um dos templos budistas mais importantes do Japão
+- Fundado no século 7
+- Ritual do "key to paradise" no corredor escuro
+- Arquitetura tradicional impressionante
+
+### 19:00 – 20:30 • Jantar
+**Opções vegetarianas:**
+- Restaurantes locais próximos ao templo
+- Usar HappyCow para encontrar opções
+
+### 20:30 – 22:30 • Exploração de Nagano à noite
+- Área ao redor da estação
+- Preparar para dia cheio amanhã
+
+### 22:30 – 23:00 • Retorno ao hotel
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
+- **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**
+- Call mais longa
+- Dormir após call
+
+---
+
+## Sexta-feira, 19 de dezembro de 2025
+
+### 08:00 – 09:00 • Café da manhã no hotel
+- Acordar mais tarde devido call longa
+
+### 09:00 – 17:00 • Parque dos Macacos Jigokudani (DIA INTEIRO)
+- **Entrada:** ¥800 (~R$ 29 / $5.50 USD) | Fonte: Site oficial
+- **Reserva:** 1-2 dias antecedência
+- **Transporte:** Trem + ônibus de Nagano Station (~1h total)
+- FAMOSO pelos macacos da neve em onsen natural
+- Trilha de ~30 min até o parque
+- Macacos selvagens tomando banho em água quente
+- NEVE provável em dezembro - visual incrível!
+- Levar roupas quentes e sapatos apropriados
+
+**Onsen em Yudanaka ou Shibu (após visita):**
+- **Entrada:** ¥500-1000 (~R$ 18-36 / $3.50-7 USD)
+- Experimentar onsen tradicional japonês
+- **Reserva:** 1 semana antecedência se quiser onsen específico
+- Relaxar após dia no frio
+
+### 17:00 – 18:30 • Retorno para Nagano
+
+### 18:30 – 20:00 • Jantar
+**Opções vegetarianas:**
+- Restaurantes em Nagano
+
+### 20:00 – 22:00 • Organizar malas para Tokyo amanhã
+
+### 22:00 – 23:00 • Descanso
+
+### 23:00 – 23:30 • Preparação
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Sábado, 20 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 11:00 • Check-out e viagem para Tokyo
+- Check-out do Novotel Nagano (11:00)
+- **Transporte:** Hokuriku Shinkansen de Nagano até Tokyo
+- **Duração:** 1h30-2h
+- **Custo:** ~¥8,000-9,000 (~R$ 292-328 / $56-63 USD) com Suica/Pasmo | Fonte: Hyperdia
+
+### 11:00 – 13:00 • Viagem para Tokyo
+
+### 13:00 – 15:00 • Check-in no Ibis Styles Tokyo Ginza
+- Check-in oficial 15:00
+- Hotel em Ginza - área central
+- Deixar malas, refresh
+
+### 15:00 – ... • Início do roteiro de Tokyo
 - (Continua na próxima seção)
+
+---
+
+**Dicas importantes para Nara:**
+- **Começar cedo:** Kasuga Taisha e Todai-ji ficam lotados tarde
+- **Biscoitos para cervos:** Só comprar Sembei oficial - única comida permitida
+- **Cervos podem morder:** Não provocar, não segurar comida por muito tempo
+- **Parque conecta tudo:** Caminhar dentro do parque entre templos
+- **Souvenirs:** Sanjo Dori é THE place para compras
+
+**Dicas importantes para Nagano:**
+- **Jigokudani:** Levar roupa quente, sapatos apropriados para trilha/neve
+- **Onsen etiqueta:** Banho nu obrigatório, lavar-se ANTES de entrar
+- **Transporte:** Checar horários de ônibus para Jigokudani com antecedência
+
+**Câmbio:** ¥100 = R$ 3.65 | ¥100 = $2.33 USD
+
+---
+
+# Tokyo
+
+### 15:00 – 17:00 • Shibuya Crossing e Hachiko
+- **Entrada:** FREE
+- CRUZAMENTO mais FAMOSO do mundo - até 3.000 pessoas por vez
+- Estátua de Hachiko - cão leal que esperou dono por 9 anos
+- **Melhor vista:** Starbucks 2º andar do Tsutaya
+- Neons impressionantes à noite
+- **Transporte:** JR Yamanote Line até Shibuya Station
+
+### 17:00 – 19:00 • Meiji Jingu e Harajuku
+- **Entrada:** FREE
+- Santuário xintoísta dedicado ao Imperador Meiji
+- Floresta de 100.000 árvores no meio de Tokyo
+- Torii gates gigantes de madeira cipreste
+- **Takeshita Street em Harajuku:** Moda kawaii, crepes, cotton candy
+- Contraste: paz do templo vs energia de Harajuku
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- **Ain Soph Ginza** (perto do hotel) - 100% Vegan | ¥1500-2500 (~R$ 55-91 / $11-18 USD)
+- 1º andar: patisserie vegana
+- 2º andar: panquecas veganas, pudim japonês vegano, tiramisu
+- **Horário:** Seg-Sáb Lunch 11:30-14:30, Tea 14:30-17:00, Dinner 18:00-21:00
+
+### 20:30 – 22:30 • Exploração de Ginza à noite
+- Área sofisticada com lojas de luxo
+- Arquitetura moderna iluminada
+- Perto do hotel
+
+### 22:30 – 23:00 • Retorno ao hotel
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Domingo, 21 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 12:00 • Templo Senso-ji em Asakusa
+- **Entrada:** FREE
+- Templo budista mais ANTIGO de Tokyo (fundado 628)
+- **Nakamise Shopping Street:** 250m de lojas tradicionais
+- Kaminarimon Gate com lanterna gigante de 700kg
+- Omikuji (papelzinhos de sorte) ¥100
+- Incenso purificador
+- **MELHOR:** Cedo da manhã ou noite iluminado
+
+### 12:00 – 13:30 • Almoço
+**Opção vegetariana:**
+- **Tokyo Vegan Ramen Center** - Aula de sushi vegano + almoço | ¥5000-8000 (~R$ 182-292 / $35-56 USD)
+- EXPERIÊNCIA ÚNICA! Cooking class hands-on
+- Ramen GIGANTE com vegetais inteiros
+- Sushi vegano que você faz
+- **Reserva:** 1-2 semanas antecedência via Airbnb Experiences/Klook
+
+### 13:30 – 17:00 • Tokyo Skytree
+- **Entrada:** ¥2100 (~R$ 77 / $15 USD) | Fonte: Site oficial
+- **Reserva:** 1 semana antecedência
+- Torre mais ALTA do Japão - 634m
+- Deck de observação a 350m e 450m
+- Vista 360° - em dias claros vê Monte Fuji
+- Piso de vidro para corajosos
+- **MELHOR:** Pôr do sol para ver dia e noite
+- Shopping Solamachi na base
+
+### 17:00 – 19:00 • Akihabara
+- **Entrada:** FREE
+- CAPITAL mundial de anime, manga e eletrônicos
+- Lojas de 7-8 andares só de anime/games
+- Arcades com jogos clássicos e modernos
+- Maid cafés
+- Mandarake, Animate, Yodobashi Camera
+- Eletrônicos, figuras, cards, cosplay
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- **Vegan Bistro Jangara** - Vegan ramen | ¥1200-1800 (~R$ 44-66 / $8-13 USD)
+- Buffalo chicken vegano (tangy e spicy)
+- Karabun - tonkatsu ramen picante
+- Mentaiko vegano
+- **FILAS LONGAS mas VALE A PENA!**
+
+### 20:30 – 22:30 • Exploração de Akihabara à noite
+- Neons, arcades, lojas abertas até tarde
+
+### 22:30 – 23:00 • Retorno ao hotel
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Segunda-feira, 22 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 13:00 • Odaiba: teamLab Planets
+- **Entrada:** ¥3800 (~R$ 139 / $27 USD) | Fonte: Site oficial
+- **Reserva:** 1-2 MESES antecedência - MUITO popular!
+- Museu de arte digital IMERSIVO
+- Andar descalço em água, flores digitais interativas
+- Experiência sensorial única
+- 2-3h para visita completa
+
+**DiverCity Tokyo Plaza:**
+- Gundam gigante em frente
+- Shopping, food court
+- Vista de Odaiba
+
+### 13:00 – 14:30 • Almoço em Odaiba
+**Opção vegetariana:**
+- Food courts em DiverCity ou Aqua City com opções veganas
+
+### 14:30 – 17:00 • Inari Sando (alternativa ao Fushimi Inari)
+- **Entrada:** FREE
+- Torii gates SEM multidões
+- Hidden gem em Tokyo
+- Túneis de torii vermelhos
+- Atmosfera serena, perfeito para fotos
+
+### 17:00 – 19:00 • Rainbow Bridge ao pôr do sol
+- Vista da ponte iluminada
+- Passeio à beira-mar em Odaiba
+- Fotos com Tokyo skyline
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- **Plus Veganique Jiyugaoka** - 100% Vegan orgânico | ¥2500 lunch/dinner (~R$ 91 / $18 USD)
+- Buffet e pratos à la carte
+- Opções gluten-free
+- Prato antipasto vegano
+- **Transporte:** ~30 min de Odaiba
+- **Horário:** Qua-Seg Lunch 12:00-15:00, Dinner 17:00-23:00 (LO 21:00)
+
+### 20:30 – 22:30 • Retorno ao hotel e descanso
+
+### 22:30 – 23:00 • Preparação
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Terça-feira, 23 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 12:00 • Palácio Imperial e jardins
+- **Entrada:** FREE (East Gardens)
+- Residência do Imperador do Japão
+- East Gardens abertos ao público
+- Ponte Nijubashi icônica
+- Tours guiados do palácio interior (reservar antecipado)
+- Área tranquila no centro de Tokyo
+
+### 12:00 – 13:30 • Almoço
+**Opção vegetariana:**
+- **Luxury Dessert Mall - Vegan Vendor** | ¥1000-2000 (~R$ 36-73 / $7-14 USD)
+- Mall com andar inteiro de sobremesas premium
+- Vendor 100% vegano
+- Matcha cheesecake vegano INCRÍVEL
+
+### 13:30 – 17:00 • Exploração final + compras
+- Últimas compras em Ginza/Shibuya/Harajuku
+- Souvenirs, eletrônicos, snacks japoneses
+
+### 17:00 – 19:00 • Jantar de despedida do Japão
+**Opção vegetariana:**
+- **Bon** - 100% Vegan fine dining kaiseki | ¥5000-8000 (~R$ 182-292 / $35-56 USD)
+- Experiência vegan kaiseki tradicional
+- Ambiente em tatami
+- **Reserva:** Pelo menos 1 semana antecedência
+
+### 19:00 – 22:00 • Última noite em Tokyo
+- Revisitar local favorito
+- Fotos finais
+- Organizar malas para voo amanhã
+
+### 22:00 – 23:00 • Organizar malas COMPLETO
+- Voo às 08:30 amanhã de HANEDA (não Narita!)
+- Separar documentos, boarding pass
+
+### 23:00 – 23:30 • Descanso
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
+## Quarta-feira, 24 de dezembro de 2025 - DIA DE VOO
+
+### 04:30 • Acordar CEDO
+
+### 04:30 – 05:00 • Check-out rápido
+
+### 05:00 – 05:30 • Café da manhã rápido ou skip
+
+### 05:30 – 06:30 • Transporte para Haneda Airport (HND)
+**Opção 1 - Tokyo Monorail (RECOMENDADO):**
+- Hamamatsucho Station (15 min de Ginza via JR Yamanote)
+- Primeiro trem ~05:17 de Hamamatsucho
+- Duração: ~20-25 min até HND
+- **Custo:** ¥500 (~R$ 18 / $3.50 USD)
+- Funciona com Suica/Pasmo
+
+**Opção 2 - Táxi (se atraso):**
+- Duração: ~20-30 min dependendo trânsito
+- **Custo:** ¥5,000-7,000 (~R$ 182-255 / $35-49 USD)
+- Conveniente para horário cedo
+
+### 06:30 – 08:30 • Haneda Airport
+- Check-in internacional
+- **VIP Lounge:** 30-45 min para curtir antes do embarque
+- Embarque
+
+### 08:30 • PARTIDA PARA PARIS
+- Voo para Paris Charles de Gaulle
+- (Detalhes do voo não fornecidos)
+- Duração estimada: ~12-14h
+
+### ~15:00-17:00 CET • Chegada em Paris
+- Fuso horário: CET (UTC+1)
+- Imigração, bagagem
+
+### ~18:00 CET • Check-in Aparthotel Adagio Paris Centre Tour Eiffel
+- **A pagar no check-in:** €611.25 (~R$ 3660)
+- Studio City View
+- Deixar malas, refresh
+
+### 19:00 – 21:00 • Jantar leve e descanso
+**Opção vegetariana:**
+- **Hank Burger** (várias localizações) - Vegan burgers | €10-15 (~R$ 60-90 / $11-17 USD)
+- Rápido e saboroso
+
+### 21:00 – 23:00 • Descanso e ajuste ao fuso
+
+### 14:30 CET = 09:30 EST • Trabalho remoto (se necessário)
+- Fuso horário mudou: CET = EST+6h
+- **Daily call agora é 14:30-15:30 CET (tarde)**
+
+---
+
+## Quinta-feira, 25 de dezembro de 2025 - NATAL
+
+### 08:00 – 09:00 • Café da manhã
+
+### 09:00 – 13:00 • Torre Eiffel área
+- Explorar área ao redor do hotel
+- Champ de Mars
+- Fotos com Torre Eiffel
+
+### 13:00 – 14:30 • Almoço de Natal
+**Opção vegetariana:**
+- **Le Potager du Marais** (Le Marais) - Vegetarian/Vegan | €20-30 (~R$ 120-180 / $22-33 USD)
+- Culinária vegetariana francesa criativa
+- **Reserva:** Recomendado para fins de semana/feriados
+
+### 14:30 – 15:30 • Trabalho remoto (09:30 EST = 14:30 CET)
+- Daily work call
+
+### 15:30 – 19:00 • Catacumbas de Paris
+- **Entrada:** €29 (~R$ 174 / $32 USD) | Fonte: Site oficial
+- **Reserva:** 1-2 MESES antecedência - MUITO popular!
+- Túneis subterrâneos com ossos de 6 milhões de pessoas
+- Experiência única e macabra
+- 2h de visita
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- **Gentle Gourmet** (Marais) - Vegan fine dining | €30-50 (~R$ 180-300 / $33-55 USD)
+- Alta gastronomia vegana francesa
+- **Reserva:** 1 semana antecedência
+
+### 20:30 – 22:00 • Passeio noturno pelo Sena
+- Pontes iluminadas
+- Torre Eiffel iluminada à noite
+
+### 22:00 • Retorno ao aparthotel
+
+---
+
+## Sexta-feira, 26 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã
+
+### 08:00 – 13:00 • Palácio de Versalhes (DIA INTEIRO)
+- **Entrada:** €21 (~R$ 126 / $23 USD) | Fonte: Site oficial
+- **Reserva:** 1 mês antecedência
+- **Transporte:** RER C de Paris até Versailles (~40 min)
+- Palácio real opulento de Luís XIV
+- Salão dos Espelhos
+- Jardins imensos
+- 3-4h de visita
+
+### 13:00 – 14:30 • Almoço em Versalhes
+- Restaurantes próximos ao palácio
+
+### 14:30 – 15:30 • Trabalho remoto (09:30 EST = 14:30 CET)
+- Daily work call
+
+### 15:30 – 17:00 • Retorno para Paris
+
+### 17:00 – 19:00 • Arco do Triunfo e Champs-Élysées
+- **Entrada Arco:** €13 (~R$ 78 / $14 USD)
+- **Reserva:** 1 semana antecedência
+- Vista do topo da avenida
+- Caminhar pela Champs-Élysées
+- Lojas, cafés
+
+### 19:00 – 20:30 • Jantar
+**Opção vegetariana:**
+- **Wild & The Moon** (várias localizações) - Vegan health food | €15-25 (~R$ 90-150 / $17-28 USD)
+- Bowls, smoothies, comida saudável
+
+### 20:30 – 22:00 • Exploração de Paris à noite
+
+### 22:00 • Retorno ao aparthotel
+
+---
+
+## Sábado, 27 de dezembro de 2025
+
+### 07:00 – 08:00 • Café da manhã
+
+### 08:00 – 12:00 • Museu do Louvre
+- **Entrada:** €22 (~R$ 132 / $24 USD) | Fonte: Site oficial
+- **Reserva:** 1-2 MESES antecedência
+- Mona Lisa, Vênus de Milo, Vitória de Samotrácia
+- Pirâmide de vidro icônica
+- 3-4h mínimo (museu ENORME)
+
+### 12:00 – 14:00 • Almoço próximo ao Louvre
+
+### 14:00 – 14:30 • Preparação para call
+
+### 14:30 – 15:30 • Trabalho remoto (09:30 EST = 14:30 CET)
+- Daily work call
+
+### 15:30 – 18:00 • Museu de Orsay
+- **Entrada:** €16 (~R$ 96 / $18 USD) | Fonte: Site oficial
+- **Reserva:** 1-2 semanas antecedência
+- Arte impressionista e pós-impressionista
+- Monet, Renoir, Van Gogh, Degas
+- Antiga estação de trem transformada em museu
+- 2-3h de visita
+
+### 18:00 – 19:00 • Sacré-Cœur em Montmartre
+- **Entrada:** FREE
+- Basílica no topo de Montmartre
+- Vista panorâmica de Paris
+- Bairro artístico ao redor
+- Funicular ou escadas
+
+### 19:00 – 20:30 • Jantar em Montmartre
+**Opção vegetariana:**
+- Explorar restaurantes vegetarianos na área
+
+### 20:30 – 22:00 • Montmartre à noite
+- Place du Tertre - praça dos artistas
+- Moulin Rouge (exterior)
+- Atmosfera boêmia
+
+### 22:00 • Retorno ao aparthotel
+
+---
+
+## Domingo, 28 de dezembro de 2025 - DIA DE PARTIDA
+
+### 07:00 – 08:00 • Café da manhã
+
+### 08:00 – 10:00 • Últimas compras/exploração
+- Galeries Lafayette para compras
+- Souvenirs finais
+- Última caminhada por Paris
+
+### 10:00 – 11:00 • Check-out do aparthotel
+- Organizar malas
+- Verificar voo de retorno (detalhes não fornecidos)
+
+### 11:00+ • Transporte para aeroporto
+- Dependendo do horário do voo
+
+---
+
+**Dicas importantes para Paris:**
+- **Museus:** Reservar com MESES de antecedência (Louvre, Catacumbas)
+- **Fuso horário:** CET = EST+6h | Daily call agora é 14:30-15:30 CET
+- **Metrô:** Paris Metro Day Pass (~€8) ou Navigo Week Pass
+- **Idioma:** Francês básico ajuda, mas inglês funciona em áreas turísticas
+- **Segurança:** Atenção a pickpockets em metrô e áreas turísticas
+
+**Câmbio:** €1 = R$ 6.00 | €1 = $1.10 USD (aproximado)
 
 ---
 
