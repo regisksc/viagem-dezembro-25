@@ -544,6 +544,25 @@
           "notes": "Panquecas veganas famosas, sobremesas"
         }
       ],
+      "day_by_day": {
+        "day_1": {
+          "date": "2025-12-09",
+          "title": "Chegada em Osaka - Noite",
+          "timeline": [
+            "19:05 - Chegada no Kansai International Airport (KIX)",
+            "19:05-20:00 - Imigração e coleta de bagagem",
+            "20:00-20:30 - Transfer gratuito Hong Kong Airlines para hotel (tentar antecipar de 20:30)",
+            "20:30-21:30 - Check-in no Swissotel Nankai Osaka",
+            "21:30-23:00 - Jantar e exploração inicial de Dotonbori (próximo ao hotel)"
+          ],
+          "activities": ["Dotonbori e rua de neon (primeira noite - climatização)"]
+        },
+        "day_2_to_4": {
+          "dates": "2025-12-10 a 2025-12-12",
+          "title": "Osaka - Dias completos",
+          "note": "3 dias completos para explorar todas as atrações principais"
+        }
+      },
       "activities": [
         {
           "name": "Castelo de Osaka",
@@ -579,7 +598,6 @@
           "ticket_required": false,
           "price": 0,
           "advance_booking": null,
-          "extra": "Se tiver tempo após chegar no hotel e climatizar (chegada 19:05)",
           "comments": [
             "CORAÇÃO da vida noturna de Osaka - neons INSANOS",
             "FAMOSO letreiro do Glico Running Man",

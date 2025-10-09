@@ -1,6 +1,48 @@
 # Osaka
 
-# Osaka
+## Terça-feira, 09 de dezembro de 2025 - CHEGADA
+
+### 19:05 • Chegada no Kansai International Airport (KIX)
+- **Voo:** HX612 Hong Kong Airlines (HKG → KIX)
+- Terminal 1
+
+### 19:05 – 20:00 • Imigração e coleta de bagagem
+- Tempo estimado: 45-60 min para imigração + bagagem
+- **Documentos:** Passaporte, formulário de entrada
+
+### 20:00 – 20:30 • Transfer para hotel
+- **Shuttle gratuito Hong Kong Airlines** (KIX → Swissôtel Nankai Osaka)
+- **Agendado:** 20:30 (tentar antecipar para 20:00 se possível)
+- **Duração:** ~30 min
+- 1 mala 32" + 1 mala 20" inclusos no shuttle
+
+### 20:30 – 21:30 • Check-in no hotel
+- **Hotel:** Swissôtel Nankai Osaka
+- Check-in oficial: 15:00 (mas chegando às ~20:30-21:00)
+- Descansar após viagem longa
+
+### 21:30 – 23:00 • Jantar e primeira exploração: Dotonbori
+- **Distância do hotel:** 10-15 min a pé do Swissôtel
+- **Entrada:** FREE
+- CORAÇÃO da vida noturna - neons INSANOS
+- FAMOSO letreiro do Glico Running Man à noite
+- Ponte Ebisubashi - point para fotos noturnas
+
+**Opção de jantar vegetariano:**
+- **Paprika Shokudo (OKO)** - Vegan takoyaki & okonomiyaki | ¥800-1500 (~R$ 29-55 / $6-11 USD)
+  - IMPERDÍVEL! Versões veganas de pratos típicos de Osaka
+  - Pode ter fila, mas é rápida
+  - Ambiente excêntrico com graffiti
+- **Alternativa:** Explorar opções vegetarianas na área de Dotonbori
+
+### 23:00 – 23:30 • Retorno ao hotel
+- Caminhada curta de volta (10-15 min)
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+- Descansar após call
+
+---
 
 ## Quarta-feira, 10 de dezembro de 2025
 
