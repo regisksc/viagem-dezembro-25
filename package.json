@@ -1,0 +1,27 @@
+{
+  "name": "viagem-dezembro-25",
+  "version": "1.0.0",
+  "description": "Roteiro de viagem China, Japão e França com sincronização para Notion",
+  "main": "scripts/sync-to-notion.js",
+  "scripts": {
+    "sync": "node scripts/sync-to-notion.js",
+    "sync:cities": "node scripts/sync-to-notion.js --cities",
+    "sync:restaurants": "node scripts/sync-to-notion.js --restaurants",
+    "sync:activities": "node scripts/sync-to-notion.js --activities",
+    "test": "node scripts/test-notion-connection.js"
+  },
+  "keywords": [
+    "travel",
+    "notion",
+    "automation",
+    "sync"
+  ],
+  "author": "Regis Kian Silva Caraja",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}

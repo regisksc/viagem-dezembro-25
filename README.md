@@ -34,6 +34,21 @@ Roteiro detalhado de viagem: China, Japão e França
 Os dados completos da viagem (hotéis, voos, apps essenciais, restaurantes) estão armazenados em:
 - [trip-data.json](./trip-data.json) - JSON com todas as informações
 
+### 🔗 Integração com Notion
+
+Este repositório sincroniza automaticamente com o Notion!
+
+- **📖 [Guia de Setup Completo](./NOTION_SETUP.md)** - Configure em 10 minutos
+- **⚡ Sincronização automática** via GitHub Actions
+- **📊 3 Databases:** Destinos, Restaurantes e Atividades
+- **🔄 Atualização em tempo real** ao fazer push
+
+**Como funciona:**
+1. Edite `trip-data.json` ou arquivos `.md`
+2. Faça commit e push
+3. GitHub Actions sincroniza automaticamente com suas databases do Notion
+4. Pronto! Seus dados estão atualizados no Notion
+
 ---
 
 ## ⏰ Trabalho Remoto

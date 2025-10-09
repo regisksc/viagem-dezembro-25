@@ -1,0 +1,77 @@
+name: Sync to Notion
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'trip-data.json'
+      - '*.md'
+      - 'scripts/sync-to-notion.js'
+
+  workflow_dispatch:
+    inputs:
+      sync_type:
+        description: 'Tipo de sincronização'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - cities
+          - restaurants
+          - activities
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Sync to Notion (All)
+      if: github.event_name == 'push' || github.event.inputs.sync_type == 'all'
+      env:
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_DESTINATIONS_DB_ID: ${{ secrets.NOTION_DESTINATIONS_DB_ID }}
+        NOTION_RESTAURANTS_DB_ID: ${{ secrets.NOTION_RESTAURANTS_DB_ID }}
+        NOTION_ACTIVITIES_DB_ID: ${{ secrets.NOTION_ACTIVITIES_DB_ID }}
+      run: npm run sync
+
+    - name: Sync to Notion (Cities only)
+      if: github.event.inputs.sync_type == 'cities'
+      env:
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_DESTINATIONS_DB_ID: ${{ secrets.NOTION_DESTINATIONS_DB_ID }}
+      run: npm run sync:cities
+
+    - name: Sync to Notion (Restaurants only)
+      if: github.event.inputs.sync_type == 'restaurants'
+      env:
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_RESTAURANTS_DB_ID: ${{ secrets.NOTION_RESTAURANTS_DB_ID }}
+      run: npm run sync:restaurants
+
+    - name: Sync to Notion (Activities only)
+      if: github.event.inputs.sync_type == 'activities'
+      env:
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_ACTIVITIES_DB_ID: ${{ secrets.NOTION_ACTIVITIES_DB_ID }}
+      run: npm run sync:activities
+
+    - name: Success notification
+      if: success()
+      run: echo "✅ Sincronização com Notion concluída com sucesso!"
+
+    - name: Failure notification
+      if: failure()
+      run: echo "❌ Erro durante sincronização com Notion"
