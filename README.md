@@ -6,6 +6,9 @@ Roteiro detalhado de viagem: China, Japão e França
 **Países:** China, Japão, França
 **Cidades:** 9
 
+## 🗺️ [**ÍNDICE COMPLETO DA VIAGEM**](./INDICE.md)
+> Navegação rápida por todos os destinos, restaurantes, shopping, apps e highlights
+
 ---
 
 ## 📍 Roteiros por Cidade
