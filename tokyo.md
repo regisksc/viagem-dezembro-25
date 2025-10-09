@@ -1,6 +1,8 @@
 # Tokyo
 
-# Tokyo
+## Sábado, 20 de dezembro de 2025
+
+**📋 Resumo do dia:** Chegada de Nagano | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
 
 ### 15:00 – 17:00 • Shibuya Crossing e Hachiko
 - **Entrada:** FREE
@@ -40,6 +42,8 @@
 ---
 
 ## Domingo, 21 de dezembro de 2025
+
+**📋 Resumo do dia:** Senso-ji Asakusa | Tokyo Vegan Ramen Center (cooking class) | Tokyo Skytree | Akihabara (anime/games) | Vegan Bistro Jangara
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
@@ -101,6 +105,8 @@
 
 ## Segunda-feira, 22 de dezembro de 2025
 
+**📋 Resumo do dia:** teamLab Planets (arte digital imersiva) | Gundam DiverCity | Inari Sando | Rainbow Bridge sunset | Plus Veganique Jiyugaoka
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 13:00 • Odaiba: teamLab Planets
@@ -154,6 +160,8 @@
 
 ## Terça-feira, 23 de dezembro de 2025
 
+**📋 Resumo do dia:** Palácio Imperial | Luxury Dessert Mall (matcha cheesecake) | Compras finais | Bon vegan kaiseki (despedida) | Organizar malas para voo
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • Palácio Imperial e jardins
@@ -199,6 +207,8 @@
 ---
 
 ## Quarta-feira, 24 de dezembro de 2025 - DIA DE VOO
+
+**📋 Resumo do dia:** Check-out CEDO | Voo 08:30 Haneda→Paris | Chegada Paris | Check-in Adagio | Hank Burger (jantar)
 
 ### 04:30 • Acordar CEDO
 

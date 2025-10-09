@@ -2,6 +2,8 @@
 
 ## Domingo, 7 de dezembro de 2025
 
+**📋 Resumo do dia:** Dongmen Pet Market | Compra de malas (Luohu Commercial City) | Sam's Club COCO Park (snacks) | Shenzhen Bay Park | Vegan Awakening (jantar)
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 - 2 cafés da manhã inclusos (Pullman Shenzhen North)
 
@@ -60,6 +62,8 @@
 
 ## Segunda-feira, 8 de dezembro de 2025
 
+**📋 Resumo do dia:** 零食很忙 Busy Snacks VIRAL (snacks gigantes) | OCT Loft Creative Culture Park | Ping An Finance Center mirante | Coco Park
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • 零食很忙 (Lingshi Henmang / Busy Snacks) - VIRAL SNACK STORE
@@ -107,6 +111,8 @@
 ---
 
 ## Terça-feira, 9 de dezembro de 2025
+
+**📋 Resumo do dia:** Check-out | Cross-Border Free Bus para HKG | Voo HX612 para Osaka | Chegada KIX | Primeira noite em Dotonbori
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 

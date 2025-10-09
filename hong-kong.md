@@ -2,6 +2,8 @@
 
 ## Sexta-feira, 5 de dezembro de 2025
 
+**📋 Resumo do dia:** Chegada em Hong Kong | Configuração de apps essenciais | Chi Lin Nunnery | Lugard Road pôr do sol | LockCha Tea House (jantar) | Temple Street Night Market
+
 ### 07:00 – 08:00 • Chegada e check-in no hotel
 - **Hotel:** AKI Hong Kong – MGallery
 - Check-in às 15:00, mas tentar early check-in ao chegar
@@ -59,6 +61,8 @@
 ---
 
 ## Sábado, 6 de dezembro de 2025
+
+**📋 Resumo do dia:** Check-out de Hong Kong | Viagem para Shenzhen | Huaqiangbei Electronics Market | Fantasy Space | Green Room (jantar) | Coco Park
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 

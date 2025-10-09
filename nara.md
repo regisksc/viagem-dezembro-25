@@ -2,6 +2,8 @@
 
 ## Sábado, 13 de dezembro de 2025
 
+**📋 Resumo do dia:** Chegada de Osaka | Kasuga Taisha (3.000 lanternas) | Alimentar cervos em Nara Park | Sanjo Dori (souvenirs de cervos)
+
 ### 12:00 – 13:00 • Chegada em Nara e check-in
 - Chegada de Osaka por volta do meio-dia
 - Check-in no hotel em Nara (reservar próximo ao Nara Park)
@@ -52,6 +54,8 @@
 ---
 
 ## Domingo, 14 de dezembro de 2025
+
+**📋 Resumo do dia:** Todai-ji (maior estrutura de madeira do mundo) | Nigatsu-do | Kofuku-ji | Viagem para Kyoto à tarde
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 

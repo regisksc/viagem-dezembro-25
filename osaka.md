@@ -2,6 +2,8 @@
 
 ## Terça-feira, 09 de dezembro de 2025 - CHEGADA
 
+**📋 Resumo do dia:** Chegada em Osaka (KIX 19:05) | Shuttle gratuito para hotel | Check-in Swissôtel | Primeira exploração Dotonbori | Paprika Shokudo (jantar vegano)
+
 ### 19:05 • Chegada no Kansai International Airport (KIX)
 - **Voo:** HX612 Hong Kong Airlines (HKG → KIX)
 - Terminal 1
@@ -45,6 +47,8 @@
 ---
 
 ## Quarta-feira, 10 de dezembro de 2025
+
+**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory (almoço) | Mercado Kuromon Ichiba | Namba Yasaka Jinja (leão gigante) | Paprika Shokudo (jantar) | Dotonbori neons
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 - Café da manhã incluso (Swissôtel Nankai Osaka)
@@ -108,6 +112,8 @@
 
 ## Quinta-feira, 11 de dezembro de 2025
 
+**📋 Resumo do dia:** UNIVERSAL STUDIOS JAPAN (DIA INTEIRO) | Super Nintendo World | Harry Potter | Green Earth (jantar) | Shinsekai (games vintage + arcades) | CALL SEMANAL LONGO
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 18:00 • UNIVERSAL STUDIOS JAPAN (DIA INTEIRO)
@@ -157,6 +163,8 @@
 ---
 
 ## Sexta-feira, 12 de dezembro de 2025
+
+**📋 Resumo do dia:** Aquário Kaiyukan | Tempozan Mall | Nipponbashi Den Den Town (anime/games) | Asai Togei (jantar fine dining) | Exploração final Osaka
 
 ### 08:00 – 09:00 • Café da manhã no hotel
 - Acordar mais tarde devido call longa da madrugada
@@ -208,6 +216,8 @@
 ---
 
 ## Sábado, 13 de dezembro de 2025
+
+**📋 Resumo do dia:** Check-out CEDO de Osaka | Viagem para Nara | Kasuga Taisha | Alimentar cervos em Nara Park | Sanjo Dori
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 

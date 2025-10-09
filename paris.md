@@ -1,5 +1,9 @@
 # Paris
 
+## Quarta-feira, 24 de dezembro de 2025 - CHEGADA
+
+**📋 Resumo do dia:** Chegada de Tokyo em Paris | Check-in Adagio Tour Eiffel | Descanso e ajuste ao fuso | Hank Burger (jantar)
+
 ### ~15:00-17:00 CET • Chegada em Paris
 - Fuso horário: CET (UTC+1)
 - Imigração, bagagem
@@ -23,6 +27,8 @@
 ---
 
 ## Quinta-feira, 25 de dezembro de 2025 - NATAL
+
+**📋 Resumo do dia:** Torre Eiffel área | Le Potager du Marais (almoço) | Catacumbas de Paris | Gentle Gourmet (jantar fine dining) | Passeio noturno Sena
 
 ### 08:00 – 09:00 • Café da manhã
 
@@ -63,6 +69,8 @@
 
 ## Sexta-feira, 26 de dezembro de 2025
 
+**📋 Resumo do dia:** Palácio de Versalhes (DIA INTEIRO) | Arco do Triunfo + Champs-Élysées | Wild & The Moon (jantar)
+
 ### 07:00 – 08:00 • Café da manhã
 
 ### 08:00 – 13:00 • Palácio de Versalhes (DIA INTEIRO)
@@ -101,6 +109,8 @@
 ---
 
 ## Sábado, 27 de dezembro de 2025
+
+**📋 Resumo do dia:** Museu do Louvre | Museu de Orsay | Sacré-Cœur Montmartre | Jantar em Montmartre | Place du Tertre + Moulin Rouge
 
 ### 07:00 – 08:00 • Café da manhã
 
@@ -147,6 +157,8 @@
 ---
 
 ## Domingo, 28 de dezembro de 2025 - DIA DE PARTIDA
+
+**📋 Resumo do dia:** Galeries Lafayette (compras finais) | Check-out | Retorno ao Brasil
 
 ### 07:00 – 08:00 • Café da manhã
 

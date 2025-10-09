@@ -2,18 +2,9 @@
 
 ---
 
-## Quinta-feira, 18 de dezembro de 2025
+## Quarta-feira, 17 de dezembro de 2025
 
-### 07:00 – 08:00 • Café da manhã no hotel
-
-### 08:00 – 11:00 • Check-out e viagem para Nagano
-- Check-out hotel em Nara (11:00)
-- **Transporte:** JR até Kyoto, depois Hokuriku Shinkansen até Nagano
-- **Duração total:** ~4-5h
-- **Custo:** ~¥10,000-12,000 (~R$ 365-438 / $70-84 USD) | Fonte: Hyperdia
-- Organizar malas com souvenirs de Nara
-
-### 11:00 – 15:00 • Viagem para Nagano
+**📋 Resumo do dia:** Chegada de Kyoto em Nagano | Check-in Novotel | Templo Zenko-ji | Exploração noturna | CALL SEMANAL LONGO
 
 ### 15:00 – 17:00 • Check-in no Novotel Nagano
 - Check-in oficial 15:00
@@ -46,7 +37,31 @@
 
 ---
 
+## Quinta-feira, 18 de dezembro de 2025
+
+**📋 Resumo do dia:** Recuperação após call longa | Exploração de Nagano | Preparação para Jigokudani amanhã
+
+### 07:00 – 08:00 • Café da manhã no hotel
+
+### 08:00 – 19:00 • Dia livre em Nagano
+- Exploração local
+- Descanso após call longa da madrugada
+- Preparação para Jigokudani amanhã
+
+### 19:00 – 20:30 • Jantar
+
+### 20:30 – 23:00 • Descanso e preparação
+
+### 23:00 – 23:30 • Preparação para call
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+
+---
+
 ## Sexta-feira, 19 de dezembro de 2025
+
+**📋 Resumo do dia:** Parque dos Macacos Jigokudani (DIA INTEIRO) | Macacos da neve em onsen | Experiência onsen em Yudanaka
 
 ### 08:00 – 09:00 • Café da manhã no hotel
 - Acordar mais tarde devido call longa
@@ -84,7 +99,9 @@
 
 ---
 
-## Sábado, 20 de dezembro de 2025
+## Sábado, 19 de dezembro de 2025
+
+**📋 Resumo do dia:** Check-out Nagano | Viagem para Tokyo (Shinkansen) | Check-in Ginza | Shibuya Crossing | Meiji Jingu | Harajuku
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 

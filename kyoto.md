@@ -2,6 +2,8 @@
 
 ## Domingo, 14 de dezembro de 2025
 
+**📋 Resumo do dia:** Viagem de Nara para Kyoto | Check-in Mercure | Ghibli Studios Shop (souvenirs Totoro) | Heian Jingu | Mumokuteki Cafe (jantar) | Gion à noite (gueixas)
+
 ### 07:00 – 08:00 • Café da manhã em Nara
 
 ### 08:00 – 11:00 • Check-out de Nara e viagem para Kyoto
@@ -54,6 +56,8 @@
 ---
 
 ## Segunda-feira, 15 de dezembro de 2025
+
+**📋 Resumo do dia:** Fushimi Inari CEDO (túneis de torii) | Choice (ramen vegano) | Pavilhão Dourado Kinkaku-ji (inspiração Pokémon) | Bosque de Bambu Arashiyama | Shigetsu (jantar shojin ryori)
 
 ### 06:00 – 07:00 • Acordar CEDO para Fushimi Inari
 
@@ -114,6 +118,8 @@
 ---
 
 ## Terça-feira, 16 de dezembro de 2025
+
+**📋 Resumo do dia:** Pavilhão Prateado Ginkaku-ji | Tenju-an Temple (hidden gem) | Ain Soph (almoço) | Castelo de Nijo (nightingale floor) | Okazaki Shrine (coelhos) | Veg Out (jantar) | Southern Higashiyama
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
@@ -183,6 +189,8 @@
 ---
 
 ## Quarta-feira, 17 de dezembro de 2025
+
+**📋 Resumo do dia:** Últimas compras em Kyoto | Check-out | Viagem para Nagano (Shinkansen)
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
