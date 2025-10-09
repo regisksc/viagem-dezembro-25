@@ -11,7 +11,7 @@
 
 ### 🇨🇳 China (05-09 dezembro)
 
-#### [Hong Kong](./hong-kong.md) • 05-06 dez • 1 noite
+#### [Hong Kong](./itineraries/hong-kong.md) • 05-06 dez • 1 noite
 - **Sex 05/12:** Chegada | Chi Lin Nunnery | Lugard Road pôr do sol | Temple Street Night Market
 - **Sab 06/12:** Check-out | Viagem para Shenzhen
 
@@ -19,7 +19,7 @@
 
 ---
 
-#### [Shenzhen](./shenzhen.md) • 06-09 dez • 3 noites
+#### [Shenzhen](./itineraries/shenzhen.md) • 06-09 dez • 3 noites
 - **Dom 07/12:** Dongmen Pet Market | Compra de malas (Luohu) | Sam's Club snacks | Shenzhen Bay Park
 - **Seg 08/12:** 零食很忙 Busy Snacks VIRAL | OCT Loft | Ping An Finance Center
 - **Ter 09/12:** Check-out | Cross-Border Free Bus | Voo HX612 para Osaka
@@ -31,7 +31,7 @@
 
 ### 🇯🇵 Japão (09-24 dezembro)
 
-#### [Osaka](./osaka.md) • 09-13 dez • 4 noites
+#### [Osaka](./itineraries/osaka.md) • 09-13 dez • 4 noites
 - **Ter 09/12:** CHEGADA (19:05 KIX) | Dotonbori primeira noite
 - **Qua 10/12:** Castelo de Osaka | Kuromon Ichiba | Namba Yasaka Jinja | Dotonbori neons
 - **Qui 11/12:** UNIVERSAL STUDIOS JAPAN (dia inteiro) | Shinsekai games | CALL SEMANAL
@@ -43,7 +43,7 @@
 
 ---
 
-#### [Nara](./nara.md) • 13-14 dez • 1 noite
+#### [Nara](./itineraries/nara.md) • 13-14 dez • 1 noite
 - **Sab 13/12:** Chegada meio-dia | Kasuga Taisha (3.000 lanternas) | Alimentar cervos
 - **Dom 14/12:** Todai-ji (buraco da sabedoria) | Nigatsu-do | Kofuku-ji | Viagem para Kyoto
 
@@ -52,7 +52,7 @@
 
 ---
 
-#### [Kyoto](./kyoto.md) • 14-17 dez • 3 noites
+#### [Kyoto](./itineraries/kyoto.md) • 14-17 dez • 3 noites
 - **Dom 14/12:** Chegada de Nara | Ghibli Store | Heian Jingu | Gion (gueixas)
 - **Seg 15/12:** Fushimi Inari CEDO | Pavilhão Dourado (Pokémon Gold) | Bosque de Bambu
 - **Ter 16/12:** Pavilhão Prateado (Pokémon Silver) | Tenju-an | Castelo Nijo | Okazaki Shrine (coelhos)
@@ -63,7 +63,7 @@
 
 ---
 
-#### [Nagano](./nagano.md) • 17-19 dez • 2 noites
+#### [Nagano](./itineraries/nagano.md) • 17-19 dez • 2 noites
 - **Qua 17/12:** Chegada de Kyoto | Templo Zenko-ji | CALL SEMANAL LONGO
 - **Qui 18/12:** Recuperação | Exploração local
 - **Sex 19/12:** Parque dos Macacos Jigokudani (DIA INTEIRO) | Onsen em Yudanaka
@@ -73,7 +73,7 @@
 
 ---
 
-#### [Tokyo](./tokyo.md) • 19-24 dez • 5 noites
+#### [Tokyo](./itineraries/tokyo.md) • 19-24 dez • 5 noites
 - **Sab 20/12:** Chegada | Shibuya Crossing | Meiji Jingu | Harajuku | Ain Soph Ginza
 - **Dom 21/12:** Senso-ji | Tokyo Vegan Ramen Center (cooking class) | Tokyo Skytree | Akihabara
 - **Seg 22/12:** teamLab Planets | DiverCity Gundam | Inari Sando | Rainbow Bridge
@@ -87,7 +87,7 @@
 
 ### 🇫🇷 França (24-28 dezembro)
 
-#### [Paris](./paris.md) • 24-28 dez • 4 noites
+#### [Paris](./itineraries/paris.md) • 24-28 dez • 4 noites
 - **Qua 24/12:** CHEGADA (~15:00) | Check-in Adagio Tour Eiffel | Ajuste ao fuso
 - **Qui 25/12:** NATAL | Torre Eiffel | Catacumbas de Paris | Gentle Gourmet | Passeio Sena
 - **Sex 26/12:** Palácio de Versalhes (dia inteiro) | Arco do Triunfo | Champs-Élysées
@@ -320,8 +320,9 @@
 
 ## 📄 Documentos da Viagem
 
-- [Dados Completos (JSON)](./trip-data.json) - Todas as informações estruturadas
+- [Dados Completos (JSON)](./data/trip-data.json) - Todas as informações estruturadas
 - [README Principal](./README.md) - Visão geral do projeto
+- [Guia Notion](./docs/NOTION_SETUP.md) - Setup de sincronização
 
 ---
 

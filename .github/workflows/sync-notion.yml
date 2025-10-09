@@ -5,6 +5,8 @@ on:
     branches: [ main ]
     paths:
       - '*.md'
+      - 'itineraries/*.md'
+      - 'docs/*.md'
       - 'scripts/sync-markdown-to-notion.js'
 
   workflow_dispatch:
@@ -36,7 +38,7 @@ jobs:
       if: success()
       run: |
         echo "✅ Sincronização Markdown → Notion concluída!"
-        echo "📄 Arquivos sincronizados: INDICE.md, hong-kong.md, osaka.md, tokyo.md, paris.md, etc"
+        echo "📄 Arquivos sincronizados: INDICE.md, itineraries/*.md"
 
     - name: Failure notification
       if: failure()

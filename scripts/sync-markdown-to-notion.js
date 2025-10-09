@@ -276,27 +276,27 @@ async function main() {
   }
 
   // Sincronizar todos os arquivos markdown principais
-  const mdFiles = [
-    'INDICE.md',
-    'hong-kong.md',
-    'shenzhen.md',
-    'osaka.md',
-    'nara.md',
-    'kyoto.md',
-    'nagano.md',
-    'tokyo.md',
-    'paris.md'
-  ];
+  const mdFiles = {
+    'INDICE.md': 'INDICE.md',
+    'hong-kong.md': 'itineraries/hong-kong.md',
+    'shenzhen.md': 'itineraries/shenzhen.md',
+    'osaka.md': 'itineraries/osaka.md',
+    'nara.md': 'itineraries/nara.md',
+    'kyoto.md': 'itineraries/kyoto.md',
+    'nagano.md': 'itineraries/nagano.md',
+    'tokyo.md': 'itineraries/tokyo.md',
+    'paris.md': 'itineraries/paris.md'
+  };
 
   const rootDir = path.join(__dirname, '..');
 
-  for (const file of mdFiles) {
-    const filePath = path.join(rootDir, file);
+  for (const [fileName, filePath] of Object.entries(mdFiles)) {
+    const fullPath = path.join(rootDir, filePath);
 
-    if (fs.existsSync(filePath)) {
-      await syncMarkdownFile(filePath);
+    if (fs.existsSync(fullPath)) {
+      await syncMarkdownFile(fullPath);
     } else {
-      console.log(`⚠️  Arquivo não encontrado: ${file}`);
+      console.log(`⚠️  Arquivo não encontrado: ${filePath}`);
     }
   }
 

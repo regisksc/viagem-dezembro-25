@@ -14,31 +14,31 @@ Roteiro detalhado de viagem: China, Japão e França
 ## 📍 Roteiros por Cidade
 
 ### China
-- [🇭🇰 Hong Kong](./hong-kong.md) - 5-6 dezembro (1 noite)
-- [🇨🇳 Shenzhen](./shenzhen.md) - 6-9 dezembro (3 noites)
+- [🇭🇰 Hong Kong](./itineraries/hong-kong.md) - 5-6 dezembro (1 noite)
+- [🇨🇳 Shenzhen](./itineraries/shenzhen.md) - 6-9 dezembro (3 noites)
 
 ### Japão
-- [🇯🇵 Osaka](./osaka.md) - 9-13 dezembro (4 noites)
-- [🇯🇵 Kyoto](./kyoto.md) - 13-16 dezembro (3 noites)
-- [🇯🇵 Nara](./nara.md) - 16-17 dezembro (1 noite)
-- [🇯🇵 Nagano](./nagano.md) - 17-19 dezembro (2 noites)
-- [🇯🇵 Tokyo](./tokyo.md) - 19-24 dezembro (5 noites)
+- [🇯🇵 Osaka](./itineraries/osaka.md) - 9-13 dezembro (4 noites)
+- [🇯🇵 Kyoto](./itineraries/kyoto.md) - 13-16 dezembro (3 noites)
+- [🇯🇵 Nara](./itineraries/nara.md) - 16-17 dezembro (1 noite)
+- [🇯🇵 Nagano](./itineraries/nagano.md) - 17-19 dezembro (2 noites)
+- [🇯🇵 Tokyo](./itineraries/tokyo.md) - 19-24 dezembro (5 noites)
 
 ### França
-- [🇫🇷 Paris](./paris.md) - 24-28 dezembro (4 noites)
+- [🇫🇷 Paris](./itineraries/paris.md) - 24-28 dezembro (4 noites)
 
 ---
 
 ## 📊 Dados da Viagem
 
 Os dados completos da viagem (hotéis, voos, apps essenciais, restaurantes) estão armazenados em:
-- [trip-data.json](./trip-data.json) - JSON com todas as informações
+- [trip-data.json](./data/trip-data.json) - JSON com todas as informações
 
 ### 🔗 Integração com Notion
 
 Este repositório sincroniza arquivos **Markdown → Notion** automaticamente!
 
-- **📖 [Guia de Setup Completo](./NOTION_SETUP.md)** - Configure em 5 minutos
+- **📖 [Guia de Setup Completo](./docs/NOTION_SETUP.md)** - Configure em 5 minutos
 - **⚡ Sincronização automática** via GitHub Actions
 - **📄 Páginas do Notion:** Cada `.md` vira uma página no Notion
 - **🔄 Atualização em tempo real** ao fazer push
