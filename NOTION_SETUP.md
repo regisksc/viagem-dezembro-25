@@ -1,302 +1,269 @@
-# 🔗 Setup de Integração com Notion
+# 🔗 Setup Sincronização Markdown → Notion
 
-Este guia te ajudará a configurar a sincronização automática entre este repositório e o Notion.
-
-## 📋 Pré-requisitos
-
-- Conta no Notion
-- Repositório no GitHub (este repo)
-- Node.js 18+ instalado (para testes locais)
+Guia rápido para sincronizar automaticamente seus arquivos `.md` com o Notion.
 
 ---
 
-## 🎯 Passo 1: Criar Integration no Notion
+## 🎯 O que você vai ter:
 
-1. Acesse https://www.notion.so/my-integrations
-2. Clique em **"+ New integration"**
+Cada arquivo `.md` vira uma **página no Notion**:
+- 🗺️ **Índice** (INDICE.md)
+- 🇭🇰 **Hong Kong** (hong-kong.md)
+- 🇨🇳 **Shenzhen** (shenzhen.md)
+- 🇯🇵 **Osaka** (osaka.md)
+- 🦌 **Nara** (nara.md)
+- ⛩️ **Kyoto** (kyoto.md)
+- 🏔️ **Nagano** (nagano.md)
+- 🗼 **Tokyo** (tokyo.md)
+- 🗼 **Paris** (paris.md)
+
+**Atualização automática:** Quando você edita um `.md` e faz push, sincroniza automaticamente!
+
+---
+
+## ⚡ Setup em 5 Minutos
+
+### 1️⃣ Criar Integration no Notion (1 min)
+
+1. Acesse: https://www.notion.so/my-integrations
+2. Click em **"+ New integration"**
 3. Configure:
-   - **Nome:** Viagem Dezembro 2025 Sync
-   - **Associated workspace:** Seu workspace
-   - **Capabilities:**
-     - ✅ Read content
-     - ✅ Update content
-     - ✅ Insert content
-4. Clique em **Submit**
-5. **Copie o "Internal Integration Secret"** (começa com `secret_`)
-   - ⚠️ **Importante:** Este é seu `NOTION_TOKEN`
+   - **Nome:** Viagem Dezembro 2025
+   - **Workspace:** Seu workspace
+   - **Capabilities:** Read content, Update content, Insert content
+4. Click **Submit**
+5. **Copie o "Internal Integration Secret"** (o token)
+   - Já tem o token: `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` ✅
 
 ---
 
-## 📊 Passo 2: Criar Databases no Notion
+### 2️⃣ Criar Página Raiz no Notion (1 min)
 
-### Database 1: 🗺️ Destinos
-
-1. Crie uma nova página no Notion
-2. Digite `/database` e selecione **"Table - Inline"**
-3. Nomeie como **"🗺️ Destinos"**
-4. Adicione as seguintes colunas (properties):
-
-| Nome da Coluna | Tipo | Descrição |
-|----------------|------|-----------|
-| **Nome** | Title | Nome da cidade (padrão) |
-| **País** | Select | China, Japão, França |
-| **Check-in** | Date | Data de check-in |
-| **Check-out** | Date | Data de check-out |
-| **Hotel** | Text | Nome do hotel |
-| **Preço Hotel** | Text | Valor da hospedagem |
-
-5. Clique nos **⋮** (três pontos) → **"Add connections"** → Selecione sua Integration
-6. **Copie o Database ID** da URL:
-   ```
-   https://notion.so/workspace/[DATABASE_ID]?v=...
-                              ^^^^^^^^^^^^^^^^
-   ```
-   - Este é seu `NOTION_DESTINATIONS_DB_ID`
+1. No Notion, crie uma **nova página**
+2. Nome: **"Viagem Dezembro 2025"** (ou o que preferir)
+3. Click nos **⋮** (três pontos) → **"Add connections"**
+4. Selecione sua Integration: **"Viagem Dezembro 2025"**
+5. **Pegar o Page ID:**
+   - Abra a página no navegador
+   - A URL será: `https://notion.so/workspace/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
+   - Copie os 32 caracteres (o `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`)
+   - Este é seu **NOTION_PARENT_PAGE_ID** ✅
 
 ---
 
-### Database 2: 🍽️ Restaurantes
+### 3️⃣ Configurar Secrets no GitHub (2 min)
 
-1. Crie outra database inline
-2. Nomeie como **"🍽️ Restaurantes"**
-3. Adicione as colunas:
+1. Vá no seu repositório GitHub
+2. **Settings** → **Secrets and variables** → **Actions**
+3. Click **"New repository secret"**
 
-| Nome da Coluna | Tipo | Descrição |
-|----------------|------|-----------|
-| **Nome** | Title | Nome do restaurante (padrão) |
-| **Cidade** | Text | Cidade onde está |
-| **Tipo** | Select | Vegan, Vegetarian |
-| **Localização** | Text | Endereço/área |
-| **Preço** | Text | Faixa de preço |
-| **Especialidade** | Text | Pratos especiais |
-| **Reserva** | Text | Necessidade de reserva |
+Adicione 2 secrets:
 
-4. Compartilhe com sua Integration
-5. Copie o Database ID → `NOTION_RESTAURANTS_DB_ID`
+#### Secret 1: NOTION_TOKEN
+```
+Name: NOTION_TOKEN
+Value: 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
+```
 
----
-
-### Database 3: 🎯 Atividades
-
-1. Crie a terceira database
-2. Nomeie como **"🎯 Atividades"**
-3. Adicione as colunas:
-
-| Nome da Coluna | Tipo | Descrição |
-|----------------|------|-----------|
-| **Nome** | Title | Nome da atividade (padrão) |
-| **Cidade** | Text | Cidade |
-| **Preço** | Text | Valor do ingresso |
-| **Ingresso** | Checkbox | Requer ingresso? |
-| **Reserva** | Select | 1-2 meses, 1-2 semanas, 1-2 dias, Na hora, Não necessário |
-| **Notas** | Text | Comentários e dicas |
-
-4. Compartilhe com sua Integration
-5. Copie o Database ID → `NOTION_ACTIVITIES_DB_ID`
+#### Secret 2: NOTION_PARENT_PAGE_ID
+```
+Name: NOTION_PARENT_PAGE_ID
+Value: [cole o ID da página que você criou]
+```
 
 ---
 
-## 🔐 Passo 3: Configurar Secrets no GitHub
+### 4️⃣ Pronto! Testar (1 min)
 
-1. Vá para seu repositório no GitHub
-2. Clique em **Settings** → **Secrets and variables** → **Actions**
-3. Clique em **"New repository secret"**
-4. Adicione os seguintes secrets:
-
-### Secret 1: NOTION_TOKEN
-- **Name:** `NOTION_TOKEN`
-- **Value:** `secret_...` (do Passo 1)
-
-### Secret 2: NOTION_DESTINATIONS_DB_ID
-- **Name:** `NOTION_DESTINATIONS_DB_ID`
-- **Value:** `[ID da database Destinos]` (do Passo 2)
-
-### Secret 3: NOTION_RESTAURANTS_DB_ID
-- **Name:** `NOTION_RESTAURANTS_DB_ID`
-- **Value:** `[ID da database Restaurantes]` (do Passo 2)
-
-### Secret 4: NOTION_ACTIVITIES_DB_ID
-- **Name:** `NOTION_ACTIVITIES_DB_ID`
-- **Value:** `[ID da database Atividades]` (do Passo 2)
-
----
-
-## 🧪 Passo 4: Testar Localmente (Opcional)
-
-### 4.1. Instalar dependências
+Faça qualquer alteração em um arquivo `.md`:
 
 ```bash
+git add osaka.md
+git commit -m "test: testar sincronização Notion"
+git push
+```
+
+Vá em **Actions** no GitHub e veja o workflow rodando!
+
+Depois, volte no Notion → sua página "Viagem Dezembro 2025" terá sub-páginas! 🎉
+
+---
+
+## 📖 Como Funciona
+
+### Estrutura no Notion
+
+```
+📄 Viagem Dezembro 2025 (página raiz)
+  ├── 🗺️ Índice
+  ├── 🇭🇰 Hong Kong
+  ├── 🇨🇳 Shenzhen
+  ├── 🇯🇵 Osaka
+  ├── 🦌 Nara
+  ├── ⛩️ Kyoto
+  ├── 🏔️ Nagano
+  ├── 🗼 Tokyo
+  └── 🗼 Paris
+```
+
+### Gatilho Automático
+
+O GitHub Actions roda automaticamente quando você:
+- Faz push de qualquer arquivo `.md`
+- Faz push de `scripts/sync-markdown-to-notion.js`
+
+### Manual
+
+Você também pode rodar manualmente:
+1. Vá em **Actions** no GitHub
+2. Click em **"Sync Markdown to Notion"**
+3. **"Run workflow"**
+
+---
+
+## 🧪 Testar Localmente (Opcional)
+
+```bash
+# Instalar dependências
 npm install
-```
 
-### 4.2. Criar arquivo .env
+# Criar arquivo .env
+echo "NOTION_TOKEN=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" > .env
+echo "NOTION_PARENT_PAGE_ID=seu_page_id_aqui" >> .env
 
-Crie um arquivo `.env` na raiz do projeto:
-
-```env
-NOTION_TOKEN=secret_seu_token_aqui
-NOTION_DESTINATIONS_DB_ID=id_da_database_destinos
-NOTION_RESTAURANTS_DB_ID=id_da_database_restaurantes
-NOTION_ACTIVITIES_DB_ID=id_da_database_atividades
-```
-
-### 4.3. Testar conexão
-
-```bash
-npm test
-```
-
-Deve mostrar suas databases e IDs.
-
-### 4.4. Sincronizar tudo
-
-```bash
+# Sincronizar
 npm run sync
 ```
 
-### 4.5. Sincronizar apenas uma categoria
+---
 
-```bash
-npm run sync:cities        # Apenas destinos
-npm run sync:restaurants   # Apenas restaurantes
-npm run sync:activities    # Apenas atividades
+## 🎨 Depois no Notion
+
+Com as páginas criadas, você pode:
+
+### ✅ Adicionar Mapa
+1. Em qualquer página, digite `/map`
+2. Adicione localizações manualmente
+3. Pins aparecem no mapa!
+
+### ✅ Adicionar Imagens
+1. Digite `/image`
+2. Upload ou URL
+
+### ✅ Criar Database de Locais (Opcional)
+1. Digite `/database`
+2. Crie colunas: Nome, Endereço, Tipo
+3. Adicione property type "URL" para localização
+4. Use view "Map" para visualizar pins
+
+### ✅ Usar Toggles
+1. Digite `/toggle`
+2. Organize conteúdo colapsável
+
+### ✅ Adicionar Callouts
+1. Digite `/callout`
+2. Destaque informações importantes
+
+---
+
+## 🔄 Fluxo de Trabalho
+
+```
+1. Edite osaka.md localmente
+   ↓
+2. git add osaka.md && git commit -m "update" && git push
+   ↓
+3. GitHub Actions detecta mudança
+   ↓
+4. Script sincroniza com Notion
+   ↓
+5. Página "Osaka" atualizada no Notion
 ```
 
 ---
 
-## 🚀 Passo 5: Sincronização Automática
+## ⚙️ Comandos Disponíveis
 
-### Como funciona?
+```bash
+# Sincronizar todos os arquivos
+npm run sync
 
-A sincronização acontece automaticamente quando você:
-
-1. **Faz push para main** de qualquer um destes arquivos:
-   - `trip-data.json`
-   - Qualquer arquivo `.md`
-   - `scripts/sync-to-notion.js`
-
-2. **Dispara manualmente** via GitHub Actions:
-   - Vá em **Actions** → **Sync to Notion**
-   - Clique em **"Run workflow"**
-   - Escolha o tipo de sync (all, cities, restaurants, activities)
-
-### Verificar logs
-
-1. Vá em **Actions** no GitHub
-2. Clique no workflow **"Sync to Notion"**
-3. Veja os logs de execução
+# Sincronizar arquivo específico
+npm run sync:single osaka.md
+```
 
 ---
 
-## 🔄 Como Usar no Dia a Dia
-
-### Fluxo normal:
-
-1. Edite `trip-data.json` ou arquivos `.md` localmente
-2. Commit e push:
-   ```bash
-   git add .
-   git commit -m "update: adicionar novo restaurante"
-   git push
-   ```
-3. GitHub Actions sincroniza automaticamente com Notion
-4. Verifique suas databases no Notion atualizadas!
-
-### Sincronização manual:
-
-Se quiser forçar uma sincronização:
-
-1. Vá em **Actions** → **Sync to Notion**
-2. **"Run workflow"** → **"Run workflow"**
-
----
-
-## 🛠️ Troubleshooting
+## 🆘 Troubleshooting
 
 ### ❌ Erro: "NOTION_TOKEN não configurado"
-
 - Verifique se adicionou o secret no GitHub
 - Nome deve ser exatamente `NOTION_TOKEN`
 
-### ❌ Erro: "Could not find database"
-
-- Verifique se compartilhou a database com a Integration
-- Verifique se o Database ID está correto (sem espaços ou caracteres extras)
+### ❌ Erro: "NOTION_PARENT_PAGE_ID não configurado"
+- Adicione o secret `NOTION_PARENT_PAGE_ID` no GitHub
+- Verifique se copiou o ID correto da URL
 
 ### ❌ Erro: "Unauthorized"
+- Verifique se compartilhou a página com a Integration
+- Vá na página → ⋮ → "Add connections" → Selecione a Integration
 
-- Token pode estar expirado ou inválido
-- Gere um novo token e atualize o secret
+### ⚠️ Página não aparece
+- Verifique logs do GitHub Actions
+- Veja se o workflow executou sem erros
+- Recarregue a página raiz no Notion
 
-### ❌ Erro: "Property not found"
-
-- Verifique se os nomes das colunas estão exatamente como especificado
-- Nomes devem ter acentuação correta (País, Atividades, etc)
-
-### ⚠️ Dados não aparecem
-
-- Verifique se o workflow executou com sucesso em Actions
-- Veja os logs para identificar erros específicos
-- Verifique se as databases estão compartilhadas com a Integration
+### ⚠️ Conteúdo estranho
+- O script converte markdown básico
+- Formatações complexas podem não ser suportadas
+- Edite manualmente no Notion se necessário
 
 ---
 
-## 📝 Estrutura de Dados
+## 📝 O que é Sincronizado
 
-### O que é sincronizado?
+### ✅ Convertido:
+- Cabeçalhos (# ## ###)
+- Listas (-)
+- Parágrafos
+- Divisores (---)
 
-**Destinos (trip-data.json → itinerary):**
-- Nome da cidade com emoji do país
-- País (China, Japão, França)
-- Datas de check-in e check-out
-- Nome e preço do hotel
+### ⚠️ Simplificado:
+- **Bold** → texto normal
+- *Italic* → texto normal
+- [Links](url) → texto do link
 
-**Restaurantes (trip-data.json → vegetarian_restaurants):**
-- Nome do restaurante
-- Cidade
-- Tipo (Vegan/Vegetarian)
-- Localização
-- Preço
-- Especialidade
-- Necessidade de reserva
+### ❌ Não suportado (ainda):
+- Tabelas
+- Código
+- Imagens
+- Checkboxes
 
-**Atividades (trip-data.json → activities):**
-- Nome da atividade
-- Cidade
-- Preço
-- Se requer ingresso
-- Antecedência necessária para reserva
-- Comentários e dicas
+**Solução:** Adicione manualmente no Notion depois da sincronização!
 
 ---
 
-## 🔒 Segurança
+## 🎯 Próximos Passos
 
-- ✅ Tokens e IDs ficam seguros nos GitHub Secrets
-- ✅ Nunca commite `.env` no repositório (já está no `.gitignore`)
-- ✅ A Integration só tem acesso às databases que você compartilhou
-- ✅ Você pode revogar o acesso a qualquer momento em https://www.notion.so/my-integrations
+Depois do setup:
 
----
-
-## 📚 Recursos Adicionais
-
-- [Documentação da API do Notion](https://developers.notion.com/reference)
-- [Notion SDK para Node.js](https://github.com/makenotion/notion-sdk-js)
-- [GitHub Actions Docs](https://docs.github.com/en/actions)
+1. ✅ Faça push de algum `.md` para testar
+2. ✅ Veja as páginas aparecerem no Notion
+3. ✅ Adicione mapas, imagens, e outros recursos do Notion
+4. ✅ Continue editando os `.md` localmente
+5. ✅ Push sincroniza automaticamente
 
 ---
 
-## 🆘 Precisa de Ajuda?
+## 💡 Dicas
 
-Se encontrar problemas:
-
-1. Verifique os logs do GitHub Actions
-2. Execute `npm test` localmente para testar conexão
-3. Revise este guia passo a passo
-4. Verifique a [documentação oficial do Notion](https://developers.notion.com/docs/getting-started)
+- **Edite no GitHub/VSCode:** Mantenha os `.md` como fonte da verdade
+- **Enriqueça no Notion:** Adicione mapas, imagens, databases
+- **Sincronização sobrescreve:** Mudanças no Notion serão perdidas no próximo sync
+- **Use Notion para visualizar:** Use os `.md` para editar
 
 ---
 
-**Setup criado em:** Outubro 2025
-**Token usado no exemplo:** `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`
+**Token fornecido:** `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`
+
+**Setup completo em ~5 minutos!** 🚀

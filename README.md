@@ -36,18 +36,19 @@ Os dados completos da viagem (hotéis, voos, apps essenciais, restaurantes) est�
 
 ### 🔗 Integração com Notion
 
-Este repositório sincroniza automaticamente com o Notion!
+Este repositório sincroniza arquivos **Markdown → Notion** automaticamente!
 
-- **📖 [Guia de Setup Completo](./NOTION_SETUP.md)** - Configure em 10 minutos
+- **📖 [Guia de Setup Completo](./NOTION_SETUP.md)** - Configure em 5 minutos
 - **⚡ Sincronização automática** via GitHub Actions
-- **📊 3 Databases:** Destinos, Restaurantes e Atividades
+- **📄 Páginas do Notion:** Cada `.md` vira uma página no Notion
 - **🔄 Atualização em tempo real** ao fazer push
 
 **Como funciona:**
-1. Edite `trip-data.json` ou arquivos `.md`
+1. Edite arquivos `.md` (osaka.md, tokyo.md, etc)
 2. Faça commit e push
-3. GitHub Actions sincroniza automaticamente com suas databases do Notion
-4. Pronto! Seus dados estão atualizados no Notion
+3. GitHub Actions sincroniza automaticamente com o Notion
+4. Pronto! Suas páginas estão atualizadas no Notion
+5. Adicione mapas, pins e recursos do Notion manualmente
 
 ---
 

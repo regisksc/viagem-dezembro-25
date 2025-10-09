@@ -1,25 +1,13 @@
-name: Sync to Notion
+name: Sync Markdown to Notion
 
 on:
   push:
     branches: [ main ]
     paths:
-      - 'trip-data.json'
       - '*.md'
-      - 'scripts/sync-to-notion.js'
+      - 'scripts/sync-markdown-to-notion.js'
 
   workflow_dispatch:
-    inputs:
-      sync_type:
-        description: 'Tipo de sincronização'
-        required: false
-        default: 'all'
-        type: choice
-        options:
-          - all
-          - cities
-          - restaurants
-          - activities
 
 jobs:
   sync:
@@ -38,40 +26,18 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Sync to Notion (All)
-      if: github.event_name == 'push' || github.event.inputs.sync_type == 'all'
+    - name: Sync Markdown to Notion
       env:
         NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        NOTION_DESTINATIONS_DB_ID: ${{ secrets.NOTION_DESTINATIONS_DB_ID }}
-        NOTION_RESTAURANTS_DB_ID: ${{ secrets.NOTION_RESTAURANTS_DB_ID }}
-        NOTION_ACTIVITIES_DB_ID: ${{ secrets.NOTION_ACTIVITIES_DB_ID }}
+        NOTION_PARENT_PAGE_ID: ${{ secrets.NOTION_PARENT_PAGE_ID }}
       run: npm run sync
-
-    - name: Sync to Notion (Cities only)
-      if: github.event.inputs.sync_type == 'cities'
-      env:
-        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        NOTION_DESTINATIONS_DB_ID: ${{ secrets.NOTION_DESTINATIONS_DB_ID }}
-      run: npm run sync:cities
-
-    - name: Sync to Notion (Restaurants only)
-      if: github.event.inputs.sync_type == 'restaurants'
-      env:
-        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        NOTION_RESTAURANTS_DB_ID: ${{ secrets.NOTION_RESTAURANTS_DB_ID }}
-      run: npm run sync:restaurants
-
-    - name: Sync to Notion (Activities only)
-      if: github.event.inputs.sync_type == 'activities'
-      env:
-        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        NOTION_ACTIVITIES_DB_ID: ${{ secrets.NOTION_ACTIVITIES_DB_ID }}
-      run: npm run sync:activities
 
     - name: Success notification
       if: success()
-      run: echo "✅ Sincronização com Notion concluída com sucesso!"
+      run: |
+        echo "✅ Sincronização Markdown → Notion concluída!"
+        echo "📄 Arquivos sincronizados: INDICE.md, hong-kong.md, osaka.md, tokyo.md, paris.md, etc"
 
     - name: Failure notification
       if: failure()
-      run: echo "❌ Erro durante sincronização com Notion"
+      run: echo "❌ Erro durante sincronização com Notion. Verifique os logs."
