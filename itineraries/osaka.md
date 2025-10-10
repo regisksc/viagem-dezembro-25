@@ -48,10 +48,68 @@
 
 ## Quarta-feira, 10 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory (almoço) | Mercado Kuromon Ichiba | Namba Yasaka Jinja (leão gigante) | Paprika Shokudo (jantar) | Dotonbori neons
+**📋 Resumo do dia:** UNIVERSAL STUDIOS JAPAN (DIA INTEIRO 08:30-20:30) | Super Nintendo World | Harry Potter | Sem outras atividades
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 - Café da manhã incluso (Swissôtel Nankai Osaka)
+- Sair cedo para aproveitar o parque desde a abertura
+
+### 08:00 – 08:30 • Transporte para Universal Studios
+- **Transporte:** JR Yumesaki Line de Nishikujo até Universal City Station (~15 min)
+- **Custo:** ¥180 com Suica/Pasmo
+
+### 08:30 – 20:30 • UNIVERSAL STUDIOS JAPAN (DIA COMPLETO)
+- **Horário:** 08:30 (abertura) até 20:30 (fechamento) = 12 horas no parque
+- **Entrada:** ¥9600 (~R$ 350 / $67 USD) | Fonte: Site oficial USJ
+- **Reserva:** 1 mês antecedência via Klook
+- **Express Pass ALTAMENTE recomendado** para evitar filas de 2-3h (~¥7000-15000)
+
+**Áreas imperdíveis:**
+- **SUPER NINTENDO WORLD** - Mario, Luigi, Mario Kart ride (POV para conteúdo!)
+- **Harry Potter Wizarding World** - Hogsmeade + Hogwarts, butterbeer
+- Minion Park
+- Jurassic Park
+- Jaws
+
+**Alimentação vegetariana no parque:**
+- Almoço e jantar dentro do parque
+- Verificar com staff opções vegetarianas em restaurantes
+- Trazer snacks se necessário
+- Há restaurantes temáticos em cada área
+
+**Estratégia:**
+- Chegar na abertura (08:30) para pegar Super Nintendo World logo
+- Usar Express Pass para evitar filas
+- Explorar áreas temáticas
+- Ficar até o fechamento (20:30) para aproveitar tudo
+
+### 20:30 – 21:30 • Retorno ao hotel
+- **Transporte:** Universal City Station → Nishikujo → Hotel (~20 min)
+- Descansar após dia intenso no parque
+
+### 21:30 – 22:00 • Jantar rápido ou snack
+**Opções:**
+- Konbini próximo ao hotel (7-Eleven, Lawson, FamilyMart)
+- Onigiri vegetariano, saladas, edamame
+- OU pular jantar se comeu bem no parque
+
+### 22:00 – 23:00 • Descanso
+- Dia cansativo no parque
+- Preparar para call
+
+### 23:00 – 23:30 • Preparação
+
+### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+- Daily work call
+- Dormir logo após call
+
+---
+
+## Quinta-feira, 11 de dezembro de 2025
+
+**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory | Mercado Kuromon Ichiba | Namba Yasaka Jinja (leão gigante) | Dotonbori neons | CALL SEMANAL LONGO
+
+### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • Castelo de Osaka
 - **Entrada:** ¥600 (~R$ 22 / $4 USD) | Fonte: Site oficial
@@ -95,49 +153,37 @@
   - Filas longas mas vale a pena
   - Ambiente excêntrico com graffiti
 
-### 21:00 – 22:30 • Dotonbori à noite
+### 21:00 – 22:00 • Dotonbori à noite
 - Explorar rua de neons
 - Neons refletindo no rio
 - Movimento intenso, energia contagiante
 - Melhor momento para fotos e vídeos
 
+### 22:00 – 22:30 • Shinsekai rápido (se tiver energia)
+- **Entrada:** FREE
+- Bairro RETRÔ com atmosfera anos 50-60
+- Passar rapidamente para ver neons vintage
+- **OU** voltar direto para hotel se cansado
+
 ### 22:30 – 23:00 • Retorno ao hotel
 
-### 23:00 – 23:30 • Descanso (6h de sono)
+### 23:00 – 23:30 • Preparação para call semanal
 
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
+### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
+- **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**
+- Call mais longa que o habitual
+- Dormir após call (madrugada de sexta)
 
 ---
 
-## Quinta-feira, 11 de dezembro de 2025
+## Sexta-feira, 12 de dezembro de 2025
 
-**📋 Resumo do dia:** UNIVERSAL STUDIOS JAPAN (DIA INTEIRO) | Super Nintendo World | Harry Potter | Green Earth (jantar) | Shinsekai (games vintage + arcades) | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Shinsekai games vintage (AGORA!) | Aquário Kaiyukan | Tempozan Mall | Nipponbashi Den Den Town | Asai Togei | Exploração final
 
-### 07:00 – 08:00 • Café da manhã no hotel
+### 08:00 – 09:00 • Café da manhã no hotel
+- Acordar mais tarde devido call longa da madrugada
 
-### 08:00 – 18:00 • UNIVERSAL STUDIOS JAPAN (DIA INTEIRO)
-- **Entrada:** ¥9600 (~R$ 350 / $67 USD) | Fonte: Site oficial USJ
-- **Reserva:** 1 mês antecedência via Klook
-- **Express Pass recomendado** para evitar filas (custa extra ~¥7000-15000)
-
-**Áreas imperdíveis:**
-- **SUPER NINTENDO WORLD** - Mario, Luigi, Mario Kart ride (POV para conteúdo!)
-- **Harry Potter Wizarding World** - Hogsmeade + Hogwarts, butterbeer
-- Minion Park
-- Jurassic Park
-- Jaws
-
-**Alimentação vegetariana no parque:**
-- Verificar com staff opções vegetarianas em restaurantes
-- Trazer snacks se necessário
-
-### 18:00 – 19:30 • Retorno e jantar
-**Opção vegetariana:**
-- **Green Earth** (Osaka central) - Vegan, preços razoáveis | ¥1000-1500 (~R$ 36-55 / $7-11 USD)
-- Um dos restaurantes veganos mais antigos de Osaka
-
-### 19:30 – 22:00 • Shinsekai (área retro + games vintage)
+### 09:00 – 11:30 • Shinsekai (área retro + games vintage)
 - **Entrada:** FREE
 - Bairro RETRÔ com atmosfera anos 50-60
 - Torre Tsutenkaku (observation deck ¥900 - opcional)
@@ -151,25 +197,7 @@
 - Brinquedos, acessórios, itens vintage, surpresas
 - Experiência tipo "loteria"
 
-### 22:00 – 23:00 • Retorno ao hotel e descanso
-
-### 23:00 – 23:30 • Preparação para call
-
-### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
-- **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**
-- Call mais longa que o habitual
-- Dormir após call (madrugada de sexta)
-
----
-
-## Sexta-feira, 12 de dezembro de 2025
-
-**📋 Resumo do dia:** Aquário Kaiyukan | Tempozan Mall | Nipponbashi Den Den Town (anime/games) | Asai Togei (jantar fine dining) | Exploração final Osaka
-
-### 08:00 – 09:00 • Café da manhã no hotel
-- Acordar mais tarde devido call longa da madrugada
-
-### 09:00 – 13:00 • Aquário Kaiyukan + Tempozan
+### 11:30 – 15:30 • Aquário Kaiyukan + Tempozan
 - **Entrada Kaiyukan:** ¥2400 (~R$ 87 / $17 USD) | Fonte: Site oficial
 - **Reserva:** 1-2 dias antecedência
 - Um dos MAIORES aquários do mundo
@@ -183,10 +211,10 @@
 - Vista de Osaka Bay
 - Food court com opções vegetarianas
 
-### 13:00 – 14:30 • Almoço no Tempozan Mall
-**Opções vegetarianas no food court**
+**Almoço no Tempozan Mall:**
+- Food court com opções vegetarianas
 
-### 14:30 – 18:00 • Exploração livre: Nipponbashi (Den Den Town)
+### 15:30 – 18:00 • Nipponbashi (Den Den Town)
 - Distrito eletrônico + anime/manga
 - Lojas de 7-8 andares de anime/games
 - M's Pop Life e outras lojas conhecidas
