@@ -561,6 +561,7 @@
           "date": "2025-12-10",
           "title": "UNIVERSAL STUDIOS JAPAN - Dia Inteiro",
           "timeline": [
+            "05:30-06:30 - Acordar e se preparar (tempo extra para enrolação, organizar mochila, não vão voltar ao quarto)",
             "06:30-07:00 - Café da manhã no hotel (levar tudo para o dia, NÃO voltar ao quarto)",
             "07:00-08:00 - Transporte para Universal Studios (JR Yumesaki Line)",
             "08:30-20:30 - UNIVERSAL STUDIOS JAPAN (12 horas no parque)",
@@ -570,7 +571,7 @@
             "23:30-00:30+ - Trabalho remoto (daily call)"
           ],
           "activities": ["Universal Studios Japan (dia inteiro exclusivo)"],
-          "note": "Dia inteiro dedicado ao parque. Preparar cedo antes das 7h e sair direto sem voltar ao quarto."
+          "note": "Acordar 05:30 com 1h para se preparar (hospedes enrolados). Sair direto após café sem voltar ao quarto."
         },
         "day_3_to_4": {
           "dates": "2025-12-11 a 2025-12-12",

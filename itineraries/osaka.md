@@ -50,10 +50,16 @@
 
 **📋 Resumo do dia:** UNIVERSAL STUDIOS JAPAN (DIA INTEIRO 08:30-20:30) | Super Nintendo World | Harry Potter | Sem outras atividades
 
+### 05:30 – 06:30 • Acordar e se preparar
+- **Acordar:** 05:30 (dar tempo extra para enrolação)
+- Banho, arrumar, organizar mochila/bolsa para o dia inteiro
+- **Levar:** Documentos, bateria portátil, água, snacks se quiser
+- Deixar quarto organizado (não vão voltar até a noite)
+
 ### 06:30 – 07:00 • Café da manhã no hotel
 - Café da manhã incluso (Swissôtel Nankai Osaka)
 - **IMPORTANTE:** Tomar café e sair DIRETO para o parque (não voltar pro quarto)
-- Levar tudo necessário para o dia inteiro no parque
+- Confirmar que tem tudo necessário para o dia inteiro
 
 ### 07:00 – 08:00 • Transporte para Universal Studios
 - **Transporte:** JR Yumesaki Line de Nishikujo até Universal City Station (~15 min)
