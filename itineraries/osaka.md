@@ -75,11 +75,44 @@
 **🎟️ EXPRESS PASS - ALTAMENTE RECOMENDADO:**
 - **Custo:** ¥7000-15000 (~R$ 255-545 / $50-108 USD)
 - **Por quê comprar:** Dia C = filas de 45-90min sem Express. Com Express: 5-15min
-- **Tipos:**
-  - **Express Pass 7:** Cobre 7 atrações principais (RECOMENDADO para dia C)
-  - **Express Pass 4:** Cobre 4 atrações (mínimo aceitável)
-- **Inclui:** Super Nintendo World garantido + pular filas nas principais atrações
-- **Comprar:** Klook ou site oficial USJ (comprar JUNTO com ingresso)
+
+**COMO ESCOLHER O EXPRESS PASS CERTO:**
+
+1. **Verificar disponibilidade no site USJ:**
+   - Acesse: https://www.usj.co.jp/web/en/us (versão inglês)
+   - Selecione data: 10 de dezembro de 2025
+   - Veja quais Express Pass estão disponíveis (pode ter Express 4, 7, ou versões especiais)
+
+2. **Tipos comuns:**
+   - **Express Pass 7:** ~¥10,800-15,000
+     - Cobre 7 atrações incluindo Mario Kart + Harry Potter
+     - IDEAL para dia C (lotação moderada)
+     - Melhor custo-benefício
+
+   - **Express Pass 4:** ~¥7,000-10,000
+     - Cobre 4 atrações (geralmente Mario Kart + Harry Potter + 2)
+     - Mínimo aceitável, mas vai ter que encarar fila nas demais
+
+   - **Express Pass Premium (se disponível):** ~¥15,000+
+     - Todas as atrações principais
+     - Para dias de lotação alta (A/B)
+
+3. **O QUE VERIFICAR ANTES DE COMPRAR:**
+   - ✅ **Inclui Mario Kart?** (ESSENCIAL - fila mais longa)
+   - ✅ **Inclui Harry Potter Forbidden Journey?** (ESSENCIAL)
+   - ✅ **Tem horário fixo ou flexível?** (alguns Express têm janela de horário)
+   - ✅ **Preço x Atrações cobertas:** Vale a pena?
+
+4. **RECOMENDAÇÃO PARA DIA 10/12 (Lotação C):**
+   - **Primeira escolha:** Express Pass 7 (melhor custo-benefício)
+   - **Segunda escolha:** Express Pass 4 + estratégia de chegar cedo
+   - **Sem Express:** Possível mas cansativo - chegar 08:00, correr, usar Single Rider
+
+**ONDE COMPRAR:**
+- **Klook:** Geralmente mais barato, interface em português
+- **Site oficial USJ:** Às vezes tem passes exclusivos
+- **Comprar JUNTO com ingresso** (mesma transação para garantir)
+- **Antecedência:** 1 mês antes (quanto antes, melhor a escolha de passes e horários)
 
 **🎮 ATRAÇÕES IMPERDÍVEIS (prioridade):**
 
