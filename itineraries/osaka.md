@@ -70,26 +70,73 @@
 - **Horário:** 08:30 (abertura) até 20:30 (fechamento) = 12 horas no parque
 - **Entrada:** ¥9600 (~R$ 350 / $67 USD) | Fonte: Site oficial USJ
 - **Reserva:** 1 mês antecedência via Klook
-- **Express Pass ALTAMENTE recomendado** para evitar filas de 2-3h (~¥7000-15000)
+- **Lotação do dia:** C (moderada) - espere filas médias de 45-90 min nas principais atrações
 
-**Áreas imperdíveis:**
-- **SUPER NINTENDO WORLD** - Mario, Luigi, Mario Kart ride (POV para conteúdo!)
-- **Harry Potter Wizarding World** - Hogsmeade + Hogwarts, butterbeer
-- Minion Park
-- Jurassic Park
-- Jaws
+**🎟️ EXPRESS PASS - ALTAMENTE RECOMENDADO:**
+- **Custo:** ¥7000-15000 (~R$ 255-545 / $50-108 USD)
+- **Por quê comprar:** Dia C = filas de 45-90min sem Express. Com Express: 5-15min
+- **Tipos:**
+  - **Express Pass 7:** Cobre 7 atrações principais (RECOMENDADO para dia C)
+  - **Express Pass 4:** Cobre 4 atrações (mínimo aceitável)
+- **Inclui:** Super Nintendo World garantido + pular filas nas principais atrações
+- **Comprar:** Klook ou site oficial USJ (comprar JUNTO com ingresso)
 
-**Alimentação vegetariana no parque:**
-- Almoço e jantar dentro do parque
-- Verificar com staff opções vegetarianas em restaurantes
-- Trazer snacks se necessário
-- Há restaurantes temáticos em cada área
+**🎮 ATRAÇÕES IMPERDÍVEIS (prioridade):**
 
-**Estratégia:**
-- Chegar na abertura (08:30) para pegar Super Nintendo World logo
-- Usar Express Pass para evitar filas
-- Explorar áreas temáticas
-- Ficar até o fechamento (20:30) para aproveitar tudo
+1. **SUPER NINTENDO WORLD** ⭐⭐⭐
+   - Mario Kart: Koopa's Challenge (fila mais longa do parque - 90-120min sem Express)
+   - Yoshi's Adventure
+   - Área temática interativa com blocos de pergunta, moedas
+   - **Estratégia:** Ir DIRETO na abertura OU usar Express Pass
+
+2. **The Wizarding World of Harry Potter** ⭐⭐⭐
+   - Harry Potter and the Forbidden Journey (fila 60-90min sem Express)
+   - Flight of the Hippogriff (montanha-russa familiar)
+   - Butterbeer (cerveja de manteiga) - IMPERDÍVEL!
+   - Hogsmeade + Hogwarts Castle
+
+3. **Minion Park**
+   - Minion Mayhem (simulador 3D)
+   - Área temática colorida
+
+4. **Jurassic Park**
+   - The Flying Dinosaur (montanha-russa intensa)
+   - Jurassic Park: The Ride (water ride)
+
+5. **Outras:**
+   - Jaws (clássico)
+   - Hollywood Dream (montanha-russa)
+   - Space Fantasy (indoor coaster)
+
+**🍽️ ALIMENTAÇÃO VEGETARIANA:**
+- **Restaurantes temáticos em cada área** (perguntar opções vegetarianas ao staff)
+- **Harry Potter:** Three Broomsticks tem opções veggie
+- **Levar snacks** como backup (barras de cereal, frutas)
+- Há áreas de descanso para comer seus snacks
+
+**📋 ESTRATÉGIA PARA DIA C (lotação moderada):**
+
+**SEM Express Pass:**
+1. Chegar 30min ANTES da abertura (08:00) para fila da entrada
+2. CORRER para Super Nintendo World na abertura
+3. Fazer Mario Kart primeiro (menor fila do dia: 30-45min)
+4. Depois ir para Harry Potter (fila cresce rápido)
+5. Usar Single Rider lines quando possível (fila mais rápida, mas separa o grupo)
+
+**COM Express Pass (RECOMENDADO):**
+1. Relaxar mais no timing
+2. Entrar no parque 08:30-09:00
+3. Ir para Super Nintendo World (Express = sem fila)
+4. Seguir itinerário do Express Pass
+5. Usar tempo livre para explorar áreas, comer, tirar fotos
+6. Ver parade/shows noturnos antes do fechamento
+
+**⚠️ DICAS IMPORTANTES:**
+- **App do USJ:** Baixar para ver tempo real de filas
+- **Single Rider:** Aceitar separar o grupo = economia de 50-70% do tempo de fila
+- **Evitar 12h-14h:** Horário de pico (almoço) - fazer atrações secundárias nesse período
+- **Locker:** Há lockers pagos (¥400-600) se precisar guardar coisas
+- **Clima:** Dezembro = frio (8-15°C) - levar jaqueta leve
 
 ### 20:30 – 21:30 • Retorno ao hotel
 - **Transporte:** Universal City Station → Nishikujo → Hotel (~20 min)

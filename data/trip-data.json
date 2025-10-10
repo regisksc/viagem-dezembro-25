@@ -600,13 +600,42 @@
           "ticket_required": true,
           "price": "¥ 9600 (~R$ 6912)",
           "advance_booking": "1 mês",
+          "crowd_level": "C (moderada)",
+          "express_pass": {
+            "recommended": true,
+            "price": "¥7000-15000 (~R$ 255-545)",
+            "types": ["Express Pass 7 (recomendado)", "Express Pass 4 (mínimo)"],
+            "benefit": "Reduz filas de 45-90min para 5-15min",
+            "includes": "Super Nintendo World garantido + pular filas principais",
+            "where_to_buy": "Klook ou site oficial USJ"
+          },
+          "main_attractions": [
+            "SUPER NINTENDO WORLD ⭐⭐⭐ - Mario Kart (90-120min sem Express), Yoshi, área interativa",
+            "Harry Potter Wizarding World ⭐⭐⭐ - Forbidden Journey (60-90min), Butterbeer, Hogsmeade",
+            "Minion Park - Minion Mayhem (simulador 3D)",
+            "Jurassic Park - Flying Dinosaur, The Ride",
+            "Jaws, Hollywood Dream, Space Fantasy"
+          ],
+          "strategy_crowd_C": {
+            "without_express": "Chegar 30min antes (08:00), correr para Nintendo World, fazer Mario Kart primeiro (30-45min), depois Harry Potter, usar Single Rider",
+            "with_express": "Relaxar timing, entrar 08:30-09:00, seguir itinerário Express Pass, tempo livre para fotos/comida"
+          },
+          "vegetarian_food": [
+            "Restaurantes temáticos em cada área (perguntar staff)",
+            "Three Broomsticks (Harry Potter) tem opções veggie",
+            "Levar snacks backup (barras, frutas)"
+          ],
+          "tips": [
+            "Baixar app USJ para tempo real de filas",
+            "Single Rider = economia 50-70% tempo (mas separa grupo)",
+            "Evitar 12h-14h (horário pico almoço)",
+            "Lockers pagos ¥400-600",
+            "Clima dezembro: 8-15°C, levar jaqueta"
+          ],
           "comments": [
-            "SUPER NINTENDO WORLD - área temática da Nintendo (Mario, Luigi)",
-            "Harry Potter Wizarding World - Hogsmeade + Hogwarts",
-            "Minion Park, Jurassic Park, Jaws",
-            "Express Pass recomendado para evitar filas (custa extra)",
-            "DIA INTEIRO necessário",
-            "CONTEÚDO: Mario Kart ride (POV), butterbeer, attractions, compare com Orlando"
+            "DIA INTEIRO necessário - 12 horas no parque",
+            "Lotação C = filas médias, Express Pass ALTAMENTE recomendado",
+            "CONTEÚDO: Mario Kart POV, butterbeer, Nintendo World interativo, comparar com Orlando"
           ]
         },
         {
