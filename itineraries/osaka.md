@@ -266,20 +266,57 @@ Exemplo:
 
 **📋 ESTRATÉGIA PARA DIA C (lotação moderada):**
 
-**SEM Express Pass:**
-1. Chegar 30min ANTES da abertura (08:00) para fila da entrada
-2. CORRER para Super Nintendo World na abertura
-3. Fazer Mario Kart primeiro (menor fila do dia: 30-45min)
-4. Depois ir para Harry Potter (fila cresce rápido)
-5. Usar Single Rider lines quando possível (fila mais rápida, mas separa o grupo)
+**🎯 SUAS EXPECTATIVAS ESPECÍFICAS (10/12):**
+1. **Harry Potter ao ANOITECER** para ver o show de luzes do castelo
+2. **Super Nintendo World no horário MAIS VAZIO** possível
+3. **Mario Kart (Minecart)** é PRIORIDADE
 
-**COM Express Pass (RECOMENDADO):**
-1. Relaxar mais no timing
-2. Entrar no parque 08:30-09:00
-3. Ir para Super Nintendo World (Express = sem fila)
-4. Seguir itinerário do Express Pass
-5. Usar tempo livre para explorar áreas, comer, tirar fotos
-6. Ver parade/shows noturnos antes do fechamento
+**⏰ TIMELINE OTIMIZADA PARA SUAS EXPECTATIVAS:**
+
+**COM Express Pass 4 ou 7 (RECOMENDADO):**
+
+- **08:30-09:00** • Chegada e entrada no parque
+- **09:00-12:30** • SUPER NINTENDO WORLD (horário MAIS VAZIO do dia!)
+  - Mario Kart: Koopa's Challenge ⭐ (USE EXPRESS - zero fila)
+  - Yoshi's Adventure
+  - Área interativa (blocos de pergunta, moedas, power-ups)
+  - MELHOR HORÁRIO: Manhã cedo = menos lotado + fotos com luz natural
+
+- **12:30-13:30** • Almoço
+- **13:30-16:30** • Outras atrações com Express Pass
+  - Minions, Flying Dinosaur, ou conforme seu Express
+
+- **16:30-19:00** • HARRY POTTER WIZARDING WORLD (ANOITECER!)
+  - **16:30-17:30:** Explorar Hogsmeade com luz do dia
+  - **17:30-18:30:** ANOITECER (dezembro = escurece ~17:00-17:30)
+    - ✨ **SHOW DE LUZES DO CASTELO:** Projection mapping no Hogwarts Castle
+    - Melhor horário: 17:30-19:00 (anoitecer + show de luzes ativo)
+  - **18:00-19:00:** Forbidden Journey (USE EXPRESS) + Butterbeer à noite
+  - Castelo iluminado + neons de Hogsmeade = MÁGICO
+
+- **19:00-20:30** • Explorar outras áreas, parade noturno, últimas atrações
+
+**Justificativa técnica:**
+- **Nintendo World 09:00-12:30:** Horário de menor lotação (maioria vai direto pra Harry Potter ou come primeiro)
+- **Harry Potter 16:30-19:00:** Pega transição dia→noite + show de luzes ativo + castelo iluminado
+- **Express Pass:** Garante que não vai perder tempo em fila e consegue fazer tudo no timing ideal
+
+---
+
+**SEM Express Pass (orçamento apertado):**
+⚠️ **PROBLEMA:** Será DIFÍCIL fazer Nintendo World vazio + Harry Potter no anoitecer sem Express
+
+Estratégia alternativa:
+1. **08:00** - Chegar 30min ANTES da abertura
+2. **08:30-10:00** - CORRER para Super Nintendo World
+   - Mario Kart primeira atração (30-45min de fila no rope drop)
+3. **10:00-12:00** - Fazer 1-2 atrações com fila moderada (Minions, Jurassic)
+4. **12:00-16:00** - Almoço + atrações menores + descanso
+5. **16:30-19:00** - Harry Potter no anoitecer
+   - ⚠️ Fila: 60-90min sem Express (vai perder parte do show de luzes)
+   - Alternativa: Usar Single Rider (mais rápido, mas separa vocês)
+
+**Conclusão:** Express Pass 4 ou 7 é ESSENCIAL para fazer Nintendo World vazio + Harry Potter no anoitecer conforme suas expectativas.
 
 **⚠️ DICAS IMPORTANTES:**
 - **App do USJ:** Baixar para ver tempo real de filas

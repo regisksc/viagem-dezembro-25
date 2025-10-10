@@ -722,6 +722,28 @@
             "Jurassic Park - Flying Dinosaur, The Ride",
             "Jaws, Hollywood Dream, Space Fantasy"
           ],
+          "your_specific_expectations": {
+            "priority_1": "Harry Potter ao ANOITECER para ver show de luzes do castelo",
+            "priority_2": "Super Nintendo World no horário MAIS VAZIO possível",
+            "priority_3": "Mario Kart (Minecart) é PRIORIDADE",
+            "sunset_time_december": "~17:00-17:30"
+          },
+          "optimized_timeline_for_expectations": {
+            "with_express_recommended": {
+              "08:30-09:00": "Chegada e entrada",
+              "09:00-12:30": "SUPER NINTENDO WORLD (horário MAIS VAZIO!) - Mario Kart com Express, Yoshi, área interativa, fotos com luz natural",
+              "12:30-13:30": "Almoço",
+              "13:30-16:30": "Outras atrações com Express (Minions, Flying Dinosaur)",
+              "16:30-19:00": "HARRY POTTER ANOITECER - 16:30-17:30 explorar com luz dia, 17:30-18:30 show de luzes castelo, 18:00-19:00 Forbidden Journey + Butterbeer à noite",
+              "19:00-20:30": "Outras áreas, parade noturno",
+              "justification": "Nintendo 09:00-12:30 = menor lotação (maioria vai Harry Potter ou almoça). Harry Potter 16:30-19:00 = transição dia-noite + show luzes + castelo iluminado. Express garante timing perfeito."
+            },
+            "without_express_difficult": {
+              "warning": "DIFÍCIL fazer Nintendo vazio + Harry Potter anoitecer sem Express",
+              "alternative": "08:00 chegar cedo, 08:30-10:00 correr Nintendo World (30-45min fila), 16:30-19:00 Harry Potter (60-90min fila - perde parte show luzes)",
+              "conclusion": "Express Pass 4 ou 7 ESSENCIAL para suas expectativas"
+            }
+          },
           "strategy_crowd_C": {
             "without_express": "Chegar 30min antes (08:00), correr para Nintendo World, fazer Mario Kart primeiro (30-45min), depois Harry Potter, usar Single Rider",
             "with_express": "Relaxar timing, entrar 08:30-09:00, seguir itinerário Express Pass, tempo livre para fotos/comida"
