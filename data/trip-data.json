@@ -604,40 +604,115 @@
           "express_pass": {
             "recommended": true,
             "price": "¥7000-15000 (~R$ 255-545)",
-            "how_to_choose": {
-              "step_1": "Verificar disponibilidade em https://www.usj.co.jp/web/en/us para data 10/12/2025",
-              "step_2": "Ver quais Express Pass estão disponíveis (4, 7, ou Premium)",
-              "step_3_check": [
-                "✅ Inclui Mario Kart? (ESSENCIAL - fila mais longa)",
-                "✅ Inclui Harry Potter Forbidden Journey? (ESSENCIAL)",
-                "✅ Tem horário fixo ou flexível?",
-                "✅ Preço x Atrações: vale a pena?"
-              ]
+            "technical_analysis": {
+              "structure": "Número (3,4,7) = quantidade de atrações | Variação (A,B,C) = QUAL combinação incluída",
+              "critical_warning": "O NÚMERO NÃO garante quais atrações! Ler descrição de cada variação é ESSENCIAL",
+              "example": "Express 7 Variação A ≠ Express 7 Variação B (atrações diferentes)"
             },
-            "types": {
+            "types_detailed": {
               "express_7": {
                 "price": "¥10,800-15,000 (~R$ 394-545)",
-                "attractions": "7 atrações incluindo Mario Kart + Harry Potter",
-                "recommendation": "IDEAL para dia C (lotação moderada) - melhor custo-benefício"
+                "cost_per_ride": "¥1,543-2,143 por atração",
+                "time_saved": "8-9 horas (510min)",
+                "roi": "34 min economizados por ¥1000 gasto",
+                "pros": ["Melhor custo/atração", "Cobre todas principais", "Tempo livre para explorar", "Stress mínimo"],
+                "cons": ["Mais caro absoluto", "Pode incluir atrações irrelevantes", "Alguns com horário fixo"],
+                "variations_common": [
+                  "Com Mario Kart + Harry Potter (MELHOR)",
+                  "Com Yoshi ao invés de Mario Kart (EVITAR)",
+                  "Com/sem Flying Dinosaur"
+                ],
+                "recommendation": "Ideal para lotação C. ROI excelente para experiência sem stress"
               },
               "express_4": {
                 "price": "¥7,000-10,000 (~R$ 255-365)",
-                "attractions": "4 atrações (geralmente Mario Kart + Harry Potter + 2)",
-                "recommendation": "Mínimo aceitável, mas vai encarar fila nas demais"
+                "cost_per_ride": "¥1,750-2,500 por atração",
+                "time_saved": "6 horas (360min)",
+                "roi": "36 min economizados por ¥1000 gasto (MELHOR ROI matematicamente!)",
+                "pros": ["Mais barato", "Cobre as 2 essenciais", "Suficiente se foco Nintendo+Harry"],
+                "cons": ["Vai encarar 2-3 filas longas (45-90min)", "Menos flexibilidade horário"],
+                "variations_common": [
+                  "Tipo A: Mario Kart + Harry Potter + Flying Dinosaur + Minions",
+                  "Tipo B: Mario Kart + Harry Potter + Hollywood Dream + Space Fantasy",
+                  "Tipo C: Yoshi + Harry Potter + 2 outras (EVITAR)"
+                ],
+                "recommendation": "Bom compromisso preço/benefício se aceita encarar algumas filas"
+              },
+              "express_3": {
+                "price": "¥5,000-7,000 (~R$ 182-255)",
+                "cost_per_ride": "¥1,667-2,333 por atração (PIOR custo/atração)",
+                "pros": ["Mais barato absoluto"],
+                "cons": ["Raramente vendido", "Vai encarar MUITAS filas", "Matematicamente pior que Express 4"],
+                "recommendation": "Só se orçamento MUITO apertado. Matematicamente inferior ao Express 4"
               },
               "express_premium": {
-                "price": "¥15,000+ (~R$ 545+)",
-                "attractions": "Todas principais",
-                "recommendation": "Para dias lotação alta (A/B)"
+                "price": "¥15,000-25,000 (~R$ 545-910)",
+                "pros": ["Zero fila", "Máxima flexibilidade", "Acesso ilimitado/quase todas"],
+                "cons": ["MUITO caro", "Overkill para lotação C", "Só existe em dias pico A/B"],
+                "recommendation": "Desnecessário para lotação C. Só dias super lotados"
               }
             },
-            "recommendation_for_dec_10": "1ª escolha: Express 7 | 2ª escolha: Express 4 + chegar cedo | Sem Express: possível mas cansativo",
-            "benefit": "Reduz filas de 45-90min para 5-15min",
-            "where_to_buy": {
-              "klook": "Geralmente mais barato, interface português",
-              "usj_official": "Às vezes passes exclusivos",
-              "when": "1 mês antecedência - quanto antes, melhor escolha de passes/horários",
-              "tip": "Comprar JUNTO com ingresso (mesma transação)"
+            "decision_matrix": {
+              "priority_rides_by_wait_time": {
+                "critical_90_120min": ["Mario Kart"],
+                "very_important_60_90min": ["Harry Potter Forbidden Journey", "Flying Dinosaur"],
+                "important_45_60min": ["Minions", "Hollywood Dream", "Space Fantasy"],
+                "moderate_30_45min": ["Jaws", "Jurassic Park", "Yoshi"],
+                "low_under_30min": ["Shows e outras"]
+              },
+              "roi_calculation_example": {
+                "express_7_variation_a": {
+                  "rides": "Mario Kart + Harry Potter + Flying Dinosaur + Minions + Space + Jaws + Hollywood",
+                  "time_saved": "120+90+90+60+60+30+60 = 510min (8.5h)",
+                  "cost": "¥15,000",
+                  "roi": "34 min/¥1000"
+                },
+                "express_4_variation_a": {
+                  "rides": "Mario Kart + Harry Potter + Flying Dinosaur + Minions",
+                  "time_saved": "120+90+90+60 = 360min (6h)",
+                  "cost": "¥10,000",
+                  "roi": "36 min/¥1000 (melhor ROI!)"
+                }
+              },
+              "time_restrictions": {
+                "fixed_time": "Entre 10:00-11:00 = menos flexível, garante vaga",
+                "flexible_time": "Qualquer hora após 12:00 = mais liberdade",
+                "first_come": "Order de chegada = precisa fazer cedo"
+              },
+              "red_flags_avoid": [
+                "❌ Não inclui Mario Kart (tem Yoshi)",
+                "❌ Não inclui Harry Potter",
+                "❌ Inclui 3+ atrações baixa espera",
+                "❌ Todos horários fixos sem flexibilidade"
+              ]
+            },
+            "recommendation_scenarios_dec_10": {
+              "scenario_1_flexible_budget": {
+                "choice": "Express Pass 7 com Mario Kart + Harry Potter",
+                "roi": "~34min/¥1000",
+                "time_saved": "8-9h",
+                "stress_level": "MÍNIMO",
+                "best_for": "Melhor experiência geral"
+              },
+              "scenario_2_moderate_budget": {
+                "choice": "Express Pass 4 com Mario Kart + Harry Potter + Flying Dinosaur + Minions",
+                "roi": "~36min/¥1000 (melhor matematicamente!)",
+                "time_saved": "6h",
+                "stress_level": "BAIXO (2-3 filas 45min)",
+                "best_for": "Melhor custo-benefício"
+              },
+              "scenario_3_tight_budget": {
+                "choice": "SEM Express + estratégia otimizada",
+                "strategy": "Chegar 08:00, rope drop Mario Kart (30-45min), depois Harry Potter (60min), Single Rider demais",
+                "cost": "¥0",
+                "stress_level": "ALTO",
+                "best_for": "Economia máxima, dia cansativo"
+              }
+            },
+            "where_to_check_variations": {
+              "usj_official": "https://www.usj.co.jp/web/en/us/ticket-selector",
+              "klook": "https://www.klook.com (buscar Universal Studios Japan Express Pass)",
+              "important_note": "Variações mudam por data. Verificar especificamente para 10/12/2025"
             }
           },
           "main_attractions": [
