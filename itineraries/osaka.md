@@ -207,29 +207,65 @@ ENCERRAMENTO (20:00-20:30)
 
 **📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory | Descanso/Exploração | Namba Yasaka Jinja (leão gigante) | Dotonbori neons | CALL SEMANAL LONGO
 
+**🏨 Hotel Base:** Swissôtel Nankai Osaka (conectado à Namba Station)
+
+### 🚇 Deslocamentos do Dia 11
+
+| Trecho | Transporte | Tempo | Custo | Observações |
+|--------|-----------|-------|-------|-------------|
+| **Hotel → Castelo** | JR Loop Line (Namba → Osakajokoen) | ~15 min | ¥180 | Trem direto |
+| **Castelo → MERCY** | Metro Tanimachi Line (Tanimachi 4-chome → Tanimachi 9-chome) + caminhada | ~10 min + 7 min | ¥180 | Caminhada curta do castelo até Tanimachi 4-chome |
+| **MERCY → Hotel** | Metro Sennichimae Line (Tanimachi 9-chome → Nippombashi → Namba) | ~15 min | ¥230 | Se voltar para descanso |
+| **Hotel → Namba Yasaka** | A pé | ~12 min | FREE | 1 km caminhando |
+| **Namba Yasaka → Dotonbori** | A pé | ~8 min | FREE | 600m caminhando |
+| **Dotonbori → Shinsekai** | A pé OU Metro (Namba → Dobutsuen-mae) | ~20 min OU ~8 min | FREE OU ¥180 | Opcional - só se tiver energia |
+| **Shinsekai → Hotel** | Metro (Dobutsuen-mae → Namba) | ~8 min | ¥180 | - |
+
+**💰 Custo total transporte dia 11:**
+- Cenário 1 (sem descanso no hotel): ¥360-540 (~R$ 13-20)
+- Cenário 2 (com descanso no hotel): ¥590-770 (~R$ 22-28)
+- Cenário 3 (incluindo Shinsekai): ¥770-950 (~R$ 28-35)
+
+**⏱️ Tempo total deslocamentos:**
+- Transportes: ~60-70 min (distribuídos ao longo do dia)
+- Caminhadas: ~20-32 min (integradas aos passeios)
+
+---
+
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • Castelo de Osaka
+- **🚇 Transporte de ida:** JR Loop Line (Namba → Osakajokoen) | **~15 min** | **¥180**
+  - Saída: Namba Station (conectada ao hotel)
+  - Chegada: Osakajokoen Station
+  - Caminhada até castelo: ~8 min
 - **Entrada:** ¥600 (~R$ 22 / $4 USD)
 - Um dos castelos mais FAMOSOS do Japão (construído 1583)
 - Torre principal: 5 andares externos, 8 internos
 - Museu interno com história dos samurais e período Sengoku
 - Parque ao redor com cerejeiras e fossa histórica
 - Vista do topo da cidade
-- **Transporte:** JR Loop Line até Osakajokoen Station (10 min do hotel)
 
-### 12:00 – 13:30 • Almoço
+### 12:00 – 13:30 • Almoço - MERCY Vegan Factory
+- **🚇 Transporte:** Do Castelo até MERCY
+  - Caminhada até Tanimachi 4-chome Station: ~8 min
+  - Metro Tanimachi Line (Tanimachi 4-chome → Tanimachi 9-chome) | **~10 min** | **¥180**
+  - Caminhada até restaurante: ~7 min
+  - **Tempo total deslocamento: ~25 min**
 - **MERCY Vegan Factory** (Tanimachi) - FAMOSO pelo Egg Sandwich vegano | ¥2000 (~R$ 73 / $14 USD)
 - Também serve karaage vegano, gimbap coreano, curry
-- **Metro:** Tanimachi 9-chome Station (7 min walk)
 - **Horário:** Seg-Sex & Feriados 08:00-21:00, fechado sábado
 
 ### 13:30 – 16:30 • Tempo livre / Descanso
-- Voltar ao hotel para descansar (dia anterior no USJ é cansativo)
-- OU explorar Shinsaibashi Shopping Arcade
-- OU relaxar em café vegano
+- **🚇 Se voltar ao hotel:** Metro Sennichimae Line (Tanimachi 9-chome → Nippombashi → Namba) | **~15 min** | **¥230**
+- **Opção 1:** Descansar no hotel (dia anterior no USJ é cansativo)
+- **Opção 2:** Explorar Shinsaibashi Shopping Arcade (5 min de Namba a pé)
+- **Opção 3:** Relaxar em café vegano na área de Namba/Shinsaibashi
 
 ### 16:30 – 18:30 • Namba Yasaka Jinja
+- **🚶 Transporte:** A pé do hotel/Namba | **~12 min caminhando** | **FREE**
+  - Distância: ~1 km
+  - Rota: Saindo do Swissôtel, direção sul
 - **Entrada:** FREE
 - Santuário xintoísta com ENORME cabeça de leão (12m altura)
 - Palco Ema-Den em formato de leão - único no Japão
@@ -238,6 +274,9 @@ ENCERRAMENTO (20:00-20:30)
 - Tranquilo, poucos turistas
 
 ### 18:30 – 20:30 • Dotonbori (jantar e neons)
+- **🚶 Transporte:** A pé de Namba Yasaka Jinja | **~8 min caminhando** | **FREE**
+  - Distância: ~600m
+  - Rota: Direção norte de volta para área central de Namba
 - **Entrada:** FREE
 - CORAÇÃO da vida noturna - neons INSANOS
 - FAMOSO letreiro do Glico Running Man
@@ -254,12 +293,16 @@ ENCERRAMENTO (20:00-20:30)
 - Melhor momento para fotos e vídeos
 
 ### 21:30 – 22:00 • Shinsekai rápido (se tiver energia)
+- **🚇 Transporte:** Metro Midosuji Line (Namba → Dobutsuen-mae) | **~8 min** | **¥180**
+  - **OU** a pé: ~20 min caminhando (FREE)
 - **Entrada:** FREE
 - Bairro RETRÔ com atmosfera anos 50-60
 - Passar rapidamente para ver neons vintage
-- **OU** voltar direto para hotel se cansado
+- **OU** voltar direto para hotel se cansado (apenas 5 min a pé de Dotonbori)
 
 ### 22:00 – 22:30 • Retorno ao hotel
+- **🚇 Se vier de Shinsekai:** Metro Midosuji Line (Dobutsuen-mae → Namba) | **~8 min** | **¥180**
+- **🚶 Se vier de Dotonbori:** A pé | **~5 min** | **FREE**
 
 ### 22:30 – 23:00 • Preparação para call semanal
 
