@@ -63,43 +63,40 @@ PREPARAÇÃO (05:30-08:30)
 07:00-08:00  Transporte USJ (JR Yumesaki Line | ¥180)
 08:00-08:30  Fila entrada + segurança
 
-JURASSIC PARK (08:30-09:40)
-08:30-09:30  🦕 Flying Dinosaur (SINGLE RIDER ~15-25min)
+JURASSIC PARK (08:30-09:30)
+08:30-08:45  🦕 Flying Dinosaur (SINGLE RIDER ~15-25min)
              ⚡ Economia 2-3h! Prioridade #1
-09:30-09:40  🚶 Caminhar para Nintendo World (8-10min)
+08:45-09:20  🦖 Jurassic Park The Ride (standby ~30min cedo manhã)
+             Water ride com drop final - poncho opcional
+09:20-09:30  🚶 Caminhar para Nintendo World (8-10min)
 
-SUPER NINTENDO WORLD (09:40-12:45)
-09:40-09:50  Entrada Nintendo World
+SUPER NINTENDO WORLD (09:30-12:35)
+09:30-09:40  Entrada Nintendo World
 09:50-10:20  🏎️ Mario Kart: Koopa's Challenge (EXPRESS)
 10:20-10:50  🦕 Yoshi's Adventure (EXPRESS)
-10:50-11:20  🪙 Mine Cart Madness (EXPRESS - Donkey Kong Country)
+10:50-11:20  🪙 Mine Cart Madness (EXPRESS - Donkey Kong Country 2024)
 11:20-12:00  🎮 Power-Up Bands activities (blocos, moedas, Piranha Plants)
 12:00-12:15  📸 Fotos (Castelo Peach, canos, bandeiras)
-12:15-12:45  🍽️ Kinopio's Cafe (almoço instagramável!)
+12:15-12:35  🍽️ Kinopio's Cafe (almoço instagramável!)
              Princess Peach Cake | Mushroom Pizza Bowl | ¥1800-2500
 
-HARRY POTTER WORLD (12:45-17:00)
-12:45-13:00  🚶 Caminhar para Harry Potter (12-15min - maior distância do parque)
-13:00-14:00  🏰 Forbidden Journey (standby ~60min lotação C)
-14:00-14:30  🍺 Butterbeer + fotos (¥700-800)
-             📸 Three Broomsticks interior, Hogsmeade
-14:30-15:30  🛍️ Merchandise HP (melhor horário - menos lotado)
-             - Ollivander's (varinhas ¥4900-6500) - opcional
-             - Honeydukes (doces HP)
-             - Dervish and Banges (robes casas)
-15:30-17:00  📸 Exploração Hogsmeade + descanso estratégico
-             Hogwarts Express | Owlery | spots Instagram
+HARRY POTTER WORLD (12:35-17:00)
+12:35-12:50  🚶 Caminhar para Harry Potter (12-15min)
+12:50-13:50  🏰 Forbidden Journey (standby ~60min lotação C)
+13:50-14:20  🍺 Butterbeer + fotos (¥700-800)
+             📸 Three Broomsticks interior, Hogsmeade iluminado
+14:20-17:00  📸 Exploração Hogsmeade + descanso estratégico
+             Hogwarts Express | Ollivander's | Honeydukes | Owlery
 
-MINION PARK (17:00-18:00)
+MINION PARK (17:00-18:10)
 17:00-17:10  🚶 Caminhar para Minion Park (10min)
 17:10-17:40  🔫 Villain-Con Minion Blast (EXPRESS)
-17:40-18:00  🛍️ Minion Mart (rápido - merchandise)
-             LED Minion Pens | Seasonal plushies | Popcorn Buckets
+17:40-18:10  🎬 Despicable Me Minion Mayhem (standby ~30-40min)
+             3D simulator - família friendly
 
-JANTAR (18:00-18:50)
-18:00-18:50  🍽️ Lost World Restaurant (Jurassic Park area)
-             ⭐ ÚNICO restaurant com menu plant-based completo
-             Opções vegetarianas premium | ¥1500-2500
+JANTAR (18:10-18:50)
+18:10-18:50  🍽️ Lost World Restaurant (Jurassic Park area)
+             ⭐ Menu plant-based completo | ¥1500-2500
 
 HARRY POTTER ANOITECER + SHOW DE NATAL (18:50-20:00)
 18:50-19:00  🚶 Retornar para Harry Potter (10min)
@@ -111,13 +108,14 @@ HARRY POTTER ANOITECER + SHOW DE NATAL (18:50-20:00)
 19:40-20:00  📸 Fotos Hogsmeade iluminado + decorações Natal
 
 ENCERRAMENTO (20:00-20:30)
-20:00-20:10  🚶 Caminhar para saída (12min)
-20:10-20:30  🛍️ Universal Studios Store (compras finais!)
-             ⭐ Maior loja do parque - tem TUDO
-             Mario | HP | Minions | Souvenirs USJ
+20:00-20:15  🕷️ Spider-Man (SE estiver aberto e tempo permitir)
+             New York area | Fila ~30min final do dia
+20:15-20:30  🛍️ Mario Cafe & Store (merchandise Nintendo!)
+             Power-Up Bands | Pelúcias Mario/Luigi | Souvenirs exclusivos
+             OU Universal Studios Store se precisar mais opções
 ```
 
-#### 🎯 Atrações Completas (9-10 total)
+#### 🎯 Atrações Completas (11-12 total)
 
 **Express Pass (5):**
 1. Mario Kart: Koopa's Challenge (09:50-10:20)
@@ -126,19 +124,18 @@ ENCERRAMENTO (20:00-20:30)
 4. Villain-Con Minion Blast (17:10-17:40)
 5. Flight of the Hippogriff (19:10-19:40)
 
-**Standby Estratégico (2):**
+**Standby Estratégico (5):**
 6. Flying Dinosaur Single Rider (08:30 - economia 2-3h!)
-7. Harry Potter Forbidden Journey (13:00 - ~60min)
+7. Jurassic Park The Ride (08:45 - ~30min cedo manhã)
+8. Harry Potter Forbidden Journey (12:50 - ~60min)
+9. Despicable Me Minion Mayhem (17:40 - ~30-40min)
+10. Spider-Man (20:00 - ~30min, se disponível)
 
 **Shows/Experiências (2):**
-8. Power-Up Band Activities (Nintendo World interativo)
-9. Hogwarts Magical Night - Winter Magic ⭐ (Christmas show)
+11. Power-Up Band Activities (Nintendo World interativo)
+12. Hogwarts Magical Night - Winter Magic ⭐ (Christmas show)
 
-**Opcional SE sobrar tempo:**
-10. Space Fantasy The Ride (Hollywood - fila ~40min)
-11. Jaws (Amity Village - fila ~30min)
-
-**Total: 9-11 experiências | Economia: ~8-9h de fila**
+**Total: 12 experiências | Economia: ~8-9h de fila**
 
 #### 🍽️ Restaurantes Instagramáveis
 
@@ -148,24 +145,18 @@ ENCERRAMENTO (20:00-20:30)
 | 12:15 | **Kinopio's Cafe** ⭐⭐⭐ | Peach Cake, Mushroom Pizza | ¥1800-2500 |
 | 14:00 | Butterbeer + snack | Caneca colecionável | ¥700-800 |
 | 18:00 | **Lost World Restaurant** ⭐⭐ | Menu plant-based completo | ¥1500-2500 |
-| 21:30 | Jantar reforçado | Konbini/restaurante | ¥800-1500 |
+**Budget alimentação: ¥4000-5800/pessoa (~R$ 146-211)**
 
-**Budget alimentação: ¥4800-7300/pessoa (~R$ 175-266)**
+#### 🛍️ Merchandise Nintendo
 
-#### 🛍️ Merchandise Strategy
+**Mario Cafe & Store (20:15-20:30):**
+- Power-Up Bands interativos (¥3200-4200)
+- Pelúcias Mario, Luigi, Peach, Yoshi
+- Roupas temáticas Nintendo
+- Acessórios (bonés, mochilas)
+- Doces temáticos Mario
 
-**Comprar durante o dia (itens exclusivos):**
-- Ollivander's (14:30-15:30): Varinhas interativas ¥4900-6500
-- Honeydukes (14:30-15:30): Doces Harry Potter
-- Minion Mart (17:40-18:00): LED pens, plushies sazonais
-
-**Comprar no final (20:10-20:30):**
-- Universal Studios Store: TODO o resto
-  - Souvenirs gerais (Mario, HP, Minions mix)
-  - Roupas USJ branded
-  - Presentes finais
-
-**Estimativa merchandise: ¥5000-15000/pessoa**
+**Estimativa merchandise: ¥3000-10000/pessoa**
 
 #### 🎭 Shows de Natal 2025
 
@@ -196,29 +187,19 @@ ENCERRAMENTO (20:00-20:30)
 - ✅ Merchandise 20:10 = Universal Store menos lotada
 
 **Locomoção otimizada:**
-- Rota: Jurassic Park → Nintendo World (8min) → Harry Potter (15min) → Minion (10min) → Jantar (5min) → Harry Potter (10min) → Saída (12min)
-- Total caminhada: ~60min distribuída
+- Rota: Jurassic Park → Nintendo World (10min) → Harry Potter (15min) → Minion (10min) → Jantar (5min) → Harry Potter (10min) → Spider-Man (3min) → Nintendo Store (5min)
+- Total caminhada: ~58min distribuída
 - ⚠️ Evita vai-e-vem desnecessário
 
-### 20:30 – 21:30 • Retorno ao hotel
-- **Transporte:** Universal City Station → Nishikujo → Hotel (~20 min)
-- Descansar após dia intenso no parque
+### 20:30 – 23:30 • Retorno e trabalho
+- **20:30-21:00:** Transporte para hotel (JR Yumesaki Line | ~30min)
+- **21:00-23:30:** Trabalho remoto direto (comer algo rápido durante)
+  - Konbini se necessário (7-Eleven, Lawson no hotel)
+  - Snacks trazidos do parque
 
-### 21:30 – 22:00 • Jantar rápido ou snack
-**Opções:**
-- Konbini próximo ao hotel (7-Eleven, Lawson, FamilyMart)
-- Onigiri vegetariano, saladas, edamame
-- OU pular jantar se comeu bem no parque
-
-### 22:00 – 23:00 • Descanso
-- Dia cansativo no parque
-- Preparar para call
-
-### 23:00 – 23:30 • Preparação
-
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
-- Dormir logo após call
+### 23:30 – 00:30+ • Daily call (09:30 EST = 23:30 JST)
+- Work call
+- Dormir após call
 
 ---
 
