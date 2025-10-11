@@ -205,12 +205,12 @@ ENCERRAMENTO (20:00-20:30)
 
 ## Quinta-feira, 11 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory | Mercado Kuromon Ichiba | Namba Yasaka Jinja (leão gigante) | Dotonbori neons | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory | Descanso/Exploração | Namba Yasaka Jinja (leão gigante) | Dotonbori neons | CALL SEMANAL LONGO
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • Castelo de Osaka
-- **Entrada:** ¥600 (~R$ 22 / $4 USD) | Fonte: Site oficial
+- **Entrada:** ¥600 (~R$ 22 / $4 USD)
 - Um dos castelos mais FAMOSOS do Japão (construído 1583)
 - Torre principal: 5 andares externos, 8 internos
 - Museu interno com história dos samurais e período Sengoku
@@ -219,21 +219,17 @@ ENCERRAMENTO (20:00-20:30)
 - **Transporte:** JR Loop Line até Osakajokoen Station (10 min do hotel)
 
 ### 12:00 – 13:30 • Almoço
-**Opção vegetariana:**
-- **MERCY Vegan Factory** (Tanimachi) - FAMOSO pelo Egg Sandwich vegano | ¥2000 (~R$ 73 / $14 USD) | Fonte: HappyCow
-- Também serve karaage, gimbap coreano, curry
+- **MERCY Vegan Factory** (Tanimachi) - FAMOSO pelo Egg Sandwich vegano | ¥2000 (~R$ 73 / $14 USD)
+- Também serve karaage vegano, gimbap coreano, curry
 - **Metro:** Tanimachi 9-chome Station (7 min walk)
 - **Horário:** Seg-Sex & Feriados 08:00-21:00, fechado sábado
 
-### 13:30 – 17:00 • Mercado Kuromon Ichiba
-- **Entrada:** FREE
-- Mercado coberto com 190 anos - "cozinha de Osaka"
-- 150+ lojas vendendo frutos do mar, frutas, vegetais
-- Procurar opções vegetarianas: frutas, vegetais grelhados
-- Melhor de manhã quando movimentado (mas tarde também funciona)
-- Atmosfera autêntica de mercado tradicional
+### 13:30 – 16:30 • Tempo livre / Descanso
+- Voltar ao hotel para descansar (dia anterior no USJ é cansativo)
+- OU explorar Shinsaibashi Shopping Arcade
+- OU relaxar em café vegano
 
-### 17:00 – 19:00 • Namba Yasaka Jinja
+### 16:30 – 18:30 • Namba Yasaka Jinja
 - **Entrada:** FREE
 - Santuário xintoísta com ENORME cabeça de leão (12m altura)
 - Palco Ema-Den em formato de leão - único no Japão
@@ -241,7 +237,7 @@ ENCERRAMENTO (20:00-20:30)
 - MUITO fotogênico e instagramável
 - Tranquilo, poucos turistas
 
-### 19:00 – 21:00 • Dotonbori (jantar e neons)
+### 18:30 – 20:30 • Dotonbori (jantar e neons)
 - **Entrada:** FREE
 - CORAÇÃO da vida noturna - neons INSANOS
 - FAMOSO letreiro do Glico Running Man
@@ -251,21 +247,21 @@ ENCERRAMENTO (20:00-20:30)
   - Filas longas mas vale a pena
   - Ambiente excêntrico com graffiti
 
-### 21:00 – 22:00 • Dotonbori à noite
+### 20:30 – 21:30 • Dotonbori à noite
 - Explorar rua de neons
 - Neons refletindo no rio
 - Movimento intenso, energia contagiante
 - Melhor momento para fotos e vídeos
 
-### 22:00 – 22:30 • Shinsekai rápido (se tiver energia)
+### 21:30 – 22:00 • Shinsekai rápido (se tiver energia)
 - **Entrada:** FREE
 - Bairro RETRÔ com atmosfera anos 50-60
 - Passar rapidamente para ver neons vintage
 - **OU** voltar direto para hotel se cansado
 
-### 22:30 – 23:00 • Retorno ao hotel
+### 22:00 – 22:30 • Retorno ao hotel
 
-### 23:00 – 23:30 • Preparação para call semanal
+### 22:30 – 23:00 • Preparação para call semanal
 
 ### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
 - **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**

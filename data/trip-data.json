@@ -843,21 +843,6 @@
           ]
         },
         {
-          "name": "Mercado Kuromon Ichiba",
-          "ticket_required": false,
-          "price": 0,
-          "advance_booking": null,
-          "comments": [
-            "Mercado coberto com 190 anos de história",
-            "APELIDADO 'cozinha de Osaka'",
-            "150+ lojas vendendo frutos do mar frescos, frutas, vegetais",
-            "Muitas barracas onde você come na hora",
-            "Procure por opções vegetarianas (frutas, vegetais grelhados)",
-            "Melhor de manhã quando está mais movimentado",
-            "CONTEÚDO: Atmosfera do mercado, produtos locais, cultura de rua"
-          ]
-        },
-        {
           "name": "Aquário Kaiyukan",
           "ticket_required": true,
           "price": "¥ 2400 (~R$ 1728)",
