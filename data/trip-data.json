@@ -560,18 +560,89 @@
         "day_2": {
           "date": "2025-12-10",
           "title": "UNIVERSAL STUDIOS JAPAN - Dia Inteiro",
+          "express_pass": {
+            "type": "Universal Express Pass 7: Mine Cart & Minion Blast",
+            "quantity": 2,
+            "windows": {
+              "super_nintendo_world": "09:50-10:50",
+              "mario_kart": "09:50-10:20",
+              "yoshi_adventure": "10:20-10:50",
+              "mine_cart_madness": "10:50-11:20",
+              "minion_blast": "17:10-17:40",
+              "wizarding_world": "18:50-19:50",
+              "flight_hippogriff": "19:10-19:40"
+            }
+          },
           "timeline": [
             "05:30-06:30 - Acordar e se preparar (tempo extra para enrolação, organizar mochila, não vão voltar ao quarto)",
-            "06:30-07:00 - Café da manhã no hotel (levar tudo para o dia, NÃO voltar ao quarto)",
+            "06:30-07:00 - Café da manhã no hotel REFORÇADO (levar tudo para o dia, NÃO voltar ao quarto)",
             "07:00-08:00 - Transporte para Universal Studios (JR Yumesaki Line)",
-            "08:30-20:30 - UNIVERSAL STUDIOS JAPAN (12 horas no parque)",
+            "08:00-08:30 - Fila de entrada + segurança (chegar 30min antes da abertura)",
+            "08:30-08:45 - ⚡ EARLY BIRD: Correr para Flying Dinosaur Single Rider",
+            "08:45-09:30 - 🦕 Flying Dinosaur (Single Rider ~15-25min - economia 2h fila!)",
+            "09:30-09:50 - Caminhar para Super Nintendo World",
+            "09:50-10:20 - 🏎️ Mario Kart: Koopa's Challenge (EXPRESS)",
+            "10:20-10:50 - 🦕 Yoshi's Adventure (EXPRESS)",
+            "10:50-11:20 - 🪙 Mine Cart Madness (EXPRESS - nova!)",
+            "11:20-11:50 - 🎮 Power-Up Bands + atividades interativas Nintendo World",
+            "11:50-12:30 - 📸 Fotos e exploração Nintendo World",
+            "12:30-13:30 - 🍴 ALMOÇO Three Broomsticks (Harry Potter area - opções vegetarianas)",
+            "13:30-14:30 - 🏰 Harry Potter Forbidden Journey (standby ~45-60min - VALE CADA SEGUNDO)",
+            "14:30-15:00 - 🍺 Butterbeer + lanche (descanso estratégico)",
+            "15:00-16:00 - 📸 Exploração Wizarding World (Hogsmeade, Ollivander's, lojas)",
+            "16:00-17:10 - Descanso ou atração secundária (gestão de energia)",
+            "17:10-17:40 - 🔫 Villain-Con Minion Blast (EXPRESS)",
+            "17:40-18:50 - 🍽️ JANTAR LEVE (Three Broomsticks ou área próxima)",
+            "18:50-19:10 - 🌅 Castelo Hogwarts no anoitecer (MOMENTO MÁGICO - transição dia-noite)",
+            "19:10-19:40 - 🦅 Flight of the Hippogriff (EXPRESS)",
+            "19:40-19:50 - ✨ Fotos Hogsmeade iluminado à noite",
+            "19:50-20:10 - Área próxima saída (última atração SE houver energia)",
+            "20:10-20:30 - Última volta lojas + saída do parque",
             "20:30-21:30 - Retorno ao hotel",
-            "21:30-22:00 - Jantar rápido (Konbini)",
-            "22:00-23:00 - Descanso",
+            "21:30-22:30 - 🍜 JANTAR REFORÇADO (Konbini ou restaurante - vocês vão estar famintos!)",
+            "22:30-23:00 - Banho e descanso",
             "23:30-00:30+ - Trabalho remoto (daily call)"
           ],
-          "activities": ["Universal Studios Japan (dia inteiro exclusivo)"],
-          "note": "Acordar 05:30 com 1h para se preparar (hospedes enrolados). Sair direto após café sem voltar ao quarto."
+          "activities": [
+            "Universal Studios Japan com Express Pass 7",
+            "Flying Dinosaur (Single Rider early bird)",
+            "Super Nintendo World completo (Mario Kart, Yoshi, Mine Cart)",
+            "Power-Up Bands atividades interativas",
+            "Harry Potter Forbidden Journey",
+            "Butterbeer experience",
+            "Wizarding World no anoitecer (castelo iluminado)",
+            "Minion Blast",
+            "Flight of Hippogriff"
+          ],
+          "meals": {
+            "breakfast": "Hotel (06:30-07:00) - incluído",
+            "lunch": "Three Broomsticks (12:30-13:30) - ¥1500-2000/pessoa",
+            "snack": "Butterbeer + lanche (14:30-15:00) - ¥1000/pessoa",
+            "dinner_light": "Three Broomsticks ou próximo (17:40-18:50) - ¥1200-1800/pessoa",
+            "dinner_full": "Konbini/Restaurante (21:30-22:30) - ¥800-1500/pessoa",
+            "budget_total": "¥4500-6300/pessoa (~R$ 130-182)"
+          },
+          "attractions_summary": {
+            "with_express": 7,
+            "standby_strategic": 3,
+            "total": "9-10 atrações",
+            "time_saved": "8-9h de fila",
+            "stress_level": "MÍNIMO"
+          },
+          "critical_tips": [
+            "Flying Dinosaur logo cedo = economia de 2h de fila",
+            "Forbidden Journey 13:30-14:30 = antes do pico da tarde",
+            "Harry Potter 18:50-19:50 = transição mágica dia-noite (IMPERDÍVEL)",
+            "Levar: água, snacks, powerbank, jaqueta (noite 8-10°C)",
+            "Pausas estratégicas: 14:30-15:00 e 16:00-17:10 (~1h30 total)"
+          ],
+          "photo_moments": [
+            "Castelo Hogwarts ao anoitecer (19:00-19:30)",
+            "Nintendo World com Power-Up Bands",
+            "Butterbeer em Hogsmeade",
+            "Hogsmeade iluminado à noite"
+          ],
+          "note": "Timeline otimizada com Express Pass 7. Inclui alimentação adequada (5 refeições), pausas estratégicas, e momento mágico Harry Potter no anoitecer. Ver detalhes completos em osaka/universal-studios-timeline-10dez.md"
         },
         "day_3_to_4": {
           "dates": "2025-12-11 a 2025-12-12",
