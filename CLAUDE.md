@@ -1,0 +1,2 @@
+- Sempre atualize o json quando for alterar os markdowns
+- pode dar push depois de alteraçoes
