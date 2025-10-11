@@ -63,6 +63,9 @@ Este repositório sincroniza arquivos **Markdown → Notion** automaticamente!
 - **Japão:** 23:30 JST (noite)
 - **Paris:** 15:30 CET (tarde)
 
+### 🔗 [Guia Completo: Trabalho Remoto Indetectável](./docs/remote-work-undetectable.md)
+> Como trabalhar remotamente sem ser detectado durante a viagem. Inclui configurações técnicas, equipamentos recomendados e estratégias para manter a localização em segredo.
+
 ---
 
 ## 🥗 Alimentação
