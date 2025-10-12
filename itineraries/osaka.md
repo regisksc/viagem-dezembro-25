@@ -293,116 +293,185 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Quinta-feira, 11 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka | MERCY Vegan Factory | Descanso/Exploração | Namba Yasaka Jinja (leão gigante) | Dotonbori neons | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Castelo de Osaka (FOTOS EXTERNAS) | Experiências Locais Out-of-the-Box | MERCY Vegan Factory | Namba Yasaka Jinja | Retorno antecipado para trabalho | CALL SEMANAL LONGO
 
 **🏨 Hotel Base:** Swissôtel Nankai Osaka (conectado à Namba Station)
 
-### 🚇 Deslocamentos do Dia 11
-
-| Trecho | Transporte | Tempo | Custo | Observações |
-|--------|-----------|-------|-------|-------------|
-| **Hotel → Castelo** | JR Loop Line (Namba → Osakajokoen) | ~15 min | ¥180 | Trem direto |
-| **Castelo → MERCY** | Metro Tanimachi Line (Tanimachi 4-chome → Tanimachi 9-chome) + caminhada | ~10 min + 7 min | ¥180 | Caminhada curta do castelo até Tanimachi 4-chome |
-| **MERCY → Hotel** | Metro Sennichimae Line (Tanimachi 9-chome → Nippombashi → Namba) | ~15 min | ¥230 | Se voltar para descanso |
-| **Hotel → Namba Yasaka** | A pé | ~12 min | FREE | 1 km caminhando |
-| **Namba Yasaka → Dotonbori** | A pé | ~8 min | FREE | 600m caminhando |
-| **Dotonbori → Shinsekai** | A pé OU Metro (Namba → Dobutsuen-mae) | ~20 min OU ~8 min | FREE OU ¥180 | Opcional - só se tiver energia |
-| **Shinsekai → Hotel** | Metro (Dobutsuen-mae → Namba) | ~8 min | ¥180 | - |
-
-**💰 Custo total transporte dia 11:**
-- Cenário 1 (sem descanso no hotel): ¥360-540 (~R$ 13-20)
-- Cenário 2 (com descanso no hotel): ¥590-770 (~R$ 22-28)
-- Cenário 3 (incluindo Shinsekai): ¥770-950 (~R$ 28-35)
-
-**⏱️ Tempo total deslocamentos:**
-- Transportes: ~60-70 min (distribuídos ao longo do dia)
-- Caminhadas: ~20-32 min (integradas aos passeios)
+**💡 FOCO DO DIA:** Experiências que LOCAIS fazem, não turistas! Região do Castelo tem várias opções autênticas.
 
 ---
 
-### 07:00 – 08:00 • Café da manhã no hotel
+### 🎯 Opções Out-of-the-Box Região do Castelo (ESCOLHER 1-2)
 
-### 08:00 – 12:00 • Castelo de Osaka
-- **🚇 Transporte de ida:** JR Loop Line (Namba → Osakajokoen) | **~15 min** | **¥180**
-  - Saída: Namba Station (conectada ao hotel)
-  - Chegada: Osakajokoen Station
-  - Caminhada até castelo: ~8 min
-- **Entrada:** ¥600 (~R$ 22 / $4 USD)
-- Um dos castelos mais FAMOSOS do Japão (construído 1583)
-- Torre principal: 5 andares externos, 8 internos
-- Museu interno com história dos samurais e período Sengoku
-- Parque ao redor com cerejeiras e fossa histórica
-- Vista do topo da cidade
+**IMPORTANTE:** Castelo = só fotos externas do parque, NÃO entrar na torre principal (tourist trap reconstruída)
 
-### 12:00 – 13:30 • Almoço - MERCY Vegan Factory
-- **🚇 Transporte:** Do Castelo até MERCY
-  - Caminhada até Tanimachi 4-chome Station: ~8 min
-  - Metro Tanimachi Line (Tanimachi 4-chome → Tanimachi 9-chome) | **~10 min** | **¥180**
-  - Caminhada até restaurante: ~7 min
-  - **Tempo total deslocamento: ~25 min**
-- **MERCY Vegan Factory** (Tanimachi) - FAMOSO pelo Egg Sandwich vegano | ¥2000 (~R$ 73 / $14 USD)
-- Também serve karaage vegano, gimbap coreano, curry
-- **Horário:** Seg-Sex & Feriados 08:00-21:00, fechado sábado
+#### 🏛️ OPÇÃO 1: Osaka Museum of History ⭐⭐⭐⭐⭐
+- **Localização:** LITERALMENTE ao lado do Castelo (5 min a pé)
+- **Entrada:** ¥600 | Combo com Castelo: ¥900
+- **Por que locais vão:** História interativa de Osaka com réplicas em escala real
+- **Destaque:** 10º andar com vista PERFEITA do Castelo sem multidões
+- **Tempo:** 1-1.5h
+- **Vibe:** Educativo, vazio, excelentes fotos do castelo de cima
 
-### 13:30 – 16:30 • Tempo livre / Descanso
-- **🚇 Se voltar ao hotel:** Metro Sennichimae Line (Tanimachi 9-chome → Nippombashi → Namba) | **~15 min** | **¥230**
-- **Opção 1:** Descansar no hotel (dia anterior no USJ é cansativo)
-- **Opção 2:** Explorar Shinsaibashi Shopping Arcade (5 min de Namba a pé)
-- **Opção 3:** 🐱 **Vegan Cat Cafe Neu** (perto do MERCY Vegan Factory!)
-  - Cat cafe 100% vegano - RARO no Japão!
-  - Relaxar com gatinhos + comida/bebidas veganas
-  - Localização: Mesma área do MERCY (Tanimachi)
-  - Perfeito para recuperar energia pós-USJ
-- **Opção 4:** Relaxar em outro café vegano na área de Namba/Shinsaibashi
+#### 🎨 OPÇÃO 2: Nakanoshima Park + Museus ⭐⭐⭐⭐⭐
+- **Localização:** 15 min a pé do Castelo (ilha no rio)
+- **Entrada:** Park FREE | Museus ¥500-800
+- **Por que locais vão:** Escapar turistas, jardins de rosas, arquitetura
+- **Opções:**
+  - Nakanoshima Museum of Art (arquitetura moderna)
+  - Museum of Oriental Ceramics (coleção world-class)
+  - Simplesmente caminhar no parque riverside
+- **Tempo:** 1-2h
+- **Vibe:** Tranquilo, cultural, fotogênico
 
-### 16:30 – 18:30 • Namba Yasaka Jinja
-- **🚶 Transporte:** A pé do hotel/Namba | **~12 min caminhando** | **FREE**
-  - Distância: ~1 km
-  - Rota: Saindo do Swissôtel, direção sul
+#### 🏮 OPÇÃO 3: Tenjinbashisuji Shotengai ⭐⭐⭐⭐⭐
+- **Localização:** 10 min de metrô do Castelo
 - **Entrada:** FREE
-- Santuário xintoísta com ENORME cabeça de leão (12m altura)
-- Palco Ema-Den em formato de leão - único no Japão
-- Leão "engole" má sorte e traz boa fortuna
-- MUITO fotogênico e instagramável
-- Tranquilo, poucos turistas
+- **Por que locais vão:** MAIOR arcade shopping do Japão (2.6km!)
+- **Destaque:**
+  - Authentic local shops (não chains turísticas)
+  - Street food que locais comem
+  - Atmosfera Showa-era preservada
+  - Museum of Housing and Living (¥600) - casa tradicional
+- **Tempo:** 2-3h (pode passar o dia inteiro)
+- **Vibe:** Autêntico, animado, comida incrível
 
-### 18:30 – 20:30 • Dotonbori (jantar e neons)
-- **🚶 Transporte:** A pé de Namba Yasaka Jinja | **~8 min caminhando** | **FREE**
-  - Distância: ~600m
-  - Rota: Direção norte de volta para área central de Namba
+#### 🎭 OPÇÃO 4: Nakazakicho (Retro/Indie District) ⭐⭐⭐⭐
+- **Localização:** 15 min de metrô do Castelo (perto Umeda)
 - **Entrada:** FREE
-- CORAÇÃO da vida noturna - neons INSANOS
-- FAMOSO letreiro do Glico Running Man
-- Ponte Ebisubashi - point para fotos
-- **Jantar:** Paprika Shokudo (OKO) - Vegan takoyaki & okonomiyaki | ¥800-1500 (~R$ 29-55 / $6-11 USD)
-  - IMPERDÍVEL! Versões veganas de pratos típicos de Osaka
-  - Filas longas mas vale a pena
-  - Ambiente excêntrico com graffiti
+- **Por que locais vão:** Vintage shops, indie cafes, creative vibes
+- **Destaque:**
+  - Casas tradicionais convertidas em cafés
+  - Vintage clothing stores
+  - Art galleries pequenas
+  - Instagram-worthy sem ser tourist trap
+- **Tempo:** 1.5-2h
+- **Vibe:** Hipster, criativo, relaxado
 
-### 20:30 – 21:30 • Dotonbori à noite
-- Explorar rua de neons
-- Neons refletindo no rio
-- Movimento intenso, energia contagiante
-- Melhor momento para fotos e vídeos
-
-### 21:30 – 22:00 • Shinsekai rápido (se tiver energia)
-- **🚇 Transporte:** Metro Midosuji Line (Namba → Dobutsuen-mae) | **~8 min** | **¥180**
-  - **OU** a pé: ~20 min caminhando (FREE)
+#### ⛩️ OPÇÃO 5: Sumiyoshi Taisha ⭐⭐⭐⭐⭐
+- **Localização:** 25 min de trem do Castelo
 - **Entrada:** FREE
-- Bairro RETRÔ com atmosfera anos 50-60
-- Passar rapidamente para ver neons vintage
-- **OU** voltar direto para hotel se cansado (apenas 5 min a pé de Dotonbori)
+- **Por que locais vão:** Um dos shrines mais ANTIGOS do Japão (211 AD!)
+- **Destaque:**
+  - Arquitetura pré-budista única
+  - Ponte Sorihashi vermelha fotogênica
+  - ZERO turistas comparado a outros templos
+  - Área residencial ao redor muito autêntica
+- **Tempo:** 1-1.5h
+- **Vibe:** Espiritual, tranquilo, histórico
 
-### 22:00 – 22:30 • Retorno ao hotel
-- **🚇 Se vier de Shinsekai:** Metro Midosuji Line (Dobutsuen-mae → Namba) | **~8 min** | **¥180**
-- **🚶 Se vier de Dotonbori:** A pé | **~5 min** | **FREE**
+#### 🍜 OPÇÃO 6: Tsuruhashi Korea Town ⭐⭐⭐⭐
+- **Localização:** 10 min de metrô do Castelo
+- **Entrada:** FREE
+- **Por que locais vão:** Melhor Korean BBQ/food fora da Coreia
+- **Destaque:**
+  - Autêntico bairro coreano
+  - Mercado tradicional coreano
+  - Restaurantes familiares (não chains)
+  - Yakiniku smokehouse vibes
+- **Tempo:** 1.5-2h
+- **Vibe:** Multicultural, aromático, animado
+- **⚠️ NOTA:** Pode ser difícil achar comida vegana aqui
 
-### 22:30 – 23:00 • Preparação para call semanal
+#### 🏞️ OPÇÃO 7: Mount Ikoma ⭐⭐⭐⭐
+- **Localização:** 40 min de trem do Castelo (Nara border)
+- **Entrada:** Cable car ~¥900 ida/volta
+- **Por que locais vão:** Escape natural + retro amusement park
+- **Destaque:**
+  - Cable car vintage
+  - Vista panorâmica Osaka-Nara
+  - Hozanji Temple no topo
+  - Parque de diversões retro abandonado (fotogênico!)
+- **Tempo:** 3-4h (meio dia)
+- **Vibe:** Aventura, natureza, urbex vibes
 
-### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
-- **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**
+#### 🌸 OPÇÃO 8: Osaka Tenmangu Shrine + Tenjin Matsuri Museum ⭐⭐⭐
+- **Localização:** 5 min do Tenjinbashisuji Shotengai
+- **Entrada:** Shrine FREE | Museum ¥300
+- **Por que locais vão:** Um dos top 3 matsuri do Japão começa aqui
+- **Destaque:**
+  - Shrine dedicado ao deus da educação
+  - Estudantes locais vêm rezar antes de exames
+  - Museum mostra Tenjin Matsuri (festival de verão)
+  - Área comercial local ao redor
+- **Tempo:** 45min-1h
+- **Vibe:** Local, espiritual, educativo
+
+---
+
+### 🗓️ Sugestões de Itinerário (ESCOLHER UMA)
+
+**OPÇÃO A - Cultural/Museus (Relaxado):**
+- 08:00-09:00: Castelo fotos externas
+- 09:00-10:30: Osaka Museum of History
+- 11:00-13:00: Nakanoshima Park + Museum
+- 13:00-14:00: MERCY Vegan Factory
+- 15:00-16:30: Namba Yasaka Jinja
+- 17:00: Retorno hotel para trabalho
+
+**OPÇÃO B - Shotengai Local (Animado):**
+- 08:00-09:00: Castelo fotos externas
+- 09:30-13:00: Tenjinbashisuji Shotengai (shopping + comida)
+- 13:00-14:00: MERCY Vegan Factory (ou comer no shotengai)
+- 15:00-16:30: Namba Yasaka Jinja
+- 17:00: Retorno hotel para trabalho
+
+**OPÇÃO C - Indie/Hipster (Criativo):**
+- 08:00-09:00: Castelo fotos externas
+- 09:30-11:30: Nakazakicho (cafés indie + vintage shops)
+- 12:00-13:30: MERCY Vegan Factory
+- 14:00-16:00: Nakanoshima Park (relaxar)
+- 16:30-17:30: Namba Yasaka Jinja
+- 18:00: Retorno hotel para trabalho
+
+**OPÇÃO D - Spiritual/Authentic (Tranquilo):**
+- 08:00-09:00: Castelo fotos externas
+- 09:30-11:00: Sumiyoshi Taisha Shrine
+- 11:30-13:00: Almoço area Sumiyoshi (local spots)
+- 13:30-14:30: MERCY Vegan Factory
+- 15:30-17:00: Namba Yasaka Jinja
+- 17:30: Retorno hotel para trabalho
+
+**OPÇÃO E - Adventure (Ativo):**
+- 08:00-09:00: Castelo fotos externas
+- 09:30-13:30: Mount Ikoma (cable car + retro park)
+- 14:00-15:00: MERCY Vegan Factory
+- 15:30-17:00: Namba Yasaka Jinja
+- 17:30: Retorno hotel para trabalho
+
+---
+
+### ⏰ Horários Fixos do Dia
+
+**07:00 – 08:00** • Café da manhã no hotel
+
+**08:00 – 09:00** • Castelo de Osaka - FOTOS EXTERNAS APENAS
+- **🚇 Transporte:** JR Loop Line (Namba → Osakajokoen) | ~15 min | ¥180
+- **Fotos no parque externo** - NÃO entrar na torre (tourist trap)
+- Nishinomaru Garden para melhores ângulos
+- Moat (fossa) fotogênico
+
+**[09:00 – 16:00]** • **ESCOLHER 1-2 OPÇÕES ACIMA** ✨
+
+**~16:00 – 17:30** • Namba Yasaka Jinja (MANTIDO)
+- **🚶 Transporte:** A pé do hotel/Namba | ~12 min | FREE
+- Santuário do leão gigante - super fotogênico
+- Poucos turistas, autêntico
+
+**17:30 – 18:00** • Retorno ao hotel
+- **NOVO:** Voltar CEDO para ter mais tempo de trabalho
+- Não fazer Dotonbori à noite (TOURIST TRAP segundo suas notas)
+
+**18:00 – 22:00** • Trabalho remoto
+- Jantar no hotel ou delivery
+- Ou comer no caminho de volta
+- Tempo livre para trabalhar tranquilo
+
+**22:00 – 23:00** • Preparação call + descanso
+
+**23:30 – 01:00+** • CALL SEMANAL LONGO (10:30 EST = 00:30 JST)
 - Call mais longa que o habitual
-- Dormir após call (madrugada de sexta)
+- Dormir após call
 
 ---
 
