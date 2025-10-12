@@ -77,14 +77,20 @@ SUPER NINTENDO WORLD (09:30-12:35)
 10:50-11:20  🪙 Mine Cart Madness (EXPRESS - Donkey Kong Country 2024)
 11:20-12:00  🎮 Power-Up Bands activities (blocos, moedas, Piranha Plants)
 12:00-12:15  📸 Fotos (Castelo Peach, canos, bandeiras)
-12:15-12:35  🍽️ Kinopio's Cafe (almoço instagramável!)
-             Princess Peach Cake | Mushroom Pizza Bowl | ¥1800-2500
+12:15-12:35  🍽️ ALMOÇO - Kinopio's Cafe ⭐⭐⭐
+             🌱 Yoshi's Favorite Fruit & Veggie Salad
+             Salada mountain-style com frutas e legumes frescos
+             Morangos, melão, abacaxi, kiwi, cogumelos, ervilhas
+             Molho francês plant-based | ¥1800-2000
 
 HARRY POTTER WORLD (12:35-17:00)
 12:35-12:50  🚶 Caminhar para Harry Potter (12-15min)
 12:50-13:50  🏰 Forbidden Journey (standby ~60min lotação C)
-13:50-14:20  🍺 Butterbeer + fotos (¥700-800)
-             📸 Three Broomsticks interior, Hogsmeade iluminado
+13:50-14:20  🍺 SOBREMESA - Three Broomsticks
+             🌱 Plant-Based Butterbeer ⭐⭐⭐
+             Levemente menos doce que o original!
+             Espuma cremosa vegana no topo | ¥700-800
+             📸 Fotos no interior medieval do pub
 14:20-17:00  📸 Exploração Hogsmeade + descanso estratégico
              Hogwarts Express | Ollivander's | Honeydukes | Owlery
 
@@ -94,9 +100,21 @@ MINION PARK (17:00-18:10)
 17:40-18:10  🎬 Despicable Me Minion Mayhem (standby ~30-40min)
              3D simulator - família friendly
 
-JANTAR (18:10-18:50)
-18:10-18:50  🍽️ Lost World Restaurant (Jurassic Park area)
-             ⭐ Menu plant-based completo | ¥1500-2500
+JANTAR + SOBREMESA ESPECIAL (18:10-18:50)
+18:10-18:40  🍽️ JANTAR - Lost World Restaurant ⭐⭐⭐⭐⭐
+             Jurassic Park area (perto do Minion Park)
+             🌱 Vegetable Pho Plate - REFEIÇÃO COMPLETA
+             - Pho noodle soup com legumes frescos e tofu
+             - Soy chicken com amendoim
+             - Spring rolls crocantes (2x)
+             - Feijões fritos
+             - Pepino e brotos de feijão
+             Refeição MUITO farta e saborosa | ¥2000-2500
+18:40-18:50  🍮 SOBREMESA IMPERDÍVEL 💎
+             🌱 Amber & Mango Tofu Pudding ⭐⭐⭐⭐⭐
+             FAVORITO DO REVIEWER - "Um dos melhores desserts do parque!"
+             Âmbar com flor (referência JP), pudding de tofu de manga
+             Cremoso, refrescante, apresentação PERFEITA | ¥800-1000
 
 HARRY POTTER ANOITECER + SHOW DE NATAL (18:50-20:00)
 18:50-19:00  🚶 Retornar para Harry Potter (10min)
@@ -137,15 +155,53 @@ ENCERRAMENTO (20:00-20:30)
 
 **Total: 12 experiências | Economia: ~8-9h de fila**
 
-#### 🍽️ Restaurantes Instagramáveis
+#### 🍽️ Alimentação Plant-Based do Dia (baseado em guia especializado 2025)
 
-| Horário | Restaurant | Highlight | Preço |
-|---------|-----------|-----------|-------|
-| 06:30 | Café hotel | Incluído | - |
-| 12:15 | **Kinopio's Cafe** ⭐⭐⭐ | Peach Cake, Mushroom Pizza | ¥1800-2500 |
-| 14:00 | Butterbeer + snack | Caneca colecionável | ¥700-800 |
-| 18:00 | **Lost World Restaurant** ⭐⭐ | Menu plant-based completo | ¥1500-2500 |
-**Budget alimentação: ¥4000-5800/pessoa (~R$ 146-211)**
+| Horário | Restaurant | Prato | Preço | Rating |
+|---------|-----------|-------|-------|--------|
+| 06:30 | Café hotel | Incluído | - | - |
+| 12:15 | **Kinopio's Cafe** (Nintendo World) | 🌱 Yoshi's Fruit & Veggie Salad | ¥1800-2000 | ⭐⭐⭐ |
+| 14:00 | **Three Broomsticks** (Harry Potter) | 🌱 Plant-Based Butterbeer | ¥700-800 | ⭐⭐⭐ |
+| 18:10 | **Lost World Restaurant** (Jurassic Park) | 🌱 Vegetable Pho Plate | ¥2000-2500 | ⭐⭐⭐⭐⭐ |
+| 18:40 | **Lost World Restaurant** (Jurassic Park) | 🌱 Amber & Mango Tofu Pudding 💎 | ¥800-1000 | ⭐⭐⭐⭐⭐ |
+
+**💰 Budget alimentação: ¥5300-6300/pessoa (~R$ 193-230)**
+
+#### 🌱 Guia Completo Plant-Based USJ 2025
+
+Outras opções plant-based disponíveis no parque (caso queira variar):
+
+**Finnegan's Bar and Grill** (New York area):
+- 🌱 Falafel with Tomato Salsa | ¥1500-1800 | ⭐⭐⭐⭐⭐
+  - Falafel crocante com molho picante
+  - Purê de feijão, legumes, limão
+  - Reviewer: "Não sou plant-based mas viria só por isso!"
+
+**Parkside Grill** (sit-down restaurant - precisa reserva):
+- 🌱 Grilled Salad with Fruit | ¥1200-1500 | ⭐⭐⭐
+  - Vegetais grelhados, azeite
+  - Fruit cocktail (laranja, grapefruit, morango, uva) | ¥800-1000 | ⭐⭐⭐⭐
+
+**Three Broomsticks** (Harry Potter):
+- 🌱 Irish Vegetable Stew | ¥1800-2200 | ⭐⭐⭐⭐
+  - Ensopado farto com batatas, cogumelos, cenoura, tofu-meat
+  - Vem com pão, salada, vegetais grelhados
+  - Ótimo para dias frios de inverno
+
+**Bellagerie** (bakery - várias localizações, abre cedo):
+- 🌱 Mixed Berry Salad with Carrot Vinaigrette | ¥800-1000 | ⭐⭐⭐⭐⭐
+  - Morangos, framboesas, mirtilos, blackberries
+  - Cenoura, tomate, folhas frescas
+  - Perfeito para café da manhã rápido no parque
+
+**Studio Stars Restaurant** (sit-down):
+- 🌱 Nine Fruits & Veggie Curry (alcohol/pork free) | ¥1400-1800 | ⭐⭐⭐⭐
+  - Curry doce-picante com frutas no molho
+  - Tofu, feijões, ervilhas, cenouras
+  - Mais saboroso que o Potato & Herb Curry
+- Vem com chocolate cake (também plant-based)
+
+**💡 Dica do reviewer:** Lost World Restaurant é o MELHOR para refeição completa plant-based no parque!
 
 #### 🛍️ Merchandise Nintendo
 
@@ -260,7 +316,12 @@ ENCERRAMENTO (20:00-20:30)
 - **🚇 Se voltar ao hotel:** Metro Sennichimae Line (Tanimachi 9-chome → Nippombashi → Namba) | **~15 min** | **¥230**
 - **Opção 1:** Descansar no hotel (dia anterior no USJ é cansativo)
 - **Opção 2:** Explorar Shinsaibashi Shopping Arcade (5 min de Namba a pé)
-- **Opção 3:** Relaxar em café vegano na área de Namba/Shinsaibashi
+- **Opção 3:** 🐱 **Vegan Cat Cafe Neu** (perto do MERCY Vegan Factory!)
+  - Cat cafe 100% vegano - RARO no Japão!
+  - Relaxar com gatinhos + comida/bebidas veganas
+  - Localização: Mesma área do MERCY (Tanimachi)
+  - Perfeito para recuperar energia pós-USJ
+- **Opção 4:** Relaxar em outro café vegano na área de Namba/Shinsaibashi
 
 ### 16:30 – 18:30 • Namba Yasaka Jinja
 - **🚶 Transporte:** A pé do hotel/Namba | **~12 min caminhando** | **FREE**
@@ -398,6 +459,40 @@ ENCERRAMENTO (20:00-20:30)
 
 ### 12:00 – ... • Início do roteiro de Nara
 - Ver roteiro completo em [nara.md](./nara.md)
+
+---
+
+## 🌱 Opções Veganas para Experimentar em Osaka
+
+Lugares adicionais não incluídos no roteiro principal, mas recomendados:
+
+### **LUU's BAO** ⭐⭐⭐⭐⭐
+- **Endereço:** 5 Chome-11-6 Nipponbashi, Naniwa Ward, Osaka, 550-0005
+- **Especialidade:** Vegan BAO (pães chineses no vapor) especializados
+- **Localização:** Nipponbashi area (perto de Den Den Town)
+- **Quando ir:** Durante exploração de Nipponbashi no dia 12
+- **Preço estimado:** ¥800-1500/pessoa
+
+### **OKO Takoyaki Vegan** (Paprika Shokudo) ⭐⭐⭐⭐⭐
+- **Já no roteiro!** Dias 9 e 11 (Dotonbori)
+- **Especialidade:** Takoyaki e okonomiyaki 100% veganos
+- **Preço:** ¥800-1500
+
+### **Vegan Cat Cafe Neu** 🐱 ⭐⭐⭐⭐
+- **Localização:** Perto do MERCY Vegan Factory (Tanimachi area)
+- **Especialidade:** Cat cafe 100% vegano - RARO no Japão!
+- **Quando ir:** Dia 11 tarde (opção de descanso pós-USJ)
+- **Preço estimado:** ¥1000-1500 (entrada + bebida)
+
+### **MERCY Vegan Factory** ⭐⭐⭐⭐⭐
+- **Já no roteiro!** Dia 11 almoço
+- **Especialidade:** Egg sandwich vegano famoso, karaage, gimbap, curry
+- **Preço:** ¥2000
+
+### **Asai Togei** ⭐⭐⭐⭐
+- **Já no roteiro!** Dia 12 jantar (opcional)
+- **Especialidade:** Fine dining vegetariano/vegano japonês sofisticado
+- **Preço:** ¥3500-7000
 
 ---
 
