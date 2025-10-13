@@ -293,205 +293,150 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Quinta-feira, 11 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka (FOTOS EXTERNAS) | Experiências Locais Out-of-the-Box | MERCY Vegan Factory | Namba Yasaka Jinja | Retorno antecipado para trabalho | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Castelo de Osaka (FOTOS) | Tamatsukuri Inari Shrine (guardian deity) | MERCY Vegan | Tenjinbashisuji Shotengai 2.6km | Korea Town Skincare | Namba Yasaka | CALL SEMANAL LONGO
 
 **🏨 Hotel Base:** Swissôtel Nankai Osaka (conectado à Namba Station)
 
-**💡 FOCO DO DIA:** Experiências que LOCAIS fazem, não turistas! Região do Castelo tem várias opções autênticas.
+**💡 FOCO DO DIA:** Experiências LOCAIS autênticas - áreas que turistas não conhecem!
 
 ---
 
-### 🎯 Opções Out-of-the-Box Osaka (ESCOLHER 1-2)
-
-**IMPORTANTE:** Castelo = só fotos externas do parque, NÃO entrar na torre principal (tourist trap reconstruída)
-
----
-
-#### 🗾 REGIÃO DO CASTELO (Manhã 9:00-13:00)
-
-#### ⛩️ OPÇÃO A1: Tamatsukuri Inari Shrine ⭐⭐⭐⭐⭐ **HIDDEN GEM**
-- **Localização:** 10 min a pé do Castelo de Osaka
-- **Entrada:** FREE
-- **Por que locais vão:** Construído por Toyotomi Hideyoshi para PROTEGER o Castelo!
-- **Destaque:**
-  - História: 12 BCE fundação, shrine oficial do Castelo de Osaka (1580s)
-  - Hall virado para oeste (único design - protege economia de Osaka)
-  - "Nicely hidden in suburbia" - tranquilo, poucos turistas
-  - Perfeito para fotos E história profunda
-  - Literalmente o guardian deity do Castelo
-- **Tempo:** 30-45min
-- **Vibe:** Espiritual, histórico, escondido, fotogênico
-- **Acesso:** Metro Nagahori-tsurumi-ryokuchi Line → Tamatsukuri Station (saída #1)
-
-#### ☕ OPÇÃO A2: Cafés Locais Hidden Gems (perto Castelo)
-- **abotam coffee stand** (Kyobashi area, 10 min JR Kyobashi)
-  - Specialty coffee + CLOFFIN (croissant-muffin) famoso
-  - Área residencial, zero turistas
-- **Specialty Coffee Tanimachi Yonchome** (6 min da estação, 10 min do Castelo)
-  - Light roast specialty coffee
-  - Basque cheesecake popular
-  - Permite trazer bolo de ACIDRACINES para comer
-- **Shuhari** (Tanimachi 4-chome)
-  - Soba noodles + tempura tradicional
-  - Fresh wasabi que você mesmo rala!
-  - Ambiente relaxado, locals only
-
-#### 🥪 MERCY Vegan Factory (Tanimachi 9-chome) ⭐⭐⭐⭐⭐
-- **Pode ser almoço da manhã!** (Tanimachi area = mesma região do Castelo)
-- Egg sandwich vegano famoso + karaage + gimbap + curry
-- **Horário:** 08:00-21:00 (Seg-Sex & Feriados) | ¥2000
-- **Estratégia:** Castelo → Tamatsukuri Shrine → MERCY → próxima atividade
-
----
-
-#### 🏮 OPÇÃO B: Tenjinbashisuji Shotengai ⭐⭐⭐⭐⭐
-- **Localização:** 10 min de metrô do Castelo
-- **Entrada:** FREE
-- **Por que locais vão:** MAIOR arcade shopping do Japão (2.6km!) - autêntico!
-- **Destaque:**
-  - Local shops (não chains turísticas)
-  - Street food que locais comem
-  - Atmosfera Showa-era preservada
-  - Osaka Museum of Housing and Living (¥600) - casa tradicional
-  - Osaka Tenmangu Shrine (shrine de estudantes)
-- **Tempo:** 2-3h
-- **Vibe:** Autêntico, animado, pode passar o dia inteiro
-
----
-
-#### 🎭 OPÇÃO C: Nakazakicho Retro/Indie District ⭐⭐⭐⭐
-- **Localização:** 15 min de metrô do Castelo (perto Umeda)
-- **Entrada:** FREE
-- **Por que locais vão:** Casas tradicionais → indie cafes + vintage shops
-- **Destaque:**
-  - Creative atmosphere, hipster vibes
-  - Vintage clothing stores locais
-  - Small art galleries
-  - Instagram-worthy SEM ser tourist trap
-- **Tempo:** 1.5-2h
-- **Vibe:** Criativo, relaxado, fotogênico
-
----
-
-#### ⛩️ OPÇÃO D: Sumiyoshi Taisha ⭐⭐⭐⭐⭐
-- **Localização:** 25 min de trem do Castelo
-- **Entrada:** FREE
-- **Por que locais vão:** Um dos shrines mais ANTIGOS do Japão (211 AD!)
-- **Destaque:**
-  - Arquitetura pré-budista única no Japão
-  - Ponte Sorihashi vermelha super fotogênica
-  - ZERO turistas comparado a outros templos
-  - Área residencial ao redor autêntica
-- **Tempo:** 1-1.5h
-- **Vibe:** Espiritual, tranquilo, histórico
-
----
-
-#### 🧴 OPÇÃO E: Tsuruhashi Korea Town (Skincare Heaven!) ⭐⭐⭐⭐⭐
-- **Localização:** 10 min de metrô do Castelo
-- **Entrada:** FREE
-- **Por que locais vão:** Authentic Korean district + MELHOR skincare shopping!
-- **Destaque:**
-  - **COSMÉTICOS:** Cosmetic SAMI, 韓LOVE, 韓美粧
-  - K-beauty brands: Innisfree, CNP, Goodal, Moremo
-  - Preços equivalentes à Coreia!
-  - Mercado tradicional coreano
-  - 10 min walk de JR Tsuruhashi (heading east Sennichimae-dori)
-- **Tempo:** 1.5-2h (30min eficiente só cosméticos)
-- **Vibe:** Multicultural, aromático, shopping paradise
-- **⚠️ NOTA:** Comida vegana difícil aqui
-
----
-
-#### 🎴 OPÇÃO F: Katsuoji Temple (Winning Daruma) ⭐⭐⭐⭐⭐ **MAIS DISTANTE**
-- **Localização:** 40 min de Umeda (Minoo area)
-- **Entrada:** ~¥500-800
-- **Por que locais vão:** Temple of WINNING LUCK - 1,300 anos história
-- **Destaque:**
-  - MILHARES de Kachi Daruma (winning daruma dolls)
-  - 80,000 tsubo grounds = ENORME
-  - People come for: exams, sports, business, elections luck
-  - Melhor em novembro (autumn leaves)
-- **Tempo:** 2-3h (com transporte)
-- **Vibe:** Espiritual, único, fotogênico, mountainous
-- **Acesso:** Hankyu Minoo Kayano Station → bus 20min "Katsuoji-mae"
-- **⚠️ NOTA:** Mais longe, mas MUITO único!
-
----
-
-### 🗓️ Sugestões de Itinerário (ESCOLHER UMA)
-
-**OPÇÃO A - Cultural/Museus (Relaxado):**
-- 08:00-09:00: Castelo fotos externas
-- 09:00-10:30: Osaka Museum of History
-- 11:00-13:00: Nakanoshima Park + Museum
-- 13:00-14:00: MERCY Vegan Factory
-- 15:00-16:30: Namba Yasaka Jinja
-- 17:00: Retorno hotel para trabalho
-
-**OPÇÃO B - Shotengai Local (Animado):**
-- 08:00-09:00: Castelo fotos externas
-- 09:30-13:00: Tenjinbashisuji Shotengai (shopping + comida)
-- 13:00-14:00: MERCY Vegan Factory (ou comer no shotengai)
-- 15:00-16:30: Namba Yasaka Jinja
-- 17:00: Retorno hotel para trabalho
-
-**OPÇÃO C - Indie/Hipster (Criativo):**
-- 08:00-09:00: Castelo fotos externas
-- 09:30-11:30: Nakazakicho (cafés indie + vintage shops)
-- 12:00-13:30: MERCY Vegan Factory
-- 14:00-16:00: Nakanoshima Park (relaxar)
-- 16:30-17:30: Namba Yasaka Jinja
-- 18:00: Retorno hotel para trabalho
-
-**OPÇÃO D - Spiritual/Authentic (Tranquilo):**
-- 08:00-09:00: Castelo fotos externas
-- 09:30-11:00: Sumiyoshi Taisha Shrine
-- 11:30-13:00: Almoço area Sumiyoshi (local spots)
-- 13:30-14:30: MERCY Vegan Factory
-- 15:30-17:00: Namba Yasaka Jinja
-- 17:30: Retorno hotel para trabalho
-
-**OPÇÃO E - Adventure (Ativo):**
-- 08:00-09:00: Castelo fotos externas
-- 09:30-13:30: Mount Ikoma (cable car + retro park)
-- 14:00-15:00: MERCY Vegan Factory
-- 15:30-17:00: Namba Yasaka Jinja
-- 17:30: Retorno hotel para trabalho
-
----
-
-### ⏰ Horários Fixos do Dia
+### ⏰ Timeline do Dia
 
 **07:00 – 08:00** • Café da manhã no hotel
 
-**08:00 – 09:00** • Castelo de Osaka - FOTOS EXTERNAS APENAS
+---
+
+### 08:00 – 09:00 • 🏯 Castelo de Osaka - FOTOS EXTERNAS APENAS
 - **🚇 Transporte:** JR Loop Line (Namba → Osakajokoen) | ~15 min | ¥180
-- **Fotos no parque externo** - NÃO entrar na torre (tourist trap)
-- Nishinomaru Garden para melhores ângulos
-- Moat (fossa) fotogênico
+- **Fotos no parque externo** - NÃO entrar na torre (reconstrução moderna, tourist trap)
+- **Melhores spots:**
+  - Nishinomaru Garden para ângulos do castelo
+  - Moat (fossa) fotogênico
+  - Ginkgo trees (dezembro ainda tem algumas folhas douradas)
 
-**[09:00 – 16:00]** • **ESCOLHER 1-2 OPÇÕES ACIMA** ✨
+---
 
-**~16:00 – 17:30** • Namba Yasaka Jinja (MANTIDO)
-- **🚶 Transporte:** A pé do hotel/Namba | ~12 min | FREE
-- Santuário do leão gigante - super fotogênico
-- Poucos turistas, autêntico
+### 09:00 – 10:00 • ⛩️ Tamatsukuri Inari Shrine **HIDDEN GEM** ⭐⭐⭐⭐⭐
+- **🚶 Transporte:** 10 min a pé do Castelo
+- **Entrada:** FREE
+- **Por que ir:** Construído por Toyotomi Hideyoshi (1580s) para PROTEGER o Castelo!
+  - Guardian deity do Castelo de Osaka
+  - Fundação original: 12 BCE
+  - Hall virado para oeste (único design - protege economia de Osaka)
+  - "Nicely hidden in suburbia" - tranquilo, ZERO turistas
+  - História profunda + fotogênico
+- **Tempo:** 45min-1h
 
-**17:30 – 18:00** • Retorno ao hotel
-- **NOVO:** Voltar CEDO para ter mais tempo de trabalho
-- Não fazer Dotonbori à noite (TOURIST TRAP segundo suas notas)
+---
 
-**18:00 – 22:00** • Trabalho remoto
-- Jantar no hotel ou delivery
-- Ou comer no caminho de volta
-- Tempo livre para trabalhar tranquilo
+### 10:00 – 11:00 • 🥪 MERCY Vegan Factory (Almoço Cedo)
+- **🚇 Transporte:** 10 min a pé (Tanimachi 9-chome area, mesma região)
+- **Por que ir:** Vegan food FAMOSO entre locais de Osaka
+  - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE
+  - Karaage vegano
+  - Gimbap coreano
+  - Curry japonês
+- **Horário:** 08:00-21:00 (Seg-Sex & Feriados)
+- **Budget:** ¥2000/pessoa
+- **Estratégia:** Almoçar cedo (10:00) = menos fila + energia para resto do dia
 
-**22:00 – 23:00** • Preparação call + descanso
+---
 
-**23:30 – 01:00+** • CALL SEMANAL LONGO (10:30 EST = 00:30 JST)
+### 11:00 – 13:30 • 🏮 Tenjinbashisuji Shotengai **MAIOR ARCADE DO JAPÃO** ⭐⭐⭐⭐⭐
+- **🚇 Transporte:** Tanimachi/Sakaisuji Line (Tanimachi 9-chome → Tenjimbashisuji Rokuchome) | ~8 min | ¥230
+- **Entrada:** FREE
+- **Por que ir:** 2.6km de shopping arcade AUTÊNTICO onde locais fazem compras!
+  - Atmosfera Showa-era preservada (anos 50-80)
+  - Local shops (não chains turísticas)
+  - Street food tradicional
+  - Osaka Tenmangu Shrine (shrine de estudantes - Tenjin deity)
+  - Osaka Museum of Housing and Living (¥600 - opcional)
+- **Tempo:** 2.5h para explorar confortavelmente
+- **Estratégia:** Caminhar do sul (Tenjimbashisuji 6-chome) até o norte, explorando side streets
+
+---
+
+### 13:30 – 15:00 • 🧴 Tsuruhashi Korea Town **SKINCARE HEAVEN** ⭐⭐⭐⭐⭐
+- **🚇 Transporte:** Tanimachi Line → Sakaisuji Line (Tenjimbashisuji → Tsuruhashi) | ~12 min | ¥240
+- **Entrada:** FREE
+- **Por que ir:** Authentic Korean district + MELHOR skincare shopping de Osaka!
+  - **Lojas de cosméticos:** Cosmetic SAMI, 韓LOVE, 韓美粧
+  - **K-beauty brands:** Innisfree, CNP, Goodal, Moremo, etc.
+  - Preços EQUIVALENTES à Coreia (não inflacionado)
+  - Mercado tradicional coreano
+  - Área autêntica, poucos turistas ocidentais
+- **Como chegar às lojas:** 10 min walk de JR Tsuruhashi Station heading east on Sennichimae-dori
+- **Tempo:** 1.5h (30min eficiente se focar só em skincare)
+- **Budget:** ¥3000-8000 dependendo do que comprar
+- **⚠️ NOTA:** Comida vegana difícil aqui (área focada em Korean BBQ)
+
+---
+
+### 15:00 – 16:00 • 🦁 Namba Yasaka Jinja
+- **🚇 Transporte:** Midosuji Line (Tsuruhashi → Namba) | ~8 min | ¥230
+- **🚶 Do metrô ao shrine:** 12 min a pé | FREE
+- **Entrada:** FREE
+- **Por que ir:** Santuário do leão gigante - ULTRA fotogênico!
+  - ENORME cabeça de leão (12m altura)
+  - Palco Ema-Den em formato de leão - único no Japão
+  - Leão 'engole' má sorte e traz boa fortuna
+  - Reconstruído em 1974, mas visualmente impressionante
+  - Poucos turistas, tranquilo
+- **Tempo:** 30-45min
+
+---
+
+### 16:00 – 17:30 • Retorno ao hotel
+- **🚶 Transporte:** 12 min a pé de Namba Yasaka → Swissôtel | FREE
+- Passar no konbini se necessário (snacks, bebidas)
+- Organizar compras de skincare
+
+---
+
+### 17:30 – 22:00 • Trabalho remoto
+- **Jantar:**
+  - Opção 1: Room service hotel
+  - Opção 2: Delivery (Uber Eats)
+  - Opção 3: Konbini (7-Eleven, Lawson)
+- Tempo livre para trabalhar sem pressa
+
+---
+
+### 22:00 – 23:00 • Preparação call + descanso
+
+---
+
+### 23:30 – 01:00+ • CALL SEMANAL LONGO (10:30 EST = 00:30 JST)
 - Call mais longa que o habitual
 - Dormir após call
+
+---
+
+### 💰 Budget Estimado Dia 11
+
+| Categoria | Estimativa |
+|-----------|-----------|
+| Transportes | ¥880 (~R$ 32) |
+| MERCY Vegan Factory | ¥2000 (~R$ 73) |
+| Tenjinbashisuji (street food/snacks) | ¥1000-1500 (~R$ 36-55) |
+| Korea Town skincare shopping | ¥3000-8000 (~R$ 109-292) |
+| Jantar (konbini/delivery) | ¥1000 (~R$ 36) |
+| **TOTAL (sem skincare)** | **¥4880-5380 (~R$ 178-196)** |
+| **TOTAL (com skincare médio ¥5000)** | **¥9880 (~R$ 360)** |
+
+---
+
+### 📝 Atividades Não Incluídas (Falta de Tempo)
+
+Atividades interessantes que não couberam no roteiro de hoje:
+
+- **Nakazakicho** (Indie/hipster district) - 1.5-2h
+- **Sumiyoshi Taisha** (Shrine milenar) - 2h com transporte
+- **Katsuoji Temple** (Winning daruma) - 3h com transporte
+- **Specialty cafes locais** (abotam coffee, Shuhari soba)
+
+💡 **Considerar:** Se quiser trocar alguma atividade, Sumiyoshi Taisha ou Nakazakicho podem substituir Tenjinbashisuji OU Korea Town (escolher um foco).
 
 ---
 
