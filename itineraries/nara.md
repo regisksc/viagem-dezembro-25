@@ -1,8 +1,8 @@
 # Nara
 
-## Sábado, 13 de dezembro de 2025 - ÚNICO DIA EM NARA
+## Sábado, 13 de dezembro de 2025
 
-**📋 Resumo do dia:** Chegada de Osaka | Todai-ji (maior estrutura de madeira + Grande Buda) | Nigatsu-do (vista panorâmica) | Kasuga Taisha (3.000 lanternas) | Alimentar cervos em Nara Park | Kofuku-ji (Pagode 5 andares) | Sanjo Dori (souvenirs de cervos)
+**📋 Resumo do dia:** Chegada de Osaka | Kasuga Taisha (3.000 lanternas) | Alimentar cervos em Nara Park | Kofuku-ji (Pagode 5 andares) | Sanjo Dori (souvenirs de cervos)
 
 **🏨 Hotel:** 1 noite em Nara (13-14 dezembro) - próximo ao Nara Park
 
@@ -22,33 +22,8 @@
 
 ---
 
-### 14:00 – 16:30 • Todai-ji (Grande Buda) + Nigatsu-do
-**Todai-ji:**
-- **Entrada:** ¥800 Grande Salão | ¥1200 combo com museu (~R$ 29-44 / $5.50-8.50 USD)
-- **Horário:** Nov-Mar 8h-17h
-- **PRIORIDADE #1** - Maior atração de Nara!
-- MAIOR estrutura de MADEIRA do MUNDO
-- Patrimônio UNESCO (construído 752)
-- Grande Buda (Daibutsu): 14.98m altura, bronze
-- Orelhas do Buda: 2.54m cada!
-- FAMOSO "buraco da sabedoria" em coluna - passar traz sorte
-- Buraco tem tamanho de narina do Buda
-- Dois Budas guardiões enormes na entrada
-- **CONTEÚDO:** Escala gigante, turistas no buraco (filmagem engraçada)
-
-**Nigatsu-do:**
-- **Entrada:** FREE, aberto 24h
-- Parte do complexo Todai-ji (5-10 min a pé)
-- VISTA panorâmica de Nara da varanda de madeira
-- Festival Shuni-e em março com tochas gigantes
-- Interior com lanternas de papel
-
-**💡 Estratégia:** Fazer Todai-ji + Nigatsu-do juntos (mesmo complexo)
-
----
-
-### 16:30 – 17:30 • Kasuga Taisha
-- **🚶 Transporte:** 15 min a pé de Todai-ji através do Nara Park
+### 14:00 – 15:00 • Kasuga Taisha
+- **🚶 Transporte:** 20-25 min a pé da estação através do Nara Park
 - **Entrada:** ¥500 santuário + ¥500 museu + ¥500 jardim (~R$ 18-55 total / $3.50-11 USD)
 - **Horário:** Out-Mar 6h30-17h | Museu 10h-17h
 - Templo XINTOÍSTA fundado em 768
@@ -60,7 +35,7 @@
 
 ---
 
-### 17:30 – 18:30 • Nara Park - alimentar cervos ao entardecer
+### 15:00 – 16:30 • Nara Park - alimentar cervos
 - **Entrada:** FREE | Biscoitos Sembei ¥200 (~R$ 7 / $1.50 USD)
 - 1.200+ CERVOS selvagens - mensageiros divinos
 - Protegidos por LEI desde 1957
@@ -68,22 +43,20 @@
 - **CUIDADOS:** Não brincar com comida, podem dar pequenas mordidas
 - Lago Sarusawa com carpas e tartarugas
 - **CONTEÚDO VIRAL:** Vídeos alimentando cervos
-- **💡 Melhor horário:** Entardecer (cervos mais ativos + luz bonita)
 
 ---
 
-### 18:30 – 19:15 • Kofuku-ji (Pagode 5 andares)
+### 16:30 – 17:30 • Kofuku-ji (Pagode 5 andares)
 - **🚶 Transporte:** 10 min a pé do Nara Park
 - **Entrada:** ¥900 National Treasure Hall | ¥500 Central Golden Hall (~R$ 33-18 / $6-3.50 USD)
-- **Horário:** 9h-17h (ver de fora à noite se museu fechar)
+- **Horário:** 9h-17h (entrar antes das 17h)
 - Pagode de 5 andares - SÍMBOLO de Nara
 - Segunda pagode mais alta do Japão (50m)
-- **FOTOGÊNICO iluminado à noite**
 - Museu com tesouros nacionais
 
 ---
 
-### 19:15 – 20:30 • Jantar em Sanjo Dori
+### 17:30 – 19:00 • Jantar em Sanjo Dori
 **Opções vegetarianas:**
 - **Restaurante do Templo Yakushi-ji** - Comida excelente vegetariana
 - Explorar restaurantes na rua principal comercial
@@ -91,7 +64,7 @@
 
 ---
 
-### 20:30 – 22:00 • Explorar Sanjo Dori à noite + Compras
+### 19:00 – 21:00 • Explorar Sanjo Dori + Compras
 - RUA COMERCIAL principal de Nara
 - Lojas de souvenirs - CERVOS em tudo (pelúcias, doces, artesanato)
 - Edifícios mantém arquitetura tradicional
@@ -100,8 +73,12 @@
 
 ---
 
-### 22:00 – 23:00 • Retorno ao hotel e organizar malas
-- Organizar malas para check-out cedo dia 14
+### 21:00 – 22:00 • Retorno ao hotel e organizar malas
+- Organizar malas para Todai-ji cedo no dia 14
+
+---
+
+### 22:00 – 23:00 • Descanso
 
 ---
 
@@ -114,9 +91,9 @@
 
 ---
 
-## Domingo, 14 de dezembro de 2025 - CHECK-OUT E VIAGEM PARA KYOTO
+## Domingo, 14 de dezembro de 2025
 
-**📋 Resumo do dia:** Check-out CEDO de Nara | Viagem para Kyoto | Início do roteiro de Kyoto
+**📋 Resumo do dia:** Todai-ji de manhã CEDO (evitar multidão) | Check-out | Viagem para Kyoto
 
 ---
 
@@ -124,20 +101,52 @@
 
 ---
 
-### 08:00 – 09:00 • Check-out e viagem para Kyoto
-- Check-out do hotel em Nara
-- **🚇 Transporte:** JR Nara Line (Nara → Kyoto) | ~45 min | ¥720
-- Chegada em Kyoto ~09:00
+### 08:00 – 10:30 • Todai-ji (Grande Buda) + Nigatsu-do
+**Todai-ji:**
+- **🚶 Transporte:** 15-20 min a pé do hotel através do Nara Park
+- **Entrada:** ¥800 Grande Salão | ¥1200 combo com museu (~R$ 29-44 / $5.50-8.50 USD)
+- **Horário:** Nov-Mar 8h-17h
+- **PRIORIDADE #1** - Maior atração de Nara!
+- MAIOR estrutura de MADEIRA do MUNDO
+- Patrimônio UNESCO (construído 752)
+- Grande Buda (Daibutsu): 14.98m altura, bronze
+- Orelhas do Buda: 2.54m cada!
+- FAMOSO "buraco da sabedoria" em coluna - passar traz sorte
+- Buraco tem tamanho de narina do Buda
+- Dois Budas guardiões enormes na entrada
+- **CONTEÚDO:** Escala gigante, turistas no buraco (filmagem engraçada)
+- **💡 Chegar às 08:00 para evitar multidão da tarde**
+
+**Nigatsu-do:**
+- **Entrada:** FREE, aberto 24h
+- Parte do complexo Todai-ji (5-10 min a pé)
+- VISTA panorâmica de Nara da varanda de madeira
+- Festival Shuni-e em março com tochas gigantes
+- Interior com lanternas de papel
+
+**💡 Estratégia:** Fazer Todai-ji + Nigatsu-do juntos (mesmo complexo)
 
 ---
 
-### 09:00+ • Início do roteiro de Kyoto
+### 10:30 – 11:00 • Retorno ao hotel e check-out
+- Voltar caminhando pelo Nara Park
+- Check-out do hotel
+
+---
+
+### 11:00 – 12:00 • Viagem para Kyoto
+- **🚇 Transporte:** JR Nara Line (Nara → Kyoto) | ~45 min | ¥720
+- Chegada em Kyoto ~12:00
+
+---
+
+### 12:00+ • Início do roteiro de Kyoto
 - Ver roteiro completo em [kyoto.md](./kyoto.md)
 
 ---
 
 **Dicas importantes para Nara:**
-- **Começar cedo dia 14:** Todai-ji fica lotado tarde
+- **Todai-ji de manhã cedo:** Ir às 08:00 no dia 14 para evitar multidão (fica lotado tarde)
 - **Biscoitos para cervos:** Só comprar Sembei oficial - única comida permitida
 - **Cervos podem morder:** Não provocar, não segurar comida por muito tempo
 - **Parque conecta tudo:** Caminhar dentro do parque entre templos
