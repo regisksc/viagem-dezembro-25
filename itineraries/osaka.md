@@ -497,13 +497,20 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Sexta-feira, 12 de dezembro de 2025
 
-**📋 Resumo do dia:** Shinsekai games vintage (AGORA!) | Aquário Kaiyukan | Tempozan Mall | Nipponbashi Den Den Town | Asai Togei | Exploração final
+**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | Nipponbashi Den Den Town | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
+
+**💡 FOCO DO DIA:** Combinar atrações turísticas com experiência LOCAL NOTURNA - **Vinyl Street** em Tenma, onde os locais vão!
+
+---
 
 ### 08:00 – 09:00 • Café da manhã no hotel
 - Acordar mais tarde devido call longa da madrugada
 
+---
+
 ### 09:00 – 11:30 • Shinsekai (área retro + games vintage)
 - **Entrada:** FREE
+- **🚇 Transporte:** Midosuji Line (Namba → Dobutsuen-mae) | ~10 min | ¥230
 - Bairro RETRÔ com atmosfera anos 50-60
 - Torre Tsutenkaku (observation deck ¥900 - opcional)
 - MECA dos games retro e arcades
@@ -516,49 +523,168 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - Brinquedos, acessórios, itens vintage, surpresas
 - Experiência tipo "loteria"
 
-### 11:30 – 15:30 • Aquário Kaiyukan + Tempozan
+---
+
+### 11:30 – 15:30 • Aquário Kaiyukan + Tempozan (Osaka Bay)
+- **🚇 Transporte:** Midosuji → Chuo Line (Dobutsuen-mae → Osakako) | ~35 min | ¥280
 - **Entrada Kaiyukan:** ¥2400 (~R$ 87 / $17 USD) | Fonte: Site oficial
-- **Reserva:** 1-2 dias antecedência
-- Um dos MAIORES aquários do mundo
+- **Reserva:** 1-2 dias antecedência (site oficial ou Klook)
+- Um dos MAIORES aquários do mundo (8 níveis)
 - Tanque principal 9m com tubarão-baleia
 - 15 tanques representando Oceano Pacífico
-- Tubarões-baleia, raias manta, lontras, pinguins, focas
-- 2-3h para visita completa
+- Tubarões-baleia, raias manta, lontras, pinguins, focas, águas-vivas
+- 2.5-3h para visita completa tranquila
 
 **Tempozan Mall (ao lado):**
-- Shopping com Tempozan Ferris Wheel (112.5m)
-- Vista de Osaka Bay
+- Shopping com Tempozan Ferris Wheel (112.5m de altura)
+- Vista panorâmica de Osaka Bay
 - Food court com opções vegetarianas
 
-**Almoço no Tempozan Mall:**
-- Food court com opções vegetarianas
+**🍽️ Almoço:** Tempozan Mall food court | ¥1000-1500
+- Vegetable curry rice
+- Udon/soba vegetariano
+- Salads
+
+---
 
 ### 15:30 – 18:00 • Nipponbashi (Den Den Town)
-- Distrito eletrônico + anime/manga
-- Lojas de 7-8 andares de anime/games
-- M's Pop Life e outras lojas conhecidas
-- Cultura otaku similar a Akihabara
-- **Shopping opcional:** Adult stores discretas na área (se interessar)
+- **🚇 Transporte:** Chuo Line (Osakako → Nippombashi) | ~20 min | ¥280
+- Distrito eletrônico + anime/manga (versão Osaka do Akihabara)
+- Lojas de 7-8 andares de anime/games/figuras
+- M's Pop Life e outras lojas especializadas
+- Cultura otaku autêntica
+- Arcade centers modernos
 
-### 18:00 – 19:30 • Jantar
-**Opção vegetariana:**
-- **Asai Togei** (Shinsaibashi) - Vegetarian/Vegan fine dining | Set lunch ¥3500-7000 (~R$ 127-255 / $25-50 USD)
-- Culinária japonesa vegetariana sofisticada
-- Cabines privadas
-- **Horário:** Seg-Sáb 11:30-14:30 / 17:00-23:00, fechado domingo
-- **Reserva:** Recomendado
+**Opção:** Passar rapidamente em **LUU's BAO** (5 Chome-11-6 Nipponbashi)
+- Vegan BAO shop na área!
+- ¥800-1500 para snack rápido
 
-### 19:30 – 22:00 • Exploração final de Osaka
-- Revisitar Dotonbori se quiser mais fotos/vídeos
-- Explorar Shinsaibashi Shopping Arcade
-- Últimas compras
+---
 
-### 22:00 – 23:00 • Retorno ao hotel e organizar malas
+### 18:00 – 21:00 • 🏮 TENMA IZAKAYAS - **EXPERIÊNCIA LOCAL NOTURNA** ⭐⭐⭐⭐⭐
 
-### 23:00 – 23:30 • Descanso
+**🚇 Transporte:** Sakaisuji Line (Nippombashi → Tenjimbashisuji Rokuchome) | ~10 min | ¥230
+
+#### 🍶 O que é Tenma?
+
+**Vinyl Street (Ura-Tenma)** - Epicentro gastronômico de Osaka que os LOCAIS frequentam!
+- Labirinto de ruas estreitas e vielas ao norte da JR Tenma Station
+- Standing bars, izakayas baratos, grelhados de carvão, counters informais
+- "Vinyl Street" nome vem das cortinas de vinil nas entradas acolhedoras
+- **Horário dos locais:** 18:00-21:00 (evitar depois 22:00 quando fica muito cheio)
+
+#### 🍻 Cultura **Hashigo-zake** (Bar Hopping Autêntico)
+
+**Como os locais fazem:**
+1. Não ficar num lugar só - tomar 1-2 drinks por bar
+2. Comer petiscos em cada parada
+3. Ir caminhando de bar em bar
+4. Experiência "cheap and delicious"
+5. Atmosfera casual, sem formalidades
+
+---
+
+#### 🎯 Sugestão de Rota Izakaya (3-4 paradas em 3h)
+
+**PARADA 1 (18:00-18:40):**
+- **Beer Belly Tenma** ⭐⭐⭐⭐⭐
+- Cervejaria craft com 7+ torneiras Minoh Beer (cervejaria local famosa)
+- Ambiente maior que izakaya médio (bom para começar)
+- Servem comida também
+- ¥800-1200 (2 cervejas + petisco)
+
+**PARADA 2 (18:50-19:30):**
+- **Standing bar aleatório no Vinyl Street**
+- Escolher pela vibe/cortina/cheiro
+- Yakitori, oden, grelhados
+- ¥500-800 (1 drink + snack)
+- 💡 **VEGAN:** Confirmar ingredientes (vegetais grelhados geralmente OK)
+
+**PARADA 3 (19:40-20:20):**
+- **Kotobuki Tsukasa** (Sushi bar local) ⚠️ **SKIP SE VEGANO**
+- OU procurar outro standing bar
+- ¥600-1000
+
+**PARADA 4 (20:30-21:00):**
+- **Kakigoya Fever 1111** (Oyster Bar) ⚠️ **SKIP SE VEGANO**
+- OU **voltar ao Beer Belly** para fechar a noite
+- ¥800-1200
+
+---
+
+#### 💡 Dicas Para Veganos em Tenma
+
+**Opções vegetarianas/veganas:**
+- Edamame (枝豆) - soja no vapor
+- Yasai itame (野菜炒め) - legumes salteados
+- Pickles japoneses (tsukemono)
+- Batatas fritas/chips
+- Saladas
+- Cerveja/sake sempre vegano
+
+**Frases úteis:**
+- "Bejitarian desu" (ベジタリアンです) = Sou vegetariano
+- "Niku nashi de onegaishimasu" (肉なしでお願いします) = Sem carne, por favor
+- "Sakana mo dame desu" (魚もダメです) = Peixe também não
+
+**Estratégia:**
+- Focar em **bebidas** (cerveja craft, sake local)
+- **Atmosfera** é a atração principal!
+- Comer bem ANTES ou DEPOIS em restaurante vegano dedicado
+
+---
+
+### 21:00 – 21:30 • Jantar vegano dedicado
+
+**OPÇÃO A: Asai Togei** (Shinsaibashi)
+- **🚇 Transporte:** Sakaisuji Line (Tenjimbashisuji → Nagahoribashi) | ~8 min | ¥230
+- Vegetarian/Vegan fine dining japonês | ¥3500-7000
+- Cabines privadas, atmosfera sofisticada
+- **Horário:** 17:00-23:00
+- **Reserva:** Recomendado (fazer dia anterior)
+
+**OPÇÃO B: MERCY Vegan Factory** (se não foi no dia 11)
+- **🚇 Transporte:** Tanimachi Line | ~15 min | ¥230
+- Egg sandwich vegano + karaage + curry | ¥2000
+- **Horário:** 08:00-21:00 (Seg-Sex)
+- Mais casual e rápido
+
+**OPÇÃO C: Konbini** (se cansado)
+- 7-Eleven, Lawson, FamilyMart
+- Onigiri vegano, saladas, instant noodles
+- ¥500-800
+
+---
+
+### 21:30 – 22:30 • Retorno ao hotel
+- **🚇 Transporte:** De volta para Namba | ~15-20 min | ¥230-280
+- Organizar malas para último dia
+- Compras de última hora se necessário
+
+---
+
+### 22:30 – 23:00 • Descanso
+
+---
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
 - Daily work call
+
+---
+
+### 💰 Budget Estimado Dia 12
+
+| Categoria | Estimativa |
+|-----------|-----------|
+| Transportes | ¥1530 (~R$ 56) |
+| Kaiyukan entrada | ¥2400 (~R$ 87) |
+| Almoço Tempozan | ¥1200 (~R$ 44) |
+| **Tenma Izakayas (3-4 paradas)** | **¥3000-4000 (~R$ 109-146)** |
+| Jantar vegano | ¥2000-4000 (~R$ 73-146) |
+| Snacks/extras | ¥1000 (~R$ 36) |
+| **TOTAL** | **¥11130-14130 (~R$ 406-516)** |
+
+**💡 Tenma é BARATO - standing bars custam ¥500-1000/parada!**
 
 ---
 
