@@ -6,25 +6,61 @@
 
 ### 19:05 • Chegada no Kansai International Airport (KIX)
 - **Voo:** HX612 Hong Kong Airlines (HKG → KIX)
+
+<details>
+<summary>Detalhes</summary>
+
 - Terminal 1
 
+</details>
+
+---
+
 ### 19:05 – 20:00 • Imigração e coleta de bagagem
+
+<details>
+<summary>Detalhes</summary>
+
 - Tempo estimado: 45-60 min para imigração + bagagem
 - **Documentos:** Passaporte, formulário de entrada
 
+</details>
+
+---
+
 ### 20:00 – 20:30 • Transfer para hotel
 - **Shuttle gratuito Hong Kong Airlines** (KIX → Swissôtel Nankai Osaka)
+
+<details>
+<summary>Detalhes</summary>
+
 - **Agendado:** 20:30 (tentar antecipar para 20:00 se possível)
 - **Duração:** ~30 min
 - 1 mala 32" + 1 mala 20" inclusos no shuttle
 
+</details>
+
+---
+
 ### 20:30 – 21:30 • Check-in no hotel
+
+<details>
+<summary>Detalhes</summary>
+
 - **Hotel:** Swissôtel Nankai Osaka
 - Check-in oficial: 15:00 (mas chegando às ~20:30-21:00)
 - Descansar após viagem longa
 
+</details>
+
+---
+
 ### 21:30 – 23:00 • Jantar e primeira exploração: Dotonbori
-- **Distância do hotel:** 10-15 min a pé do Swissôtel
+- **🚶 Distância:** 10-15 min a pé do Swissôtel
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - CORAÇÃO da vida noturna - neons INSANOS
 - FAMOSO letreiro do Glico Running Man à noite
@@ -37,12 +73,30 @@
   - Ambiente excêntrico com graffiti
 - **Alternativa:** Explorar opções vegetarianas na área de Dotonbori
 
+</details>
+
+---
+
 ### 23:00 – 23:30 • Retorno ao hotel
+
+<details>
+<summary>Detalhes</summary>
+
 - Caminhada curta de volta (10-15 min)
 
+</details>
+
+---
+
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
+<details>
+<summary>Detalhes</summary>
+
 - Daily work call
 - Descansar após call
+
+</details>
 
 ---
 
@@ -280,14 +334,29 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 ---
 
 ### 20:30 – 23:30 • Retorno e trabalho
-- **20:30-21:00:** Transporte para hotel (JR Yumesaki Line | ~30min)
+- **🚇 Transporte:** JR Yumesaki Line | ~30min
+
+<details>
+<summary>Detalhes</summary>
+
+- **20:30-21:00:** Transporte para hotel
 - **21:00-23:30:** Trabalho remoto direto (comer algo rápido durante)
   - Konbini se necessário (7-Eleven, Lawson no hotel)
   - Snacks trazidos do parque
 
+</details>
+
+---
+
 ### 23:30 – 00:30+ • Daily call (09:30 EST = 23:30 JST)
+
+<details>
+<summary>Detalhes</summary>
+
 - Work call
 - Dormir após call
+
+</details>
 
 ---
 
@@ -307,18 +376,28 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 08:00 – 09:00 • 🏯 Castelo de Osaka - FOTOS EXTERNAS APENAS
+### 08:00 – 09:00 • 🏯 Castelo de Osaka - FOTOS EXTERNAS
 - **🚇 Transporte:** JR Loop Line (Namba → Osakajokoen) | ~15 min | ¥180
+
+<details>
+<summary>Detalhes</summary>
+
 - **Fotos no parque externo** - NÃO entrar na torre (reconstrução moderna, tourist trap)
 - **Melhores spots:**
   - Nishinomaru Garden para ângulos do castelo
   - Moat (fossa) fotogênico
   - Ginkgo trees (dezembro ainda tem algumas folhas douradas)
 
+</details>
+
 ---
 
-### 09:00 – 10:00 • ⛩️ Tamatsukuri Inari Shrine **HIDDEN GEM** ⭐⭐⭐⭐⭐
+### 09:00 – 10:00 • ⛩️ Tamatsukuri Inari Shrine (HIDDEN GEM)
 - **🚶 Transporte:** 10 min a pé do Castelo
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - **Por que ir:** Construído por Toyotomi Hideyoshi (1580s) para PROTEGER o Castelo!
   - Guardian deity do Castelo de Osaka
@@ -328,11 +407,16 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - História profunda + fotogênico
 - **Tempo:** 45min-1h
 
+</details>
+
 ---
 
-### 09:45 – 10:30 • 🐱 Vegan Cat Cafe Neu (LOCALS) ⭐⭐⭐⭐⭐
-- **🚶 Transporte:** 10 min a pé do shrine (Tanimachi area, mesma região)
-- **Entrada:** ¥1000-1500 (entrada + bebida)
+### 09:45 – 10:30 • 🐱 Vegan Cat Cafe Neu (LOCALS)
+- **🚶 Transporte:** 10 min a pé do shrine | **¥1000-1500**
+
+<details>
+<summary>Detalhes</summary>
+
 - **Por que ir:** Cat cafe 100% VEGANO - RARO no Japão! Locais frequentam
   - **ADOÇÃO:** Possível adotar gatos! (locals adotam aqui)
   - Menu vegano completo: café, chá, sobremesas
@@ -342,23 +426,34 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - **Tempo:** 45min
 - **Estratégia:** Começar aqui para relaxar pós-shrine, depois comer no MERCY ao lado
 
+</details>
+
 ---
 
 ### 10:30 – 11:15 • 🥪 MERCY Vegan Factory (Almoço/Brunch)
-- **🚶 Transporte:** 5 min a pé (Tanimachi 9-chome area, praticamente ao lado do cat cafe)
+- **🚶 Transporte:** 5 min a pé | **¥2000**
+
+<details>
+<summary>Detalhes</summary>
+
 - **Por que ir:** Vegan food FAMOSO entre locais de Osaka
   - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE DISH
   - Karaage vegano
   - Gimbap coreano
   - Curry japonês
 - **Horário:** 08:00-21:00 (Seg-Sex & Feriados)
-- **Budget:** ¥2000/pessoa
 - **💡 COMBO:** Cat Cafe → MERCY = experiência vegan local completa na mesma área!
+
+</details>
 
 ---
 
-### 11:15 – 13:30 • 🏮 Tenjinbashisuji Shotengai **MAIOR ARCADE DO JAPÃO** ⭐⭐⭐⭐⭐
+### 11:15 – 13:30 • 🏮 Tenjinbashisuji Shotengai (MAIOR ARCADE DO JAPÃO)
 - **🚇 Transporte:** Tanimachi/Sakaisuji Line (Tanimachi 9-chome → Tenjimbashisuji Rokuchome) | ~8 min | ¥230
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - **Por que ir:** 2.6km de shopping arcade AUTÊNTICO onde locais fazem compras!
   - Atmosfera Showa-era preservada (anos 50-80)
@@ -369,10 +464,16 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - **Tempo:** 2h15min para explorar confortavelmente
 - **Estratégia:** Caminhar do sul (Tenjimbashisuji 6-chome) até o norte, explorando side streets
 
+</details>
+
 ---
 
-### 13:30 – 15:00 • 🧴 Tsuruhashi Korea Town **SKINCARE HEAVEN** ⭐⭐⭐⭐⭐
+### 13:30 – 15:00 • 🧴 Tsuruhashi Korea Town (SKINCARE HEAVEN)
 - **🚇 Transporte:** Tanimachi Line → Sakaisuji Line (Tenjimbashisuji → Tsuruhashi) | ~12 min | ¥240
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - **Por que ir:** Authentic Korean district + MELHOR skincare shopping de Osaka!
   - **Lojas de cosméticos:** Cosmetic SAMI, 韓LOVE, 韓美粧, ipuni
@@ -386,11 +487,17 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - **Budget:** ¥3000-8000 dependendo do que comprar
 - **⚠️ NOTA:** Comida vegana difícil aqui (área focada em Korean BBQ)
 
+</details>
+
 ---
 
 ### 15:00 – 16:00 • 🦁 Namba Yasaka Jinja
 - **🚇 Transporte:** Midosuji Line (Tsuruhashi → Namba) | ~8 min | ¥230
-- **🚶 Do metrô ao shrine:** 12 min a pé | FREE
+- **🚶 Do metrô ao shrine:** 12 min a pé
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - **Por que ir:** Santuário do leão gigante - ULTRA fotogênico!
   - ENORME cabeça de leão (12m altura)
@@ -400,11 +507,14 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - Poucos turistas, tranquilo
 - **Tempo:** 30-45min
 
+</details>
+
 ---
 
 ### 16:00 – 17:30 • Compras + Retorno ao hotel
 
-**🛒 16:00-16:45 • Supermercado/Drug Store (no caminho do hotel)**
+<details>
+<summary>🛒 16:00-16:45 • Supermercado/Drug Store</summary>
 
 **Supermercados perto de Namba:**
 - **Life Namba** (mais completo, produtos frescos)
@@ -483,31 +593,59 @@ Se preferir pedir delivery em vez de cozinhar no quarto:
 
 💡 **Recomendação:** Supermercado = mais econômico (¥1000-2000) + variedade proteica + pode guardar para outros dias
 
+</details>
+
 ---
 
-**16:45-17:30 • Organizar no quarto**
+### 16:45-17:30 • Organizar no quarto
+
+<details>
+<summary>Detalhes</summary>
+
 - Guardar compras na geladeira
 - Organizar compras de skincare do Korea Town
 - Preparar setup de trabalho
 
+</details>
+
 ---
 
 ### 17:30 – 22:00 • Trabalho remoto
+
+<details>
+<summary>Detalhes</summary>
+
 - **Jantar:** Usar produtos comprados no supermercado
   - Aquecer edamame/cup noodles com chaleira
   - Montar refeição: tofu + edamame + inari sushi + miso soup
   - Snacks: nuts, Soyjoy bars, frutas
 - Trabalhar tranquilo com comida no quarto
 
+</details>
+
 ---
 
 ### 22:00 – 23:00 • Preparação call + descanso
 
+<details>
+<summary>Detalhes</summary>
+
+- Organizar para call longa
+- Descanso curto
+
+</details>
+
 ---
 
 ### 23:30 – 01:00+ • CALL SEMANAL LONGO (10:30 EST = 00:30 JST)
+
+<details>
+<summary>Detalhes</summary>
+
 - Call mais longa que o habitual
 - Dormir após call
+
+</details>
 
 ---
 
@@ -553,8 +691,12 @@ Atividades interessantes que não couberam no roteiro de hoje:
 ---
 
 ### 09:00 – 11:30 • Shinsekai (área retro + games vintage)
-- **Entrada:** FREE
 - **🚇 Transporte:** Midosuji Line (Namba → Dobutsuen-mae) | ~10 min | ¥230
+
+<details>
+<summary>Detalhes</summary>
+
+- **Entrada:** FREE
 - Bairro RETRÔ com atmosfera anos 50-60
 - Torre Tsutenkaku (observation deck ¥900 - opcional)
 - MECA dos games retro e arcades
@@ -567,17 +709,26 @@ Atividades interessantes que não couberam no roteiro de hoje:
 - Brinquedos, acessórios, itens vintage, surpresas
 - Experiência tipo "loteria"
 
+</details>
+
 ---
 
 ### 11:30 – 15:30 • Aquário Kaiyukan + Tempozan (Osaka Bay)
 - **🚇 Transporte:** Midosuji → Chuo Line (Dobutsuen-mae → Osakako) | ~35 min | ¥280
+
+<details>
+<summary>Detalhes</summary>
+
 - Um dos MAIORES aquários do mundo (8 níveis)
 - Tanque principal 9m com tubarão-baleia
 - 15 tanques representando Oceano Pacífico
 - Tubarões-baleia, raias manta, lontras, pinguins, focas, águas-vivas
 - 2.5-3h para visita completa tranquila
 
----
+</details>
+
+<details>
+<summary>🎫 Ingressos Kaiyukan - Preços, Como Comprar</summary>
 
 #### 🎫 INGRESSOS KAIYUKAN (Sistema de preço dinâmico)
 
@@ -635,7 +786,10 @@ Atividades interessantes que não couberam no roteiro de hoje:
 - Ingresso pode ser usado como cupom de desconto no Tempozan Mall
 - Sexta-feira geralmente tem preços melhores que sábado/domingo
 
----
+</details>
+
+<details>
+<summary>Tempozan Mall + Almoço</summary>
 
 **Tempozan Mall (ao lado):**
 - Shopping com Tempozan Ferris Wheel (112.5m de altura)
@@ -647,10 +801,16 @@ Atividades interessantes que não couberam no roteiro de hoje:
 - Udon/soba vegetariano
 - Salads
 
+</details>
+
 ---
 
-### 15:30 – 17:30 • 🎨 Nakazakicho (Indie/Hipster District) ⭐⭐⭐⭐⭐
+### 15:30 – 17:30 • 🎨 Nakazakicho (Indie/Hipster District)
 - **🚇 Transporte:** Chuo Line + Midosuji Line (Osakako → Umeda, mudar para Nakazakicho) | ~25 min | ¥280
+
+<details>
+<summary>Detalhes</summary>
+
 - **Entrada:** FREE
 - **Por que ir:** Casas tradicionais japonesas transformadas em indie cafes + vintage shops
   - Creative atmosphere, hipster vibes
@@ -668,6 +828,8 @@ Atividades interessantes que não couberam no roteiro de hoje:
   - Café em casas tradicionais reformadas
   - Fotografia de arquitetura
 
+</details>
+
 ---
 
 ### 17:30 – 18:00 • Transporte para Tenma
@@ -675,7 +837,10 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ---
 
-### 18:00 – 21:00 • 🏮 TENMA IZAKAYAS - **EXPERIÊNCIA LOCAL NOTURNA** ⭐⭐⭐⭐⭐
+### 18:00 – 21:00 • 🏮 TENMA IZAKAYAS - EXPERIÊNCIA LOCAL NOTURNA
+
+<details>
+<summary>Detalhes - Vinyl Street, Hashigo-zake, Rota Izakayas</summary>
 
 #### 🍶 O que é Tenma?
 
@@ -744,9 +909,14 @@ Atividades interessantes que não couberam no roteiro de hoje:
 - **Atmosfera** é a atração principal!
 - Comer bem ANTES ou DEPOIS em restaurante vegano dedicado
 
+</details>
+
 ---
 
 ### 21:00 – 21:30 • Jantar vegano dedicado
+
+<details>
+<summary>Opções de Jantar</summary>
 
 **OPÇÃO A: Asai Togei** (Shinsaibashi)
 - **🚇 Transporte:** Sakaisuji Line (Tenjimbashisuji → Nagahoribashi) | ~8 min | ¥230
@@ -766,12 +936,20 @@ Atividades interessantes que não couberam no roteiro de hoje:
 - Onigiri vegano, saladas, instant noodles
 - ¥500-800
 
+</details>
+
 ---
 
 ### 21:30 – 22:30 • Retorno ao hotel
 - **🚇 Transporte:** De volta para Namba | ~15-20 min | ¥230-280
+
+<details>
+<summary>Detalhes</summary>
+
 - Organizar malas para último dia
 - Compras de última hora se necessário
+
+</details>
 
 ---
 
@@ -780,7 +958,13 @@ Atividades interessantes que não couberam no roteiro de hoje:
 ---
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
+<details>
+<summary>Detalhes</summary>
+
 - Daily work call
+
+</details>
 
 ---
 
@@ -807,15 +991,25 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
+---
+
 ### 08:00 – 10:00 • Check-out CEDO e viagem para Nara
+- **🚇 Transporte:** JR Yamatoji Rapid Line (Namba/Tennoji → Nara Station) | 30-50 min | ¥570
+
+<details>
+<summary>Detalhes</summary>
+
 - Check-out do Swissôtel Nankai Osaka
 - **Objetivo:** Sair NO MÁXIMO meio-dia para aproveitar Nara
-- **Transporte:** JR Yamatoji Rapid Line de Namba/Tennoji até Nara Station
-- **Duração:** 30-50 min
-- **Custo:** ¥570 (~R$ 21 / $4 USD) com Suica/Pasmo | Fonte: Hyperdia
 - Organizar malas com compras de Osaka
 
+</details>
+
+---
+
 ### 10:00 – 12:00 • Viagem e chegada em Nara
+
+---
 
 ### 12:00 – ... • Início do roteiro de Nara
 - Ver roteiro completo em [nara.md](./nara.md)
