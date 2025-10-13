@@ -460,6 +460,30 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
+**🍽️ Alternativa: Restaurantes Vegetarianos/Veganos Delivery (perto do hotel)**
+
+Se preferir pedir delivery em vez de cozinhar no quarto:
+
+- **Paprika Shokudo (OKO)** - Delivery via Uber Eats/Wolt
+  - Vegan takoyaki + okonomiyaki | ¥800-1500
+  - 10 min do hotel (Dotonbori area)
+
+- **Green Earth** - Restaurante vegano tradicional
+  - Menu completo vegano | ¥1500-2500
+  - Delivery ou pick-up
+
+- **Ain Soph Journey** - 100% Vegan
+  - Burgers, bowls, sobremesas | ¥1800-3000
+  - Delivery disponível
+
+- **Room Service Swissôtel** - Verificar opções vegetarianas
+  - Geralmente tem saladas, pasta vegetariana
+  - ¥2500-4000+ (preço hotel)
+
+💡 **Recomendação:** Supermercado = mais econômico (¥1000-2000) + variedade proteica + pode guardar para outros dias
+
+---
+
 **16:45-17:30 • Organizar no quarto**
 - Guardar compras na geladeira
 - Organizar compras de skincare do Korea Town
@@ -516,9 +540,9 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ## Sexta-feira, 12 de dezembro de 2025
 
-**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | Nipponbashi Den Den Town | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
+**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | **Nakazakicho indie/hipster** | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
 
-**💡 FOCO DO DIA:** Combinar atrações turísticas com experiência LOCAL NOTURNA - **Vinyl Street** em Tenma, onde os locais vão!
+**💡 FOCO DO DIA:** Combinar atrações turísticas com experiências LOCAIS - Nakazakicho (indie) + **Vinyl Street** em Tenma (izakayas autênticos)!
 
 ---
 
@@ -566,23 +590,33 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ---
 
-### 15:30 – 18:00 • Nipponbashi (Den Den Town)
-- **🚇 Transporte:** Chuo Line (Osakako → Nippombashi) | ~20 min | ¥280
-- Distrito eletrônico + anime/manga (versão Osaka do Akihabara)
-- Lojas de 7-8 andares de anime/games/figuras
-- M's Pop Life e outras lojas especializadas
-- Cultura otaku autêntica
-- Arcade centers modernos
+### 15:30 – 17:30 • 🎨 Nakazakicho (Indie/Hipster District) ⭐⭐⭐⭐⭐
+- **🚇 Transporte:** Chuo Line + Midosuji Line (Osakako → Umeda, mudar para Nakazakicho) | ~25 min | ¥280
+- **Entrada:** FREE
+- **Por que ir:** Casas tradicionais japonesas transformadas em indie cafes + vintage shops
+  - Creative atmosphere, hipster vibes
+  - **LOCALS vão aqui!** Zero turistas comparado a Dotonbori
+  - Vintage clothing stores locais (não chains)
+  - Small art galleries
+  - Specialty coffee shops escondidos
+  - Instagram-worthy autêntico (SEM ser tourist trap)
+  - Atmosfera Showa-era preservada com toque moderno
+- **Tempo:** 2h para explorar confortavelmente
+- **Vibe:** Criativo, relaxado, fotogênico, autêntico
+- **O que fazer:**
+  - Caminhar pelas ruelas descobrindo cafes escondidos
+  - Vintage shopping (roupas retrô japonesas)
+  - Café em casas tradicionais reformadas
+  - Fotografia de arquitetura
 
-**Opção:** Passar rapidamente em **LUU's BAO** (5 Chome-11-6 Nipponbashi)
-- Vegan BAO shop na área!
-- ¥800-1500 para snack rápido
+---
+
+### 17:30 – 18:00 • Transporte para Tenma
+- **🚇 Transporte:** Midosuji Line (Nakazakicho → Umeda → Tenjimbashisuji Rokuchome) | ~15 min | ¥230
 
 ---
 
 ### 18:00 – 21:00 • 🏮 TENMA IZAKAYAS - **EXPERIÊNCIA LOCAL NOTURNA** ⭐⭐⭐⭐⭐
-
-**🚇 Transporte:** Sakaisuji Line (Nippombashi → Tenjimbashisuji Rokuchome) | ~10 min | ¥230
 
 #### 🍶 O que é Tenma?
 
@@ -695,13 +729,14 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 | Categoria | Estimativa |
 |-----------|-----------|
-| Transportes | ¥1530 (~R$ 56) |
+| Transportes | ¥1740 (~R$ 63) |
 | Kaiyukan entrada | ¥2400 (~R$ 87) |
 | Almoço Tempozan | ¥1200 (~R$ 44) |
+| Nakazakicho (café/snack) | ¥800-1500 (~R$ 29-55) |
 | **Tenma Izakayas (3-4 paradas)** | **¥3000-4000 (~R$ 109-146)** |
 | Jantar vegano | ¥2000-4000 (~R$ 73-146) |
-| Snacks/extras | ¥1000 (~R$ 36) |
-| **TOTAL** | **¥11130-14130 (~R$ 406-516)** |
+| Snacks/extras | ¥500 (~R$ 18) |
+| **TOTAL** | **¥11640-15340 (~R$ 425-560)** |
 
 **💡 Tenma é BARATO - standing bars custam ¥500-1000/parada!**
 
