@@ -293,7 +293,7 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Quinta-feira, 11 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka (FOTOS) | Tamatsukuri Inari Shrine (guardian deity) | MERCY Vegan | Tenjinbashisuji Shotengai 2.6km | Korea Town Skincare | Namba Yasaka | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Castelo de Osaka (FOTOS) | Tamatsukuri Inari Shrine (guardian deity) | Vegan Cat Cafe (adoção!) | MERCY Vegan | Tenjinbashisuji Shotengai 2.6km | Korea Town Skincare | Namba Yasaka | CALL SEMANAL LONGO
 
 **🏨 Hotel Base:** Swissôtel Nankai Osaka (conectado à Namba Station)
 
@@ -330,20 +330,34 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 10:00 – 11:00 • 🥪 MERCY Vegan Factory (Almoço Cedo)
-- **🚇 Transporte:** 10 min a pé (Tanimachi 9-chome area, mesma região)
+### 09:45 – 10:30 • 🐱 Vegan Cat Cafe Neu (LOCALS) ⭐⭐⭐⭐⭐
+- **🚶 Transporte:** 10 min a pé do shrine (Tanimachi area, mesma região)
+- **Entrada:** ¥1000-1500 (entrada + bebida)
+- **Por que ir:** Cat cafe 100% VEGANO - RARO no Japão! Locais frequentam
+  - **ADOÇÃO:** Possível adotar gatos! (locals adotam aqui)
+  - Menu vegano completo: café, chá, sobremesas
+  - Atmosfera relaxante
+  - Gatos resgatados
+  - Zero turistas, comunidade local vegana
+- **Tempo:** 45min
+- **Estratégia:** Começar aqui para relaxar pós-shrine, depois comer no MERCY ao lado
+
+---
+
+### 10:30 – 11:15 • 🥪 MERCY Vegan Factory (Almoço/Brunch)
+- **🚶 Transporte:** 5 min a pé (Tanimachi 9-chome area, praticamente ao lado do cat cafe)
 - **Por que ir:** Vegan food FAMOSO entre locais de Osaka
-  - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE
+  - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE DISH
   - Karaage vegano
   - Gimbap coreano
   - Curry japonês
 - **Horário:** 08:00-21:00 (Seg-Sex & Feriados)
 - **Budget:** ¥2000/pessoa
-- **Estratégia:** Almoçar cedo (10:00) = menos fila + energia para resto do dia
+- **💡 COMBO:** Cat Cafe → MERCY = experiência vegan local completa na mesma área!
 
 ---
 
-### 11:00 – 13:30 • 🏮 Tenjinbashisuji Shotengai **MAIOR ARCADE DO JAPÃO** ⭐⭐⭐⭐⭐
+### 11:15 – 13:30 • 🏮 Tenjinbashisuji Shotengai **MAIOR ARCADE DO JAPÃO** ⭐⭐⭐⭐⭐
 - **🚇 Transporte:** Tanimachi/Sakaisuji Line (Tanimachi 9-chome → Tenjimbashisuji Rokuchome) | ~8 min | ¥230
 - **Entrada:** FREE
 - **Por que ir:** 2.6km de shopping arcade AUTÊNTICO onde locais fazem compras!
@@ -352,7 +366,7 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - Street food tradicional
   - Osaka Tenmangu Shrine (shrine de estudantes - Tenjin deity)
   - Osaka Museum of Housing and Living (¥600 - opcional)
-- **Tempo:** 2.5h para explorar confortavelmente
+- **Tempo:** 2h15min para explorar confortavelmente
 - **Estratégia:** Caminhar do sul (Tenjimbashisuji 6-chome) até o norte, explorando side streets
 
 ---
@@ -418,12 +432,13 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 | Categoria | Estimativa |
 |-----------|-----------|
 | Transportes | ¥880 (~R$ 32) |
+| Vegan Cat Cafe Neu | ¥1000-1500 (~R$ 36-55) |
 | MERCY Vegan Factory | ¥2000 (~R$ 73) |
 | Tenjinbashisuji (street food/snacks) | ¥1000-1500 (~R$ 36-55) |
 | Korea Town skincare shopping | ¥3000-8000 (~R$ 109-292) |
 | Jantar (konbini/delivery) | ¥1000 (~R$ 36) |
-| **TOTAL (sem skincare)** | **¥4880-5380 (~R$ 178-196)** |
-| **TOTAL (com skincare médio ¥5000)** | **¥9880 (~R$ 360)** |
+| **TOTAL (sem skincare)** | **¥5880-6380 (~R$ 214-233)** |
+| **TOTAL (com skincare médio ¥5000)** | **¥10880 (~R$ 397)** |
 
 ---
 
