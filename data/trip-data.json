@@ -504,6 +504,16 @@
       ],
       "vegetarian_restaurants": [
         {
+          "name": "Vegan Cat Cafe Neu",
+          "type": "100% Vegan Cat Cafe",
+          "price": "¥1000-1500 (entrada + bebida)",
+          "location": "Tanimachi area, Chuo-ku (perto do MERCY)",
+          "metro": "Tanimachi 9-chome Station (próximo)",
+          "opening_hours": "verificar horários",
+          "advance_booking": "não necessário",
+          "notes": "Cat cafe 100% vegano - RARO no Japão! POSSÍVEL ADOTAR GATOS (locais adotam aqui). Menu vegano completo: café, chá, sobremesas. Gatos resgatados. Zero turistas, comunidade local vegana. COMBO perfeito com MERCY na mesma área!"
+        },
+        {
           "name": "MERCY Vegan Factory",
           "type": "100% Vegan",
           "price": "¥ 2000",
@@ -511,7 +521,7 @@
           "metro": "Tanimachi 9-chome Station (7 min walk)",
           "opening_hours": "Seg-Sex & Feriados: 08:00-21:00, fechado sábado",
           "advance_booking": "não necessário",
-          "notes": "FAMOSO pelo Egg Sandwich vegano (feito com abóbora e tofu). Também serve karaage, gimbap coreano, curry"
+          "notes": "FAMOSO pelo Egg Sandwich vegano (feito com abóbora e tofu). Também serve karaage, gimbap coreano, curry. COMBO perfeito com Vegan Cat Cafe Neu na mesma área (5 min a pé)!"
         },
         {
           "name": "Green Earth",
