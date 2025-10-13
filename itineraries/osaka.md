@@ -554,24 +554,24 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 19:45 – 20:15 • 🍜 Jantar em Dotonbori
-- **🚶 Transporte:** 5 min a pé (Shinsaibashi conecta direto com Dotonbori)
+### 19:45 – 20:15 • 🍜 Jantar em Dotonbori OU 🛒 Supermercado
+- **🚶 Transporte:** 5 min a pé (Shinsaibashi conecta direto com Dotonbori/Namba)
 
 <details>
-<summary>Detalhes - Opções de Jantar Vegano</summary>
+<summary>OPÇÃO A: Jantar em Restaurante Vegano</summary>
 
-**OPÇÃO 1: Paprika Shokudo (OKO)** ⭐ RECOMENDADO
+**OPÇÃO A1: Paprika Shokudo (OKO)** ⭐ RECOMENDADO
 - Vegan takoyaki + okonomiyaki | ¥800-1500
 - IMPERDÍVEL! Versões veganas de pratos típicos de Osaka
 - Pode ter fila, mas é rápida
 - Ambiente excêntrico com graffiti
 
-**OPÇÃO 2: Green Earth**
+**OPÇÃO A2: Green Earth**
 - Restaurante vegano tradicional japonês | ¥1500-2500
 - Menu completo vegano
 - Mais formal
 
-**OPÇÃO 3: Ain Soph Journey**
+**OPÇÃO A3: Ain Soph Journey**
 - 100% Vegan burgers, bowls, sobremesas | ¥1800-3000
 - Estilo moderno
 
@@ -581,6 +581,66 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - Glico Running Man sign
 - Ponte Ebisubashi
 - Neons vibrantes
+
+</details>
+
+<details>
+<summary>OPÇÃO B: Supermercado/Drug Store para jantar no hotel</summary>
+
+**Supermercados perto de Namba:**
+- **Life Namba** (mais completo, produtos frescos)
+- **Aeon Style Namba** (variedade boa)
+- **Drug stores:** Matsumoto Kiyoshi, Daikoku Drug (snacks + produtos)
+
+**💡 Estratégia:** Comprar jantar/snacks para comer no hotel durante trabalho
+
+#### 🌱 Sugestões de Compras Veganas com Proteína (hotel tem chaleira elétrica!)
+
+**Proteína Alta + Saciedade:**
+- **Edamame congelado** (枝豆) | ¥150-300
+  - Aquecer com água quente da chaleira do quarto
+  - Alta proteína, super saciedade
+- **Tofu simples** (豆腐 - silken ou firm) | ¥80-150
+  - Pode comer frio ou aquecer com água quente
+  - Já vem em embalagem pronta
+- **Natto** (納豆) | ¥100-200
+  - ⚠️ ATENÇÃO: Molho geralmente tem peixe! Comer só os grãos com soja shoyu
+  - Proteína fermentada, super nutritivo
+- **Inari sushi** (稲荷寿司) | ¥200-400
+  - Pronto para comer frio
+  - Tofu frito recheado com arroz
+
+**Refeições Rápidas (usar chaleira):**
+- **Cup noodles veganos** (verificar kanji 植物性/ベジタリアン) | ¥150-300
+  - Só adicionar água quente da chaleira
+  - Alguns sabores: vegetable, curry, soy
+- **Instant miso soup** individual | ¥100-200
+  - Muitos são veganos (verificar dashi de peixe)
+  - Água quente da chaleira
+
+**Snacks Proteicos:**
+- **Soyjoy bars plant-based** | ¥100-150/unidade
+  - Várias opções na maioria das lojas
+- **Mixed nuts** (ミックスナッツ) | ¥300-600
+  - Alta proteína, saciedade duradoura
+- **Amendoins** (ピーナッツ) | ¥150-300
+- **Edamame pronto** (triangular pack) | ¥150-200
+  - Já temperado com sal, comer frio
+
+**Frutas + Complementos:**
+- **Bananas** | ¥100-150
+- **Soy yogurt** (豆乳ヨーグルト) | ¥150-250
+- **Onigiri veganos:** umeboshi (梅干し), kombu (昆布) | ¥120-150
+- **Pão integral** + pasta de amendoim | ¥200-400
+
+**💰 Budget compras:** ¥1000-2000 (refeição + snacks para noite)
+
+**🏨 Facilidades no Swissôtel:**
+- ✅ Chaleira elétrica (aquecer água)
+- ✅ Geladeira (guardar tofu, edamame, yogurt)
+- ❌ Microondas (não tem no quarto)
+
+💡 **Recomendação:** Supermercado = mais econômico (¥1000-2000) + variedade proteica + pode guardar para outros dias
 
 </details>
 
@@ -657,9 +717,9 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Sexta-feira, 12 de dezembro de 2025
 
-**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
+**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | **Namba Yasaka Jinja** (leão gigante) | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
 
-**💡 FOCO DO DIA:** Atrações turísticas + experiência LOCAL autêntica em **Vinyl Street** (Tenma izakayas)!
+**💡 FOCO DO DIA:** Atrações turísticas + scenic fotogênico + experiência LOCAL autêntica em **Vinyl Street** (Tenma izakayas)!
 
 ---
 
@@ -783,15 +843,40 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 15:30 – 17:30 • Tempo livre / Descanso
-- **Opção:** Voltar ao hotel para descansar antes da experiência noturna em Tenma
+### 15:30 – 16:00 • Transporte para Namba Yasaka
+- **🚇 Transporte:** Chuo Line (Osakako → Namba) | ~12 min | ¥240
+
+---
+
+### 16:00 – 16:45 • 🦁 Namba Yasaka Jinja
+- **🚶 Do metrô ao shrine:** 12 min a pé
+
+<details>
+<summary>Detalhes</summary>
+
+- **Entrada:** FREE
+- **Por que ir:** Santuário do leão gigante - ULTRA fotogênico!
+  - ENORME cabeça de leão (12m altura)
+  - Palco Ema-Den em formato de leão - único no Japão
+  - Leão 'engole' má sorte e traz boa fortuna
+  - Reconstruído em 1974, mas visualmente impressionante
+  - Poucos turistas, tranquilo
+- **Tempo:** 45min
+- **💡 LUZ BOA:** Ainda tem luz natural (~16:00-16:45, sunset ~17:00)
+
+</details>
+
+---
+
+### 16:45 – 17:30 • Retorno ao hotel / Descanso
+- **🚶 Transporte:** 10-15 min a pé (Namba Yasaka → Swissôtel Nankai)
 
 <details>
 <summary>Detalhes</summary>
 
 - Descansar no hotel após dia cheio (call longa da madrugada)
 - Organizar compras
-- **Alternativa:** Explorar área próxima ao hotel (Namba, Dotonbori) de forma tranquila
+- Preparar para experiência noturna em Tenma
 
 </details>
 
@@ -937,15 +1022,17 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 | Categoria | Estimativa |
 |-----------|-----------|
-| Transportes | ¥970 (~R$ 35) |
+| Transportes | ¥1210 (~R$ 44) |
 | Kaiyukan entrada | ¥2700 (~R$ 98) |
 | Almoço Tempozan | ¥1200 (~R$ 44) |
+| Namba Yasaka Jinja | FREE |
 | **Tenma Izakayas (3-4 paradas)** | **¥3000-4000 (~R$ 109-146)** |
 | Jantar vegano | ¥2000-4000 (~R$ 73-146) |
 | Snacks/extras | ¥500 (~R$ 18) |
-| **TOTAL** | **¥10370-13370 (~R$ 378-488)** |
+| **TOTAL** | **¥10610-13610 (~R$ 387-496)** |
 
 **💡 Tenma é BARATO - standing bars custam ¥500-1000/parada!**
+**💡 Namba Yasaka com luz boa (16:00-16:45) - perfeito para fotos do leão gigante!**
 
 ---
 
