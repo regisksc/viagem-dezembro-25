@@ -362,11 +362,11 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ## Quinta-feira, 11 de dezembro de 2025
 
-**📋 Resumo do dia:** Castelo de Osaka (FOTOS) | Tamatsukuri Inari Shrine (guardian deity) | Vegan Cat Cafe (adoção!) | MERCY Vegan | Tenjinbashisuji Shotengai 2.6km | Korea Town Skincare | Namba Yasaka | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Castelo de Osaka (FOTOS) | Tamatsukuri Inari Shrine | MERCY Vegan | Cat Cafe | **Nakazakicho indie/hipster** | Tenjinbashisuji Shotengai 2.6km | Korea Town Skincare | Shinsaibashi Shopping | Jantar Dotonbori | CALL SEMANAL LONGO
 
 **🏨 Hotel Base:** Swissôtel Nankai Osaka (conectado à Namba Station)
 
-**💡 FOCO DO DIA:** Experiências LOCAIS autênticas - áreas que turistas não conhecem!
+**💡 FOCO DO DIA:** Scenic de manhã + Experiências LOCAIS autênticas | Deslocamento otimizado: Leste → Norte → Sul
 
 ---
 
@@ -411,8 +411,26 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 09:45 – 10:30 • 🐱 Vegan Cat Cafe Neu (LOCALS)
-- **🚶 Transporte:** 10 min a pé do shrine | **¥1000-1500**
+### 10:00 – 10:45 • 🥪 MERCY Vegan Factory (Brunch)
+- **🚶 Transporte:** 10 min a pé do shrine | **¥2000**
+
+<details>
+<summary>Detalhes</summary>
+
+- **Por que ir:** Vegan food FAMOSO entre locais de Osaka
+  - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE DISH
+  - Karaage vegano
+  - Gimbap coreano
+  - Curry japonês
+- **Horário:** 08:00-21:00 (Seg-Sex & Feriados)
+- **💡 COMBO:** MERCY → Cat Cafe = experiência vegan local completa na mesma área!
+
+</details>
+
+---
+
+### 10:45 – 11:30 • 🐱 Vegan Cat Cafe Neu (LOCALS)
+- **🚶 Transporte:** 5 min a pé do MERCY | **¥1000-1500**
 
 <details>
 <summary>Detalhes</summary>
@@ -424,32 +442,48 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - Gatos resgatados
   - Zero turistas, comunidade local vegana
 - **Tempo:** 45min
-- **Estratégia:** Começar aqui para relaxar pós-shrine, depois comer no MERCY ao lado
+- **Estratégia:** Relaxar pós-brunch, depois seguir para Norte de Osaka
 
 </details>
 
 ---
 
-### 10:30 – 11:15 • 🥪 MERCY Vegan Factory (Almoço/Brunch)
-- **🚶 Transporte:** 5 min a pé | **¥2000**
+### 11:30 – 12:00 • Transporte para Nakazakicho
+- **🚇 Transporte:** Tanimachi Line (Tanimachi 9-chome → Nakazakicho) | ~15 min | ¥230
+
+---
+
+### 12:00 – 14:00 • 🎨 Nakazakicho (Indie/Hipster District) ⭐
+- **Chegada:** A pé da estação (~5 min)
 
 <details>
 <summary>Detalhes</summary>
 
-- **Por que ir:** Vegan food FAMOSO entre locais de Osaka
-  - Egg sandwich vegano (feito com abóbora e tofu) - SIGNATURE DISH
-  - Karaage vegano
-  - Gimbap coreano
-  - Curry japonês
-- **Horário:** 08:00-21:00 (Seg-Sex & Feriados)
-- **💡 COMBO:** Cat Cafe → MERCY = experiência vegan local completa na mesma área!
+- **Entrada:** FREE
+- **Por que ir:** Casas tradicionais japonesas transformadas em indie cafes + vintage shops
+  - Creative atmosphere, hipster vibes
+  - **LOCALS vão aqui!** Zero turistas comparado a Dotonbori
+  - Vintage clothing stores locais (não chains)
+  - Small art galleries
+  - Specialty coffee shops escondidos
+  - Instagram-worthy autêntico (SEM ser tourist trap)
+  - Atmosfera Showa-era preservada com toque moderno
+- **Tempo:** 2h para explorar confortavelmente + almoço leve/café
+- **Vibe:** Criativo, relaxado, fotogênico, autêntico
+- **O que fazer:**
+  - Caminhar pelas ruelas descobrindo cafes escondidos
+  - Vintage shopping (roupas retrô japonesas)
+  - Café/lanche em casas tradicionais reformadas
+  - Fotografia de arquitetura
+
+**💡 Almoço leve aqui:** Cafés indie servem opções vegetarianas/veganas (¥800-1500)
 
 </details>
 
 ---
 
-### 11:15 – 13:30 • 🏮 Tenjinbashisuji Shotengai (MAIOR ARCADE DO JAPÃO)
-- **🚇 Transporte:** Tanimachi/Sakaisuji Line (Tanimachi 9-chome → Tenjimbashisuji Rokuchome) | ~8 min | ¥230
+### 14:00 – 16:30 • 🏮 Tenjinbashisuji Shotengai (MAIOR ARCADE DO JAPÃO)
+- **🚇 Transporte:** Tanimachi Line (Nakazakicho → Tenjimbashisuji Rokuchome) | ~5 min | ¥180
 
 <details>
 <summary>Detalhes</summary>
@@ -461,15 +495,19 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - Street food tradicional
   - Osaka Tenmangu Shrine (shrine de estudantes - Tenjin deity)
   - Osaka Museum of Housing and Living (¥600 - opcional)
-- **Tempo:** 2h15min para explorar confortavelmente
+- **Tempo:** 2h30min para explorar confortavelmente
 - **Estratégia:** Caminhar do sul (Tenjimbashisuji 6-chome) até o norte, explorando side streets
 
 </details>
 
 ---
 
-### 13:30 – 15:00 • 🧴 Tsuruhashi Korea Town (SKINCARE HEAVEN)
-- **🚇 Transporte:** Tanimachi Line → Sakaisuji Line (Tenjimbashisuji → Tsuruhashi) | ~12 min | ¥240
+### 16:30 – 17:00 • Transporte para Korea Town
+- **🚇 Transporte:** Tanimachi Line (Tenjimbashisuji → Tsuruhashi) | ~20 min | ¥280
+
+---
+
+### 17:00 – 18:30 • 🧴 Tsuruhashi Korea Town (SKINCARE HEAVEN)
 
 <details>
 <summary>Detalhes</summary>
@@ -483,7 +521,7 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
   - Área autêntica, poucos turistas ocidentais
   - Maior Korea Town do Japão!
 - **Como chegar às lojas:** 10 min walk de JR Tsuruhashi Station heading east on Sennichimae-dori
-- **Tempo:** 1.5h (30min eficiente se focar só em skincare)
+- **Tempo:** 1h30min para explorar confortavelmente
 - **Budget:** ¥3000-8000 dependendo do que comprar
 - **⚠️ NOTA:** Comida vegana difícil aqui (área focada em Korean BBQ)
 
@@ -491,135 +529,84 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 15:00 – 16:00 • 🦁 Namba Yasaka Jinja
-- **🚇 Transporte:** Midosuji Line (Tsuruhashi → Namba) | ~8 min | ¥230
-- **🚶 Do metrô ao shrine:** 12 min a pé
+### 18:30 – 19:00 • Transporte para Shinsaibashi
+- **🚇 Transporte:** Kintetsu Line → Midosuji Line (Tsuruhashi → Shinsaibashi) | ~12 min | ¥240
+
+---
+
+### 19:00 – 19:45 • 🛍️ Shinsaibashi Shopping Street
+- **🚶 Chegada:** A pé da estação (~2 min)
 
 <details>
 <summary>Detalhes</summary>
 
 - **Entrada:** FREE
-- **Por que ir:** Santuário do leão gigante - ULTRA fotogênico!
-  - ENORME cabeça de leão (12m altura)
-  - Palco Ema-Den em formato de leão - único no Japão
-  - Leão 'engole' má sorte e traz boa fortuna
-  - Reconstruído em 1974, mas visualmente impressionante
-  - Poucos turistas, tranquilo
-- **Tempo:** 30-45min
+- **Por que ir:** Rua de compras coberta MAIS FAMOSA de Osaka!
+  - 600m de shopping arcade paralela ao Dotonbori
+  - Mix de lojas: moda japonesa, cosméticos, drug stores, souvenirs
+  - **Drug stores:** Matsumoto Kiyoshi, Daikoku Drug (última chance para compras)
+  - Atmosfera vibrante, iluminação noturna incrível
+  - Menos turística que Dotonbori, mais locals fazem compras aqui
+- **Tempo:** 45min para explorar + compras de última hora
+- **Budget:** ¥1000-3000 (drug store, souvenirs)
 
 </details>
 
 ---
 
-### 16:00 – 17:30 • Compras + Retorno ao hotel
+### 19:45 – 20:15 • 🍜 Jantar em Dotonbori
+- **🚶 Transporte:** 5 min a pé (Shinsaibashi conecta direto com Dotonbori)
 
 <details>
-<summary>🛒 16:00-16:45 • Supermercado/Drug Store</summary>
+<summary>Detalhes - Opções de Jantar Vegano</summary>
 
-**Supermercados perto de Namba:**
-- **Life Namba** (mais completo, produtos frescos)
-- **Aeon Style Namba** (variedade boa)
-- **Drug stores:** Matsumoto Kiyoshi, Daikoku Drug (snacks + produtos)
+**OPÇÃO 1: Paprika Shokudo (OKO)** ⭐ RECOMENDADO
+- Vegan takoyaki + okonomiyaki | ¥800-1500
+- IMPERDÍVEL! Versões veganas de pratos típicos de Osaka
+- Pode ter fila, mas é rápida
+- Ambiente excêntrico com graffiti
 
-**💡 Estratégia:** Comprar jantar/snacks para ter no hotel durante trabalho
+**OPÇÃO 2: Green Earth**
+- Restaurante vegano tradicional japonês | ¥1500-2500
+- Menu completo vegano
+- Mais formal
 
-#### 🌱 Sugestões de Compras Veganas com Proteína (hotel tem chaleira elétrica!)
+**OPÇÃO 3: Ain Soph Journey**
+- 100% Vegan burgers, bowls, sobremesas | ¥1800-3000
+- Estilo moderno
 
-**Proteína Alta + Saciedade:**
-- **Edamame congelado** (枝豆) | ¥150-300
-  - Aquecer com água quente da chaleira do quarto
-  - Alta proteína, super saciedade
-- **Tofu simples** (豆腐 - silken ou firm) | ¥80-150
-  - Pode comer frio ou aquecer com água quente
-  - Já vem em embalagem pronta
-- **Natto** (納豆) | ¥100-200
-  - ⚠️ ATENÇÃO: Molho geralmente tem peixe! Comer só os grãos com soja shoyu
-  - Proteína fermentada, super nutritivo
-- **Inari sushi** (稲荷寿司) | ¥200-400
-  - Pronto para comer frio
-  - Tofu frito recheado com arroz
+**💡 Recomendação:** Paprika Shokudo para experiência autêntica Osaka!
 
-**Refeições Rápidas (usar chaleira):**
-- **Cup noodles veganos** (verificar kanji 植物性/ベジタリアン) | ¥150-300
-  - Só adicionar água quente da chaleira
-  - Alguns sabores: vegetable, curry, soy
-- **Instant miso soup** individual | ¥100-200
-  - Muitos são veganos (verificar dashi de peixe)
-  - Água quente da chaleira
-
-**Snacks Proteicos:**
-- **Soyjoy bars plant-based** | ¥100-150/unidade
-  - Várias opções na maioria das lojas
-- **Mixed nuts** (ミックスナッツ) | ¥300-600
-  - Alta proteína, saciedade duradoura
-- **Amendoins** (ピーナッツ) | ¥150-300
-- **Edamame pronto** (triangular pack) | ¥150-200
-  - Já temperado com sal, comer frio
-
-**Frutas + Complementos:**
-- **Bananas** | ¥100-150
-- **Soy yogurt** (豆乳ヨーグルト) | ¥150-250
-- **Onigiri veganos:** umeboshi (梅干し), kombu (昆布) | ¥120-150
-- **Pão integral** + pasta de amendoim | ¥200-400
-
-**💰 Budget compras:** ¥1000-2000 (refeição + snacks para noite)
-
-**🏨 Facilidades no Swissôtel:**
-- ✅ Chaleira elétrica (aquecer água)
-- ✅ Geladeira (guardar tofu, edamame, yogurt)
-- ❌ Microondas (não tem no quarto)
-
----
-
-**🍽️ Alternativa: Restaurantes Vegetarianos/Veganos Delivery (perto do hotel)**
-
-Se preferir pedir delivery em vez de cozinhar no quarto:
-
-- **Paprika Shokudo (OKO)** - Delivery via Uber Eats/Wolt
-  - Vegan takoyaki + okonomiyaki | ¥800-1500
-  - 10 min do hotel (Dotonbori area)
-
-- **Green Earth** - Restaurante vegano tradicional
-  - Menu completo vegano | ¥1500-2500
-  - Delivery ou pick-up
-
-- **Ain Soph Journey** - 100% Vegan
-  - Burgers, bowls, sobremesas | ¥1800-3000
-  - Delivery disponível
-
-- **Room Service Swissôtel** - Verificar opções vegetarianas
-  - Geralmente tem saladas, pasta vegetariana
-  - ¥2500-4000+ (preço hotel)
-
-💡 **Recomendação:** Supermercado = mais econômico (¥1000-2000) + variedade proteica + pode guardar para outros dias
+**Durante jantar:** Aproveitar Dotonbori iluminado à noite
+- Glico Running Man sign
+- Ponte Ebisubashi
+- Neons vibrantes
 
 </details>
 
 ---
 
-### 16:45-17:30 • Organizar no quarto
+### 20:15 – 20:30 • Retorno ao hotel
+- **🚶 Transporte:** 10-15 min a pé (Dotonbori → Swissôtel Nankai)
 
 <details>
 <summary>Detalhes</summary>
 
-- Guardar compras na geladeira
-- Organizar compras de skincare do Korea Town
+- Caminhada curta de volta
+- Organizar compras do dia (skincare Korea Town, Shinsaibashi)
 - Preparar setup de trabalho
 
 </details>
 
 ---
 
-### 17:30 – 22:00 • Trabalho remoto
+### 20:30 – 22:00 • Trabalho remoto
 
 <details>
 <summary>Detalhes</summary>
 
-- **Jantar:** Usar produtos comprados no supermercado
-  - Aquecer edamame/cup noodles com chaleira
-  - Montar refeição: tofu + edamame + inari sushi + miso soup
-  - Snacks: nuts, Soyjoy bars, frutas
-- Trabalhar tranquilo com comida no quarto
+- Trabalho remoto no quarto
+- **Snack:** Se precisar, konbini no hotel (7-Eleven, Lawson)
 
 </details>
 
@@ -653,35 +640,26 @@ Se preferir pedir delivery em vez de cozinhar no quarto:
 
 | Categoria | Estimativa |
 |-----------|-----------|
-| Transportes | ¥880 (~R$ 32) |
+| Transportes | ¥1160 (~R$ 42) |
+| MERCY Vegan Factory (brunch) | ¥2000 (~R$ 73) |
 | Vegan Cat Cafe Neu | ¥1000-1500 (~R$ 36-55) |
-| MERCY Vegan Factory | ¥2000 (~R$ 73) |
-| Tenjinbashisuji (street food/snacks) | ¥1000-1500 (~R$ 36-55) |
+| Nakazakicho (café/almoço leve) | ¥800-1500 (~R$ 29-55) |
+| Tenjinbashisuji (snacks) | ¥500-1000 (~R$ 18-36) |
 | Korea Town skincare shopping | ¥3000-8000 (~R$ 109-292) |
-| Supermercado (jantar + snacks) | ¥1000-2000 (~R$ 36-73) |
-| **TOTAL (sem skincare)** | **¥6880-8380 (~R$ 251-306)** |
-| **TOTAL (com skincare médio ¥5000)** | **¥11880 (~R$ 433)** |
+| Shinsaibashi (compras) | ¥1000-3000 (~R$ 36-109) |
+| Jantar Dotonbori | ¥800-1500 (~R$ 29-55) |
+| **TOTAL (sem skincare)** | **¥7260-10660 (~R$ 265-389)** |
+| **TOTAL (com skincare médio ¥5000)** | **¥12260-15660 (~R$ 447-571)** |
 
----
-
-### 📝 Atividades Não Incluídas (Falta de Tempo)
-
-Atividades interessantes que não couberam no roteiro de hoje:
-
-- **Nakazakicho** (Indie/hipster district) - 1.5-2h
-- **Sumiyoshi Taisha** (Shrine milenar) - 2h com transporte
-- **Katsuoji Temple** (Winning daruma) - 3h com transporte
-- **Specialty cafes locais** (abotam coffee, Shuhari soba)
-
-💡 **Considerar:** Se quiser trocar alguma atividade, Sumiyoshi Taisha ou Nakazakicho podem substituir Tenjinbashisuji OU Korea Town (escolher um foco).
+**💡 Dia estendido até 20:30!** Experiências locais autênticas + shopping + jantar em Dotonbori iluminado!
 
 ---
 
 ## Sexta-feira, 12 de dezembro de 2025
 
-**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | **Nakazakicho indie/hipster** | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
+**📋 Resumo do dia:** Shinsekai retro games | Aquário Kaiyukan | **TENMA IZAKAYAS** (horário dos locais!) | Experiência bar hopping autêntica
 
-**💡 FOCO DO DIA:** Combinar atrações turísticas com experiências LOCAIS - Nakazakicho (indie) + **Vinyl Street** em Tenma (izakayas autênticos)!
+**💡 FOCO DO DIA:** Atrações turísticas + experiência LOCAL autêntica em **Vinyl Street** (Tenma izakayas)!
 
 ---
 
@@ -805,35 +783,22 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ---
 
-### 15:30 – 17:30 • 🎨 Nakazakicho (Indie/Hipster District)
-- **🚇 Transporte:** Chuo Line + Midosuji Line (Osakako → Umeda, mudar para Nakazakicho) | ~25 min | ¥280
+### 15:30 – 17:30 • Tempo livre / Descanso
+- **Opção:** Voltar ao hotel para descansar antes da experiência noturna em Tenma
 
 <details>
 <summary>Detalhes</summary>
 
-- **Entrada:** FREE
-- **Por que ir:** Casas tradicionais japonesas transformadas em indie cafes + vintage shops
-  - Creative atmosphere, hipster vibes
-  - **LOCALS vão aqui!** Zero turistas comparado a Dotonbori
-  - Vintage clothing stores locais (não chains)
-  - Small art galleries
-  - Specialty coffee shops escondidos
-  - Instagram-worthy autêntico (SEM ser tourist trap)
-  - Atmosfera Showa-era preservada com toque moderno
-- **Tempo:** 2h para explorar confortavelmente
-- **Vibe:** Criativo, relaxado, fotogênico, autêntico
-- **O que fazer:**
-  - Caminhar pelas ruelas descobrindo cafes escondidos
-  - Vintage shopping (roupas retrô japonesas)
-  - Café em casas tradicionais reformadas
-  - Fotografia de arquitetura
+- Descansar no hotel após dia cheio (call longa da madrugada)
+- Organizar compras
+- **Alternativa:** Explorar área próxima ao hotel (Namba, Dotonbori) de forma tranquila
 
 </details>
 
 ---
 
 ### 17:30 – 18:00 • Transporte para Tenma
-- **🚇 Transporte:** Midosuji Line (Nakazakicho → Umeda → Tenjimbashisuji Rokuchome) | ~15 min | ¥230
+- **🚇 Transporte:** Midosuji Line (Namba → Tenjimbashisuji Rokuchome) | ~10 min | ¥230
 
 ---
 
@@ -972,14 +937,13 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 | Categoria | Estimativa |
 |-----------|-----------|
-| Transportes | ¥1740 (~R$ 63) |
-| Kaiyukan entrada | ¥2400 (~R$ 87) |
+| Transportes | ¥970 (~R$ 35) |
+| Kaiyukan entrada | ¥2700 (~R$ 98) |
 | Almoço Tempozan | ¥1200 (~R$ 44) |
-| Nakazakicho (café/snack) | ¥800-1500 (~R$ 29-55) |
 | **Tenma Izakayas (3-4 paradas)** | **¥3000-4000 (~R$ 109-146)** |
 | Jantar vegano | ¥2000-4000 (~R$ 73-146) |
 | Snacks/extras | ¥500 (~R$ 18) |
-| **TOTAL** | **¥11640-15340 (~R$ 425-560)** |
+| **TOTAL** | **¥10370-13370 (~R$ 378-488)** |
 
 **💡 Tenma é BARATO - standing bars custam ¥500-1000/parada!**
 
