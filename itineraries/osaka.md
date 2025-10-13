@@ -301,101 +301,121 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 🎯 Opções Out-of-the-Box Região do Castelo (ESCOLHER 1-2)
+### 🎯 Opções Out-of-the-Box Osaka (ESCOLHER 1-2)
 
 **IMPORTANTE:** Castelo = só fotos externas do parque, NÃO entrar na torre principal (tourist trap reconstruída)
 
-#### 🏛️ OPÇÃO 1: Osaka Museum of History ⭐⭐⭐⭐⭐
-- **Localização:** LITERALMENTE ao lado do Castelo (5 min a pé)
-- **Entrada:** ¥600 | Combo com Castelo: ¥900
-- **Por que locais vão:** História interativa de Osaka com réplicas em escala real
-- **Destaque:** 10º andar com vista PERFEITA do Castelo sem multidões
-- **Tempo:** 1-1.5h
-- **Vibe:** Educativo, vazio, excelentes fotos do castelo de cima
+---
 
-#### 🎨 OPÇÃO 2: Nakanoshima Park + Museus ⭐⭐⭐⭐⭐
-- **Localização:** 15 min a pé do Castelo (ilha no rio)
-- **Entrada:** Park FREE | Museus ¥500-800
-- **Por que locais vão:** Escapar turistas, jardins de rosas, arquitetura
-- **Opções:**
-  - Nakanoshima Museum of Art (arquitetura moderna)
-  - Museum of Oriental Ceramics (coleção world-class)
-  - Simplesmente caminhar no parque riverside
-- **Tempo:** 1-2h
-- **Vibe:** Tranquilo, cultural, fotogênico
+#### 🗾 REGIÃO DO CASTELO (Manhã 9:00-13:00)
 
-#### 🏮 OPÇÃO 3: Tenjinbashisuji Shotengai ⭐⭐⭐⭐⭐
+#### ⛩️ OPÇÃO A1: Tamatsukuri Inari Shrine ⭐⭐⭐⭐⭐ **HIDDEN GEM**
+- **Localização:** 10 min a pé do Castelo de Osaka
+- **Entrada:** FREE
+- **Por que locais vão:** Construído por Toyotomi Hideyoshi para PROTEGER o Castelo!
+- **Destaque:**
+  - História: 12 BCE fundação, shrine oficial do Castelo de Osaka (1580s)
+  - Hall virado para oeste (único design - protege economia de Osaka)
+  - "Nicely hidden in suburbia" - tranquilo, poucos turistas
+  - Perfeito para fotos E história profunda
+  - Literalmente o guardian deity do Castelo
+- **Tempo:** 30-45min
+- **Vibe:** Espiritual, histórico, escondido, fotogênico
+- **Acesso:** Metro Nagahori-tsurumi-ryokuchi Line → Tamatsukuri Station (saída #1)
+
+#### ☕ OPÇÃO A2: Cafés Locais Hidden Gems (perto Castelo)
+- **abotam coffee stand** (Kyobashi area, 10 min JR Kyobashi)
+  - Specialty coffee + CLOFFIN (croissant-muffin) famoso
+  - Área residencial, zero turistas
+- **Specialty Coffee Tanimachi Yonchome** (6 min da estação, 10 min do Castelo)
+  - Light roast specialty coffee
+  - Basque cheesecake popular
+  - Permite trazer bolo de ACIDRACINES para comer
+- **Shuhari** (Tanimachi 4-chome)
+  - Soba noodles + tempura tradicional
+  - Fresh wasabi que você mesmo rala!
+  - Ambiente relaxado, locals only
+
+#### 🥪 MERCY Vegan Factory (Tanimachi 9-chome) ⭐⭐⭐⭐⭐
+- **Pode ser almoço da manhã!** (Tanimachi area = mesma região do Castelo)
+- Egg sandwich vegano famoso + karaage + gimbap + curry
+- **Horário:** 08:00-21:00 (Seg-Sex & Feriados) | ¥2000
+- **Estratégia:** Castelo → Tamatsukuri Shrine → MERCY → próxima atividade
+
+---
+
+#### 🏮 OPÇÃO B: Tenjinbashisuji Shotengai ⭐⭐⭐⭐⭐
 - **Localização:** 10 min de metrô do Castelo
 - **Entrada:** FREE
-- **Por que locais vão:** MAIOR arcade shopping do Japão (2.6km!)
+- **Por que locais vão:** MAIOR arcade shopping do Japão (2.6km!) - autêntico!
 - **Destaque:**
-  - Authentic local shops (não chains turísticas)
+  - Local shops (não chains turísticas)
   - Street food que locais comem
   - Atmosfera Showa-era preservada
-  - Museum of Housing and Living (¥600) - casa tradicional
-- **Tempo:** 2-3h (pode passar o dia inteiro)
-- **Vibe:** Autêntico, animado, comida incrível
+  - Osaka Museum of Housing and Living (¥600) - casa tradicional
+  - Osaka Tenmangu Shrine (shrine de estudantes)
+- **Tempo:** 2-3h
+- **Vibe:** Autêntico, animado, pode passar o dia inteiro
 
-#### 🎭 OPÇÃO 4: Nakazakicho (Retro/Indie District) ⭐⭐⭐⭐
+---
+
+#### 🎭 OPÇÃO C: Nakazakicho Retro/Indie District ⭐⭐⭐⭐
 - **Localização:** 15 min de metrô do Castelo (perto Umeda)
 - **Entrada:** FREE
-- **Por que locais vão:** Vintage shops, indie cafes, creative vibes
+- **Por que locais vão:** Casas tradicionais → indie cafes + vintage shops
 - **Destaque:**
-  - Casas tradicionais convertidas em cafés
-  - Vintage clothing stores
-  - Art galleries pequenas
-  - Instagram-worthy sem ser tourist trap
+  - Creative atmosphere, hipster vibes
+  - Vintage clothing stores locais
+  - Small art galleries
+  - Instagram-worthy SEM ser tourist trap
 - **Tempo:** 1.5-2h
-- **Vibe:** Hipster, criativo, relaxado
+- **Vibe:** Criativo, relaxado, fotogênico
 
-#### ⛩️ OPÇÃO 5: Sumiyoshi Taisha ⭐⭐⭐⭐⭐
+---
+
+#### ⛩️ OPÇÃO D: Sumiyoshi Taisha ⭐⭐⭐⭐⭐
 - **Localização:** 25 min de trem do Castelo
 - **Entrada:** FREE
 - **Por que locais vão:** Um dos shrines mais ANTIGOS do Japão (211 AD!)
 - **Destaque:**
-  - Arquitetura pré-budista única
-  - Ponte Sorihashi vermelha fotogênica
+  - Arquitetura pré-budista única no Japão
+  - Ponte Sorihashi vermelha super fotogênica
   - ZERO turistas comparado a outros templos
-  - Área residencial ao redor muito autêntica
+  - Área residencial ao redor autêntica
 - **Tempo:** 1-1.5h
 - **Vibe:** Espiritual, tranquilo, histórico
 
-#### 🍜 OPÇÃO 6: Tsuruhashi Korea Town ⭐⭐⭐⭐
+---
+
+#### 🧴 OPÇÃO E: Tsuruhashi Korea Town (Skincare Heaven!) ⭐⭐⭐⭐⭐
 - **Localização:** 10 min de metrô do Castelo
 - **Entrada:** FREE
-- **Por que locais vão:** Melhor Korean BBQ/food fora da Coreia
+- **Por que locais vão:** Authentic Korean district + MELHOR skincare shopping!
 - **Destaque:**
-  - Autêntico bairro coreano
+  - **COSMÉTICOS:** Cosmetic SAMI, 韓LOVE, 韓美粧
+  - K-beauty brands: Innisfree, CNP, Goodal, Moremo
+  - Preços equivalentes à Coreia!
   - Mercado tradicional coreano
-  - Restaurantes familiares (não chains)
-  - Yakiniku smokehouse vibes
-- **Tempo:** 1.5-2h
-- **Vibe:** Multicultural, aromático, animado
-- **⚠️ NOTA:** Pode ser difícil achar comida vegana aqui
+  - 10 min walk de JR Tsuruhashi (heading east Sennichimae-dori)
+- **Tempo:** 1.5-2h (30min eficiente só cosméticos)
+- **Vibe:** Multicultural, aromático, shopping paradise
+- **⚠️ NOTA:** Comida vegana difícil aqui
 
-#### 🏞️ OPÇÃO 7: Mount Ikoma ⭐⭐⭐⭐
-- **Localização:** 40 min de trem do Castelo (Nara border)
-- **Entrada:** Cable car ~¥900 ida/volta
-- **Por que locais vão:** Escape natural + retro amusement park
-- **Destaque:**
-  - Cable car vintage
-  - Vista panorâmica Osaka-Nara
-  - Hozanji Temple no topo
-  - Parque de diversões retro abandonado (fotogênico!)
-- **Tempo:** 3-4h (meio dia)
-- **Vibe:** Aventura, natureza, urbex vibes
+---
 
-#### 🌸 OPÇÃO 8: Osaka Tenmangu Shrine + Tenjin Matsuri Museum ⭐⭐⭐
-- **Localização:** 5 min do Tenjinbashisuji Shotengai
-- **Entrada:** Shrine FREE | Museum ¥300
-- **Por que locais vão:** Um dos top 3 matsuri do Japão começa aqui
+#### 🎴 OPÇÃO F: Katsuoji Temple (Winning Daruma) ⭐⭐⭐⭐⭐ **MAIS DISTANTE**
+- **Localização:** 40 min de Umeda (Minoo area)
+- **Entrada:** ~¥500-800
+- **Por que locais vão:** Temple of WINNING LUCK - 1,300 anos história
 - **Destaque:**
-  - Shrine dedicado ao deus da educação
-  - Estudantes locais vêm rezar antes de exames
-  - Museum mostra Tenjin Matsuri (festival de verão)
-  - Área comercial local ao redor
-- **Tempo:** 45min-1h
-- **Vibe:** Local, espiritual, educativo
+  - MILHARES de Kachi Daruma (winning daruma dolls)
+  - 80,000 tsubo grounds = ENORME
+  - People come for: exams, sports, business, elections luck
+  - Melhor em novembro (autumn leaves)
+- **Tempo:** 2-3h (com transporte)
+- **Vibe:** Espiritual, único, fotogênico, mountainous
+- **Acesso:** Hankyu Minoo Kayano Station → bus 20min "Katsuoji-mae"
+- **⚠️ NOTA:** Mais longe, mas MUITO único!
 
 ---
 
