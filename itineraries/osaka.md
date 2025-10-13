@@ -401,19 +401,78 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 
 ---
 
-### 16:00 – 17:30 • Retorno ao hotel
-- **🚶 Transporte:** 12 min a pé de Namba Yasaka → Swissôtel | FREE
-- Passar no konbini se necessário (snacks, bebidas)
-- Organizar compras de skincare
+### 16:00 – 17:30 • Compras + Retorno ao hotel
+
+**🛒 16:00-16:45 • Supermercado/Drug Store (no caminho do hotel)**
+
+**Supermercados perto de Namba:**
+- **Life Namba** (mais completo, produtos frescos)
+- **Aeon Style Namba** (variedade boa)
+- **Drug stores:** Matsumoto Kiyoshi, Daikoku Drug (snacks + produtos)
+
+**💡 Estratégia:** Comprar jantar/snacks para ter no hotel durante trabalho
+
+#### 🌱 Sugestões de Compras Veganas com Proteína (hotel tem chaleira elétrica!)
+
+**Proteína Alta + Saciedade:**
+- **Edamame congelado** (枝豆) | ¥150-300
+  - Aquecer com água quente da chaleira do quarto
+  - Alta proteína, super saciedade
+- **Tofu simples** (豆腐 - silken ou firm) | ¥80-150
+  - Pode comer frio ou aquecer com água quente
+  - Já vem em embalagem pronta
+- **Natto** (納豆) | ¥100-200
+  - ⚠️ ATENÇÃO: Molho geralmente tem peixe! Comer só os grãos com soja shoyu
+  - Proteína fermentada, super nutritivo
+- **Inari sushi** (稲荷寿司) | ¥200-400
+  - Pronto para comer frio
+  - Tofu frito recheado com arroz
+
+**Refeições Rápidas (usar chaleira):**
+- **Cup noodles veganos** (verificar kanji 植物性/ベジタリアン) | ¥150-300
+  - Só adicionar água quente da chaleira
+  - Alguns sabores: vegetable, curry, soy
+- **Instant miso soup** individual | ¥100-200
+  - Muitos são veganos (verificar dashi de peixe)
+  - Água quente da chaleira
+
+**Snacks Proteicos:**
+- **Soyjoy bars plant-based** | ¥100-150/unidade
+  - Várias opções na maioria das lojas
+- **Mixed nuts** (ミックスナッツ) | ¥300-600
+  - Alta proteína, saciedade duradoura
+- **Amendoins** (ピーナッツ) | ¥150-300
+- **Edamame pronto** (triangular pack) | ¥150-200
+  - Já temperado com sal, comer frio
+
+**Frutas + Complementos:**
+- **Bananas** | ¥100-150
+- **Soy yogurt** (豆乳ヨーグルト) | ¥150-250
+- **Onigiri veganos:** umeboshi (梅干し), kombu (昆布) | ¥120-150
+- **Pão integral** + pasta de amendoim | ¥200-400
+
+**💰 Budget compras:** ¥1000-2000 (refeição + snacks para noite)
+
+**🏨 Facilidades no Swissôtel:**
+- ✅ Chaleira elétrica (aquecer água)
+- ✅ Geladeira (guardar tofu, edamame, yogurt)
+- ❌ Microondas (não tem no quarto)
+
+---
+
+**16:45-17:30 • Organizar no quarto**
+- Guardar compras na geladeira
+- Organizar compras de skincare do Korea Town
+- Preparar setup de trabalho
 
 ---
 
 ### 17:30 – 22:00 • Trabalho remoto
-- **Jantar:**
-  - Opção 1: Room service hotel
-  - Opção 2: Delivery (Uber Eats)
-  - Opção 3: Konbini (7-Eleven, Lawson)
-- Tempo livre para trabalhar sem pressa
+- **Jantar:** Usar produtos comprados no supermercado
+  - Aquecer edamame/cup noodles com chaleira
+  - Montar refeição: tofu + edamame + inari sushi + miso soup
+  - Snacks: nuts, Soyjoy bars, frutas
+- Trabalhar tranquilo com comida no quarto
 
 ---
 
@@ -436,9 +495,9 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 | MERCY Vegan Factory | ¥2000 (~R$ 73) |
 | Tenjinbashisuji (street food/snacks) | ¥1000-1500 (~R$ 36-55) |
 | Korea Town skincare shopping | ¥3000-8000 (~R$ 109-292) |
-| Jantar (konbini/delivery) | ¥1000 (~R$ 36) |
-| **TOTAL (sem skincare)** | **¥5880-6380 (~R$ 214-233)** |
-| **TOTAL (com skincare médio ¥5000)** | **¥10880 (~R$ 397)** |
+| Supermercado (jantar + snacks) | ¥1000-2000 (~R$ 36-73) |
+| **TOTAL (sem skincare)** | **¥6880-8380 (~R$ 251-306)** |
+| **TOTAL (com skincare médio ¥5000)** | **¥11880 (~R$ 433)** |
 
 ---
 
