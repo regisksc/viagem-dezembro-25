@@ -375,15 +375,52 @@ Outras opções plant-based disponíveis no parque (caso queira variar):
 - **🚇 Transporte:** Tanimachi Line → Sakaisuji Line (Tenjimbashisuji → Tsuruhashi) | ~12 min | ¥240
 - **Entrada:** FREE
 - **Por que ir:** Authentic Korean district + MELHOR skincare shopping de Osaka!
-  - **Lojas de cosméticos:** Cosmetic SAMI, 韓LOVE, 韓美粧
-  - **K-beauty brands:** Innisfree, CNP, Goodal, Moremo, etc.
+  - **Lojas de cosméticos:** Cosmetic SAMI, 韓LOVE, 韓美粧, ipuni
+  - **K-beauty brands:** Innisfree, CNP, Goodal, Moremo, Laneige, Etude House, etc.
   - Preços EQUIVALENTES à Coreia (não inflacionado)
   - Mercado tradicional coreano
   - Área autêntica, poucos turistas ocidentais
+  - Maior Korea Town do Japão!
 - **Como chegar às lojas:** 10 min walk de JR Tsuruhashi Station heading east on Sennichimae-dori
 - **Tempo:** 1.5h (30min eficiente se focar só em skincare)
 - **Budget:** ¥3000-8000 dependendo do que comprar
 - **⚠️ NOTA:** Comida vegana difícil aqui (área focada em Korean BBQ)
+
+---
+
+#### 💰 Comparação de Preços K-Beauty: Osaka vs Tokyo vs Shenzhen
+
+**🏆 RANKING (do mais barato ao mais caro):**
+
+1. **Coreia do Sul** (Seoul/Busan) - 100% (preço base na fonte)
+2. **Hong Kong** - ~105-110% dos preços coreanos
+3. **🟢 OSAKA/TOKYO (Tsuruhashi)** - ~100-105% (praticamente IGUAL à Coreia!)
+4. **Shenzhen/China Continental** - ~120-150% + RISCO de falsificações
+
+**💡 CONCLUSÃO PARA SUA VIAGEM:**
+- ✅ **COMPRE EM OSAKA** (Tsuruhashi Korea Town) - MELHOR OPÇÃO!
+  - Preços equivalentes à Coreia
+  - Produtos autênticos garantidos
+  - Não precisa esperar Shenzhen ou Tokyo
+  - Osaka vs Tokyo = preços IDÊNTICOS (chains nacionais)
+
+- ❌ **NÃO vale a pena em Shenzhen**
+  - Mais caro que Osaka/Tokyo
+  - Alto risco de produtos falsificados
+  - Locais de Shenzhen vão para Hong Kong comprar
+
+- 🟡 **Tokyo** = mesma coisa que Osaka
+  - Se não comprar em Osaka, Tokyo tem mesmos preços
+  - Drugstores (Matsumoto Kiyoshi, Don Quijote) têm promoções
+
+**💸 Exemplo Real de Preços:**
+- Innisfree Green Tea Seed Serum:
+  - Seoul: ¥2,000
+  - **Osaka (Tsuruhashi):** ¥2,100-2,200
+  - Tokyo: ¥2,100-2,200
+  - Shenzhen: ¥2,800-3,200 (+ risco fake)
+
+**🛍️ Estratégia:** Comprar em Osaka no Dia 11 = melhor custo-benefício da viagem!
 
 ---
 
@@ -570,13 +607,71 @@ Atividades interessantes que não couberam no roteiro de hoje:
 
 ### 11:30 – 15:30 • Aquário Kaiyukan + Tempozan (Osaka Bay)
 - **🚇 Transporte:** Midosuji → Chuo Line (Dobutsuen-mae → Osakako) | ~35 min | ¥280
-- **Entrada Kaiyukan:** ¥2400 (~R$ 87 / $17 USD) | Fonte: Site oficial
-- **Reserva:** 1-2 dias antecedência (site oficial ou Klook)
 - Um dos MAIORES aquários do mundo (8 níveis)
 - Tanque principal 9m com tubarão-baleia
 - 15 tanques representando Oceano Pacífico
 - Tubarões-baleia, raias manta, lontras, pinguins, focas, águas-vivas
 - 2.5-3h para visita completa tranquila
+
+---
+
+#### 🎫 INGRESSOS KAIYUKAN (Sistema de preço dinâmico)
+
+**💰 Preços 2025:**
+- **Adultos (16+):** A partir de ¥2,700 (~R$ 98 / $18 USD)
+- Crianças (7-15 anos): A partir de ¥1,400
+- Toddlers (3-6 anos): A partir de ¥700
+- **Menores de 2 anos:** GRÁTIS
+
+⚠️ **ATENÇÃO:** Preços variam por dia (sistema dinâmico baseado em demanda)
+
+---
+
+**📅 QUANDO COMPRAR:**
+- ✅ **RECOMENDADO:** Comprar com **1-5 dias de antecedência**
+- Pode comprar até 30 dias antes OU até horário de abertura no dia
+- **IMPORTANTE:** Sistema de entrada a cada 15 minutos - se comprar no dia na bilheteria pode ter que ESPERAR MUITO
+- Filas na bilheteria podem ser longas em dias movimentados
+
+---
+
+**🌐 COMO COMPRAR:**
+
+**OPÇÃO 1: Site Oficial Kaiyukan** (Requer cadastro)
+- Link: https://www.kaiyukan.com/language/eng/
+- Precisa criar conta para comprar e-ticket
+- Pagamento: Cartão de crédito
+- E-ticket vai para email/conta
+- ✅ Entrada direta sem fila de bilheteria
+
+**OPÇÃO 2: Plataformas Terceiras** (Mais fácil, sem cadastro complexo)
+- **Klook** ⭐ RECOMENDADO
+  - Link: klook.com - buscar "Osaka Aquarium Kaiyukan"
+  - Interface em português/inglês
+  - Pagamento fácil, voucher instantâneo
+  - Mesmos preços ou até desconto
+
+- **KKday**
+  - Similar ao Klook
+  - Interface em múltiplos idiomas
+
+- **GetYourGuide / Trip.com**
+  - Alternativas se Klook/KKday não funcionarem
+
+**OPÇÃO 3: Bilheteria no Local** (NÃO recomendado)
+- Pode ter fila longa
+- Pode ter que esperar próximo horário de entrada disponível
+- Aceita dinheiro e cartão
+
+---
+
+**💡 DICAS:**
+- Comprar e-ticket 2-3 dias antes = garantido sem estresse
+- Horário: Chegar 11:30 = evita pico (pico é 12:00-14:00)
+- Ingresso pode ser usado como cupom de desconto no Tempozan Mall
+- Sexta-feira geralmente tem preços melhores que sábado/domingo
+
+---
 
 **Tempozan Mall (ao lado):**
 - Shopping com Tempozan Ferris Wheel (112.5m de altura)
