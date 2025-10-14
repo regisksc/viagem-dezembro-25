@@ -78,6 +78,9 @@ Todos os roteiros incluem opções **vegetarianas e veganas** detalhadas para ca
 - Dim sum vegano em Hong Kong
 - Culinária budista (shojin ryori) em Kyoto
 
+### 🔗 [Guia: Konbini e Supermercados para Refeições Veganas](./docs/guia-konbini-supermercados-vegano.md)
+> Como se virar com lojas de conveniência (konbini) e supermercados no Japão quando não houver restaurantes veganos por perto. Inclui produtos veganos fáceis de encontrar, como ler rótulos em japonês, refeições completas que dá pra montar, e estratégias de economia.
+
 ---
 
 ## 💡 Dicas Gerais
