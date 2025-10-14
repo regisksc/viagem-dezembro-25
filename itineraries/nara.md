@@ -2,7 +2,7 @@
 
 ## Sábado, 13 de dezembro de 2025
 
-**📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar vegano em Nara centro + Sanjo Dori
+**📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar vegano em Nara centro | Kofuku-ji iluminado (Pagode 5 andares) + Sanjo Dori
 
 **🏨 Hotel:** Grand Mercure Nara Kashihara (13-14 dezembro) - próximo à estação Kashiharajingu-mae
 
@@ -60,7 +60,7 @@
 
 ---
 
-### 18:40 – 20:30 • Jantar em Nara + explorar Sanjo Dori
+### 18:40 – 20:00 • Jantar vegano em Nara
 
 **OPÇÃO 1: Vegan Cafe Ramuna** ⭐ MAIS RECOMENDADO
 - **Tipo:** 100% vegano, orgânico, sem aditivos
@@ -94,10 +94,23 @@
 - **Review:** Dona muito hospitaleira, preparação caseira
 - **⚠️ Jantar:** Kaiseki multi-pratos só com RESERVA ANTECIPADA
 
-**Explorar Sanjo Dori depois:**
+---
+
+### 20:00 – 20:30 • Kofuku-ji (Pagode 5 andares) + Sanjo Dori
+
+**Kofuku-ji:**
+- **🚶 Transporte:** 5-10 min a pé dos restaurantes
+- **Entrada:** FREE à noite (ver de fora - museu fecha 17h)
+- Pagode de 5 andares - SÍMBOLO de Nara
+- Segunda pagode mais alta do Japão (50m)
+- **FOTOGÊNICO iluminado à noite** ⭐
+- **CONTEÚDO:** Contraste dia/noite, iluminação especial
+
+**Sanjo Dori:**
 - Rua comercial principal de Nara (5 min de Kintetsu-Nara Station)
 - Lojas de souvenirs de cervos
 - Ver área à noite (menos turistas, iluminada)
+- **💡 Comprar souvenirs de cervos aqui** se quiser
 
 ---
 
