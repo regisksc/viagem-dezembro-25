@@ -96,9 +96,9 @@
 
 **📋 Resumo do dia:** Fushimi Inari CEDO (túneis de torii) | Bosque de Bambu Arashiyama (com luz) | Pavilhão Dourado Kinkaku-ji | Shigetsu (jantar shojin ryori)
 
-### 06:00 – 07:00 • Acordar CEDO para Fushimi Inari
+### 06:30 – 07:00 • Café da manhã no hotel
 
-### 07:00 – 07:30 • Café da manhã rápido no hotel
+### 07:00 – 07:30 • Preparar e sair para Fushimi Inari
 
 ### 07:30 – 11:30 • Templo Fushimi Inari Taisha
 
@@ -106,7 +106,7 @@
 <summary>Detalhes</summary>
 
 - **Entrada:** FREE, aberto 24h
-- **CRUCIAL: Chegar BEM CEDO (7h-8h)** para evitar multidões
+- **CRUCIAL: Chegar BEM CEDO (7h30)** para evitar multidões
 - FAMOSO pelos milhares de torii gates vermelhos formando túneis
 - Trilha de 2-3h até topo do Monte Inari com vistas
 - Dedicado ao deus do arroz e prosperidade
