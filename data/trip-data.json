@@ -1153,7 +1153,7 @@
       "hotel": {
         "name": "Mercure Kyoto",
         "expected_price": "JPY 42,726 (~R$ 1425)",
-        "notes": "6 cafés da manhã inclusos (14-17 dezembro). Check-in oficial 15:00 mas pode deixar malas antes"
+        "notes": "6 cafés da manhã inclusos (14-17 dezembro). Check-in oficial 15:00 mas pode deixar malas antes. Localização central próxima ao transporte público"
       },
       "essential_apps": [
         {
@@ -1187,44 +1187,44 @@
           "name": "Ain Soph",
           "type": "100% Vegan",
           "location": "Kawaramachi area",
+          "price_range": "¥1500-2500",
           "advance_booking": "não necessário",
-          "notes": "Parte da cadeia Ain Soph, panquecas veganas e pratos diversos"
+          "notes": "Parte da cadeia Ain Soph, panquecas veganas e pratos diversos. Ótimo para almoço casual"
         },
         {
           "name": "Mumokuteki Cafe",
           "type": "Vegan/Vegetarian orgânico",
           "location": "Central Kyoto",
+          "price_range": "¥1200-2000",
           "specialty": "Pratos orgânicos, sobremesas veganas",
           "advance_booking": "não necessário",
-          "notes": "Ambiente descolado, menu variado com opções veganas claramente marcadas"
+          "notes": "Ambiente descolado, menu variado com opções veganas claramente marcadas. Perfeito para jantar"
         },
         {
           "name": "Veg Out",
           "type": "100% Vegan",
           "location": "Kiyamachi",
+          "price_range": "¥1000-1800",
           "specialty": "Comfort food vegano - burgers, wraps, bowls",
           "advance_booking": "não necessário",
-          "notes": "Casual, ótimo para almoço rápido"
+          "notes": "Casual, ótimo para almoço/jantar rápido"
         },
         {
           "name": "Choice",
           "type": "Vegan ramen",
           "location": "Perto de Nishiki Market",
+          "price_range": "¥900-1300",
           "specialty": "RAMEN VEGANO - vários sabores de caldo",
           "advance_booking": "não necessário, mas pode ter fila",
-          "notes": "Um dos melhores ramen veganos de Kyoto!"
+          "notes": "Um dos melhores ramen veganos de Kyoto! Pratos coloridos e saborosos"
         },
         {
           "name": "Shigetsu (em Tenryu-ji Temple)",
           "type": "Shojin ryori (culinária budista)",
           "location": "Arashiyama",
+          "price_range": "¥3000-5000",
           "advance_booking": "recomendado",
-          "notes": "Experiência tradicional de culinária de templo budista"
-        },
-        {
-          "name": "Vegetarian restaurants near temples",
-          "type": "Shojin ryori",
-          "notes": "Kyoto tem muitos restaurantes vegetarianos próximos a templos, especializado em shojin ryori (culinária budista tradicional)"
+          "notes": "Experiência tradicional de culinária de templo budista. Refeição multi-pratos elegante"
         }
       ],
       "activities": [
@@ -1337,10 +1337,49 @@
           ]
         },
         {
+          "name": "Castelo de Nijo (Nijo-jo)",
+          "ticket_required": true,
+          "price": "¥800",
+          "advance_booking": "na hora",
+          "opening_hours": "8h45-17h",
+          "comments": [
+            "Patrimônio UNESCO - antiga residência dos shoguns Tokugawa",
+            "FAMOSO 'nightingale floor' - piso que chia para detectar intrusos",
+            "Pinturas deslumbrantes nas portas deslizantes (fusuma)",
+            "Jardim japonês com carpas e pinheiros centenários",
+            "Demonstra poder dos shogun vs imperadores",
+            "CONTEÚDO: Nightingale floor em ação, pinturas históricas, jardins"
+          ]
+        },
+        {
           "name": "Okazaki Shrine (Rabbit Shrine)",
           "ticket_required": false,
           "price": 0,
+          "advance_booking": null,
+          "comments": [
+            "Santuário ADORÁVEL famoso por coelhos de pedra e cerâmica",
+            "Fundado período Heian (~794)",
+            "Dedicado ao parto seguro, fertilidade e matchmaking",
+            "RABBIT FOUNTAIN - beber água traz bênçãos",
+            "Estatuetas de coelhos guardiões",
+            "FOTOS fofas garantidas!",
+            "CONTEÚDO: Coelhos fofos, fonte de bênçãos, arquitetura tradicional"
+          ]
+        },
+        {
+          "name": "Tenju-an Temple (em Nanzen-ji)",
+          "ticket_required": true,
+          "price": "¥500",
           "advance_booking": "na hora",
+          "comments": [
+            "HIDDEN GEM - muitos visitantes perdem!",
+            "Jardins japoneses ESPETACULARES com lagos, pontes",
+            "Menos turistas que outros templos",
+            "Perfeito para fotos tranquilas",
+            "Parte do complexo Nanzen-ji",
+            "CONTEÚDO: Jardins zen tranquilos, pontes tradicionais, atmosfera serena"
+          ]
+        },
           "location": "Higashiyama District",
           "address": "〒606-8344 Kyoto, Sakyo Ward, Okazaki Higashitennocho, 51",
           "transport": {
@@ -1396,6 +1435,14 @@
           "notes": "Loja oficial do Studio Ghibli. Vende caixas cegas do Totoro (~¥400-500 / SGD$4), pelúcias, souvenirs. IMPERDÍVEL para fãs!",
           "recommendation": "Visitar durante estadia em Kyoto. Procurar 'ghibli store kyoto' no Google Maps"
         }
+      },
+      "suggested_itinerary": {
+        "title": "Roteiro de Kyoto (14-17 dezembro)",
+        "day_1": "Domingo, 14 de dezembro: Viagem de Nara para Kyoto (JR Nara Line, ~35-45 min), check-in Mercure Kyoto (deixar malas), Ghibli Studios Shop Kyoto (souvenirs Totoro), Heian Jingu Shrine (¥600 jardim), jantar Mumokuteki Cafe (vegano/orgânico ¥1200-2000), Gion à noite (gueixas/maikos)",
+        "day_2": "Segunda-feira, 15 de dezembro: Fushimi Inari CEDO (7h-11h30 - túneis de torii sem multidão), almoço Choice (ramen vegano ¥900-1300 perto Nishiki Market), Pavilhão Dourado Kinkaku-ji (¥500 - inspiração Pokémon), Bosque de Bambu Arashiyama (tarde), jantar Shigetsu em Tenryu-ji Temple (shojin ryori ¥3000-5000)",
+        "day_3": "Terça-feira, 16 de dezembro: Pavilhão Prateado Ginkaku-ji + Tenju-an Temple (¥500 cada - menos turistas), almoço Ain Soph (100% vegano ¥1500-2500), Castelo de Nijo (¥800 - nightingale floor), Okazaki Shrine (coelhos FREE), jantar Veg Out (comfort food vegano ¥1000-1800), Southern Higashiyama à noite",
+        "day_4": "Quarta-feira, 17 de dezembro: Últimas compras em Kyoto/Gion, check-out Mercure Kyoto (11h), Hokuriku Shinkansen para Nagano (~2h30-3h, ¥10,000-13,000)",
+        "time_management": "DIA 14: Chegada Kyoto ~13h + atividades tarde/noite (Ghibli, Heian Jingu, Gion). DIA 15: Fushimi Inari CEDO para evitar multidão + Arashiyama tarde. DIA 16: Templos manhã (menos lotado) + Nijo/Okazaki tarde. DIA 17: Manhã compras + viagem Nagano. Priorizar Fushimi Inari e Pavilhões Dourado/Prateado - principais atrações."
       }
     },
     {
