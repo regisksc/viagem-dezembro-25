@@ -2,7 +2,7 @@
 
 ## Sábado, 13 de dezembro de 2025
 
-**📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar local
+**📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar vegano em Nara centro + Sanjo Dori
 
 **🏨 Hotel:** Grand Mercure Nara Kashihara (13-14 dezembro) - próximo à estação Kashiharajingu-mae
 
@@ -54,19 +54,59 @@
 
 ---
 
-### 18:00 – 19:30 • Jantar em Imai-cho ou Kashihara
-**Opções:**
-- Cafés e restaurantes em Imai-cho (em casas históricas)
-- Voltar para Kashihara e jantar perto do hotel
-- Produtos locais e menos turísticos
+### 18:00 – 18:40 • Viagem para centro de Nara
+- **🚇 Transporte:** Yagi-Nishiguchi → Yamato-Saidaiji → Kintetsu-Nara | ~35 min | ¥590
+- **💡 Razão:** Área turística tem muito mais opções veganas confirmadas
 
 ---
 
-### 19:30 – 20:00 • Retorno ao hotel
+### 18:40 – 20:30 • Jantar em Nara + explorar Sanjo Dori
+
+**OPÇÃO 1: Vegan Cafe Ramuna** ⭐ MAIS RECOMENDADO
+- **Tipo:** 100% vegano, orgânico, sem aditivos
+- **Localização:** 10 min a pé de Kintetsu-Nara Station
+- **Rating:** 4.9/5 (TripAdvisor #50 de 1,284 restaurantes)
+- **Preço:** ¥1,000-1,080 (~R$ 37-39 / $7-7.50 USD)
+- **Horário:** 11:30-18:30 | **FECHADO:** Segunda, Terça, Quarta
+- **Menu:** Bento box, burger plate, tantan noodles, vegan soft-serve
+- **Destaque:** Tudo feito à mão pela dona (pão, hambúrgueres veganos, molhos)
+- **Dinheiro:** SOMENTE CASH
+- **⚠️ ATENÇÃO:** Atendido por 1 pessoa só - pode ter 1h de espera se cheio
+- **💡 Dica:** Gorjetas vão para resgate de gatos de rua
+- **Endereço:** Usar Google Maps "Vegan Cafe Ramuna Nara"
+
+**OPÇÃO 2: ONWA**
+- **Tipo:** 100% vegano + gluten-free
+- **Localização:** 10 min a pé de JR Nara Station
+- **Preço:** ¥800-1,400 (~R$ 29-51 / $6-10 USD)
+- **Menu:** Vegan hamburger (¥800), karaage bowl (¥950), tacos, parfait
+- **Destaque:** Usa vegetais locais de Nara (Yamato) e orgânicos
+- **Endereço:** 3-23 Sanjo Omiyacho, Nara 630-8123
+- **Review:** Favorito de muitos viajantes veganos no Japão
+
+**OPÇÃO 3: Kinatei (喜菜亭)**
+- **Tipo:** Vegetariano com MUITAS opções veganas
+- **Localização:** Perto de JR Nara Station
+- **Rating:** 4.0/5 (TripAdvisor #89 de 1,284)
+- **Preço:** ¥1,000-2,000 (~R$ 37-73 / $7-14 USD)
+- **Menu:** Ramen vegano, udon, set courses
+- **Destaque:** Refil grátis de arroz integral e sopa de missô
+- **Review:** Dona muito hospitaleira, preparação caseira
+- **⚠️ Jantar:** Kaiseki multi-pratos só com RESERVA ANTECIPADA
+
+**Explorar Sanjo Dori depois:**
+- Rua comercial principal de Nara (5 min de Kintetsu-Nara Station)
+- Lojas de souvenirs de cervos
+- Ver área à noite (menos turistas, iluminada)
 
 ---
 
-### 20:00 – 23:00 • Descanso e organizar malas
+### 20:30 – 21:10 • Retorno ao hotel
+- **🚇 Transporte:** Kintetsu-Nara → Yamato-Saidaiji → Kashiharajingu-mae | ~35 min | ¥590
+
+---
+
+### 21:10 – 23:00 • Descanso e organizar malas
 - Organizar malas para ida rápida a Nara no dia 14
 
 ---
@@ -146,7 +186,9 @@
 
 **Dicas importantes:**
 - **Hotel em Kashihara:** Grand Mercure fica em Kashihara (não em Nara Park) - aproveite para explorar a região autêntica
-- **Dia 13:** Foco em Kashihara Jingu e Imai-cho (tudo pertinho do hotel)
+- **Dia 13:** Manhã/tarde em Kashihara Jingu e Imai-cho, noite jantar em Nara centro (mais opções veganas)
+- **Custo transporte dia 13:** ¥1,340 total (Osaka→Kashihara ¥590 + Imai-cho ¥160 ida/volta + Nara ¥590 ida/volta)
+- **Vegan Cafe Ramuna:** FECHADO segunda, terça, quarta - verificar dia da semana! Somente cash.
 - **Dia 14:** Ida rápida a Nara Park (Todai-ji + cervos) de manhã, depois direto para Kyoto
 - **Lockers:** Estação Kintetsu-Nara tem lockers para malas (¥300-700)
 - **Biscoitos para cervos:** Só comprar Sembei oficial (¥200) - única comida permitida
