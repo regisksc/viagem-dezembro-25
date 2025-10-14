@@ -1309,17 +1309,18 @@
           ]
         },
         {
-          "name": "Bosque de Bambu de Arashiyama (Sagano)",
-          "ticket_required": false,
-          "price": 0,
+          "name": "Jardim de Bambu Tenryu-ji (Arashiyama)",
+          "ticket_required": true,
+          "price": "¥500 (incluído no ingresso do Templo Tenryu-ji)",
           "advance_booking": null,
           "comments": [
-            "Floresta de bambu ICÔNICA - bambus gigantes de até 20m",
-            "Som do vento nos bambus é considerado 'patrimônio sonoro' do Japão",
-            "Caminho principal tem 400m, melhor cedo da manhã (7h-9h) para evitar multidões",
-            "Próximo: Templo Tenryu-ji (jardim Zen) e ponte Togetsukyo",
-            "DICA: Explorar ruelas laterais com menos turistas",
-            "CONTEÚDO: Vídeo caminhando com áudio do bambu, fotos early morning, comparar horários vazios vs lotados"
+            "Jardim de bambu DENTRO do complexo Tenryu-ji - bambus até 15m",
+            "ALTERNATIVA menos lotada ao bosque principal de Arashiyama",
+            "Som do vento nos bambus = experiência zen autêntica",
+            "Integrado ao jardim zen do templo (Patrimônio UNESCO)",
+            "Muito menos turistas que o bosque principal",
+            "Próximo: Ponte Togetsukyo e área de Arashiyama",
+            "CONTEÚDO: Experiência serena sem multidões, jardim zen integrado, atmosfera tranquila"
           ]
         },
         {
@@ -1439,7 +1440,7 @@
       "suggested_itinerary": {
         "title": "Roteiro de Kyoto (14-17 dezembro) - Otimizado para luz natural",
         "day_1": "Domingo, 14 de dezembro: Viagem de Nara para Kyoto (JR Nara Line, ~35-45 min), check-in Mercure Kyoto, Heian Jingu Shrine (15h-16:45 - jardim com luz natural), Ghibli Studios Shop (16:45-17:30), jantar Mumokuteki Cafe (17:30-19h), Gion à noite (19h-21h)",
-        "day_2": "Segunda-feira, 15 de dezembro: Fushimi Inari CEDO (7h-11h30 - túneis sem multidão), Bosque de Bambu Arashiyama (11h30-13h30 - com luz natural), almoço em Arashiyama (13h30-15h30), Pavilhão Dourado Kinkaku-ji (15h30-16:45 - luz dourada), retorno hotel (16:45-18h), jantar Choice (ramen vegano ¥900-1300)",
+        "day_2": "Segunda-feira, 15 de dezembro: Fushimi Inari CEDO (7h-11h30 - túneis sem multidão), Jardim de Bambu Tenryu-ji (11h30-13h30 - menos lotado), almoço próximo Tenryu-ji (13h30-15h30), Pavilhão Dourado Kinkaku-ji (15h30-16:45 - luz dourada), retorno hotel (16:45-18h), jantar Choice (ramen vegano ¥900-1300)",
         "day_3": "Terça-feira, 16 de dezembro: Pavilhão Prateado Ginkaku-ji + Tenju-an Temple + Okazaki Shrine (8h-12h - manhã com luz), almoço Ain Soph (12h-13h30), Castelo de Nijo (13h30-17h), jantar Veg Out (comfort food vegano ¥1000-1800)",
         "day_4": "Quarta-feira, 17 de dezembro: Últimas compras em Kyoto/Gion, check-out Mercure Kyoto (11h), Hokuriku Shinkansen para Nagano (~2h30-3h, ¥10,000-13,000)",
         "time_management": "OTIMIZADO PARA LUZ: Atividades ao ar livre (jardins, florestas) pela manhã/tarde cedo quando há luz natural (sunset ~16:45). Heian Jingu e Bosque de Bambu movidos para horários com luz. Atividades noturnas adequadas (Gion, áreas urbanas) preservadas. Priorizar Fushimi Inari e Pavilhões principais."

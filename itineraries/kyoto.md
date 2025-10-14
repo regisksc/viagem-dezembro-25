@@ -94,7 +94,7 @@
 
 ## Segunda-feira, 15 de dezembro de 2025
 
-**📋 Resumo do dia:** Fushimi Inari CEDO (túneis de torii) | Bosque de Bambu Arashiyama (com luz) | Pavilhão Dourado Kinkaku-ji | Shigetsu (jantar shojin ryori)
+**📋 Resumo do dia:** Fushimi Inari CEDO (túneis de torii) | Jardim de Bambu Tenryu-ji (menos lotado) | Pavilhão Dourado Kinkaku-ji | Shigetsu (jantar shojin ryori)
 
 ### 06:30 – 07:00 • Café da manhã no hotel
 
@@ -116,19 +116,19 @@
 
 </details>
 
-### 11:30 – 13:30 • Bosque de Bambu de Arashiyama
+### 11:30 – 13:30 • Jardim de Bambu Tenryu-ji (alternativa menos lotada)
 
 <details>
 <summary>Detalhes</summary>
 
-- **Entrada:** FREE
-- Floresta de bambu ICÔNICA - bambus até 20m
-- Som do vento = "patrimônio sonoro" do Japão
-- Caminho principal 400m
+- **Entrada:** ¥500 (incluído no ingresso do Templo Tenryu-ji)
+- Jardim de bambu DENTRO do complexo Tenryu-ji - bambus até 15m
+- Muito MENOS turistas que o bosque principal de Arashiyama
+- Som do vento nos bambus = experiência zen autêntica
 - **Transporte:** JR Sanin Line até Saga-Arashiyama Station (~15-20 min de Inari)
-- **💡 Estratégia:** Visitar enquanto há luz (sunset ~16:45) - experiência visual muito melhor!
-- Explorar ruelas laterais com menos turistas
-- Próximo: Templo Tenryu-ji e ponte Togetsukyo
+- **💡 Estratégia:** Visitar enquanto há luz - experiência visual serena sem multidões
+- Integrado ao jardim zen do templo (UNESCO)
+- Próximo: Ponte Togetsukyo e área de Arashiyama
 
 </details>
 
@@ -138,8 +138,9 @@
 <summary>Detalhes</summary>
 
 **Opções vegetarianas locais:**
-- Restaurantes próximos ao bosque de bambu
-- Procurar opções vegetarianas/shojin ryori na área
+- Restaurantes próximos ao complexo Tenryu-ji
+- Procurar opções vegetarianas/shojin ryori na área de Arashiyama
+- **💡 Alternativa:** Shigetsu (jantar do templo) - considerar para almoço se disponível
 
 </details>
 
