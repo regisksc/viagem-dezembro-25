@@ -8,22 +8,32 @@
 
 ---
 
-### 12:00 – 13:00 • Chegada em Kashihara e check-in
+<details>
+<summary>### 12:00 – 13:00 • Chegada em Kashihara e check-in</summary>
+
 - **🚇 Transporte:** Kintetsu Line (Osaka Namba → Yamato-Saidaiji → Kashiharajingu-mae) | ~40 min | ¥590
 - Check-in no Grand Mercure Nara Kashihara (1 min da estação)
 - Deixar malas
 
+</details>
+
 ---
 
-### 13:00 – 14:00 • Almoço
+<details>
+<summary>### 13:00 – 14:00 • Almoço</summary>
+
 **Opções próximas ao hotel:**
 - Restaurantes locais em Kashihara (explorar ao redor da estação)
 - Opções vegetarianas: perguntar no hotel por recomendações
 - **💡 Área menos turística = preços melhores**
 
+</details>
+
 ---
 
-### 14:00 – 16:00 • Kashihara Jingu
+<details>
+<summary>### 14:00 – 16:00 • Kashihara Jingu</summary>
+
 - **🚶 Transporte:** 10 min a pé do hotel (950m)
 - **Entrada:** FREE
 - **Horário:** Aberto 24h | Museu 9h-16h30
@@ -37,9 +47,13 @@
 - **CONTEÚDO:** Contraste entre "Nara turística" vs "Nara histórica e espiritual"
 - Possibilidade de presenciar rituais xintoístas autênticos
 
+</details>
+
 ---
 
-### 16:00 – 18:00 • Imai-cho (Cidade mercantil preservada)
+<details>
+<summary>### 16:00 – 18:00 • Imai-cho (Cidade mercantil preservada)</summary>
+
 - **🚶 Transporte:** 10 min de trem (Kashiharajingu-mae → Yagi-Nishiguchi, 1 parada) | ¥160
 - **Entrada:** FREE (área residencial preservada)
 - **Cidade mercantil do Período Edo** (século XVII)
@@ -52,15 +66,22 @@
 - **CONTEÚDO:** "Viagem no tempo" - vida cotidiana no Japão histórico
 - **💡 Explorar livremente:** caminhar pelas vielas, fotografar arquitetura, entrar em cafés
 
+</details>
+
 ---
 
-### 18:00 – 18:40 • Viagem para centro de Nara
+<details>
+<summary>### 18:00 – 18:40 • Viagem para centro de Nara</summary>
+
 - **🚇 Transporte:** Yagi-Nishiguchi → Yamato-Saidaiji → Kintetsu-Nara | ~35 min | ¥590
 - **💡 Razão:** Área turística tem muito mais opções veganas confirmadas
 
+</details>
+
 ---
 
-### 18:40 – 20:00 • Jantar vegano em Nara
+<details>
+<summary>### 18:40 – 20:00 • Jantar vegano em Nara</summary>
 
 **OPÇÃO 1: Vegan Cafe Ramuna** ⭐ MAIS RECOMENDADO
 - **Tipo:** 100% vegano, orgânico, sem aditivos
@@ -94,9 +115,12 @@
 - **Review:** Dona muito hospitaleira, preparação caseira
 - **⚠️ Jantar:** Kaiseki multi-pratos só com RESERVA ANTECIPADA
 
+</details>
+
 ---
 
-### 20:00 – 20:30 • Kofuku-ji (Pagode 5 andares) + Sanjo Dori
+<details>
+<summary>### 20:00 – 20:30 • Kofuku-ji (Pagode 5 andares) + Sanjo Dori</summary>
 
 **Kofuku-ji:**
 - **🚶 Transporte:** 5-10 min a pé dos restaurantes
@@ -112,24 +136,41 @@
 - Ver área à noite (menos turistas, iluminada)
 - **💡 Comprar souvenirs de cervos aqui** se quiser
 
+</details>
+
 ---
 
-### 20:30 – 21:10 • Retorno ao hotel
+<details>
+<summary>### 20:30 – 21:10 • Retorno ao hotel</summary>
+
 - **🚇 Transporte:** Kintetsu-Nara → Yamato-Saidaiji → Kashiharajingu-mae | ~35 min | ¥590
 
+</details>
+
 ---
 
-### 21:10 – 23:00 • Descanso e organizar malas
+<details>
+<summary>### 21:10 – 23:00 • Descanso e organizar malas</summary>
+
 - Organizar malas para ida rápida a Nara no dia 14
 
----
-
-### 23:00 – 23:30 • Preparação call
+</details>
 
 ---
 
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+<details>
+<summary>### 23:00 – 23:30 • Preparação call</summary>
+
+</details>
+
+---
+
+<details>
+<summary>### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)</summary>
+
 - Daily work call
+
+</details>
 
 ---
 
@@ -139,19 +180,29 @@
 
 ---
 
-### 07:00 – 08:00 • Café da manhã e check-out
+<details>
+<summary>### 07:00 – 08:00 • Café da manhã e check-out</summary>
+
 - Café da manhã no hotel
 - Check-out e levar malas
 
+</details>
+
 ---
 
-### 08:00 – 09:00 • Viagem para Nara
+<details>
+<summary>### 08:00 – 09:00 • Viagem para Nara</summary>
+
 - **🚇 Transporte:** Kintetsu Line (Kashiharajingu-mae → Yamato-Saidaiji → Kintetsu-Nara) | ~35 min | ¥590
 - **💡 Deixar malas:** Lockers na estação Kintetsu-Nara (¥300-700 dependendo do tamanho)
 
+</details>
+
 ---
 
-### 09:00 – 11:00 • Nara Park: Todai-ji + Cervos (visita rápida)
+<details>
+<summary>### 09:00 – 11:00 • Nara Park: Todai-ji + Cervos (visita rápida)</summary>
+
 - **🚶 Transporte:** 5-10 min a pé da estação Kintetsu-Nara
 
 **Todai-ji:**
@@ -177,23 +228,37 @@
 
 **💡 Estratégia:** Visita focada - Todai-ji (1h) + Cervos (30-45 min) + volta para estação
 
+</details>
+
 ---
 
-### 11:00 – 11:30 • Retorno à estação e pegar malas
+<details>
+<summary>### 11:00 – 11:30 • Retorno à estação e pegar malas</summary>
+
 - Caminhar de volta para Kintetsu-Nara Station
 - Pegar malas nos lockers
 
+</details>
+
 ---
 
-### 11:30 – 13:00 • Viagem para Kyoto
+<details>
+<summary>### 11:30 – 13:00 • Viagem para Kyoto</summary>
+
 - **🚇 Transporte:** Kintetsu Line (Kintetsu-Nara → Kyoto) | ~45 min | ¥640
 - OU **JR Nara Line** (se tiver JR Pass): JR Nara → Kyoto | ~45 min | ¥720 (FREE com JR Pass)
 - Chegada em Kyoto ~13:00
 
+</details>
+
 ---
 
-### 13:00+ • Início do roteiro de Kyoto
+<details>
+<summary>### 13:00+ • Início do roteiro de Kyoto</summary>
+
 - Ver roteiro completo em [kyoto.md](./kyoto.md)
+
+</details>
 
 ---
 
