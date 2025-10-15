@@ -7,6 +7,7 @@
 ### 07:00 – 08:00 • Café da manhã em Nara
 
 ### 08:00 – 11:00 • Check-out de Nara e viagem para Kyoto
+
 - **🚇 Transporte:** JR Nara Line (Nara → Kyoto Station) | 35-45 min | ¥720
 
 <details>
@@ -30,6 +31,7 @@
 </details>
 
 ### 15:00 – 16:45 • Kodai-ji Temple (Higashiyama)
+
 - **🚇 Transporte:** Tozai Line (Kyoto Station → Higashiyama) | ~10 min | **¥500**
 
 <details>
@@ -45,6 +47,7 @@
 </details>
 
 ### 16:45 – 17:30 • Kennin-ji Temple
+
 - **🚶 Transporte:** 5 min a pé do Kodai-ji | **¥500**
 
 <details>
@@ -59,6 +62,7 @@
 </details>
 
 ### 17:30 – 18:30 • Ladeiras Ninenzaka e Sannenzaka
+
 - **🚶 Transporte:** 10 min a pé do Kennin-ji | **FREE**
 
 <details>
@@ -72,12 +76,14 @@
 </details>
 
 ### 18:30 – 19:30 • Jantar em Higashiyama
+
 - **🚶 Transporte:** Área de Ninenzaka | **¥1500-2500**
 
 <details>
 <summary>Detalhes</summary>
 
 **Opções vegetarianas locais:**
+
 - Restaurantes próximos a Kiyomizu-dera
 - Procurar opções vegetarianas/shojin ryori na área histórica
 - **💡 Pit stop:** Cafés tradicionais com matcha e doces japoneses
@@ -85,12 +91,14 @@
 </details>
 
 ### 19:30 – 21:30 • Kiyomizu-dera + Gion/Pontocho à noite
+
 - **🚶 Transporte:** 15 min a pé de Ninenzaka | **¥400**
 
 <details>
 <summary>Detalhes</summary>
 
 **Kiyomizu-dera:**
+
 - **Entrada:** ¥400 adultos
 - **Horário:** 6h-18h (dezembro)
 - Templo famoso pela plataforma de madeira com vista panorâmica
@@ -98,6 +106,7 @@
 - **💡 Estratégia:** Visitar fim de tarde com luz natural
 
 **Gion/Pontocho:**
+
 - Bairro histórico das gueixas/maikos
 - Ruas de pedra preservadas, casas de chá tradicionais
 - Pontocho: rua estreita com restaurantes ao longo do rio
@@ -110,6 +119,7 @@
 ### 23:00 – 23:30 • Descanso
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
 - Daily work call
 
 ---
@@ -121,6 +131,7 @@
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 09:00 • Viagem para Arashiyama
+
 - **🚇 Transporte:** JR Sanin Line (Saga-Arashiyama Station) | ~20 min | **¥240**
 
 <details>
@@ -132,6 +143,7 @@
 </details>
 
 ### 09:00 – 10:30 • Tenryu-ji Temple (UNESCO)
+
 - **🚶 Transporte:** 5 min a pé da estação | **¥500**
 
 <details>
@@ -146,6 +158,7 @@
 </details>
 
 ### 10:30 – 12:00 • Adashino Nenbutsu-ji Temple
+
 - **🚲 Transporte:** Bicicleta alugada (~15 min) ou ônibus | **¥500**
 
 <details>
@@ -161,12 +174,14 @@
 </details>
 
 ### 12:00 – 13:30 • Almoço em Arashiyama
+
 - **🚶 Transporte:** Área próxima aos templos | **¥1500-2500**
 
 <details>
 <summary>Detalhes</summary>
 
 **Opções vegetarianas em Arashiyama:**
+
 - **Shigetsu** (dentro Tenryu-ji) - Shojin ryori tradicional | ¥3300-5500
 - Restaurantes vegetarianos próximos à ponte Togetsukyo
 - **💡 Pit stop:** Matcha e doces tradicionais japoneses
@@ -174,6 +189,7 @@
 </details>
 
 ### 13:30 – 15:00 • Otagi Nenbutsu-ji Temple
+
 - **🚲 Transporte:** Bicicleta (~20 min) ou ônibus local | **¥300**
 
 <details>
@@ -189,6 +205,7 @@
 </details>
 
 ### 15:00 – 16:30 • Monkey Park Iwatayama
+
 - **🚶 Transporte:** 10 min a pé do Otagi Nenbutsu-ji | **¥600**
 
 <details>
@@ -203,56 +220,89 @@
 
 </details>
 
-### 16:30 – 18:00 • Retorno para centro de Kyoto
+### 16:30 – 17:30 • Kimono Forest (Arashiyama Station)
+
+- **🚶 Transporte:** Caminhada de volta para estação Arashiyama | **FREE**
+
+<details>
+<summary>Detalhes</summary>
+
+- **Entrada:** FREE
+- **Localização:** Estação Randen Arashiyama (Keifuku Arashiyama Line)
+- **Horário iluminação:** Pôr do sol até 21:00
+- 600 cilindros de acrílico LED com padrões de quimono
+- Instalação artística iluminada - fotogênico à noite
+- **💡 Timing perfeito:** Chegar ~16:30-17:00 quando iluminação começa (pôr do sol dezembro)
+- Localização exata na saída da estação - no caminho de volta!
+
+</details>
+
+### 17:30 – 18:30 • Retorno para centro de Kyoto
+
 - **🚇 Transporte:** JR Sanin Line (Saga-Arashiyama → Kyoto) | ~20 min | **¥240**
 
-### 18:00 – 19:30 • Jantar opcional + descanso
+### 18:30 – 20:00 • Jantar + descanso
 
 <details>
 <summary>Detalhes</summary>
 
 **Opção vegetariana:**
+
 - **Choice** (Nishiki Market area) - Vegan ramen se não foi no dia anterior
 - Ou jantar leve próximo ao hotel
 
 </details>
 
-### 19:30 – 22:00 • Retorno ao hotel e descanso
+### 20:00 – 22:00 • Retorno ao hotel e descanso
 
 ### 22:00 – 22:30 • Preparação
 
 ### 22:30 – 23:00 • Descanso breve
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
 - Daily work call
 
 ---
 
-## Terça-feira, 16 de dezembro de 2025 - CENTRO/NORTE FOCUS
+## Terça-feira, 16 de dezembro de 2025 - NORTE FOCUS
 
-**📋 Resumo do dia:** Pavilhões Dourado e Prateado | Ghibli Shop | Estação de Kyoto (Sky Walk) | Workshop vegano opcional
+**📋 Resumo do dia:** Kurama-Kibune hike | Pavilhão Prateado | Ghibli Shop | Estação de Kyoto (Sky Walk) | Workshop vegano opcional
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
-### 08:00 – 10:00 • Pavilhão Dourado (Kinkaku-ji)
-- **🚌 Transporte:** Ônibus (Kinkakuji-mae) | ~45 min | **¥500**
+### 08:00 – 12:00 • Kurama-Kibune Hike
+
+- **🚇 Transporte:** Eizan Line (Demachiyanagi → Kurama) | ~30 min | **¥430**
 
 <details>
 <summary>Detalhes</summary>
 
-- **Horário:** 9h-17h
-- Templo Zen LITERALMENTE coberto de OURO REAL
-- Patrimônio UNESCO desde 1994
-- INSPIRAÇÃO para Johto em Pokémon Gold/Silver
-- Reflexo no lago Kyoko Chi (Mirror Pond) - icônico
-- **💡 Estratégia:** Visitar de manhã cedo para evitar multidões
+- **Entrada:** Kurama-dera Temple ¥300 | Kibune Shrine FREE
+- **Distância:** 3.8 km (2-3 horas caminhada)
+- **Dificuldade:** Fácil a moderada
+- **Rota:** Kurama Station → Kurama-dera Temple → trilha montanha → Kibune Shrine → Kibuneguchi Station
+- Trilha através de floresta de cedros centenários
+- Monte Kurama - local espiritual e histórico
+- Kurama-dera: templo fundado em 770
+- Kibune Shrine: santuário xintoísta de água e amor
+- **Inverno:** Pode ter neve em dezembro - ainda mais bonito!
+- **💡 Estratégia:** Começar cedo para evitar multidões, terminar ~11:30
+- **⚠️ Preparo:** Sapatos confortáveis, água, snacks, camadas de roupa
+- Escape das multidões turísticas - natureza autêntica
 
 </details>
 
-### 10:00 – 11:30 • Viagem para Pavilhão Prateado
-- **🚌 Transporte:** Ônibus local (Kinkakuji → Ginkakuji) | ~30 min | **¥230**
+### 12:00 – 12:30 • Retorno para centro de Kyoto
 
-### 11:30 – 13:00 • Pavilhão Prateado (Ginkaku-ji)
+- **🚇 Transporte:** Eizan Line (Kibuneguchi → Demachiyanagi) | ~30 min | **¥430**
+
+### 12:30 – 13:00 • Viagem para Pavilhão Prateado
+
+- **🚌 Transporte:** Ônibus/caminhada para Ginkaku-ji | ~15 min | **¥230**
+
+### 13:00 – 14:30 • Pavilhão Prateado (Ginkaku-ji)
+
 - **🚶 Transporte:** Próximo à parada de ônibus | **¥500**
 
 <details>
@@ -267,20 +317,23 @@
 
 </details>
 
-### 13:00 – 14:30 • Almoço próximo ao Pavilhão Prateado
+### 14:30 – 15:30 • Almoço próximo ao Pavilhão Prateado
+
 - **🚶 Transporte:** Área de Ginkaku-ji | **¥1500-2500**
 
 <details>
 <summary>Detalhes</summary>
 
 **Opções vegetarianas locais:**
+
 - Restaurantes próximos ao Philosopher's Path
 - Procurar opções vegetarianas na área universitária
 - **💡 Pit stop:** Cafés com vista para o caminho dos filósofos
 
 </details>
 
-### 14:30 – 15:30 • Ghibli Studios Shop Kyoto
+### 15:30 – 16:30 • Ghibli Studios Shop Kyoto
+
 - **🚌 Transporte:** Ônibus para centro | ~20 min | **FREE entrada**
 
 <details>
@@ -294,7 +347,8 @@
 
 </details>
 
-### 15:30 – 16:30 • Estação de Kyoto (Sky Walk)
+### 16:30 – 17:30 • Estação de Kyoto (Sky Walk)
+
 - **🚇 Transporte:** JR/Kintetsu (Kyoto Station) | ~15 min | **FREE**
 
 <details>
@@ -308,43 +362,45 @@
 
 </details>
 
-### 16:30 – 18:00 • Workshop vegano opcional + compras
+### 17:30 – 19:00 • Workshop vegano opcional + compras
+
 - **🚇 Transporte:** Centro de Kyoto | **¥3000-5000 (se workshop)**
 
 <details>
 <summary>Detalhes</summary>
 
 **Opção workshop vegano:**
+
 - **Google para:** "vegan cooking class kyoto" ou "sushi making class kyoto"
 - Workshops de sushi vegano, ramen vegano, ou culinária tradicional plant-based
 - **💡 Reserva antecipada:** Verificar disponibilidade para dezembro
 
 **Compras alternativas:**
+
 - Nishiki Market para ingredientes veganos
 - Lojas de departamento próximas à estação
 
 </details>
 
-### 18:00 – 19:30 • Jantar
+### 19:00 – 20:30 • Jantar
+
 - **🚶 Transporte:** Próximo ao hotel | **¥1000-1800**
 
 <details>
 <summary>Detalhes</summary>
 
 **Opção vegetariana:**
+
 - **Veg Out** (Kiyamachi) - 100% Vegan comfort food
 - Burgers, wraps, bowls
 - Casual, ótimo para jantar após workshop
 
 </details>
 
-### 19:30 – 22:00 • Retorno ao hotel e descanso
-
-### 22:00 – 22:30 • Preparação
-
-### 22:30 – 23:00 • Descanso breve
+### 20:30 – 23:00 • Retorno ao hotel e descanso
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
 - Daily work call
 
 ---
@@ -356,12 +412,14 @@
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 10:00 • Compras matinais em áreas preferidas
+
 - **🚶 Transporte:** Gion/Ninenzaka/Sannenzaka | **FREE**
 
 <details>
 <summary>Detalhes</summary>
 
 **Áreas de compras preferidas:**
+
 - **Ninenzaka/Sannenzaka:** Lojas de artesanato tradicionais, lembranças
 - **Gion:** Boutiques exclusivas, itens de gueixa (sem exagerar)
 - **Sanjo Dori:** Compras gerais, souvenirs de Kyoto
@@ -370,6 +428,7 @@
 </details>
 
 ### 10:00 – 11:00 • Check-out e organização final
+
 - **🚶 Transporte:** Hotel Mercure | **FREE**
 
 <details>
@@ -382,6 +441,7 @@
 </details>
 
 ### 11:00 – 15:00 • Viagem para Nagano
+
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano Station) | ~4h-5h | **¥10,000-13,000**
 
 <details>
@@ -390,51 +450,60 @@
 **OPÇÕES DE TRANSPORTE (baseado em dados reais):**
 
 🚅 **MAIS RÁPIDA:** Hokuriku Shinkansen + Thunderbird
+
 - **Tempo:** 4h42m (saída ~11:30)
 - **Custo:** ¥10,000-11,000
 - **Rota:** Kyoto → (Shinkansen) → Kanazawa → (Thunderbird) → Nagano
 
 🚅 **EQUILIBRADA:** Hokuriku Shinkansen + Matsushiro Line
+
 - **Tempo:** 4h45m-4h59m (saída ~11:30-12:00)
 - **Custo:** ¥10,000-12,000
 - **Rota:** Kyoto → (Shinkansen) → Toyama → (Matsushiro) → Nagano
 
 🚅 **MAIS BARATA:** Tokiado Shinkansen + Shinano
+
 - **Tempo:** 5h13m (saída ~10:03)
 - **Custo:** ¥8,000-10,000
 - **Rota:** Kyoto → (Tokiado) → Nagoya → (Shinano) → Nagano
 
 **💡 Recomendação custo-benefício:** Hokuriku Shinkansen + Thunderbird (4h42m, ¥10,000-11,000)
+
 - **Por quê?** Tempo razoável (menos de 5h) + preço médio + conforto do Shinkansen
 - **Horário ideal:** Saída 11:30 para chegar ~16:00 em Nagano
 
 **🗓️ QUANDO COMPRAR:**
+
 - **Compra antecipada:** Recomendado 1-2 semanas antes (dezembro é alta temporada)
 - **Onde comprar:** JR Ticket Office na Estação de Kyoto (balcão verde)
 - **Online:** Ekikara (app/site oficial JR) ou Klook (mais fácil para estrangeiros)
 - **💡 Dica:** Comprar com antecedência garante assento + evita filas
 
 **🎫 COMO COMPRAR:**
+
 1. **JR Ticket Office:** Mostrar passaporte, pedir "Hokuriku Shinkansen to Nagano"
 2. **Especificar:** "Non-reserved seat" (livre escolha) ou "Reserved seat" (assento marcado +¥500)
 3. **Pagamento:** Cartão de crédito ou dinheiro (aceitam reais)
 4. **Retirada:** Imprimir voucher ou mostrar QR code no celular
 
 **🍱 PREPARO PARA VIAGEM:**
+
 - **Almoço:** Bento box vegano na estação (¥800-1200) - comprar antes de embarcar
 - **Duração:** 4h42m com a opção recomendada
 
 </details>
 
 ### 15:30-16:00 • Chegada em Nagano
+
 - Ver roteiro completo em [nagano.md](./nagano.md)
 
 ---
 
 **Resumo Kyoto Reorganizado:**
+
 - **Dias:** 14-17 dezembro (3 noites, 4 dias)
 - **Foco Dia 1:** Higashiyama (Kodai-ji, Kennin-ji, Ninenzaka, Kiyomizu-dera, Gion)
-- **Foco Dia 2:** Arashiyama (Tenryu-ji, Adashino, Otagi, Monkey Park - bicicleta opcional)
-- **Foco Dia 3:** Centro/Norte (Pavilhões Dourado/Prateado, Ghibli, Estação Kyoto, workshop vegano)
+- **Foco Dia 2:** Arashiyama (Tenryu-ji, Adashino, Otagi, Monkey Park, Kimono Forest iluminado - bicicleta opcional)
+- **Foco Dia 3:** Norte (Kurama-Kibune hike natureza, Pavilhão Prateado, Ghibli, Estação Kyoto, workshop vegano)
 - **Foco Dia 4:** Compras matinais + viagem Nagano
 - **Próximo destino:** Nagano (17-20 dezembro)
