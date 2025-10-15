@@ -381,19 +381,37 @@
 
 </details>
 
-### 11:00 – 14:00 • Viagem para Nagano
-- **🚅 Transporte:** Hokuriku Shinkansen (Nagano Station) | ~3h | **¥10,000-13,000**
+### 11:00 – 15:00 • Viagem para Nagano
+- **🚅 Transporte:** Hokuriku Shinkansen (Nagano Station) | ~4h-5h | **¥10,000-13,000**
 
 <details>
 <summary>Detalhes</summary>
 
-- **Horário sugerido:** Shinkansen das 11:30-12:00 para chegar ~14:00-15:00
-- Almoço no trem (bento box) ou na estação
-- **💡 Dica:** Comprar bento vegano na estação antes de embarcar
+**OPÇÕES DE TRANSPORTE (baseado em dados reais):**
+
+🚅 **MAIS RÁPIDA:** Hokuriku Shinkansen + Thunderbird
+- **Tempo:** 4h42m (saída ~11:30)
+- **Custo:** ¥10,000-11,000
+- **Rota:** Kyoto → (Shinkansen) → Kanazawa → (Thunderbird) → Nagano
+
+🚅 **EQUILIBRADA:** Hokuriku Shinkansen + Matsushiro Line
+- **Tempo:** 4h45m-4h59m (saída ~11:30-12:00)
+- **Custo:** ¥10,000-12,000
+- **Rota:** Kyoto → (Shinkansen) → Toyama → (Matsushiro) → Nagano
+
+🚅 **MAIS BARATA:** Tokiado Shinkansen + Shinano
+- **Tempo:** 5h13m (saída ~10:03)
+- **Custo:** ¥8,000-10,000
+- **Rota:** Kyoto → (Tokiado) → Nagoya → (Shinano) → Nagano
+
+**💡 Recomendação custo-benefício:** Hokuriku Shinkansen + Thunderbird (4h42m, ¥10,000-11,000)
+- **Por quê?** Tempo razoável (menos de 5h) + preço médio + conforto do Shinkansen
+- **Almoço:** Bento box vegano na estação (¥800-1200)
+- **Horário ideal:** Saída 11:30 para chegar ~16:00 em Nagano
 
 </details>
 
-### 14:00+ • Chegada em Nagano
+### 15:30-16:00 • Chegada em Nagano
 - Ver roteiro completo em [nagano.md](./nagano.md)
 
 ---
