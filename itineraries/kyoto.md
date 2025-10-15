@@ -117,7 +117,7 @@
 </details>
 
 ### 11:30 – 13:30 • Jardim de Bambu Tenryu-ji
-- **🚇 Transporte:** JR Sanin Line (Saga-Arashiyama) | ~15-20 min | **¥500**
+- **🚇 Transporte:** JR Sanin Line (Saga-Arashiyama) | ~20 min | **¥500**
 
 <details>
 <summary>Detalhes</summary>
@@ -145,7 +145,7 @@
 </details>
 
 ### 15:30 – 16:45 • Pavilhão Dourado (Kinkaku-ji)
-- **🚌 Transporte:** Ônibus (Kinkakuji-mae) | ~31-45 min | **¥500**
+- **🚌 Transporte:** Ônibus (Kinkakuji-mae) | ~45 min | **¥500**
 
 <details>
 <summary>Detalhes</summary>
@@ -192,7 +192,7 @@
 ### 07:00 – 08:00 • Café da manhã no hotel
 
 ### 08:00 – 12:00 • Pavilhão Prateado + Tenju-an + Okazaki Shrine
-- **🚌 Transporte:** Ônibus (Ginkakuji-mae) | ~16-31 min | **¥500-1000**
+- **🚌 Transporte:** Ônibus (Ginkakuji-mae) | ~30 min | **¥500-1000**
 
 <details>
 <summary>Detalhes</summary>
@@ -230,7 +230,7 @@
 </details>
 
 ### 13:30 – 17:00 • Castelo de Nijo
-- **🚌 Transporte:** Ônibus (Nijojo-mae) | ~16-24 min | **¥800**
+- **🚌 Transporte:** Ônibus (Nijojo-mae) | ~20 min | **¥800**
 
 <details>
 <summary>Detalhes</summary>
@@ -299,7 +299,7 @@
 </details>
 
 ### 10:00 – 13:00 • Check-out e viagem para Nagano
-- **🚅 Transporte:** Hokuriku Shinkansen (Nagano) | ~2h30-3h | **¥10,000-13,000**
+- **🚅 Transporte:** Hokuriku Shinkansen (Nagano) | ~3h | **¥10,000-13,000**
 
 <details>
 <summary>Detalhes</summary>
