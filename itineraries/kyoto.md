@@ -406,8 +406,23 @@
 
 **💡 Recomendação custo-benefício:** Hokuriku Shinkansen + Thunderbird (4h42m, ¥10,000-11,000)
 - **Por quê?** Tempo razoável (menos de 5h) + preço médio + conforto do Shinkansen
-- **Almoço:** Bento box vegano na estação (¥800-1200)
 - **Horário ideal:** Saída 11:30 para chegar ~16:00 em Nagano
+
+**🗓️ QUANDO COMPRAR:**
+- **Compra antecipada:** Recomendado 1-2 semanas antes (dezembro é alta temporada)
+- **Onde comprar:** JR Ticket Office na Estação de Kyoto (balcão verde)
+- **Online:** Ekikara (app/site oficial JR) ou Klook (mais fácil para estrangeiros)
+- **💡 Dica:** Comprar com antecedência garante assento + evita filas
+
+**🎫 COMO COMPRAR:**
+1. **JR Ticket Office:** Mostrar passaporte, pedir "Hokuriku Shinkansen to Nagano"
+2. **Especificar:** "Non-reserved seat" (livre escolha) ou "Reserved seat" (assento marcado +¥500)
+3. **Pagamento:** Cartão de crédito ou dinheiro (aceitam reais)
+4. **Retirada:** Imprimir voucher ou mostrar QR code no celular
+
+**🍱 PREPARO PARA VIAGEM:**
+- **Almoço:** Bento box vegano na estação (¥800-1200) - comprar antes de embarcar
+- **Duração:** 4h42m com a opção recomendada
 
 </details>
 
