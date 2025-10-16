@@ -13,7 +13,7 @@
 
 ## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
 
-**📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Mercure | Zenko-ji à noite | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Mercure | Exploração centro | Primeiro jantar | CALL SEMANAL LONGO
 
 ### 15:30 – 16:30 • Chegada e check-in no Mercure Nagano
 - **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída 11:30, chegada ~16:00)
@@ -24,16 +24,12 @@
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 
-### 19:00 – 20:30 • Templo Zenko-ji iluminado + Ritual Kaidan Meguri
-- **🚶 Transporte:** 15 min a pé do hotel ou ônibus local
-- **Entrada templo:** ¥500 (~R$ 18 / $3.50 USD)
-- **Ritual adicional:** ¥300 por pessoa
-- Um dos templos budistas mais importantes do Japão (fundado século 7)
-- **Horário do templo:** Até 20:00 (dezembro) - CHEGAR CEDO!
-- **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
-- **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
-- **ILUMINADO À NOITE** - arquitetura tradicional impressionante
-- **Menos turistas** que durante o dia
+### 16:00 – 17:00 • Exploração centro Nagano + compras iniciais
+- **🚶 Transporte:** Área próxima ao hotel e estação
+- **Konbini e lojas:** Compras de snacks, itens para neve/frio
+- **Chuo-Dori Street:** Rua principal com lojas e restaurantes
+- **Preparação:** Comprar luvas, gorros, baterias extras para câmeras
+- **Clima:** Dezembro frio - testar roupas de inverno
 
 ### 20:30 – 23:00 • Retorno ao hotel e descanso
 - Preparar para dia INTENSO com carro amanhã
@@ -48,7 +44,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - 🚗 CARRO DIA 1
 
-**📋 Resumo do dia:** PEGAR CARRO | Togakushi Shrine (floresta cedros + 5 santuários) | Narai Juku (vila postal Edo) | DIA INTEIRO DE CARRO
+**📋 Resumo do dia:** PEGAR CARRO | Zenko-Ji Temple (ritual + templo) | Togakushi Shrine (floresta cedros) | Narai Juku (vila postal Edo) | DIA INTEIRO DE CARRO
 
 ### 07:00 – 08:30 • Café da manhã no hotel (buffet)
 - **Locavore Restaurant (1F)**
@@ -60,15 +56,26 @@
 - Pickup na estação Nagano ou hotel
 - Conferir: seguro completo, pneus de inverno, GPS
 
-### 09:00 – 13:00 • Togakushi Shrine 🏔️
-- **🚗 Distância:** 20km do centro Nagano | ~40 min de carro
+### 09:00 – 10:30 • Zenko-Ji Temple (manhã) ⛩️
+- **🚗 Distância:** 3km do centro Nagano | ~10 min de carro
+- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- **Ritual adicional:** ¥300 por pessoa
+- **Horário:** Abre 9:00 (dezembro) - ir CEDO para evitar multidões
+- **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
+- **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
+- **Arquitetura:** Templo budista mais importante do Japão (século 7)
+
+**💡 Dica:** Faça o ritual logo ao chegar (fecha junto com templo às 16:00)
+
+### 10:30 – 13:00 • Togakushi Shrine 🏔️
+- **🚗 Distância:** 20km de Zenko-Ji | ~40 min de carro
 - **Entrada:** FREE
 - **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
 - 5 santuários conectados por trilha na montanha
 - **Okusha (Main Shrine):** Caminho com 400+ anos de cedros
 - Uma das trilhas mais FOTOGÊNICAS do Japão
 - Pode ter neve em dezembro - ainda mais bonito
-- **Tempo:** 3-4h (trilha + santuários)
+- **Tempo:** 2-3h (trilha + santuários)
 - ⚠️ Levar roupa quente, sapatos apropriados
 
 **💡 Almoço:** Soba em Togakushi (região famosa por soba!)
@@ -87,6 +94,7 @@
 
 ### 15:30 – 17:30 • Retorno para Nagano
 - **🚗 Distância:** ~60km | ~1h de carro
+- **Rota otimizada:** Narai Juku → Nagano (volta pela mesma estrada)
 - Chegar antes do dinner last entry (20:30)
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
@@ -168,7 +176,7 @@
 - ✅ Vá com mente aberta - é uma experiência espiritual/sensorial
 - ⚠️ Não recomendado para claustrofóbicos
 - 💡 Leve dinheiro trocado (¥300 em moedas/notas)
-- 🕐 Faça logo ao chegar (fecha junto com o templo às 20:00)
+- 🕐 Faça logo ao chegar (templo fecha às 16:00/16:30)
 
 ---
 
