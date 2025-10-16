@@ -24,13 +24,16 @@
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 
-### 19:00 – 20:30 • Templo Zenko-ji iluminado
+### 19:00 – 20:30 • Templo Zenko-ji iluminado + Ritual Kaidan Meguri
 - **🚶 Transporte:** 15 min a pé do hotel ou ônibus local
-- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- **Entrada templo:** ¥500 (~R$ 18 / $3.50 USD)
+- **Ritual adicional:** ¥300 por pessoa
 - Um dos templos budistas mais importantes do Japão (fundado século 7)
-- Ritual do "key to paradise" no corredor escuro
-- **ILUMINADO À NOITE** - experiência especial com menos turistas
-- Arquitetura tradicional impressionante
+- **Horário do templo:** Até 20:00 (dezembro) - CHEGAR CEDO!
+- **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
+- **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
+- **ILUMINADO À NOITE** - arquitetura tradicional impressionante
+- **Menos turistas** que durante o dia
 
 ### 20:30 – 23:00 • Retorno ao hotel e descanso
 - Preparar para dia INTENSO com carro amanhã
@@ -149,6 +152,26 @@
 
 ---
 
+## 🎭 Detalhes do Ritual "Key to Paradise" (Kaidan Meguri)
+
+**O que é:** Ritual budista único onde você caminha por um corredor completamente escuro procurando uma chave simbólica na parede.
+
+**Como funciona:**
+1. **Entrada:** Pague ¥300 adicional na recepção do templo
+2. **Preparação:** Tire sapatos, pegue uma vela apagada
+3. **Corredor escuro:** Entre no túnel subterrâneo (total escuridão)
+4. **Procure a chave:** Tateie a parede esquerda até encontrar a maçaneta
+5. **Significado:** Quem encontra acredita ganhar acesso ao paraíso
+6. **Duração:** 10-15 minutos
+
+**Dicas:**
+- ✅ Vá com mente aberta - é uma experiência espiritual/sensorial
+- ⚠️ Não recomendado para claustrofóbicos
+- 💡 Leve dinheiro trocado (¥300 em moedas/notas)
+- 🕐 Faça logo ao chegar (fecha junto com o templo às 20:00)
+
+---
+
 ## 💰 Budget Estimado Nagano (2.5 dias)
 
 | Categoria | Custo |
@@ -158,10 +181,11 @@
 | **Estacionamento Jigokudani** | ¥500 (~R$18) |
 | **Jigokudani entrada** | ¥1,600 (2 pessoas) |
 | **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
+| **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
 | **Almoços externos** | ¥4,000-5,000 (Togakushi soba + Nagano station) |
 | **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
 | **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
-| **TOTAL** | **~R$1,350-1,500** |
+| **TOTAL** | **~R$1,380-1,530** |
 
 **💡 Hotel buffet incluso:** Cafés da manhã (exceto Dia 19 cedo) + 2 jantares cobertos!
 
