@@ -1,6 +1,16 @@
 # Nara
 
-## Sábado, 13 de dezembro de 2025
+## 🏨 Informações do Hotel
+
+**Nome:** Grand Mercure Nara Kashihara
+**Check-in:** 13/12/2025 12:00 | **Check-out:** 14/12/2025 08:00
+**Localização:** Próximo à estação Kashiharajingu-mae (1 min)
+**Café da manhã:** 7:00-9:30 (último pedido 9:00)
+**Inclui:** 2 cafés da manhã
+
+---
+
+## Sábado, 13 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar vegano em Nara centro | Kofuku-ji iluminado (Pagode 5 andares) + Sanjo Dori
 

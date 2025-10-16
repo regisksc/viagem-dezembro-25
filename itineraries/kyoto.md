@@ -1,6 +1,17 @@
 # Kyoto
 
-## Domingo, 14 de dezembro de 2025 - HIGASHIYAMA FOCUS
+## 🏨 Informações do Hotel
+
+**Nome:** Mercure Kyoto
+**Check-in:** 14/12/2025 13:00 | **Check-out:** 17/12/2025 11:00
+**Preço:** JPY 42,726 (~R$ 1,425)
+**Café da manhã:** 6:30-10:00 (última entrada 9:30)
+**Inclui:** 6 cafés da manhã (14-17 dezembro)
+**Localização:** Central, próximo ao transporte público
+
+---
+
+## Domingo, 14 de dezembro de 2025 - CHEGADA E HIGASHIYAMA FOCUS
 
 **📋 Resumo do dia:** Viagem de Nara para Kyoto | Higashiyama: Kodai-ji, Kennin-ji, Ninenzaka/Sannenzaka, Kiyomizu-dera | Gion/Pontocho à noite
 

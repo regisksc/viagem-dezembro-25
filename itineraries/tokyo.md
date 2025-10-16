@@ -1,6 +1,16 @@
 # Tokyo
 
-## Sábado, 20 de dezembro de 2025
+## 🏨 Informações do Hotel
+
+**Nome:** Ibis Styles Tokyo Ginza
+**Check-in:** 19/12/2025 15:00 | **Check-out:** 24/12/2025 11:00
+**Preço:** JPY 20,149/noite (~R$ 675/noite)
+**Café da manhã:** 7:00-11:00 (últimos pedidos 10:30)
+**Inclui:** Café da manhã
+
+---
+
+## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Nagano | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
 

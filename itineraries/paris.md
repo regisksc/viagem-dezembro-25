@@ -1,5 +1,15 @@
 # Paris
 
+## 🏨 Informações do Hotel
+
+**Nome:** Aparthotel Adagio Paris Centre Tour Eiffel
+**Check-in:** 24/12/2025 15:00 | **Check-out:** 28/12/2025 11:00
+**Preço:** €611.25 no check-in (~R$ 3,660)
+**Café da manhã:** 7:30-10:00
+**Tipo:** Studio City View
+
+---
+
 ## Quarta-feira, 24 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Tokyo em Paris | Check-in Adagio Tour Eiffel | Descanso e ajuste ao fuso | Hank Burger (jantar)

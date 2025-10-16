@@ -1,12 +1,21 @@
 # Nagano
 
+## 🏨 Informações do Hotel
+
+**Nome:** Mercure Nagano
+**Check-in:** 17/12/2025 15:00 | **Check-out:** 19/12/2025 11:00
+**Preço:** JPY 55,100 restante a pagar (~R$ 1,840)
+**Café da manhã:** 7:00-9:30 (última entrada 9:00)
+**Jantar:** 17:30-21:00 (última entrada 20:30)
+**Restaurante:** Locavore Restaurant (1F)
+
 ---
 
 ## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
 
-**📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Novotel | Zenko-ji à noite | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Mercure | Zenko-ji à noite | CALL SEMANAL LONGO
 
-### 15:30 – 16:30 • Chegada e check-in no Novotel Nagano
+### 15:30 – 16:30 • Chegada e check-in no Mercure Nagano
 - **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída 11:30, chegada ~16:00)
 - Check-in oficial 15:00
 - Deixar malas, refresh
@@ -122,7 +131,7 @@
 ### 12:00 – 12:30 • Devolver carro + check-out
 - **Devolução:** Rental office estação Nagano
 - Conferir tanque cheio, vistoria
-- Check-out do Novotel (pode fazer antes ou deixar malas)
+- Check-out do Mercure (pode fazer antes ou deixar malas)
 - Pegar malas
 
 ### 12:30 – 13:00 • Almoço rápido estação Nagano

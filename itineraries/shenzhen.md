@@ -1,5 +1,16 @@
 # Shenzhen
 
+## 🏨 Informações do Hotel
+
+**Nome:** Pullman Shenzhen North
+**Check-in:** 06/12/2025 15:00 | **Check-out:** 09/12/2025 11:00
+**Preço:** RMB 947.65/noite (~R$ 710/noite)
+**Café da manhã:** Até 11:00 (horário de início variável)
+**Confirmação:** #32816889
+**Inclui:** 2 cafés da manhã
+
+---
+
 ## Domingo, 7 de dezembro de 2025
 
 **📋 Resumo do dia:** Dongmen Pet Market | Compra de malas (Luohu Commercial City) | Sam's Club COCO Park (snacks) | Shenzhen Bay Park | Vegan Awakening (jantar)

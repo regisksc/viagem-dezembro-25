@@ -95,6 +95,7 @@
       "hotel": {
         "name": "AKI Hong Kong – MGallery",
         "expected_price": "HK$ 3033.51 (~R$ 2060)",
+        "breakfast_hours": "6:30-12:00 (seg-sex) | 7:00-12:00 (fins de semana)",
         "notes": "Pretende sair o mais cedo possível para ganhar tempo em Shenzhen"
       },
       "departure_flight": {
@@ -195,6 +196,7 @@
         "rate_per_night": "RMB 947.65 (~R$ 710)",
         "confirmation_number": "32816889",
         "room_type": "Executive Twin",
+        "breakfast_hours": "Até 11:00 (horário de início variável)",
         "includes": "2 cafés da manhã"
       },
       "promotion": {
@@ -427,6 +429,7 @@
       "hotel": {
         "name": "Swissotel Nankai Osaka",
         "discounted_rate": "JPY 153,000 total (~R$ 5100)",
+        "breakfast_hours": "6:30-10:30 (última entrada 10:00)",
         "notes": "Best Price Guarantee aplicado (10% off). Hotel qualificado para Kansai Airport Shuttle. Check-out CEDO no dia 13 para aproveitar Nara (sair até meio-dia no máximo)"
       },
       "promotion": {
@@ -988,7 +991,10 @@
         "notes": "Coberto por JR Pass se tiver. Sair de Osaka CEDO no dia 13 para aproveitar Nara - objetivo é chegar por volta do meio-dia"
       },
       "hotel": {
-        "notes": "Reservar hotel em Nara para 1 noite (13-14 dezembro). Ficar próximo ao Nara Park facilita. 2 cafés da manhã inclusos"
+        "name": "Grand Mercure Nara Kashihara",
+        "location": "Próximo à estação Kashiharajingu-mae (1 min)",
+        "includes": "2 cafés da manhã inclusos",
+        "notes": "Hotel em Kashihara (não em Nara Park). Aproveite para explorar Kashihara Jingu e Imai-cho"
       },
       "essential_apps": [
         {
@@ -1153,6 +1159,7 @@
       "hotel": {
         "name": "Mercure Kyoto",
         "expected_price": "JPY 42,726 (~R$ 1425)",
+        "breakfast_hours": "6:30-10:00 (última entrada 9:30)",
         "notes": "6 cafés da manhã inclusos (14-17 dezembro). Check-in oficial 15:00 mas pode deixar malas antes. Localização central próxima ao transporte público"
       },
       "essential_apps": [
@@ -1451,8 +1458,11 @@
       "check_in": "2025-12-17T15:00",
       "check_out": "2025-12-19T11:00",
       "hotel": {
-        "name": "Novotel Nagano",
-        "remaining_to_pay": "JPY 55,100 (~R$ 1840)"
+        "name": "Mercure Nagano",
+        "remaining_to_pay": "JPY 55,100 (~R$ 1840)",
+        "breakfast_hours": "7:00-9:30 (last entry 9:00)",
+        "dinner_hours": "17:30-21:00 (last entry 20:30)",
+        "restaurant": "Locavore Restaurant (1F)"
       },
       "essential_apps": [
         {
@@ -1496,6 +1506,7 @@
       "hotel": {
         "name": "Ibis Styles Tokyo Ginza",
         "rate_per_night": "JPY 20,149 (~R$ 675)",
+        "breakfast_hours": "7:00-11:00 (últimos pedidos 10:30)",
         "notes": "Café da manhã incluso"
       },
       "departure_info": {
@@ -1791,6 +1802,7 @@
       "hotel": {
         "name": "Aparthotel Adagio Paris Centre Tour Eiffel",
         "amount_due_at_checkin": "€ 611.25 (~R$ 3660)",
+        "breakfast_hours": "7:30-10:00",
         "room_type": "Studio City View"
       },
       "essential_apps": [

@@ -1,5 +1,15 @@
 # Hong Kong
 
+## 🏨 Informações do Hotel
+
+**Nome:** AKI Hong Kong – MGallery
+**Check-in:** 05/12/2025 15:00 | **Check-out:** 06/12/2025 11:00
+**Preço:** HK$ 3,033.51 (~R$ 2,060)
+**Café da manhã:** 6:30-12:00 (seg-sex) | 7:00-12:00 (fins de semana)
+**Localização:** Central, próximo ao transporte público
+
+---
+
 ## Sexta-feira, 5 de dezembro de 2025
 
 **📋 Resumo do dia:** Chegada em Hong Kong | Configuração de apps essenciais | Chi Lin Nunnery | Lugard Road pôr do sol | LockCha Tea House (jantar) | Temple Street Night Market

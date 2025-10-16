@@ -1,5 +1,15 @@
 # Osaka
 
+## 🏨 Informações do Hotel
+
+**Nome:** Swissotel Nankai Osaka
+**Check-in:** 09/12/2025 15:00 | **Check-out:** 13/12/2025 10:00
+**Preço:** JPY 153,000 total (~R$ 5,100)
+**Café da manhã:** 6:30-10:30 (última entrada 10:00)
+**Localização:** Conectado à estação Namba, acesso direto ao metrô e trens
+
+---
+
 ## Terça-feira, 09 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada em Osaka (KIX 19:05) | Shuttle gratuito para hotel | Check-in Swissôtel | Primeira exploração Dotonbori | Paprika Shokudo (jantar vegano)
