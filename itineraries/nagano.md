@@ -10,19 +10,20 @@
 - Check-in oficial 15:00
 - Deixar malas, refresh
 
-### 17:00 – 19:00 • Templo Zenko-ji
+### 17:00 – 17:30 • Jantar no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 17:30-21:00 (last entry 20:30)
+- Jantar cedo antes de Zenko-ji
+
+### 17:30 – 19:30 • Templo Zenko-ji
 - **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
 - Um dos templos budistas mais importantes do Japão
 - Fundado no século 7
 - Ritual do "key to paradise" no corredor escuro
 - Arquitetura tradicional impressionante
+- Iluminado à noite - experiência especial
 
-### 19:00 – 20:30 • Jantar
-**Opções vegetarianas:**
-- Restaurantes locais próximos ao templo
-- Usar HappyCow para encontrar opções
-
-### 20:30 – 22:30 • Exploração de Nagano à noite
+### 19:30 – 22:30 • Exploração de Nagano à noite
 - Área ao redor da estação
 - Preparar para dia cheio amanhã
 
@@ -41,14 +42,18 @@
 
 **📋 Resumo do dia:** Recuperação após call longa | Exploração de Nagano | Preparação para Jigokudani amanhã
 
-### 07:00 – 08:00 • Café da manhã no hotel
+### 07:00 – 08:30 • Café da manhã no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 7:00-9:30 (last entry 9:00)
 
-### 08:00 – 19:00 • Dia livre em Nagano
+### 08:30 – 17:30 • Dia livre em Nagano
 - Exploração local
 - Descanso após call longa da madrugada
 - Preparação para Jigokudani amanhã
 
-### 19:00 – 20:30 • Jantar
+### 17:30 – 19:00 • Jantar no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 17:30-21:00 (last entry 20:30)
 
 ### 20:30 – 23:00 • Descanso e preparação
 
@@ -63,10 +68,12 @@
 
 **📋 Resumo do dia:** Parque dos Macacos Jigokudani (DIA INTEIRO) | Macacos da neve em onsen | Experiência onsen em Yudanaka
 
-### 08:00 – 09:00 • Café da manhã no hotel
+### 08:00 – 09:00 • Café da manhã no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 7:00-9:30 (last entry 9:00)
 - Acordar mais tarde devido call longa
 
-### 09:00 – 17:00 • Parque dos Macacos Jigokudani (DIA INTEIRO)
+### 09:00 – 16:30 • Parque dos Macacos Jigokudani (DIA INTEIRO)
 - **Entrada:** ¥800 (~R$ 29 / $5.50 USD) | Fonte: Site oficial
 - **Reserva:** 1-2 dias antecedência
 - **Transporte:** Trem + ônibus de Nagano Station (~1h total)
@@ -82,13 +89,14 @@
 - **Reserva:** 1 semana antecedência se quiser onsen específico
 - Relaxar após dia no frio
 
-### 17:00 – 18:30 • Retorno para Nagano
+### 16:30 – 18:00 • Retorno para Nagano
 
-### 18:30 – 20:00 • Jantar
-**Opções vegetarianas:**
-- Restaurantes em Nagano
+### 18:00 – 19:30 • Jantar no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 17:30-21:00 (last entry 20:30)
+- ⚠️ Voltar ANTES de 20:30 para jantar!
 
-### 20:00 – 22:00 • Organizar malas para Tokyo amanhã
+### 19:30 – 22:00 • Organizar malas para Tokyo amanhã
 
 ### 22:00 – 23:00 • Descanso
 
@@ -99,11 +107,13 @@
 
 ---
 
-## Sábado, 19 de dezembro de 2025
+## Sábado, 20 de dezembro de 2025
 
 **📋 Resumo do dia:** Check-out Nagano | Viagem para Tokyo (Shinkansen) | Check-in Ginza | Shibuya Crossing | Meiji Jingu | Harajuku
 
-### 07:00 – 08:00 • Café da manhã no hotel
+### 07:00 – 08:30 • Café da manhã no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 7:00-9:30 (last entry 9:00)
 
 ### 08:00 – 11:00 • Check-out e viagem para Tokyo
 - Check-out do Novotel Nagano (11:00)
