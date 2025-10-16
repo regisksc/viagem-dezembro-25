@@ -44,31 +44,32 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - 🚗 CARRO DIA 1
 
-**📋 Resumo do dia:** PEGAR CARRO | Zenko-Ji Temple (ritual + templo) | Togakushi Shrine (floresta cedros) | Narai Juku (vila postal Edo) | DIA INTEIRO DE CARRO
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Pegar carro | Café da manhã | Togakushi Shrine | Narai Juku | DIA INTEIRO DE CARRO
 
-### 07:00 – 08:30 • Café da manhã no hotel (buffet)
-- **Locavore Restaurant (1F)**
-- Buffet 7:00-9:30 (last entry 9:00)
-- Acordar cedo (após call longa madrugada)
-
-### 08:30 – 09:00 • Pegar carro alugado
-- **🚗 Rental:** ~R$560 para 2 dias (¥15,000)
-- Pickup na estação Nagano ou hotel
-- Conferir: seguro completo, pneus de inverno, GPS
-
-### 09:00 – 10:30 • Zenko-Ji Temple (manhã) ⛩️
-- **🚗 Distância:** 3km do centro Nagano | ~10 min de carro
+### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
+- **🚶 Distância:** 3km do hotel | ~40 min a pé OU ônibus local (~10 min)
 - **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
 - **Ritual adicional:** ¥300 por pessoa
-- **Horário:** Abre 9:00 (dezembro) - ir CEDO para evitar multidões
+- **Horário:** Abre 9:00 - CHEGAR ÀS 8:30 para ser primeiro
+- **JEJUM ESPIRITUAL:** Ir antes do café da manhã (tradição)
 - **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
 - **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
 - **Arquitetura:** Templo budista mais importante do Japão (século 7)
 
-**💡 Dica:** Faça o ritual logo ao chegar (fecha junto com templo às 16:00)
+**💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
 
-### 10:30 – 13:00 • Togakushi Shrine 🏔️
-- **🚗 Distância:** 20km de Zenko-Ji | ~40 min de carro
+### 08:00 – 08:30 • Pegar carro alugado
+- **🚗 Rental:** ~R$560 para 2 dias (¥15,000)
+- Pickup na estação Nagano ou hotel
+- Conferir: seguro completo, pneus de inverno, GPS
+
+### 08:30 – 09:30 • Café da manhã no hotel (buffet)
+- **Locavore Restaurant (1F)**
+- Buffet 7:00-9:30 (last entry 9:00)
+- **APÓS RITUAL:** Melhor horário para refeição espiritual
+
+### 09:30 – 12:30 • Togakushi Shrine 🏔️
+- **🚗 Distância:** 20km do hotel Nagano | ~40 min de carro
 - **Entrada:** FREE
 - **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
 - 5 santuários conectados por trilha na montanha
@@ -81,7 +82,7 @@
 **💡 Almoço:** Soba em Togakushi (região famosa por soba!)
 - Restaurante local próximo aos santuários | ¥1,000-1,500
 
-### 13:00 – 15:30 • Narai Juku (Nakasendo Trail) 🏘️
+### 12:30 – 15:00 • Narai Juku (Nakasendo Trail) 🏘️
 - **🚗 Distância:** ~90km de Togakushi | ~1h30 de carro
 - **Entrada:** FREE
 - **Por que ir:** Vila postal preservada do período Edo
@@ -92,7 +93,7 @@
 - Atmosfera Edo autêntica sem multidões
 - **Tempo:** 2-2.5h caminhando pela vila
 
-### 15:30 – 17:30 • Retorno para Nagano
+### 15:00 – 17:00 • Retorno para Nagano
 - **🚗 Distância:** ~60km | ~1h de carro
 - **Rota otimizada:** Narai Juku → Nagano (volta pela mesma estrada)
 - Chegar antes do dinner last entry (20:30)
@@ -164,6 +165,8 @@
 
 **O que é:** Ritual budista único onde você caminha por um corredor completamente escuro procurando uma chave simbólica na parede.
 
+**Por que em jejum:** Experiência espiritual mais intensa - tradição budista fazer rituais matinais antes da primeira refeição.
+
 **Como funciona:**
 1. **Entrada:** Pague ¥300 adicional na recepção do templo
 2. **Preparação:** Tire sapatos, pegue uma vela apagada
@@ -176,7 +179,8 @@
 - ✅ Vá com mente aberta - é uma experiência espiritual/sensorial
 - ⚠️ Não recomendado para claustrofóbicos
 - 💡 Leve dinheiro trocado (¥300 em moedas/notas)
-- 🕐 Faça logo ao chegar (templo fecha às 16:00/16:30)
+- 🕐 Faça logo ao abrir (templo abre às 9:00, chegar 8:30)
+- 🍽️ Café da manhã APÓS o ritual (mais significativo)
 
 ---
 
