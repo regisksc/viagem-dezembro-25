@@ -106,13 +106,26 @@ jigokudani-onsen.com
 ### 15:00 – 16:30 • Onsen no Ryokan Korakukan ♨️
 
 - **Local:** Jigokudani Onsen Korakukan (2 min a pé do parque)
+- **Horário ideal:** 15:00-16:30 (quando macacos têm MAIOR chance de entrar)
 - **Experiência única:** Banho termal tradicional japonês
-- **Onsen externo misto:** Possibilidade de macacos entrarem! (raro e especial)
+- **Onsen externo misto:** Possibilidade de macacos entrarem! (vide diz que acontece)
 - **Preço:** ¥1,200 (onsen público 12:00-15:00)
-- **Características:** Água termal sódio/cálcio (bom para pele, reumatismo, músculos)
-- **Tipos de banho:** Interno, externo misto, externo feminino, familiar
-- **Regras:** Banho nu obrigatório, lavar corpo ANTES de entrar
-- **💡 Dica:** Relaxar músculos após caminhada | Toalha pequena obrigatória
+
+**OPÇÕES PARA CASAIS (homem + mulher):**
+- **Banho externo misto:** Juntos! (unissex, mas banho nu obrigatório)
+- **Banho familiar:** Reservar quarto familiar (mais privativo)
+- **Banho interno separado:** Masculino/feminino separados
+
+**Características da água:**
+- Água termal sódio/cálcio (bom para pele, reumatismo, músculos cansados)
+- **Benefícios:** Relaxa após caminhada, hidrata pele, alivia tensão
+
+**Etiqueta japonesa (para casal):**
+- ✅ Banho nu obrigatório em áreas mistas
+- ✅ Lavar corpo completamente ANTES de entrar
+- ✅ Toalha pequena para secar (não levar para banho)
+- ✅ Respeitar privacidade alheia
+- **💡 Dica:** Vá juntos no banho misto externo para experiência com macacos
 
 ### 16:30 – 17:20 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
 
