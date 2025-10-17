@@ -137,7 +137,7 @@ jigokudani-onsen.com
 
 - **Opções:** Compras, souvenirs, café, ou retorno ao hotel
 - **Transporte:** Ônibus local incluso no passe (linha Nagano Dentetsu)
-- **💡 Dica:** Aproveitar para comprar lembranças da região
+- **💡 Dica:** Snow Monkey Pass válido até amanhã - use para Zenko-Ji!
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
@@ -167,7 +167,7 @@ jigokudani-onsen.com
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
-- **🚶 Distância:** 3km do hotel | ~40 min a pé OU ônibus local (~10 min)
+- **🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
 - **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
 - **Ritual adicional:** ¥300 por pessoa
 - **Horário:** Abre 9:00 - CHEGAR ÀS 8:30 para ser primeiro
