@@ -49,7 +49,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Café da manhã | Togakushi Shrine (ônibus) | Obuse (trem local)
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Café hotel | Togakushi (2h15 ônibus) | Obuse (ônibus 40min) | Trem retorno
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
@@ -70,9 +70,16 @@
 - Buffet 7:00-9:30 (last entry 9:00)
 - **APÓS RITUAL:** Melhor horário para refeição espiritual
 
-### 09:30 – 12:30 • Togakushi Shrine 🏔️
+### 07:30 – 09:45 • Viagem para Togakushi
 
-- **🚌 Transporte:** Ônibus da estação Nagano (40-50 min)
+- **🚌 Ônibus:** Matsushiro Line (estação Nagano → Togakushi)
+- **Duração:** ~2h 15min | **Custo:** ¥1,200-1,500
+- **Horários:** 07:30, 09:10, 10:55, 11:55, 12:25, 13:25
+- **App:** Hyperdia para horários exatos
+- **Frequência:** A cada 1-2 horas
+
+### 10:00 – 13:00 • Togakushi Shrine 🏔️
+
 - **Entrada:** FREE
 - **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
 - 5 santuários conectados por trilha na montanha
@@ -86,24 +93,32 @@
 
 - Restaurante local próximo aos santuários | ¥1,000-1,500
 
-### 12:30 – 15:00 • Obuse (cidade histórica Hokusai) 🏛️
+### 13:00 – 13:40 • Viagem Togakushi → Obuse
 
-- **🚌 Transporte:** Ônibus local Togakushi → Obuse (30-40 min)
+- **🚌 Ônibus:** Ônibus local (Togakushi → Obuse)
+- **Duração:** ~40 min | **Custo:** ¥500-800
+- **Horários:** Verificar no local ou app
+
+### 13:40 – 15:40 • Obuse (cidade histórica Hokusai) 🏛️
+
 - **Entrada:** FREE (museu ¥500 opcional)
 - **Por que ir:** Cidade histórica conhecida por Hokusai Katsushika
 - **Museu Hokusai:** Obras do mestre ukiyo-e (pinturas japonesas)
 - Ruas preservadas do período Edo com lojas tradicionais
 - **Castanha de Obuse:** Produtos locais famosos (doces, sorvetes)
 - Atmosfera autêntica sem multidões
-- **Tempo:** 2-2.5h explorando cidade + museu opcional
+- **Tempo:** 1.5-2h explorando cidade + museu opcional
 
-### 16:30 – 17:30 • Retorno para Nagano
+### 15:40 – 16:10 • Retorno para Nagano
 
-- **🚆 Transporte:** Trem Shinano Railway (Obuse → Nagano)
-- **Duração:** 20-30 min | **Custo:** ¥300-500
+- **🚆 Trem:** Shinano Railway (Obuse → Nagano)
+- **Duração:** ~25 min | **Custo:** ¥300-500
 - **Frequência:** A cada 30-60 min
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
+
+- **Locavore Restaurant (1F)**
+- Buffet 17:30-21:00 (last entry 20:30)
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
@@ -241,7 +256,7 @@
 
 **Rotas otimizadas:**
 
-- **Day 18:** Nagano → Togakushi (40min) → Obuse (45min) → Nagano (30min)
+- **Day 18:** Nagano → Togakushi (2h15min ônibus) → Obuse (40min ônibus) → Nagano (25min trem)
 - **Day 19:** Nagano → Jigokudani (45min) → Yudanaka (5min) → Nagano (45min)
 
 ---
