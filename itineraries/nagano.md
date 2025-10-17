@@ -49,7 +49,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Café hotel | Jigokudani (ônibus 45min) | Macacos da neve PRIORIDADE
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Jigokudani (ônibus 8:10) | Macacos 9h-12h | Retorno almoço
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
@@ -64,20 +64,23 @@
 
 **💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
 
-### 08:30 – 09:30 • Café da manhã no hotel (buffet)
+### 13:00 – 14:00 • Almoço no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
-- Buffet 7:00-9:30 (last entry 9:00)
-- **APÓS RITUAL:** Melhor horário para refeição espiritual
+- Buffet 11:30-14:00 (almoço)
+- **APÓS PARQUE:** Refeição após manhã intensa com macacos
+- **💡 Alternativa:** Se preferir explorar Nagano, almoçar fora
 
-### 13:30 – 14:15 • Viagem para Jigokudani
+### 08:00 – 09:00 • Viagem para Jigokudani (chegar 9h)
 
 - **🚌 Ônibus:** Ônibus especial Jigokudani (Nagano Station → Kanbayashi Onsen)
-- **Duração:** ~45 min | **Custo:** ¥1,500-2,000 (ida + volta)
-- **Horários:** Múltiplos horários, verificar no local
+- **Duração:** ~50 min | **Custo:** ¥1,500-2,000 (ida + volta)
+- **Horários:** 08:10, 09:10, 10:10 (verificar no local)
+- **Para chegar 9h:** Pegar ônibus das 8:10 (chega ~9:00)
 - **App:** Hyperdia ou site oficial do parque
+- **💡 Dica:** Comprar passagem de ida e volta no guichê
 
-### 14:15 – 17:30 • Jigokudani Snow Monkey Park 🐒❄️
+### 09:00 – 12:00 • Jigokudani Snow Monkey Park 🐒❄️
 
 - **Entrada:** ¥800 (~R$ 29 / $5.50 USD)
 - **PRIORIDADE:** Santuário dos macacos - experiência principal!
@@ -88,13 +91,14 @@
 - Fotografia wildlife única no mundo
 - Atmosfera mágica de inverno
 - ⚠️ Levar roupa MUITO quente, sapatos apropriados para neve
-- **Melhor horário:** Tarde (luz melhor para fotos)
+- **Melhor horário:** Manhã cedo (macacos mais ativos)
 
-### 17:30 – 18:15 • Retorno para Nagano
+### 12:00 – 13:00 • Retorno para Nagano
 
 - **🚌 Ônibus:** Mesmo ônibus especial (volta para estação)
-- **Duração:** ~45 min
-- Chegar a tempo do jantar no hotel (última entrada 20:30)
+- **Duração:** ~50 min
+- **Horários de volta:** 12:00, 13:00, 14:00, 15:00, 16:00
+- Chegar para almoço no hotel ou explorar Nagano
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
