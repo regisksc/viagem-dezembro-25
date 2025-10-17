@@ -147,14 +147,28 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - PARTIDA TOKYO
 
-**📋 Resumo do dia:** Zenko-Ji jejum espiritual | Café hotel | Shinkansen Tokyo
+**📋 Resumo do dia:** Zenko-Ji jejum espiritual (6:30) | Café hotel | Shinkansen Tokyo
 
-### 07:00 – 08:30 • Café da manhã no hotel (buffet)
+### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
+
+- **🚶 Distância:** 3km do hotel | ~40 min a pé OU ônibus local (~10 min)
+- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- **Ritual adicional:** ¥300 por pessoa
+- **Horário:** Abre 9:00 - CHEGAR ÀS 8:30 para ser primeiro
+- **JEJUM ESPIRITUAL:** Ir antes do café da manhã (tradição)
+- **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
+- **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
+- **Arquitetura:** Templo budista mais importante do Japão (século 7)
+
+**💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
+
+### 08:00 – 09:00 • Café da manhã no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
+- **APÓS RITUAL:** Melhor horário para refeição espiritual
 
-### 08:30 – 11:00 • Check-out e viagem para Tokyo
+### 09:00 – 11:00 • Check-out e viagem para Tokyo
 
 - Check-out do Mercure Nagano (11:00)
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo)
