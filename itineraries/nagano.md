@@ -47,30 +47,18 @@
 
 ---
 
-## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
+## Quinta-feira, 18 de dezembro de 2025 - SNOW MONKEY PARK FULL DAY 🐒❄️
 
 **📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (6:30) | Comprar passe | Ônibus macacos | Parque 11h-14h | PASSE ilimitado
 
-### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
-
-- **🚶 Distância:** 3km do hotel | ~40 min a pé OU ônibus local (~10 min)
-- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
-- **Ritual adicional:** ¥300 por pessoa
-- **Horário:** Abre 9:00 - CHEGAR ÀS 8:30 para ser primeiro
-- **JEJUM ESPIRITUAL:** Ir antes do café da manhã (tradição)
-- **EXPERIÊNCIA PRINCIPAL:** Ritual "Key to Paradise" (Kaidan Meguri)
-- **Corredor escuro subterrâneo:** Procurar chave na parede no escuro total
-- **Arquitetura:** Templo budista mais importante do Japão (século 7)
-
-**💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
-
-### 08:30 – 09:30 • Café da manhã no hotel (buffet)
+### 07:00 – 08:00 • Café da manhã CEDO no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
-- **APÓS RITUAL:** Melhor horário para refeição espiritual
+- **ENERGIA:** Para dia intenso no parque dos macacos
+- **💡 Dica:** Comer leve para não passar mal no ônibus
 
-### 09:30 – 10:00 • Comprar Snow Monkey Pass
+### 08:00 – 08:30 • Comprar Snow Monkey Pass
 
 - **📍 Local:** Bilheteria Nagano Dentetsu Railway Line (estação Nagano)
 - **🎟️ Custo:** ¥3,600 por pessoa (2 dias)
@@ -92,7 +80,7 @@
 - **Banheiros:** Último banheiro em Kanbayashi (não há no caminho)
 - **Clima:** -2°C esperado, neve aumentando
 
-### 11:25 – 14:30 • Snow Monkey Park (entrada INCLUSA no passe) 🐒❄️
+### 11:25 – 16:00 • Snow Monkey Park FULL EXPERIENCE (entrada INCLUSA no passe) 🐒❄️
 
 - **Experiência:** Macacos selvagens nas fontes termais
 - **Melhor época:** Dezembro-março (macacos nas águas quentes)
@@ -100,14 +88,16 @@
 - **Observação:** Macacos comem grama, folhas e comida do parque
 - **Fotografia:** Não olhar nos olhos (sinal de hostilidade)
 - **Bebês:** Nascem abril-junho, crescem até inverno
+- **Almoço:** Levar onigiri ou comprar no café do parque
+- **Duração:** Tempo ilimitado para observar e fotografar
 
-### 14:30 – 15:20 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
+### 16:00 – 16:50 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
 
 - **🚌 Mesmo ônibus:** Retorno incluso no passe
 - **Duração:** 50 minutos
 - **Horários:** Múltiplos retornos disponíveis
 
-### 15:20 – 16:00 • Exploração Nagano ou descanso
+### 17:00 – 18:00 • Exploração Nagano ou descanso
 
 - **Opções:** Compras, café, ou retorno ao hotel para descanso
 - **Transporte:** Ônibus local incluso no passe (linha Nagano Dentetsu)
@@ -136,7 +126,7 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - PARTIDA TOKYO
 
-**📋 Resumo do dia:** Check-out Nagano | Shinkansen para Tokyo
+**📋 Resumo do dia:** Zenko-Ji jejum espiritual | Café hotel | Shinkansen Tokyo
 
 ### 07:00 – 08:30 • Café da manhã no hotel (buffet)
 
