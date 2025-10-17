@@ -71,14 +71,26 @@
 - **APÓS PARQUE:** Refeição após manhã intensa com macacos
 - **💡 Alternativa:** Se preferir explorar Nagano, almoçar fora
 
-### 08:00 – 09:00 • Viagem para Jigokudani (chegar 9h)
+### 07:00 – 09:00 • Viagem para Jigokudani (chegar 9h)
 
-- **🚌 Ônibus:** Ônibus especial Jigokudani (Nagano Station → Kanbayashi Onsen)
-- **Duração:** ~50 min | **Custo:** ¥1,500-2,000 (ida + volta)
-- **Horários:** 08:10, 09:10, 10:10 (verificar no local)
-- **Para chegar 9h:** Pegar ônibus das 8:10 (chega ~9:00)
-- **App:** Hyperdia ou site oficial do parque
+**ROTA COMPLETA (hotel → parque):**
+1. **07:00 → 07:40:** Hotel → Nagano Station (ônibus local ~40 min)
+2. **08:10 → 09:00:** Nagano Station → Kanbayashi (ônibus especial 50 min)
+3. **09:00 → 09:30:** Kanbayashi → Parque (caminhada 30 min)
+
+**🚌 Ônibus:** Ônibus especial Jigokudani (Nagano Station → Kanbayashi Onsen)
+- **Duração:** ~50 min (apenas estação → Kanbayashi)
+- **Custo:** ¥1,500-2,000 (ida + volta)
+- **Horários:** 08:10, 09:10, 10:10, 12:00, 13:00, 14:00, 15:00
+- **Para chegar 9h:** Pegar ônibus das 8:10 (chega Kanbayashi 9:00)
 - **💡 Dica:** Comprar passagem de ida e volta no guichê
+
+**SNOW MONKEY PASS (2 dias, 2 pessoas):**
+- **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
+- **Inclui:** Ônibus ilimitado + entrada parque POR 2 DIAS
+- **Vale a pena?** SIM! Economiza ¥1,000-2,000 por pessoa
+- **Por que 2 dias?** Flexibilidade caso queira voltar outro dia
+- **Onde comprar:** Guichê Nagano Station (East Exit)
 
 ### 09:00 – 12:00 • Jigokudani Snow Monkey Park 🐒❄️
 
@@ -177,7 +189,7 @@
 | **Aluguel carro 2 dias** | R$560 (~¥15,000) |
 | **Gasolina** | ~¥3,000-4,000 (~R$110-145) |
 | **Estacionamento Jigokudani** | ¥500 (~R$18) |
-| **Jigokudani entrada** | ¥1,600 (2 pessoas) |
+| **Incluso no passe** | ¥0 |
 | **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
 | **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
 | **Almoços externos** | ¥4,000-5,000 (Togakushi soba + Nagano station) |
@@ -190,6 +202,31 @@
 **⚠️ Ajuste roteiro:** Onsen em Yudanaka removido para dar tempo de pegar Shinkansen para Tokyo
 
 ---
+
+
+## 🎟️ Snow Monkey Pass - Vale a Pena?
+
+**Para 2 pessoas, 2 dias:**
+- **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
+- **Inclui:** Ônibus ilimitado + entrada parque (válido 2 dias)
+- **Onde comprar:** Guichê Nagano Station East Exit
+- **Vantagens:**
+  - ✅ Ônibus ilimitado (se quiser voltar outro dia)
+  - ✅ Entrada parque inclusa (economiza ¥800/pessoa)
+  - ✅ Flexibilidade de horários
+  - ✅ Desconto para múltiplos dias
+
+**Sem passe (apenas Day 18):**
+- Ônibus ida+volta: ¥1,500-2,000
+- Entrada parque: ¥800/pessoa = ¥1,600
+- **Total:** ¥3,100-3,600
+
+**Com passe (2 dias):**
+- Passe: ¥6,000-8,000 (2 pessoas)
+- **Economia:** ¥1,000-2,000 por pessoa
+- **Flexibilidade:** Pode visitar outro dia se quiser
+
+**Vale a pena?** SIM! Especialmente com 2 pessoas.
 
 ## 🚗 Dicas Transporte Público Nagano
 
@@ -214,6 +251,31 @@
 
 ---
 
+
+
+## 🎟️ Snow Monkey Pass - Vale a Pena?
+
+**Para 2 pessoas, 2 dias:**
+- **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
+- **Inclui:** Ônibus ilimitado + entrada parque (válido 2 dias)
+- **Onde comprar:** Guichê Nagano Station East Exit
+- **Vantagens:**
+  - ✅ Ônibus ilimitado (se quiser voltar outro dia)
+  - ✅ Entrada parque inclusa (economiza ¥800/pessoa)
+  - ✅ Flexibilidade de horários
+  - ✅ Desconto para múltiplos dias
+
+**Sem passe (apenas Day 18):**
+- Ônibus ida+volta: ¥1,500-2,000
+- Entrada parque: ¥800/pessoa = ¥1,600
+- **Total:** ¥3,100-3,600
+
+**Com passe (2 dias):**
+- Passe: ¥6,000-8,000 (2 pessoas)
+- **Economia:** ¥1,000-2,000 por pessoa
+- **Flexibilidade:** Pode visitar outro dia se quiser
+
+**Vale a pena?** SIM! Especialmente com 2 pessoas.
 
 ## 🚗 Dicas Transporte Público Nagano
 
