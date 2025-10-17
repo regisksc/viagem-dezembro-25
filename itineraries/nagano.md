@@ -80,7 +80,7 @@
 - **Banheiros:** Último banheiro em Kanbayashi (não há no caminho)
 - **Clima:** -2°C esperado, neve aumentando
 
-### 11:25 – 16:00 • Snow Monkey Park FULL EXPERIENCE (entrada INCLUSA no passe) 🐒❄️
+### 11:25 – 14:00 • Snow Monkey Park FULL EXPERIENCE (entrada INCLUSA no passe) 🐒❄️
 
 - **Experiência:** Macacos selvagens nas fontes termais
 - **Melhor época:** Dezembro-março (macacos nas águas quentes)
@@ -88,19 +88,40 @@
 - **Observação:** Macacos comem grama, folhas e comida do parque
 - **Fotografia:** Não olhar nos olhos (sinal de hostilidade)
 - **Bebês:** Nascem abril-junho, crescem até inverno
-- **Almoço:** Levar onigiri ou comprar no café do parque
-- **Duração:** Tempo ilimitado para observar e fotografar
+- **Almoço:** Opções veganas na região (ver abaixo)
+- **Duração:** Tempo para observar e almoçar
 
-### 16:00 – 16:50 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
+### 14:00 – 15:00 • Almoço vegano na região 🌱
+
+**Opções vegan-friendly próximas:**
+- **Jigokudani Onsen Ryokan:** 🍄 Comida caseira vegetariana (cogumelos, vegetais da montanha, tempura veggies)
+- **Kanbayashi Onsen:** Pequenos restaurantes com opções à base de plantas
+- **Café do parque:** Snacks simples (frutas, nozes) - confirmar ingredientes
+- **Levar comida:** Onigiri vegano, frutas, castanhas, snacks do konbini
+- **💡 Dica:** App HappyCow para opções veganas | Confirmar "no meat, no dairy, no egg"
+
+### 15:00 – 16:30 • Onsen no Ryokan Korakukan ♨️
+
+- **Local:** Jigokudani Onsen Korakukan (2 min a pé do parque)
+- **Experiência única:** Banho termal tradicional japonês
+- **Onsen externo misto:** Possibilidade de macacos entrarem! (raro e especial)
+- **Preço:** ¥1,200 (onsen público 12:00-15:00)
+- **Características:** Água termal sódio/cálcio (bom para pele, reumatismo, músculos)
+- **Tipos de banho:** Interno, externo misto, externo feminino, familiar
+- **Regras:** Banho nu obrigatório, lavar corpo ANTES de entrar
+- **💡 Dica:** Relaxar músculos após caminhada | Toalha pequena obrigatória
+
+### 16:30 – 17:20 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
 
 - **🚌 Mesmo ônibus:** Retorno incluso no passe
 - **Duração:** 50 minutos
 - **Horários:** Múltiplos retornos disponíveis
 
-### 17:00 – 18:00 • Exploração Nagano ou descanso
+### 17:20 – 18:30 • Exploração Nagano ou descanso
 
-- **Opções:** Compras, café, ou retorno ao hotel para descanso
+- **Opções:** Compras, souvenirs, café, ou retorno ao hotel
 - **Transporte:** Ônibus local incluso no passe (linha Nagano Dentetsu)
+- **💡 Dica:** Aproveitar para comprar lembranças da região
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
@@ -183,6 +204,7 @@
 | **Gasolina** | ~¥3,000-4,000 (~R$110-145) |
 | **Estacionamento Jigokudani** | ¥500 (~R$18) |
 | **Incluso no passe** | ¥0 |
+| **Onsen ryokan** | ¥1,200 (público) |
 | **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
 | **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
 | **Almoços externos** | ¥4,000-5,000 (Togakushi soba + Nagano station) |
