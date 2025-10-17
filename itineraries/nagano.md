@@ -49,7 +49,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Jigokudani (ônibus 8:10) | Macacos 9h-12h | Retorno almoço
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (6:30) | Comprar passe | Ônibus macacos | Parque 11h-14h | PASSE ilimitado
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
@@ -64,55 +64,58 @@
 
 **💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
 
-### 13:00 – 14:00 • Almoço no hotel (buffet)
+### 08:30 – 09:30 • Café da manhã no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
-- Buffet 11:30-14:00 (almoço)
-- **APÓS PARQUE:** Refeição após manhã intensa com macacos
-- **💡 Alternativa:** Se preferir explorar Nagano, almoçar fora
+- Buffet 7:00-9:30 (last entry 9:00)
+- **APÓS RITUAL:** Melhor horário para refeição espiritual
 
-### 07:00 – 09:00 • Viagem para Jigokudani (chegar 9h)
+### 09:30 – 10:00 • Comprar Snow Monkey Pass
 
-**ROTA COMPLETA (hotel → parque):**
-1. **07:00 → 07:40:** Hotel → Nagano Station (ônibus local ~40 min)
-2. **08:10 → 09:00:** Nagano Station → Kanbayashi (ônibus especial 50 min)
-3. **09:00 → 09:30:** Kanbayashi → Parque (caminhada 30 min)
+- **📍 Local:** Bilheteria Nagano Dentetsu Railway Line (estação Nagano)
+- **🎟️ Custo:** ¥3,600 por pessoa (2 dias)
+- **Inclui:** Ônibus ilimitado + entrada parque (válido 2 dias)
+- **Vantagem:** Econômico e prático para múltiplas visitas
+- **💳 Pagamento:** Cartão ou dinheiro (verificar opções)
 
-**🚌 Ônibus:** Ônibus especial Jigokudani (Nagano Station → Kanbayashi Onsen)
-- **Duração:** ~50 min (apenas estação → Kanbayashi)
-- **Custo:** ¥1,500-2,000 (ida + volta)
-- **Horários:** 08:10, 09:10, 10:10, 12:00, 13:00, 14:00, 15:00
-- **Para chegar 9h:** Pegar ônibus das 8:10 (chega Kanbayashi 9:00)
-- **💡 Dica:** Comprar passagem de ida e volta no guichê
+### 10:00 – 10:50 • Ônibus para Kanbayashi (USANDO PASSE)
 
-**SNOW MONKEY PASS (2 dias, 2 pessoas):**
-- **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
-- **Inclui:** Ônibus ilimitado + entrada parque POR 2 DIAS
-- **Vale a pena?** SIM! Economiza ¥1,000-2,000 por pessoa
-- **Por que 2 dias?** Flexibilidade caso queira voltar outro dia
-- **Onde comprar:** Guichê Nagano Station (East Exit)
+- **🚌 Linha:** Ônibus especial Snow Monkey (Nagano Station → Kanbayashi)
+- **Duração:** 50 minutos | **Custo:** INCLUSO no passe
+- **Ponto:** 23 ou 24 (saída leste da estação)
+- **Funcionários:** Falam inglês para ajudar turistas
 
-### 09:00 – 12:00 • Jigokudani Snow Monkey Park 🐒❄️
+### 10:50 – 11:25 • Caminhada Kanbayashi → Parque
 
-- **Entrada:** ¥800 (~R$ 29 / $5.50 USD)
-- **PRIORIDADE:** Santuário dos macacos - experiência principal!
-- **Trilha:** 30 min caminhada do estacionamento (1.6km)
-- **FAMOSO:** Macacos japoneses selvagens em onsen natural
-- NEVE provável em dezembro - VISUAL INCRÍVEL
-- Macacos tomando banho em água quente fumegante
-- Fotografia wildlife única no mundo
-- Atmosfera mágica de inverno
-- ⚠️ Levar roupa MUITO quente, sapatos apropriados para neve
-- **Melhor horário:** Manhã cedo (macacos mais ativos)
+- **🚶 Distância:** 1.6km | **Duração:** 35 minutos
+- **Terreno:** Estrada de montanha com neve (cuidado escorregadio)
+- **Banheiros:** Último banheiro em Kanbayashi (não há no caminho)
+- **Clima:** -2°C esperado, neve aumentando
 
-### 12:00 – 13:00 • Retorno para Nagano
+### 11:25 – 14:30 • Snow Monkey Park (entrada INCLUSA no passe) 🐒❄️
 
-- **🚌 Ônibus:** Mesmo ônibus especial (volta para estação)
-- **Duração:** ~50 min
-- **Horários de volta:** 12:00, 13:00, 14:00, 15:00, 16:00
-- Chegar para almoço no hotel ou explorar Nagano
+- **Experiência:** Macacos selvagens nas fontes termais
+- **Melhor época:** Dezembro-março (macacos nas águas quentes)
+- **Regras:** Não tocar, não alimentar, não mostrar comida
+- **Observação:** Macacos comem grama, folhas e comida do parque
+- **Fotografia:** Não olhar nos olhos (sinal de hostilidade)
+- **Bebês:** Nascem abril-junho, crescem até inverno
+
+### 14:30 – 15:20 • Ônibus de volta Kanbayashi → Nagano (USANDO PASSE)
+
+- **🚌 Mesmo ônibus:** Retorno incluso no passe
+- **Duração:** 50 minutos
+- **Horários:** Múltiplos retornos disponíveis
+
+### 15:20 – 16:00 • Exploração Nagano ou descanso
+
+- **Opções:** Compras, café, ou retorno ao hotel para descanso
+- **Transporte:** Ônibus local incluso no passe (linha Nagano Dentetsu)
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
+
+- **Locavore Restaurant (1F)**
+- Buffet 17:30-21:00 (last entry 20:30)
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
@@ -204,7 +207,54 @@
 ---
 
 
+
+## 🚌 Snow Monkey Pass vs Suica - Onde Usar Cada Um
+
+**Snow Monkey Pass (¥3,600/pessoa/2 dias):**
+- ✅ **Ônibus especial:** Kanbayashi ↔ Snow Monkey Park (ilimitado)
+- ✅ **Trem Nagano Dentetsu:** Estação Nagano ↔ outras estações locais
+- ✅ **Entrada parque:** Uma entrada incluída (¥800 economia)
+- ❌ **Ônibus urbanos:** Não cobre ônibus locais em Nagano
+- ❌ **JR Lines:** Não cobre trens JR (Shinkansen, etc.)
+
+**Suica/ICOCA (recarregável):**
+- ✅ **Ônibus locais:** Nagano city buses (hotel ↔ estação)
+- ✅ **JR Lines:** Shinkansen, trens regionais
+- ✅ **Konbini:** Compras, comidas, bebidas
+- ✅ **Máquinas automáticas:** Bebidas, snacks
+- ❌ **Ônibus Snow Monkey:** Não cobre (precisa do passe específico)
+
+**Onde comprar cada um:**
+- 🏷️ **Snow Monkey Pass:** Bilheteria Nagano Dentetsu (East Exit)
+- 💳 **Suica:** Qualquer estação JR ou máquinas de autoatendimento
+
+**Estratégia recomendada:**
+1. **Suica:** Para deslocamento hotel ↔ estação Nagano
+2. **Snow Monkey Pass:** Para tudo relacionado ao parque dos macacos
+3. **Combinação perfeita:** Use ambos para cobertura total
+
 ## 🎟️ Snow Monkey Pass - Vale a Pena?
+## 🏨 Ryokan com Macacos - Experiência Única
+
+**Jigokudani Onsen Korakukan:**
+- **Localização:** 2 minutos a pé do Snow Monkey Park
+- **Características:** Família proprietária desde 1864
+- **Banho com macacos:** Selvagens entram no onsen externo!
+- **Preço:** ¥38.250 (2 pessoas, jantar + café incluso)
+- **Quartos:** Estilo japonês tradicional (13 quartos únicos)
+- **Onsen:** Interno, externo misto, externo feminino, familiar
+- **Água termal:** Sódio e cálcio (bom para pele, reumatismo)
+- **Horário onsen público:** 12:00-15:00 (¥1.200 sem pernoite)
+
+**Por que único:**
+- ✅ Macacos selvagens tomam banho COM você
+- ✅ Edifício histórico (desde 1864)
+- ✅ Comida caseira com ingredientes da montanha
+- ✅ Ambiente familiar e acolhedor
+- ✅ Tênis de mesa e sala de TV/DVD
+
+**Recomendação:** Se quiser a experiência completa, considere se hospedar aqui em vez do hotel em Nagano!
+
 
 **Para 2 pessoas, 2 dias:**
 - **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
@@ -253,7 +303,54 @@
 
 
 
+
+## 🚌 Snow Monkey Pass vs Suica - Onde Usar Cada Um
+
+**Snow Monkey Pass (¥3,600/pessoa/2 dias):**
+- ✅ **Ônibus especial:** Kanbayashi ↔ Snow Monkey Park (ilimitado)
+- ✅ **Trem Nagano Dentetsu:** Estação Nagano ↔ outras estações locais
+- ✅ **Entrada parque:** Uma entrada incluída (¥800 economia)
+- ❌ **Ônibus urbanos:** Não cobre ônibus locais em Nagano
+- ❌ **JR Lines:** Não cobre trens JR (Shinkansen, etc.)
+
+**Suica/ICOCA (recarregável):**
+- ✅ **Ônibus locais:** Nagano city buses (hotel ↔ estação)
+- ✅ **JR Lines:** Shinkansen, trens regionais
+- ✅ **Konbini:** Compras, comidas, bebidas
+- ✅ **Máquinas automáticas:** Bebidas, snacks
+- ❌ **Ônibus Snow Monkey:** Não cobre (precisa do passe específico)
+
+**Onde comprar cada um:**
+- 🏷️ **Snow Monkey Pass:** Bilheteria Nagano Dentetsu (East Exit)
+- 💳 **Suica:** Qualquer estação JR ou máquinas de autoatendimento
+
+**Estratégia recomendada:**
+1. **Suica:** Para deslocamento hotel ↔ estação Nagano
+2. **Snow Monkey Pass:** Para tudo relacionado ao parque dos macacos
+3. **Combinação perfeita:** Use ambos para cobertura total
+
 ## 🎟️ Snow Monkey Pass - Vale a Pena?
+## 🏨 Ryokan com Macacos - Experiência Única
+
+**Jigokudani Onsen Korakukan:**
+- **Localização:** 2 minutos a pé do Snow Monkey Park
+- **Características:** Família proprietária desde 1864
+- **Banho com macacos:** Selvagens entram no onsen externo!
+- **Preço:** ¥38.250 (2 pessoas, jantar + café incluso)
+- **Quartos:** Estilo japonês tradicional (13 quartos únicos)
+- **Onsen:** Interno, externo misto, externo feminino, familiar
+- **Água termal:** Sódio e cálcio (bom para pele, reumatismo)
+- **Horário onsen público:** 12:00-15:00 (¥1.200 sem pernoite)
+
+**Por que único:**
+- ✅ Macacos selvagens tomam banho COM você
+- ✅ Edifício histórico (desde 1864)
+- ✅ Comida caseira com ingredientes da montanha
+- ✅ Ambiente familiar e acolhedor
+- ✅ Tênis de mesa e sala de TV/DVD
+
+**Recomendação:** Se quiser a experiência completa, considere se hospedar aqui em vez do hotel em Nagano!
+
 
 **Para 2 pessoas, 2 dias:**
 - **Custo:** ¥6,000-8,000 (¥3,000-4,000/pessoa/dia)
