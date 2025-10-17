@@ -16,26 +16,31 @@
 **📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Mercure | Exploração centro | Primeiro jantar | CALL SEMANAL LONGO
 
 ### 15:30 – 16:30 • Chegada e check-in no Mercure Nagano
+
 - **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída 11:30, chegada ~16:00)
 - Check-in oficial 15:00
 - Deixar malas, refresh
 
+### 16:30 – 17:30 • Pegar carro alugado + exploração inicial
+
+- **🚗 Pickup:** Estação Nagano (15 min a pé do hotel)
+- **Plataforma:** Rentalcars.com (reservar online ANTES)
+- **Documentos:** Carteira internacional + passaporte + cartão
+- **Verificar:** Seguro completo, pneus inverno, GPS inglês
+- **Teste drive:** Dar uma volta rápida para se acostumar
+
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
+
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 
-### 16:00 – 17:00 • Exploração centro Nagano + compras iniciais
-- **🚶 Transporte:** Área próxima ao hotel e estação
-- **Konbini e lojas:** Compras de snacks, itens para neve/frio
-- **Chuo-Dori Street:** Rua principal com lojas e restaurantes
-- **Preparação:** Comprar luvas, gorros, baterias extras para câmeras
-- **Clima:** Dezembro frio - testar roupas de inverno
-
 ### 20:30 – 23:00 • Retorno ao hotel e descanso
+
 - Preparar para dia INTENSO com carro amanhã
 - Organizar roupa para neve/frio
 
 ### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
+
 - **QUINTA-FEIRA = CALL SEMANAL FIXO 10:30 EST**
 - Call mais longa que o habitual
 - Dormir após call
@@ -44,9 +49,10 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - 🚗 CARRO DIA 1
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Pegar carro | Café da manhã | Togakushi Shrine | Narai Juku | DIA INTEIRO DE CARRO
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Pegar carro | Café da manhã | Togakushi Shrine | Obuse (cidade Hokusai) | DIA INTEIRO DE CARRO
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
+
 - **🚶 Distância:** 3km do hotel | ~40 min a pé OU ônibus local (~10 min)
 - **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
 - **Ritual adicional:** ¥300 por pessoa
@@ -59,16 +65,19 @@
 **💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
 
 ### 08:00 – 08:30 • Pegar carro alugado
+
 - **🚗 Rental:** ~R$560 para 2 dias (¥15,000)
 - Pickup na estação Nagano ou hotel
 - Conferir: seguro completo, pneus de inverno, GPS
 
 ### 08:30 – 09:30 • Café da manhã no hotel (buffet)
+
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
 - **APÓS RITUAL:** Melhor horário para refeição espiritual
 
 ### 09:30 – 12:30 • Togakushi Shrine 🏔️
+
 - **🚗 Distância:** 20km do hotel Nagano | ~40 min de carro
 - **Entrada:** FREE
 - **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
@@ -80,33 +89,38 @@
 - ⚠️ Levar roupa quente, sapatos apropriados
 
 **💡 Almoço:** Soba em Togakushi (região famosa por soba!)
+
 - Restaurante local próximo aos santuários | ¥1,000-1,500
 
-### 12:30 – 15:00 • Narai Juku (Nakasendo Trail) 🏘️
-- **🚗 Distância:** ~90km de Togakushi | ~1h30 de carro
-- **Entrada:** FREE
-- **Por que ir:** Vila postal preservada do período Edo
-- Rua principal com casas tradicionais de madeira
-- Parte da histórica Nakasendo Trail (Kyoto-Tokyo via montanhas)
-- Uma das 11 "post towns" mais bem preservadas
-- Lojas de artesanato tradicional, cafés antigos
-- Atmosfera Edo autêntica sem multidões
-- **Tempo:** 2-2.5h caminhando pela vila
+### 12:30 – 15:00 • Obuse (cidade histórica Hokusai) 🏛️
 
-### 15:00 – 17:00 • Retorno para Nagano
-- **🚗 Distância:** ~60km | ~1h de carro
-- **Rota otimizada:** Narai Juku → Nagano (volta pela mesma estrada)
-- Chegar antes do dinner last entry (20:30)
+- **🚗 Distância:** ~35km de Togakushi | ~45 min de carro
+- **Entrada:** FREE (museu ¥500 opcional)
+- **Por que ir:** Cidade histórica conhecida por Hokusai Katsushika
+- **Museu Hokusai:** Obras do mestre ukiyo-e (pinturas japonesas)
+- Ruas preservadas do período Edo com lojas tradicionais
+- **Castanha de Obuse:** Produtos locais famosos (doces, sorvetes)
+- Atmosfera autêntica sem multidões
+- **Tempo:** 2-2.5h explorando cidade + museu opcional
+
+### 15:00 – 16:00 • Retorno para Nagano
+
+- **🚗 Distância:** ~25km | ~30 min de carro
+- **Rota otimizada:** Obuse → Nagano (estrada direta)
+- Chegar cedo para devolver carro se necessário
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
+
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 
 ### 19:00 – 23:00 • Descanso após dia de carro
+
 - Organizar fotos
 - Preparar para Jigokudani amanhã
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
+
 - Daily work call
 
 ---
@@ -116,17 +130,20 @@
 **📋 Resumo do dia:** ACORDAR CEDO | Jigokudani Snow Monkey Park (MANHÃ) | Devolver carro | Check-out | Shinkansen para Tokyo
 
 ### 06:00 – 07:00 • Café da manhã CEDO no hotel (buffet)
+
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
 - ⚠️ **ACORDAR CEDO** para maximizar tempo em Jigokudani
 
 ### 07:00 – 07:45 • Viagem para Jigokudani
+
 - **🚗 Distância:** ~30km de Nagano | ~45 min de carro
 - Dirigir até estacionamento Kanbayashi Onsen
 - **Estacionamento:** ¥500/dia
 - Chegar CEDO = menos gente, macacos mais ativos
 
 ### 07:45 – 11:00 • Jigokudani Snow Monkey Park 🐒❄️
+
 - **Entrada:** ¥800 (~R$ 29 / $5.50 USD)
 - **Trilha:** 30 min caminhada do estacionamento (1.6km)
 - **FAMOSO:** Macacos japoneses selvagens em onsen natural
@@ -137,26 +154,31 @@
 - **Melhor horário:** MANHÃ CEDO (macacos mais ativos + menos turistas)
 
 ### 11:00 – 12:00 • Retorno para Nagano
+
 - **🚗 Distância:** 30km | 45 min
 - Dirigir direto para Nagano (pular onsen para economizar tempo)
 
 ### 12:00 – 12:30 • Devolver carro + check-out
+
 - **Devolução:** Rental office estação Nagano
 - Conferir tanque cheio, vistoria
 - Check-out do Mercure (pode fazer antes ou deixar malas)
 - Pegar malas
 
 ### 12:30 – 13:00 • Almoço rápido estação Nagano
+
 - Bento box ou restaurante rápido na estação
 - ¥800-1,200
 
 ### 13:00 – 15:00 • Shinkansen para Tokyo 🚅
+
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo)
 - **Duração:** 1h30-2h
 - **Custo:** ~¥8,000-9,000 (~R$ 292-328 / $56-63 USD) com Suica
 - Descansar no trem após manhã intensa
 
 ### 15:00+ • Chegada em Tokyo
+
 - Ver roteiro completo em [tokyo.md](./tokyo.md)
 
 ---
@@ -168,6 +190,7 @@
 **Por que em jejum:** Experiência espiritual mais intensa - tradição budista fazer rituais matinais antes da primeira refeição.
 
 **Como funciona:**
+
 1. **Entrada:** Pague ¥300 adicional na recepção do templo
 2. **Preparação:** Tire sapatos, pegue uma vela apagada
 3. **Corredor escuro:** Entre no túnel subterrâneo (total escuridão)
@@ -176,6 +199,7 @@
 6. **Duração:** 10-15 minutos
 
 **Dicas:**
+
 - ✅ Vá com mente aberta - é uma experiência espiritual/sensorial
 - ⚠️ Não recomendado para claustrofóbicos
 - 💡 Leve dinheiro trocado (¥300 em moedas/notas)
@@ -205,22 +229,64 @@
 
 ---
 
+## 🚗 Dicas Aluguel de Carro (Brasileiro) - Rentalcars.com
+
+**Documentos obrigatórios:**
+- ✅ Carteira de motorista internacional (obter no Detran ANTES de viajar)
+- ✅ Passaporte original (não cópia)
+- ✅ Cartão de crédito internacional (para caução ¥50,000-100,000)
+- ✅ Comprovante de reserva (imprimir ou salvar no celular)
+
+**Plataformas recomendadas:**
+- ✅ Rentalcars.com - melhor para brasileiros
+- ✅ Reservar online ANTES (preços sobem no balcão)
+- ✅ Ler termos em português (site traduz)
+
+**Seguro obrigatório:**
+- ✅ Seguro completo (CDW + PAI) - cobre tudo
+- ✅ Proteção contra neve/gelo (dezembro)
+- ✅ Cobertura pneus/para-brisas (montanhas)
+
+**Veículo para dezembro:**
+- ✅ Câmbio automático obrigatório
+- ✅ Pneus de inverno inclusos
+- ✅ GPS em inglês (não japonês)
+- ✅ Correntes de neve no porta-malas
+
+**No balcão (Nagano Station):**
+- 🕐 Chegar 30 min antes do horário marcado
+- 📋 Mostrar todos documentos originais
+- 💳 Pagar caução com cartão (não dinheiro)
+- 🔍 Inspecionar carro ANTES (fotos de danos)
+- ❓ Perguntar: "Is winter tires included?"
+
+**Dicas brasileiras:**
+- 🇧🇷 Falar devagar e mostrar documentos claramente
+- 📞 Se problema: ligar pro suporte Rentalcars (+55 11 99999-9999)
+- ⛽ Gasolina: pagar no posto (cartão funciona)
+- 🗺️ Usar Google Maps offline (baixe mapas ANTES)
+
+---
+
 ## 🚗 Dicas Importantes - Carro
 
 **Antes de alugar:**
+
 - ✅ Carteira de motorista internacional obrigatória
 - ✅ Seguro completo (CDW + PAI)
 - ✅ Pneus de inverno inclusos (dezembro = neve)
 - ✅ GPS em inglês ou usar Google Maps
 
 **Dirigir no Japão:**
+
 - ⚠️ Lado ESQUERDO da estrada (volante à direita)
 - ⚠️ Pedágios:準備現金 ou cartão aceito (custo adicional ~¥1,000-2,000)
 - ⚠️ Neve nas montanhas em dezembro - dirigir devagar
 - ⚠️ Estacionamento: pagar antes de sair (máquinas aceitam Suica)
 
 **Rotas otimizadas:**
-- **Day 18:** Nagano → Togakushi (40min) → Narai Juku (1h30) → Nagano (1h)
+
+- **Day 18:** Nagano → Togakushi (40min) → Obuse (45min) → Nagano (30min)
 - **Day 19:** Nagano → Jigokudani (45min) → Yudanaka (5min) → Nagano (45min)
 
 ---
@@ -228,22 +294,27 @@
 ## ⛰️ Dicas Importantes - Atrações
 
 **Togakushi Shrine:**
+
 - Caminho de cedros pode estar escorregadio com neve
 - Levar bastões de caminhada se tiver
 - Restaurantes de soba fecham cedo (~15:00-16:00)
 
-**Narai Juku:**
-- Rua principal: ~1km (fácil de caminhar)
-- Lojas fecham ~17:00
-- Evitar fins de semana (quinta-feira = tranquilo)
+**Obuse:**
+
+- Cidade pequena: ~2h exploração suficiente
+- Museu Hokusai: fecha ~17:00 (verificar horário)
+- Produtos de castanha: experimentar doces locais
+- Estacionamento: fácil no centro da cidade
 
 **Jigokudani:**
+
 - Trilha 30min pode ter gelo - sapatos apropriados
 - Macacos são selvagens - não tocar, não alimentar
 - Câmera: levar extra battery (frio descarrega rápido)
 - Melhor fotos: manhã (luz melhor, macacos mais ativos)
 
 **Onsen:**
+
 - Maioria não permite tatuagens visíveis
 - Trazer toalha pequena (ou alugar ¥200-300)
 - Proibido usar trajes de banho
