@@ -49,7 +49,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Café hotel | Togakushi (2h15 ônibus) | Obuse (ônibus 40min) | Trem retorno
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (ritual 6:30) | Café hotel | Jigokudani (ônibus 45min) | Macacos da neve PRIORIDADE
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
@@ -70,50 +70,31 @@
 - Buffet 7:00-9:30 (last entry 9:00)
 - **APÓS RITUAL:** Melhor horário para refeição espiritual
 
-### 07:30 – 09:45 • Viagem para Togakushi
+### 13:30 – 14:15 • Viagem para Jigokudani
 
-- **🚌 Ônibus:** Matsushiro Line (estação Nagano → Togakushi)
-- **Duração:** ~2h 15min | **Custo:** ¥1,200-1,500
-- **Horários:** 07:30, 09:10, 10:55, 11:55, 12:25, 13:25
-- **App:** Hyperdia para horários exatos
-- **Frequência:** A cada 1-2 horas
+- **🚌 Ônibus:** Ônibus especial Jigokudani (Nagano Station → Kanbayashi Onsen)
+- **Duração:** ~45 min | **Custo:** ¥1,500-2,000 (ida + volta)
+- **Horários:** Múltiplos horários, verificar no local
+- **App:** Hyperdia ou site oficial do parque
 
-### 10:00 – 13:00 • Togakushi Shrine 🏔️
+### 14:15 – 17:30 • Jigokudani Snow Monkey Park 🐒❄️
 
-- **Entrada:** FREE
-- **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
-- 5 santuários conectados por trilha na montanha
-- **Okusha (Main Shrine):** Caminho com 400+ anos de cedros
-- Uma das trilhas mais FOTOGÊNICAS do Japão
-- Pode ter neve em dezembro - ainda mais bonito
-- **Tempo:** 2-3h (trilha + santuários)
-- ⚠️ Levar roupa quente, sapatos apropriados
+- **Entrada:** ¥800 (~R$ 29 / $5.50 USD)
+- **PRIORIDADE:** Santuário dos macacos - experiência principal!
+- **Trilha:** 30 min caminhada do estacionamento (1.6km)
+- **FAMOSO:** Macacos japoneses selvagens em onsen natural
+- NEVE provável em dezembro - VISUAL INCRÍVEL
+- Macacos tomando banho em água quente fumegante
+- Fotografia wildlife única no mundo
+- Atmosfera mágica de inverno
+- ⚠️ Levar roupa MUITO quente, sapatos apropriados para neve
+- **Melhor horário:** Tarde (luz melhor para fotos)
 
-**💡 Almoço:** Soba em Togakushi (região famosa por soba!)
+### 17:30 – 18:15 • Retorno para Nagano
 
-- Restaurante local próximo aos santuários | ¥1,000-1,500
-
-### 13:00 – 13:40 • Viagem Togakushi → Obuse
-
-- **🚌 Ônibus:** Ônibus local (Togakushi → Obuse)
-- **Duração:** ~40 min | **Custo:** ¥500-800
-- **Horários:** Verificar no local ou app
-
-### 13:40 – 15:40 • Obuse (cidade histórica Hokusai) 🏛️
-
-- **Entrada:** FREE (museu ¥500 opcional)
-- **Por que ir:** Cidade histórica conhecida por Hokusai Katsushika
-- **Museu Hokusai:** Obras do mestre ukiyo-e (pinturas japonesas)
-- Ruas preservadas do período Edo com lojas tradicionais
-- **Castanha de Obuse:** Produtos locais famosos (doces, sorvetes)
-- Atmosfera autêntica sem multidões
-- **Tempo:** 1.5-2h explorando cidade + museu opcional
-
-### 15:40 – 16:10 • Retorno para Nagano
-
-- **🚆 Trem:** Shinano Railway (Obuse → Nagano)
-- **Duração:** ~25 min | **Custo:** ¥300-500
-- **Frequência:** A cada 30-60 min
+- **🚌 Ônibus:** Mesmo ônibus especial (volta para estação)
+- **Duração:** ~45 min
+- Chegar a tempo do jantar no hotel (última entrada 20:30)
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
@@ -134,59 +115,27 @@
 
 ---
 
-## Sexta-feira, 19 de dezembro de 2025 - TRANSPORTES PÚBLICOS + PARTIDA TOKYO
+## Sexta-feira, 19 de dezembro de 2025 - PARTIDA TOKYO
 
-**📋 Resumo do dia:** ACORDAR CEDO | Jigokudani Snow Monkey Park (MANHÃ) | Check-out | Check-out | Shinkansen para Tokyo
+**📋 Resumo do dia:** Check-out Nagano | Shinkansen para Tokyo
 
-### 06:00 – 07:00 • Café da manhã CEDO no hotel (buffet)
+### 07:00 – 08:30 • Café da manhã no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
-- ⚠️ **ACORDAR CEDO** para maximizar tempo em Jigokudani
 
-### 07:00 – 07:45 • Viagem para Jigokudani
+### 08:30 – 11:00 • Check-out e viagem para Tokyo
 
-- **🚗 Distância:** ~30km de Nagano | ~45 min de carro
-- Dirigir até estacionamento Kanbayashi Onsen
-- **Estacionamento:** ¥500/dia
-- Chegar CEDO = menos gente, macacos mais ativos
-
-### 07:45 – 11:00 • Jigokudani Snow Monkey Park 🐒❄️
-
-- **Entrada:** ¥800 (~R$ 29 / $5.50 USD)
-- **Trilha:** 30 min caminhada do estacionamento (1.6km)
-- **FAMOSO:** Macacos japoneses selvagens em onsen natural
-- NEVE provável em dezembro - VISUAL INCRÍVEL
-- Macacos tomando banho em água quente fumegante
-- Fotografia wildlife única no mundo
-- ⚠️ Levar roupa MUITO quente, sapatos apropriados para neve
-- **Melhor horário:** MANHÃ CEDO (macacos mais ativos + menos turistas)
-
-### 11:00 – 12:00 • Retorno para Nagano
-
-- **🚗 Distância:** 30km | 45 min
-- Dirigir direto para Nagano (pular onsen para economizar tempo)
-
-### 12:00 – 12:30 • Check-out + check-out
-
-- **Devolução:** Rental office estação Nagano
-- Conferir tanque cheio, vistoria
-- Check-out do Mercure (pode fazer antes ou deixar malas)
-- Pegar malas
-
-### 12:30 – 13:00 • Almoço rápido estação Nagano
-
-- Bento box ou restaurante rápido na estação
-- ¥800-1,200
-
-### 13:00 – 15:00 • Shinkansen para Tokyo 🚅
-
+- Check-out do Mercure Nagano (11:00)
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo)
 - **Duração:** 1h30-2h
 - **Custo:** ~¥8,000-9,000 (~R$ 292-328 / $56-63 USD) com Suica
-- Descansar no trem após manhã intensa
 
-### 15:00+ • Chegada em Tokyo
+### 11:00 – 13:00 • Viagem Shinkansen
+
+### 13:00+ • Chegada em Tokyo
+
+- Ver roteiro completo em [tokyo.md](./tokyo.md)
 
 - Ver roteiro completo em [tokyo.md](./tokyo.md)
 
@@ -256,7 +205,7 @@
 
 **Rotas otimizadas:**
 
-- **Day 18:** Nagano → Togakushi (2h15min ônibus) → Obuse (40min ônibus) → Nagano (25min trem)
+- **Day 18:** Nagano → Jigokudani (45min ônibus) → Nagano (45min ônibus)
 - **Day 19:** Nagano → Jigokudani (45min) → Yudanaka (5min) → Nagano (45min)
 
 ---
