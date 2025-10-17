@@ -56,6 +56,8 @@
 ### 19:00 – 20:30 • Jantar
 **Opção vegetariana:**
 - **Vegan Awakening** (Futian District) - Vegan | RMB 70-120/pessoa (~R$ 51-88 / ¥700-1200 JPY / $13-22 USD) | Fonte: HappyCow
++86-755-2360-6668
+veganawakening.com
 - Um dos restaurantes veganos mais antigos de Shenzhen
 
 ### 20:30 – 22:00 • Lianhuashan Park (opcional se tiver energia)

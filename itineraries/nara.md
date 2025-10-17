@@ -97,6 +97,8 @@
 - **Tipo:** 100% vegano, orgânico, sem aditivos
 - **Localização:** 10 min a pé de Kintetsu-Nara Station
 - **Rating:** 4.9/5 (TripAdvisor #50 de 1,284 restaurantes)
++81-742-26-1268
+ainanara.com
 - **Preço:** ¥1,000-1,080 (~R$ 37-39 / $7-7.50 USD)
 - **Horário:** 11:30-18:30 | **FECHADO:** Segunda, Terça, Quarta
 - **Menu:** Bento box, burger plate, tantan noodles, vegan soft-serve

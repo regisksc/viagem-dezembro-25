@@ -33,6 +33,8 @@
 ### 19:00 – 20:30 • Jantar
 **Opção vegetariana:**
 - **Ain Soph Ginza** (perto do hotel) - 100% Vegan | ¥1500-2500 (~R$ 55-91 / $11-18 USD)
++81-3-6228-6714
+ainsoph.jp/ginza
 - 1º andar: patisserie vegana
 - 2º andar: panquecas veganas, pudim japonês vegano, tiramisu
 - **Horário:** Seg-Sáb Lunch 11:30-14:30, Tea 14:30-17:00, Dinner 18:00-21:00
@@ -69,6 +71,8 @@
 ### 12:00 – 13:30 • Almoço
 **Opção vegetariana:**
 - **Tokyo Vegan Ramen Center** - Aula de sushi vegano + almoço | ¥5000-8000 (~R$ 182-292 / $35-56 USD)
++81-3-6457-5100
+tokyoveganramen.com
 - EXPERIÊNCIA ÚNICA! Cooking class hands-on
 - Ramen GIGANTE com vegetais inteiros
 - Sushi vegano que você faz

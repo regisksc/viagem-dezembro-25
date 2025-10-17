@@ -26,6 +26,8 @@
 ### 19:00 – 21:00 • Jantar leve e descanso
 **Opção vegetariana:**
 - **Hank Burger** (várias localizações) - Vegan burgers | €10-15 (~R$ 60-90 / $11-17 USD)
++33-1-42-46-82-89
+hankrestaurant.fr
 - Rápido e saboroso
 
 ### 21:00 – 23:00 • Descanso e ajuste ao fuso
@@ -50,6 +52,8 @@
 ### 13:00 – 14:30 • Almoço de Natal
 **Opção vegetariana:**
 - **Le Potager du Marais** (Le Marais) - Vegetarian/Vegan | €20-30 (~R$ 120-180 / $22-33 USD)
++33-1-42-74-24-02
+lepotagerdumarais.fr
 - Culinária vegetariana francesa criativa
 - **Reserva:** Recomendado para fins de semana/feriados
 

@@ -49,7 +49,7 @@
 
 ## Quinta-feira, 18 de dezembro de 2025 - SNOW MONKEY PARK FULL DAY 🐒❄️
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji (6:30) | Comprar passe | Ônibus macacos | Parque 11h-14h | PASSE ilimitado
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Comprar passe | Ônibus macacos | Parque 11h-14h | PASSE ilimitado
 
 ### 07:00 – 08:00 • Café da manhã CEDO no hotel (buffet)
 
@@ -95,7 +95,10 @@
 
 **Opções vegan-friendly próximas:**
 - **Jigokudani Onsen Ryokan:** 🍄 Comida caseira vegetariana (cogumelos, vegetais da montanha, tempura veggies)
++81-269-33-4376
+jigokudani-onsen.com
 - **Kanbayashi Onsen:** Pequenos restaurantes com opções à base de plantas
++81-269-33-4611
 - **Café do parque:** Snacks simples (frutas, nozes) - confirmar ingredientes
 - **Levar comida:** Onigiri vegano, frutas, castanhas, snacks do konbini
 - **💡 Dica:** App HappyCow para opções veganas | Confirmar "no meat, no dairy, no egg"
