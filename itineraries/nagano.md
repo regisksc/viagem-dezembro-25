@@ -21,13 +21,13 @@
 - Check-in oficial 15:00
 - Deixar malas, refresh
 
-### 16:30 – 17:30 • Pegar carro alugado + exploração inicial
+### 16:30 – 17:30 • Exploração centro Nagano + compras iniciais
 
-- **🚗 Pickup:** Estação Nagano (15 min a pé do hotel)
-- **Plataforma:** Rentalcars.com (reservar online ANTES)
-- **Documentos:** Carteira internacional + passaporte + cartão
-- **Verificar:** Seguro completo, pneus inverno, GPS inglês
-- **Teste drive:** Dar uma volta rápida para se acostumar
+- **🚶 Transporte:** Área próxima ao hotel e estação
+- **Konbini e lojas:** Compras de snacks, itens para neve/frio
+- **Chuo-Dori Street:** Rua principal com lojas e restaurantes
+- **Preparação:** Comprar luvas, gorros, baterias extras para câmeras
+- **Clima:** Dezembro frio - testar roupas de inverno
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
@@ -47,9 +47,9 @@
 
 ---
 
-## Quinta-feira, 18 de dezembro de 2025 - 🚗 CARRO DIA 1
+## Quinta-feira, 18 de dezembro de 2025 - TRANSPORTES PÚBLICOS
 
-**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Pegar carro | Café da manhã | Togakushi Shrine | Obuse (cidade Hokusai) | DIA INTEIRO DE CARRO
+**📋 Resumo do dia:** JEJUM ESPIRITUAL | Zenko-Ji Temple (ritual matinal) | Café da manhã | Togakushi Shrine (ônibus) | Obuse (trem local)
 
 ### 06:30 – 08:00 • Zenko-Ji Temple (jejum espiritual) ⛩️
 
@@ -64,12 +64,6 @@
 
 **💡 Dica:** Faça o ritual logo ao abrir (fecha às 16:00)
 
-### 08:00 – 08:30 • Pegar carro alugado
-
-- **🚗 Rental:** ~R$560 para 2 dias (¥15,000)
-- Pickup na estação Nagano ou hotel
-- Conferir: seguro completo, pneus de inverno, GPS
-
 ### 08:30 – 09:30 • Café da manhã no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
@@ -78,7 +72,7 @@
 
 ### 09:30 – 12:30 • Togakushi Shrine 🏔️
 
-- **🚗 Distância:** 20km do hotel Nagano | ~40 min de carro
+- **🚌 Transporte:** Ônibus da estação Nagano (40-50 min)
 - **Entrada:** FREE
 - **Por que ir:** IMPERDÍVEL! Floresta de cedros centenários
 - 5 santuários conectados por trilha na montanha
@@ -94,7 +88,7 @@
 
 ### 12:30 – 15:00 • Obuse (cidade histórica Hokusai) 🏛️
 
-- **🚗 Distância:** ~35km de Togakushi | ~45 min de carro
+- **🚌 Transporte:** Ônibus local Togakushi → Obuse (30-40 min)
 - **Entrada:** FREE (museu ¥500 opcional)
 - **Por que ir:** Cidade histórica conhecida por Hokusai Katsushika
 - **Museu Hokusai:** Obras do mestre ukiyo-e (pinturas japonesas)
@@ -103,18 +97,18 @@
 - Atmosfera autêntica sem multidões
 - **Tempo:** 2-2.5h explorando cidade + museu opcional
 
-### 15:00 – 16:00 • Retorno para Nagano
+### 16:30 – 17:30 • Retorno para Nagano
 
-- **🚗 Distância:** ~25km | ~30 min de carro
-- **Rota otimizada:** Obuse → Nagano (estrada direta)
-- Chegar cedo para devolver carro se necessário
+- **🚆 Transporte:** Trem Shinano Railway (Obuse → Nagano)
+- **Duração:** 20-30 min | **Custo:** ¥300-500
+- **Frequência:** A cada 30-60 min
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 
-### 19:00 – 23:00 • Descanso após dia de carro
+### 19:00 – 23:00 • Descanso após dia intenso
 
 - Organizar fotos
 - Preparar para Jigokudani amanhã
@@ -125,9 +119,9 @@
 
 ---
 
-## Sexta-feira, 19 de dezembro de 2025 - 🚗 CARRO DIA 2 + PARTIDA TOKYO
+## Sexta-feira, 19 de dezembro de 2025 - TRANSPORTES PÚBLICOS + PARTIDA TOKYO
 
-**📋 Resumo do dia:** ACORDAR CEDO | Jigokudani Snow Monkey Park (MANHÃ) | Devolver carro | Check-out | Shinkansen para Tokyo
+**📋 Resumo do dia:** ACORDAR CEDO | Jigokudani Snow Monkey Park (MANHÃ) | Check-out | Check-out | Shinkansen para Tokyo
 
 ### 06:00 – 07:00 • Café da manhã CEDO no hotel (buffet)
 
@@ -158,7 +152,7 @@
 - **🚗 Distância:** 30km | 45 min
 - Dirigir direto para Nagano (pular onsen para economizar tempo)
 
-### 12:00 – 12:30 • Devolver carro + check-out
+### 12:00 – 12:30 • Check-out + check-out
 
 - **Devolução:** Rental office estação Nagano
 - Conferir tanque cheio, vistoria
@@ -229,46 +223,7 @@
 
 ---
 
-## 🚗 Dicas Aluguel de Carro (Brasileiro) - Rentalcars.com
-
-**Documentos obrigatórios:**
-- ✅ Carteira de motorista internacional (obter no Detran ANTES de viajar)
-- ✅ Passaporte original (não cópia)
-- ✅ Cartão de crédito internacional (para caução ¥50,000-100,000)
-- ✅ Comprovante de reserva (imprimir ou salvar no celular)
-
-**Plataformas recomendadas:**
-- ✅ Rentalcars.com - melhor para brasileiros
-- ✅ Reservar online ANTES (preços sobem no balcão)
-- ✅ Ler termos em português (site traduz)
-
-**Seguro obrigatório:**
-- ✅ Seguro completo (CDW + PAI) - cobre tudo
-- ✅ Proteção contra neve/gelo (dezembro)
-- ✅ Cobertura pneus/para-brisas (montanhas)
-
-**Veículo para dezembro:**
-- ✅ Câmbio automático obrigatório
-- ✅ Pneus de inverno inclusos
-- ✅ GPS em inglês (não japonês)
-- ✅ Correntes de neve no porta-malas
-
-**No balcão (Nagano Station):**
-- 🕐 Chegar 30 min antes do horário marcado
-- 📋 Mostrar todos documentos originais
-- 💳 Pagar caução com cartão (não dinheiro)
-- 🔍 Inspecionar carro ANTES (fotos de danos)
-- ❓ Perguntar: "Is winter tires included?"
-
-**Dicas brasileiras:**
-- 🇧🇷 Falar devagar e mostrar documentos claramente
-- 📞 Se problema: ligar pro suporte Rentalcars (+55 11 99999-9999)
-- ⛽ Gasolina: pagar no posto (cartão funciona)
-- 🗺️ Usar Google Maps offline (baixe mapas ANTES)
-
----
-
-## 🚗 Dicas Importantes - Carro
+## 🚗 Dicas Transporte Público Nagano
 
 **Antes de alugar:**
 
@@ -291,7 +246,32 @@
 
 ---
 
+
+## 🚗 Dicas Transporte Público Nagano
+
+**Apps essenciais:**
+- ✅ **Hyperdia** - Horários de trem/ônibus
+- ✅ **Google Maps** - Navegação offline
+- ✅ **JR East** - App da companhia ferroviária
+
+**Passes recomendados:**
+- ✅ **JR Pass** - Se tiver, cobre trens JR
+- ✅ **IC Card (Suica/Pasmo)** - Para ônibus locais
+- ✅ **Day passes** - Para múltiplas viagens
+
+**Ônibus para atrações:**
+- 🚌 **Togakushi:** ¥1,000-1,500 (40-50 min da estação)
+- 🚌 **Obuse:** ¥500-800 (ônibus local)
+- 🚌 **Jigokudani:** Ônibus especial do parque
+
+**Trem para Obuse:**
+- 🚆 **Shinano Railway** - ¥300-500 (20-30 min)
+- 🚆 **Frequência:** A cada 30-60 min
+
+---
+
 ## ⛰️ Dicas Importantes - Atrações
+
 
 **Togakushi Shrine:**
 
