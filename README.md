@@ -120,7 +120,7 @@ Todos os roteiros incluem opções **vegetarianas e veganas** detalhadas para ca
 ### Transporte no Japão
 
 **Shinkansen (trem-bala):**
-- [🔗 Como Comprar Shinkansen Sem Passes](./docs/shinkansen-sem-pass.md) - Guia completo baseado em fontes do Reddit, TikTok e YouTube
+- [🔗 Como Comprar Shinkansen Sem Passes](./docs/shinkansen.md) - Guia completo baseado em fontes do Reddit, TikTok e YouTube
 - Dicas práticas, métodos de compra e estratégias de economia
 - Quando vale a pena comprar individualmente vs usar JR Pass
 
