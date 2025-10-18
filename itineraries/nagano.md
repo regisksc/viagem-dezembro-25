@@ -11,23 +11,52 @@
 
 ---
 
-## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
+## Quarta-feira, 17 de dezembro de 2025 - CHEGADA MANHÃ
 
-**📋 Resumo do dia:** Viagem Kyoto→Nagano (11:30-16:00) | Check-in Mercure | Exploração centro | Primeiro jantar | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Viagem Kyoto→Nagano (05:00-10:40) | Check-in Mercure | DIA LIVRE explorando Nagano | CALL SEMANAL LONGO
 
-### 15:30 – 16:30 • Chegada e check-in no Mercure Nagano
+### 10:40 – 11:30 • Chegada e check-in no Mercure Nagano
 
-- **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída 11:30, chegada ~16:00)
-- Check-in oficial 15:00
-- Deixar malas, refresh
+- **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída ~06:30, chegada ~10:40)
+- **11:00** - Ir ao hotel a pé ou ônibus local
+- **11:30** - Check-in no Mercure (check-in oficial 15:00, mas pode deixar malas)
+- Refresh, descansar da viagem
 
-### 16:30 – 17:30 • Exploração centro Nagano + compras iniciais
+### 11:30 – 13:00 • Almoço e descanso
+
+<details>
+<summary>Detalhes</summary>
+
+- Procurar restaurante vegano próximo ao hotel
+- Descansar após viagem matinal
+- Explorar área ao redor do hotel
+
+</details>
+
+### 13:00 – 17:30 • Exploração completa centro Nagano
 
 - **🚶 Transporte:** Área próxima ao hotel e estação
-- **Konbini e lojas:** Compras de snacks, itens para neve/frio
-- **Chuo-Dori Street:** Rua principal com lojas e restaurantes
-- **Preparação:** Comprar luvas, gorros, baterias extras para câmeras
-- **Clima:** Dezembro frio - testar roupas de inverno
+- **Atividades:**
+  - **Konbini e lojas:** Compras de snacks, itens para neve/frio
+  - **Chuo-Dori Street:** Rua principal com lojas e restaurantes
+  - **Zenko-ji preview:** Visita rápida externa (volta amanhã cedo para ritual)
+  - **Compras de preparação:** Luvas, gorros, baterias extras para câmeras
+  - **Clima:** Dezembro frio - testar roupas de inverno
+
+<details>
+<summary>Sugestões de exploração</summary>
+
+**Centro de Nagano:**
+- Midori Nagano (shopping próximo à estação)
+- Lojas de departamento com seção outdoor/inverno
+- Konbini (Family Mart, Lawson, 7-Eleven) para snacks
+
+**Zenko-ji preview:**
+- Caminhar até a entrada (20-30min do hotel)
+- Ver a arquitetura externa
+- Voltar amanhã 06:30 para ritual matinal completo
+
+</details>
 
 ### 17:30 – 19:00 • Jantar no hotel (buffet)
 
@@ -258,16 +287,68 @@
 - Buffet 7:00-9:30 (last entry 9:00)
 - **APÓS RITUAL:** Melhor horário para refeição espiritual
 
-### 09:00 – 11:00 • Check-out e viagem para Tokyo
+### 09:00 – 10:00 • Yamato + Check-out
 
-- Check-out do Mercure Nagano (11:00)
-- **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo)
-- **Duração:** 1h30-2h
-- **Custo:** ~¥8,000-9,000 (~R$ 292-328 / $56-63 USD) com Suica
+<details>
+<summary>Detalhes</summary>
 
-### 11:00 – 13:00 • Viagem Shinkansen
+- **09:00** - Retornar ao hotel após Zenko-ji
+- **09:15** - Recepção: solicitar Yamato para enviar malas a Tokyo
+- **09:45** - Check-out do Mercure Nagano
 
-### 13:00+ • Chegada em Tokyo
+**💡 Yamato:** Malas chegam no hotel em Tokyo no mesmo dia/dia seguinte.
+
+</details>
+
+### 10:00 – 12:30 • Viagem para Tokyo
+
+- **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo) | 1h22-1h43 | **¥16,000-18,000 (2 pessoas)**
+- **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
+
+<details>
+<summary>OPÇÕES DE HORÁRIO E COMPRA</summary>
+
+**🎫 OPÇÃO 1: Comprar no Klook (horários da tarde)**
+
+Disponível para compra online:
+
+| Saída Nagano | Chegada | Trem | Duração | Destino | Preço/pessoa |
+|--------------|---------|------|---------|---------|--------------|
+| 14:26 | 15:46 | Hakutaka 564 | 1h20m | Ueno | $52.65 (¥7,650) |
+| 14:26 | 15:52 | Hakutaka 564 | 1h26m | Tokyo Station | $58.05 (¥8,430) |
+| 14:58 | 16:14 | Kagayaki 532 | 1h16m | Ueno | $53.99 (¥7,850) |
+| 14:58 | 16:20 | Kagayaki 532 | 1h22m | Tokyo Station | $58.05 (¥8,430) |
+
+**✅ Vantagem:** Compra online antecipada, assento reservado garantido
+**⚠️ Desvantagem:** Só horários da tarde (chega 15:46-16:20), perde manhã/tarde em Tokyo
+
+**🎫 OPÇÃO 2: Comprar na estação (horários matinais) - RECOMENDADO**
+
+Horários disponíveis de manhã (09:00-12:00):
+- **~11:00** - Saída Nagano
+- **~12:30** - Chegada Tokyo Station
+- **Custo:** ¥8,000-9,000 por pessoa (¥16,000-18,000 para 2)
+
+**COMO COMPRAR:**
+1. **10:00** - Ir à Nagano Station
+2. **10:10** - JR Ticket Office: "Nagano to Tokyo, two passengers, reserved seats ordinary car please"
+3. **10:30** - Ter bilhetes em mãos
+4. **11:00** - Embarcar shinkansen
+5. **12:30** - Chegar Tokyo!
+
+**✅ Vantagem:** Horário matinal, aproveita dia em Tokyo, preço similar
+**⚠️ Desvantagem:** Precisa comprar na hora (mas é rápido)
+
+**💡 RECOMENDAÇÃO:** Opção 2 (comprar na estação com horário ~11:00)
+- Permite fazer Zenko-ji matinal completo (06:30-09:00)
+- Chega em Tokyo ~12:30 (tempo de aproveitar tarde)
+- Preço similar ao Klook
+
+**📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
+
+</details>
+
+### 12:30 – 13:00 • Chegada em Tokyo
 
 - Ver roteiro completo em [tokyo.md](./tokyo.md)
 

@@ -145,30 +145,67 @@ Você ainda precisaria comprar separado Kyoto → Tsuruga (Thunderbird).
 | Yamato (2 rotas) | ¥4,400-6,600 |
 | **TOTAL** | **¥52,400-60,600** |
 
-## 🕐 Horários Disponíveis (Referência do Klook)
+## 🕐 Horários Disponíveis (DADOS REAIS DO KLOOK)
 
-Esses são os horários da parte **Tsuruga → Nagano** que você viu:
+### Fukui → Nagano (17/12/2025) - Tarde
 
-| Saída Tsuruga | Chegada Nagano | Trem | Duração |
-|---------------|----------------|------|---------|
-| 07:26 | 09:15 | Kagayaki 504 | 1h49m |
-| 08:15 | 10:12 | Kagayaki 506 | 1h57m |
-| 09:21 | 11:10 | Kagayaki 508 | 1h49m |
-| 15:04 | 17:03 | Kagayaki 510 | 1h59m |
-| 16:04 | 17:54 | Kagayaki 512 | 1h50m |
-| 17:13 | 19:03 | Kagayaki 514 | 1h50m |
-| 18:36 | 20:27 | Kagayaki 516 | 1h51m |
+O Klook vende a partir de **Fukui** (não Tsuruga). Fukui é uma estação antes, também na linha Hokuriku Shinkansen.
 
-**LEMBRE-SE:** Você precisa chegar em Tsuruga ANTES desses horários!
-O Thunderbird Kyoto → Tsuruga leva 1h50-2h.
+| Saída Fukui | Chegada Nagano | Trem | Duração | Preço/pessoa (Ordinary Reserved) |
+|-------------|----------------|------|---------|----------------------------------|
+| 15:22 | 17:03 | Kagayaki 510 | 1h41m | $77.85 (¥11,300) |
+| 16:22 | 17:54 | Kagayaki 512 | 1h32m | $75.19 (¥10,900) |
 
-**Exemplo de rota completa:**
-- 05:00 - Sair do hotel em Kyoto com malas já enviadas via Yamato
-- 05:30 - Chegar Kyoto Station, comprar bilhetes
-- 06:15 - Pegar Thunderbird Kyoto → Tsuruga
-- 08:05 - Chegar Tsuruga, trocar de plataforma
-- 08:15 - Pegar Kagayaki 506 Tsuruga → Nagano
-- 10:12 - Chegar Nagano!
+**ATENÇÃO:** Klook só mostra esses 2 horários da tarde. Para viajar de manhã, compre na estação de Kyoto.
+
+### Nagano → Tokyo (19/12/2025) - Tarde
+
+Várias opções disponíveis no Klook:
+
+| Saída Nagano | Chegada | Trem | Duração | Destino | Preço/pessoa (Ordinary Reserved) |
+|--------------|---------|------|---------|---------|----------------------------------|
+| 14:26 | 15:46 | Hakutaka 564 | 1h20m | Ueno | $52.65 (¥7,650) |
+| 14:26 | 15:52 | Hakutaka 564 | 1h26m | Tokyo Station | $58.05 (¥8,430) |
+| 14:29 | 16:06 | Asama 620 | 1h37m | Ueno | $53.99 (¥7,850) |
+| 14:29 | 16:12 | Asama 620 | 1h43m | Tokyo Station | $55.39 (¥8,050) |
+| 14:58 | 16:14 | Kagayaki 532 | 1h16m | Ueno | $53.99 (¥7,850) |
+| 14:58 | 16:20 | Kagayaki 532 | 1h22m | Tokyo Station | $58.05 (¥8,430) |
+
+**ATENÇÃO:** Klook só mostra horários da tarde. Existem horários de manhã (09:00-12:00), mas precisam ser comprados na estação.
+
+### 🔍 Análise dos Horários
+
+**Para Kyoto → Nagano (17/12):**
+- Se comprar no Klook: Chegada só 17:03 ou 17:54 (TARDE!)
+- **PROBLEMA:** Roteiro prevê chegada ~16:00 para aproveitar o dia
+- **SOLUÇÃO:** Compre na estação de Kyoto com horário MATINAL (saída ~11:30)
+
+**Para Nagano → Tokyo (19/12):**
+- Se comprar no Klook: Saída 14:26-14:58, chegada 15:46-16:20
+- **PROBLEMA:** Roteiro prevê saída 11:00 (após Zenko-ji matinal)
+- **SOLUÇÃO:**
+  - Opção 1: Compre na estação com horário matinal (~11:00-12:00)
+  - Opção 2: Ajuste roteiro Nagano para sair mais tarde
+
+### 💡 Exemplo de Rota Completa MATINAL (Recomendado)
+
+**Kyoto → Nagano (17/12) - Manhã:**
+- 04:30 - Yamato na recepção (enviar malas)
+- 05:00 - Check-out do hotel em Kyoto
+- 05:30 - Chegar Kyoto Station
+- 05:45 - Comprar bilhetes no JR Ticket Office
+- 06:30 - Pegar Thunderbird Kyoto → Fukui (~2h)
+- 08:30 - Chegar Fukui, trocar de plataforma
+- 09:00 - Pegar Kagayaki Fukui → Nagano (~1h40m)
+- 10:40 - Chegar Nagano! (Tempo para aproveitar tarde/noite)
+
+**Nagano → Tokyo (19/12) - Manhã:**
+- 06:30 - Zenko-ji espiritual
+- 08:00 - Café da manhã
+- 09:00 - Check-out
+- 10:00 - Comprar bilhete na estação (ou já ter do Klook)
+- 11:00 - Pegar Shinkansen Nagano → Tokyo
+- 12:30 - Chegar Tokyo!
 
 ## ❓ FAQ
 

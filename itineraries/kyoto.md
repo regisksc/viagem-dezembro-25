@@ -416,96 +416,64 @@
 
 ---
 
-## Quarta-feira, 17 de dezembro de 2025 - COMPRAS + VIAGEM
+## Quarta-feira, 17 de dezembro de 2025 - VIAGEM PARA NAGANO
 
-**📋 Resumo do dia:** Manhã compras em áreas preferidas | Check-out | Viagem para Nagano
+**📋 Resumo do dia:** Saída MUITO CEDO | Yamato malas | Viagem Kyoto → Nagano via Fukui | Chegada ~10:40
 
-### 07:00 – 08:00 • Café da manhã no hotel
-
-### 08:00 – 10:00 • Compras matinais em áreas preferidas
-
-- **🚶 Transporte:** Gion/Ninenzaka/Sannenzaka | **FREE**
+### 04:30 – 05:00 • Yamato + Check-out antecipado
 
 <details>
 <summary>Detalhes</summary>
 
-**Áreas de compras preferidas:**
+- **04:30** - Acordar e organizar
+- **04:45** - Recepção: solicitar Yamato para enviar malas a Nagano
+- **05:00** - Check-out antecipado do hotel
 
-- **Ninenzaka/Sannenzaka:** Lojas de artesanato tradicionais, lembranças
-- **Gion:** Boutiques exclusivas, itens de gueixa (sem exagerar)
-- **Sanjo Dori:** Compras gerais, souvenirs de Kyoto
-- **💡 Foco:** Itens veganos, lembranças pessoais, presentes
+**💡 Por que tão cedo?** Para pegar horário matinal do shinkansen e chegar em Nagano com tempo de aproveitar.
 
 </details>
 
-### 10:00 – 11:00 • Check-out e organização final
+### 05:00 – 10:40 • Viagem para Nagano (VIA FUKUI)
 
-- **🚶 Transporte:** Hotel Mercure | **FREE**
+- **🚅 Transporte:** Thunderbird + Hokuriku Shinkansen | ~4h-4h30 | **¥16,000-18,000 (2 pessoas)**
+- **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
 
 <details>
-<summary>Detalhes</summary>
+<summary>ROTA COMPLETA RECOMENDADA</summary>
 
-- Check-out do Mercure Kyoto (11:00)
-- Organizar malas com compras
-- Últimas fotos do hotel/área
+**📍 ATENÇÃO: Compre na estação de Kyoto, NÃO no Klook!**
+- Klook só vende horários da tarde (chegada 17:03-17:54)
+- Você quer chegar cedo em Nagano (~10:40-11:00)
 
-</details>
+**PASSO A PASSO:**
 
-### 11:00 – 15:00 • Viagem para Nagano
+1. **05:30** - Chegar Kyoto Station
+2. **05:45** - JR Ticket Office: "Kyoto to Nagano via Fukui, two passengers, reserved seats ordinary car please"
+3. **06:30** - Embarcar Thunderbird Kyoto → Fukui (2h)
+4. **08:30** - Chegar Fukui, trocar de plataforma (10-15min)
+5. **09:00** - Embarcar Kagayaki Fukui → Nagano (1h40m)
+6. **10:40** - Chegar Nagano! 🎉
 
-- **🚅 Transporte:** Hokuriku Shinkansen (Nagano Station) | ~4h-5h | **¥10,000-13,000**
-- **🛄 Bagagem:** 2 malas grandes - reserve assento oversized se >160cm total
+**💰 Custo total:** ~¥16,000-18,000 (2 pessoas)
+**⏱️ Tempo total:** ~4h-4h30 (incluindo baldeação)
 
-<details>
-<summary>Detalhes</summary>
+**🎫 ALTERNATIVA - Horários da tarde (Klook):**
+Se preferir viajar mais tarde e chegar fim de tarde:
+- 15:22 Fukui → 17:03 Nagano (Kagayaki 510) - $77.85/pessoa
+- 16:22 Fukui → 17:54 Nagano (Kagayaki 512) - $75.19/pessoa
 
-**OPÇÕES DE TRANSPORTE (baseado em dados reais):**
+**⚠️ Desvantagem:** Perde tarde/noite em Nagano no dia 17.
 
-🚅 **MAIS RÁPIDA:** Hokuriku Shinkansen + Thunderbird
+**🍱 PREPARO:**
+- Compre bento vegano na estação antes de embarcar
+- Leve água e snacks
+- Tenha Google Translate pronto
 
-- **Tempo:** 4h42m (saída ~11:30)
-- **Custo:** ¥10,000-11,000
-- **Rota:** Kyoto → (Shinkansen) → Kanazawa → (Thunderbird) → Nagano
-
-🚅 **EQUILIBRADA:** Hokuriku Shinkansen + Matsushiro Line
-
-- **Tempo:** 4h45m-4h59m (saída ~11:30-12:00)
-- **Custo:** ¥10,000-12,000
-- **Rota:** Kyoto → (Shinkansen) → Toyama → (Matsushiro) → Nagano
-
-🚅 **MAIS BARATA:** Tokiado Shinkansen + Shinano
-
-- **Tempo:** 5h13m (saída ~10:03)
-- **Custo:** ¥8,000-10,000
-- **Rota:** Kyoto → (Tokiado) → Nagoya → (Shinano) → Nagano
-
-**💡 Recomendação custo-benefício:** Hokuriku Shinkansen + Thunderbird (4h42m, ¥10,000-11,000)
-
-- **Por quê?** Tempo razoável (menos de 5h) + preço médio + conforto do Shinkansen
-- **Horário ideal:** Saída 11:30 para chegar ~16:00 em Nagano
-
-**🗓️ QUANDO COMPRAR:**
-
-- **Compra antecipada:** Recomendado 1-2 semanas antes (dezembro é alta temporada)
-- **Onde comprar:** JR Ticket Office na Estação de Kyoto (balcão verde)
-- **Online:** Ekikara (app/site oficial JR) ou Klook (mais fácil para estrangeiros)
-- **💡 Dica:** Comprar com antecedência garante assento + evita filas
-
-**🎫 COMO COMPRAR:**
-
-1. **JR Ticket Office:** Mostrar passaporte, pedir "Hokuriku Shinkansen to Nagano"
-2. **Especificar:** "Non-reserved seat" (livre escolha) ou "Reserved seat" (assento marcado +¥500)
-3. **Pagamento:** Cartão de crédito ou dinheiro (aceitam reais)
-4. **Retirada:** Imprimir voucher ou mostrar QR code no celular
-
-**🍱 PREPARO PARA VIAGEM:**
-
-- **Almoço:** Bento box vegano na estação (¥800-1200) - comprar antes de embarcar
-- **Duração:** 4h42m com a opção recomendada
+**📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
 </details>
 
-### 15:30-16:00 • Chegada em Nagano
+### 10:40 – 11:00 • Chegada em Nagano
 
 - Ver roteiro completo em [nagano.md](./nagano.md)
 
