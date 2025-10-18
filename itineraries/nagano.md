@@ -36,7 +36,8 @@
 
 ### 20:30 – 23:00 • Retorno ao hotel e descanso
 
-- Preparar para dia INTENSO com carro amanhã
+- **Onsen do hotel:** Aproveitar instalações térmicas do Mercure (incluído na diária)
+- Preparar para dia INTENSO amanhã
 - Organizar roupa para neve/frio
 
 ### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
@@ -54,6 +55,7 @@
 ### 06:00 – 06:30 • Acordar e preparar para dia intenso
 
 - **Acordar:** 6:00 AM (dia longo e intenso)
+- **Onsen matinal:** Aproveitar onsen do hotel antes de sair (relaxamento pré-viagem)
 - **Preparação:** Roupa quente, sapatos apropriados, mochila leve
 - **Levar:** Água, snacks, protetor solar, dinheiro trocado
 - **💡 Prioridade:** Chegar ao parque na abertura (9:00)
@@ -143,7 +145,7 @@
 
 - Família proprietária desde 1864 (edifício histórico)
 - 13 quartos únicos estilo japonês tradicional
-- Hospedagem: ¥38,250 (2 pessoas, jantar + café incluso)
+- Day trip: Entrada onsen + refeição no restaurante
 
 <details>
 <summary>🐒 Experiência com macacos</summary>
@@ -317,7 +319,7 @@
 
 **💡 Hotel buffet incluso:** Cafés da manhã (exceto Dia 19 cedo) + 2 jantares cobertos!
 
-**⚠️ Onsen externo com macacos:** INESGOTÁVEL! Prioridade máxima no Day 18
+**⚠️ Onsen externo com macacos:** Prioridade máxima no Day 18
 
 ---
 
