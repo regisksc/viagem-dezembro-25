@@ -128,6 +128,23 @@ Este guia foca exclusivamente em métodos online para comprar bilhetes de Shinka
 3. **Google Translate:** Para comunicação na estação
 4. **JR East App:** Informações oficiais em inglês
 
+## 🛄 Regras de Bagagem (Atualizadas 2025)
+
+**Tamanho permitido:**
+- **Até 160cm:** Sem reserva obrigatória
+- **160-250cm:** Reserva obrigatória de assento oversized (+¥1,000)
+- **>250cm:** Não permitido
+
+**Recomendação para suas malas:**
+- **Use Yamato (Takkyubin):** ¥2,400-3,600 para 2 malas
+- **Vantagens:** Porta-a-porta, seguro incluso, sem estresse
+- **Prático:** Hotéis oferecem serviço de envio
+
+**Se levar no trem:**
+- Meça malas antes (largura + altura + profundidade)
+- Reserve assento oversized se >160cm
+- Espaço limitado - considere Green Car se necessário
+
 ## 💡 Dicas Finais para Turistas
 - Use plataformas oficiais JR para garantir disponibilidade
 - Reserve assentos para viagens longas (>2h)
