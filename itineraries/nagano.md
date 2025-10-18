@@ -64,37 +64,44 @@
 - **Alternativa:** Ônibus local (10 minutos) se cansados
 - **Objetivo:** Chegar estação até 7:00 para comprar passe
 
-### 07:00 – 07:30 • Comprar Snow Monkey Pass
+### 07:00 – 07:30 • Comprar Tickets (COM ou SEM Snow Monkey Pass)
 
+**OPÇÃO A: Snow Monkey Pass (RECOMENDADO)**
 - **📍 Local:** Bilheteria Nagano Dentetsu Railway Line (estação Nagano)
 - **🎟️ Custo:** ¥4,000 por pessoa (2 pessoas = ¥8,000)
 - **Inclui:** Ônibus ilimitado + entrada parque + trem Nagaden (2 dias)
 - **Tempo:** Processo rápido (5-10 minutos)
 
-**Snow Monkey Pass - Análise Correta**
-- **Custo:** ¥8,000 (2 pessoas) - ¥4,000 por pessoa
-- **Inclui:** Ônibus Nagaden + entrada parque (1 dia) + trem Nagaden (2 dias)
+**OPÇÃO B: Tickets Individuais**
+- **📍 Local:** Mesma bilheteria + entrada do parque
+- **🎟️ Custos separados:**
+  - Ônibus ida: ¥1,400/pessoa
+  - Ônibus volta: ¥1,400/pessoa  
+  - Entrada parque: ¥800/pessoa
+  - **Total:** ¥3,600/pessoa (2 pessoas = ¥7,200)
+- **Tempo:** Comprar tickets separados (3x)
 
-**Custos individuais exatos:**
-- **Ônibus:** ¥1,400 por trecho (ida+volta = ¥2,800)
-- **Entrada parque:** ¥800
-- **Total individual:** ¥3,600 por pessoa (2 pessoas = ¥7,200)
+**ANÁLISE COMPARATIVA:**
+- **Snow Monkey Pass:** ¥8,000 (2 pessoas)
+- **Tickets individuais:** ¥7,200 (2 pessoas)
+- **Diferença:** ¥800 a mais pelo passe
+- **MAS:** Passe inclui trem Nagaden ¥2,600 (Day 19)
+- **ECONOMIA REAL:** ¥1,800 (¥8,000 vs ¥9,800 total)
 
-**✅ VALE A PENA porque:**
-- ✅ **Economia:** ¥7,200 individual vs ¥8,000 passe = ¥800 a mais
-- ✅ **Mas inclui trem Nagaden:** Valor adicional de ¥2,600 (ida+volta)
-- ✅ **Flexibilidade:** Pode usar trem para Zenko-Ji Day 19
-- ✅ **Conveniência:** Não precisa comprar tickets individuais
-- ✅ **Segurança:** Transporte sempre disponível
-
-**✅ RECOMENDAÇÃO: Usar Snow Monkey Pass**
-- **Economia real:** ¥800 a mais mas inclui trem ¥2,600 (economia líquida ¥1,800)
-- **Day 19:** Trem para Zenko-Ji incluso
-- **Praticidade:** Um passe para tudo
+**✅ RECOMENDAÇÃO: Snow Monkey Pass**
+- Economia líquida ¥1,800 + conveniência + flexibilidade
 
 ### 07:30 – 08:20 • Ônibus Nagano → Kanbayashi (chegar 9h no parque)
 
+**COM Snow Monkey Pass:**
 - **🚌 Ônibus:** Especial Snow Monkey (estação → Kanbayashi)
+- **Custo:** Incluso no passe
+- **Duração:** 50 minutos | **Horário ideal:** 07:30-07:50
+- **Objetivo:** Chegar Kanbayashi às 8:20-8:40
+
+**SEM Snow Monkey Pass:**
+- **🚌 Ônibus:** Mesmo ônibus, ticket individual
+- **Custo:** ¥1,400/pessoa (já pago)
 - **Duração:** 50 minutos | **Horário ideal:** 07:30-07:50
 - **Objetivo:** Chegar Kanbayashi às 8:20-8:40
 
@@ -104,8 +111,21 @@
 - **Terreno:** Estrada de montanha com neve
 - **Chegada parque:** 8:55-9:00 (abertura!)
 
-### 09:00 – 14:00 • Snow Monkey Park FULL EXPERIENCE (entrada INCLUSA no passe) 🐒❄️
+### 09:00 – 14:00 • Snow Monkey Park FULL EXPERIENCE 🐒❄️
 
+**COM Snow Monkey Pass:**
+- **Entrada:** Inclusa no passe
+- **Experiência:** Macacos selvagens nas fontes termais
+- **Melhor época:** Dezembro-março (macacos nas águas quentes)
+- **Regras:** Não tocar, não alimentar, não mostrar comida
+- **Observação:** Macacos comem grama, folhas e comida do parque
+- **Fotografia:** Não olhar nos olhos (sinal de hostilidade)
+- **Bebês:** Nascem abril-junho, crescem até inverno
+- **Almoço:** Levar onigiri/snacks ou comprar no café do parque
+- **Duração:** Tempo ilimitado para observar e fotografar
+
+**SEM Snow Monkey Pass:**
+- **Entrada:** ¥800/pessoa (já pago)
 - **Experiência:** Macacos selvagens nas fontes termais
 - **Melhor época:** Dezembro-março (macacos nas águas quentes)
 - **Regras:** Não tocar, não alimentar, não mostrar comida
@@ -123,9 +143,17 @@
 - **Levar comida:** Onigiri vegano, frutas, castanhas, snacks do konbini
 - **💡 Dica:** App HappyCow para opções veganas | Confirmar "no meat, no dairy, no egg"
 
-### 15:00 – 16:30 • Onsen no Ryokan Korakukan ♨️
+### 15:00 – 16:30 • Onsen no Ryokan Korakukan ♨️ (INESGOTÁVEL!)
 
+**COM Snow Monkey Pass:**
 - **Local:** Jigokudani Onsen Korakukan (2 min a pé do parque)
+- **Custo onsen:** ¥1,200/pessoa (separado do passe)
+- **Horário oficial:** 12:00-15:00 (¥1,200 público)
+- **Horário estendido:** Possível permanência até 16:30 (confirmar no local)
+
+**SEM Snow Monkey Pass:**
+- **Local:** Jigokudani Onsen Korakukan (2 min a pé do parque)
+- **Custo onsen:** ¥1,200/pessoa (mesmo valor)
 - **Horário oficial:** 12:00-15:00 (¥1,200 público)
 - **Horário estendido:** Possível permanência até 16:30 (confirmar no local)
 
@@ -152,14 +180,27 @@
 
 ### 16:30 – 17:20 • Ônibus retorno Kanbayashi → Nagano
 
+**COM Snow Monkey Pass:**
 - **🚌 Ônibus:** Especial Snow Monkey (retorno incluso no passe)
+- **Custo:** Incluso no passe
+- **Duração:** 50 minutos
+
+**SEM Snow Monkey Pass:**
+- **🚌 Ônibus:** Mesmo ônibus, ticket individual
+- **Custo:** ¥1,400/pessoa (já pago)
 - **Duração:** 50 minutos
 
 ### 17:20 – 18:30 • Exploração Nagano ou descanso
 
+**COM Snow Monkey Pass:**
 - **Opções:** Compras, souvenirs, café, ou retorno ao hotel
 - **Transporte:** Ônibus local (linha Nagano Dentetsu) - incluso no passe
 - **💡 Dica:** Snow Monkey Pass válido até amanhã - use para Zenko-Ji!
+
+**SEM Snow Monkey Pass:**
+- **Opções:** Compras, souvenirs, café, ou retorno ao hotel
+- **Transporte:** Ônibus local (linha Nagano Dentetsu) - ¥200-300/pessoa
+- **💡 Dica:** Day 19 precisará comprar trem Nagaden ¥1,300/pessoa
 
 ### 19:00 – 23:00 • Descanso e trabalho remoto
 
@@ -183,10 +224,19 @@
 - **8:00-8:30:** Exploração arquitetura + fotos
 - **8:30-9:00:** Preparação para partida
 
-**🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
-**Entrada:** ¥500 (~R$ 18 / $3.50 USD)
-**Ritual Kaidan Meguri:** ¥300 por pessoa
-**Horário templo:** 9:00-16:00 (dezembro)
+**COM Snow Monkey Pass:**
+- **🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
+- **Custo transporte:** Incluso no passe
+- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- **Ritual Kaidan Meguri:** ¥300 por pessoa
+- **Horário templo:** 9:00-16:00 (dezembro)
+
+**SEM Snow Monkey Pass:**
+- **🚌 Transporte:** Ônibus local Nagaden (ticket individual)
+- **Custo transporte:** ¥1,300/pessoa (ida+volta)
+- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
+- **Ritual Kaidan Meguri:** ¥300 por pessoa
+- **Horário templo:** 9:00-16:00 (dezembro)
 
 **EXPERIÊNCIA MATINAL (recomendada):**
 - **6:30-7:00:** Chegada e exploração do templo iluminado pela manhã
@@ -257,19 +307,35 @@
 
 ## 💰 Budget Estimado Nagano (2.5 dias)
 
+### COM Snow Monkey Pass
 | Categoria | Custo |
 |-----------|-------|
 | **Snow Monkey Pass** | ¥8,000 (2 pessoas) |
 | **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
 | **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
-| **Onsen ryokan** | ¥1,200 (público) |
+| **Onsen ryokan** | ¥2,400 (2 pessoas) |
 | **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
 | **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
-| **TOTAL** | **~R$920-1,070** |
+| **TOTAL** | **~R$1,080-1,230** |
+
+### SEM Snow Monkey Pass
+| Categoria | Custo |
+|-----------|-------|
+| **Ônibus Snow Monkey (ida+volta)** | ¥5,600 (2 pessoas) |
+| **Entrada Snow Monkey Park** | ¥1,600 (2 pessoas) |
+| **Trem Nagaden Zenko-Ji** | ¥2,600 (2 pessoas) |
+| **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
+| **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
+| **Onsen ryokan** | ¥2,400 (2 pessoas) |
+| **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
+| **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
+| **TOTAL** | **~R$1,260-1,410** |
+
+**💡 Diferença:** Snow Monkey Pass economiza ¥1,800 (2 pessoas)
 
 **💡 Hotel buffet incluso:** Cafés da manhã (exceto Dia 19 cedo) + 2 jantares cobertos!
 
-**⚠️ Ajuste roteiro:** Onsen em Yudanaka removido para dar tempo de pegar Shinkansen para Tokyo
+**⚠️ Onsen externo com macacos:** INESGOTÁVEL! Prioridade máxima no Day 18
 
 ---
 
