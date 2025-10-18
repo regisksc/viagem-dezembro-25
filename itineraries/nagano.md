@@ -72,18 +72,11 @@
 - **Tempo:** Processo rápido (5-10 minutos)
 
 <details>
-<summary>Detalhes</summary>
+<summary>📊 Análise Comparativa</summary>
 
-**Análise Comparativa:**
-- Snow Monkey Pass: ¥8,000 (2 pessoas)
-- Tickets individuais: ¥7,200 (2 pessoas) + trem Day 19 ¥2,600 = ¥9,800 total
-- Economia: ¥1,800 com passe
-
-**Custos individuais:**
-- Ônibus ida: ¥1,400/pessoa
-- Ônibus volta: ¥1,400/pessoa  
-- Entrada parque: ¥800/pessoa
-- Trem Nagaden Day 19: ¥1,300/pessoa
+**Snow Monkey Pass:** ¥8,000 (2 pessoas)
+**Tickets individuais:** ¥7,200 (2 pessoas) + trem Day 19 ¥2,600 = ¥9,800 total
+**Economia:** ¥1,800 com passe
 
 **RECOMENDAÇÃO: Snow Monkey Pass**
 - Economia líquida ¥1,800 + conveniência + flexibilidade
@@ -96,13 +89,6 @@
 - **Custo:** Incluso no Snow Monkey Pass
 - **Duração:** 50 minutos | **Horário ideal:** 07:30-07:50
 - **Objetivo:** Chegar Kanbayashi às 8:20-8:40
-
-<details>
-<summary>Detalhes</summary>
-
-**Alternativa sem passe:** Ticket individual ¥1,400/pessoa (mesmo ônibus)
-
-</details>
 
 ### 08:20 – 08:55 • Caminhada Kanbayashi → Parque (35 min)
 
@@ -117,17 +103,14 @@
 - **Duração:** Tempo ilimitado para observar e fotografar
 
 <details>
-<summary>Detalhes</summary>
+<summary>📋 Detalhes da experiência</summary>
 
-**Alternativa sem passe:** Entrada ¥800/pessoa (mesma experiência)
-
-**Detalhes da experiência:**
-- Melhor época: Dezembro-março (macacos nas águas quentes)
-- Regras: Não tocar, não alimentar, não mostrar comida
-- Observação: Macacos comem grama, folhas e comida do parque
-- Fotografia: Não olhar nos olhos (sinal de hostilidade)
-- Bebês: Nascem abril-junho, crescem até inverno
-- Almoço: Levar onigiri/snacks ou comprar no café do parque
+**Melhor época:** Dezembro-março (macacos nas águas quentes)
+**Regras:** Não tocar, não alimentar, não mostrar comida
+**Observação:** Macacos comem grama, folhas e comida do parque
+**Fotografia:** Não olhar nos olhos (sinal de hostilidade)
+**Bebês:** Nascem abril-junho, crescem até inverno
+**Almoço:** Levar onigiri/snacks ou comprar no café do parque
 
 </details>
 
@@ -139,13 +122,12 @@
 - **Levar comida:** Onigiri vegano, frutas, castanhas, snacks do konbini
 
 <details>
-<summary>Detalhes</summary>
+<summary>🍄 Opções veganas detalhadas</summary>
 
-**Detalhes das opções veganas:**
-- Jigokudani Onsen Ryokan: Cogumelos, vegetais da montanha, tempura veggies
-- Kanbayashi Onsen: Pequenos restaurantes com opções à base de plantas
-- Café do parque: Snacks simples (frutas, nozes) - confirmar ingredientes
-- Dica: App HappyCow para opções veganas | Confirmar "no meat, no dairy, no egg"
+**Jigokudani Onsen Ryokan:** Cogumelos, vegetais da montanha, tempura veggies
+**Kanbayashi Onsen:** Pequenos restaurantes com opções à base de plantas
+**Café do parque:** Snacks simples (frutas, nozes) - confirmar ingredientes
+**Dica:** App HappyCow para opções veganas | Confirmar "no meat, no dairy, no egg"
 
 </details>
 
@@ -157,30 +139,35 @@
 - **Horário estendido:** Possível permanência até 16:30 (confirmar no local)
 
 <details>
-<summary>Detalhes</summary>
+<summary>🐒 Experiência com macacos</summary>
 
-**Alternativa sem passe:** Custo ¥1,200/pessoa (mesmo valor)
+**Melhor horário:** 15:00-16:30 (APÓS horário oficial)
+**Por quê:** Macacos vêm quando visitantes vão embora
+**Experiência:** Possibilidade REAL de banho COM macacos selvagens
 
-**Experiência com macacos:**
-- Melhor horário: 15:00-16:30 (APÓS horário oficial)
-- Por quê: Macacos vêm quando visitantes vão embora
-- Experiência: Possibilidade REAL de banho COM macacos selvagens
+</details>
 
-**Privacidade para casal:**
-- Banho externo misto: Área externa compartilhada (outras pessoas podem estar)
-- Banho familiar: ¥5,000-10,000 (quarto privativo com banho próprio)
-- Recomendação: Familiar para privacidade total como casal
+<details>
+<summary>👫 Privacidade para casal</summary>
 
-**Características e etiqueta:**
-- Água termal: Sódio/cálcio (bom para pele, reumatismo, músculos cansados)
-- Benefícios: Relaxa após caminhada, hidrata pele, alivia tensão muscular
+**Banho externo misto:** Área externa compartilhada (outras pessoas podem estar)
+**Banho familiar:** ¥5,000-10,000 (quarto privativo com banho próprio)
+**Recomendação:** Familiar para privacidade total como casal
+
+</details>
+
+<details>
+<summary>♨️ Características e etiqueta</summary>
+
+**Água termal:** Sódio/cálcio (bom para pele, reumatismo, músculos cansados)
+**Benefícios:** Relaxa após caminhada, hidrata pele, alivia tensão muscular
 
 **Etiqueta para casal no banho misto:**
 - ✅ Banho nu obrigatório (todos ficam nus)
 - ✅ Lavar corpo completamente ANTES de entrar na água
 - ✅ Toalha pequena para secar (não levar para o banho)
 - ✅ Comportamento discreto e respeitoso
-- Dica: Relaxem juntos - experiência única de casal com natureza!
+- **Dica:** Relaxem juntos - experiência única de casal com natureza!
 
 </details>
 
@@ -189,27 +176,11 @@
 - **🚌 Ônibus:** Especial Snow Monkey (retorno incluso no Snow Monkey Pass)
 - **Duração:** 50 minutos
 
-<details>
-<summary>Detalhes</summary>
-
-**Alternativa sem passe:** Ticket individual ¥1,400/pessoa (mesmo ônibus)
-
-</details>
-
 ### 17:20 – 18:30 • Exploração Nagano ou descanso
 
 - **Opções:** Compras, souvenirs, café, ou retorno ao hotel
 - **Transporte:** Ônibus local (linha Nagano Dentetsu) - incluso no Snow Monkey Pass
 - **💡 Dica:** Snow Monkey Pass válido até amanhã - use para Zenko-Ji!
-
-<details>
-<summary>Detalhes</summary>
-
-**Alternativa sem passe:**
-- Transporte: Ônibus local ¥200-300/pessoa
-- Day 19: Precisará comprar trem Nagaden ¥1,300/pessoa
-
-</details>
 
 ### 19:00 – 23:00 • Descanso e trabalho remoto
 
@@ -240,36 +211,33 @@
 - **Horário templo:** 9:00-16:00 (dezembro)
 
 <details>
-<summary>Detalhes</summary>
+<summary>⛩️ Experiência matinal espiritual</summary>
 
-**Alternativa sem passe:**
-- Transporte: Ônibus local Nagaden ¥1,300/pessoa (ida+volta)
-- Entrada: ¥500 (~R$ 18 / $3.50 USD)
-- Ritual Kaidan Meguri: ¥300 por pessoa
+**Horário otimizado:** 6:30-7:00 chegada, 7:00 bênçãos, 8:30 ritual
+**JEJUM ESPIRITUAL:** Tradição budista - experiência mais intensa
+**Por que matinal:** Menos turistas, luz matinal, jejum tradicional
 
 </details>
 
 <details>
-<summary>Detalhes</summary>
+<summary>🔑 Ritual Kaidan Meguri - Guia Detalhado</summary>
 
-**Experiência matinal espiritual:**
-- Horário otimizado: 6:30-7:00 chegada, 7:00 bênçãos, 8:30 ritual
-- JEJUM ESPIRITUAL: Tradição budista - experiência mais intensa
-- Por que matinal: Menos turistas, luz matinal, jejum tradicional
+1. **Pagamento:** ¥300 na recepção (além entrada templo)
+2. **Preparação:** Tirar sapatos, pegar vela apagada como guia
+3. **Entrada:** Túnel completamente escuro (30m subterrâneo)
+4. **Experiência:** Tatear parede esquerda procurando "chave do paraíso"
+5. **Duração:** 10-15 minutos de meditação no escuro total
+6. **Significado:** Quem encontra a chave ganha acesso espiritual ao paraíso
 
-**Ritual Kaidan Meguri - Guia Detalhado:**
-1. Pagamento: ¥300 na recepção (além entrada templo)
-2. Preparação: Tirar sapatos, pegar vela apagada como guia
-3. Entrada: Túnel completamente escuro (30m subterrâneo)
-4. Experiência: Tatear parede esquerda procurando "chave do paraíso"
-5. Duração: 10-15 minutos de meditação no escuro total
-6. Significado: Quem encontra a chave ganha acesso espiritual ao paraíso
+</details>
 
-**Dicas práticas:**
-- Chegar 8:30: Ser dos primeiros para o ritual
-- ROUPA: Confortável para ficar de joelhos/ajoelhado
-- Mente aberta: Experiência sensorial e espiritual única
-- Fotos: Apenas nas áreas externas (respeitar santidade)
+<details>
+<summary>💡 Dicas práticas</summary>
+
+- **Chegar 8:30:** Ser dos primeiros para o ritual
+- **ROUPA:** Confortável para ficar de joelhos/ajoelhado
+- **Mente aberta:** Experiência sensorial e espiritual única
+- **Fotos:** Apenas nas áreas externas (respeitar santidade)
 
 </details>
 
@@ -295,25 +263,32 @@
 ---
 
 <details>
-<summary>Detalhes</summary>
+<summary>🌅 Ritual matinal opcional (7:00)</summary>
 
-**Ritual matinal opcional (7:00):**
-- Cerimônia de bênçãos: Acontece ao nascer do sol (verificar disponibilidade)
-- Horário variável: Depende do nascer do sol (dezembro ~7:00)
-- Experiência: Bênçãos matinais tradicionais budistas
+**Cerimônia de bênçãos:** Acontece ao nascer do sol (verificar disponibilidade)
+**Horário variável:** Depende do nascer do sol (dezembro ~7:00)
+**Experiência:** Bênçãos matinais tradicionais budistas
 
-**Ritual Kaidan Meguri (8:30-9:00):**
-- O que é: Ritual único no corredor escuro procurando chave simbólica
-- Como funciona: Túnel subterrâneo 30m, escuridão total, tatear parede esquerda
-- Significado: Quem encontra ganha acesso espiritual ao paraíso
-- Duração: 10-15 minutos de meditação sensorial
-- Preço: ¥300 adicional (pagar na recepção)
+</details>
 
-**Por que matinal (jejum espiritual):**
-- ✅ Tradição budista: Rituais importantes feitos antes da primeira refeição
-- ✅ Experiência intensa: Mente clara e focada pelo jejum
-- ✅ Menos turistas: Ambiente mais espiritual e tranquilo
-- ✅ Combinação perfeita: Bênção + ritual + arquitetura matinal
+<details>
+<summary>🔑 Ritual Kaidan Meguri (8:30-9:00)</summary>
+
+**O que é:** Ritual único no corredor escuro procurando chave simbólica
+**Como funciona:** Túnel subterrâneo 30m, escuridão total, tatear parede esquerda
+**Significado:** Quem encontra ganha acesso espiritual ao paraíso
+**Duração:** 10-15 minutos de meditação sensorial
+**Preço:** ¥300 adicional (pagar na recepção)
+
+</details>
+
+<details>
+<summary>🙏 Por que matinal (jejum espiritual)</summary>
+
+- ✅ **Tradição budista:** Rituais importantes feitos antes da primeira refeição
+- ✅ **Experiência intensa:** Mente clara e focada pelo jejum
+- ✅ **Menos turistas:** Ambiente mais espiritual e tranquilo
+- ✅ **Combinação perfeita:** Bênção + ritual + arquitetura matinal
 
 </details>
 
@@ -331,26 +306,6 @@
 | **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
 | **TOTAL** | **~R$1,080-1,230** |
 
-<details>
-<summary>Detalhes</summary>
-
-**Comparação sem Snow Monkey Pass:**
-
-| Categoria | Custo |
-|-----------|-------|
-| **Ônibus Snow Monkey (ida+volta)** | ¥5,600 (2 pessoas) |
-| **Entrada Snow Monkey Park** | ¥1,600 (2 pessoas) |
-| **Trem Nagaden Zenko-Ji** | ¥2,600 (2 pessoas) |
-| **Zenko-ji entrada** | ¥1,000 (2 pessoas) |
-| **Kaidan Meguri (ritual)** | ¥600 (2 pessoas) |
-| **Onsen ryokan** | ¥2,400 (2 pessoas) |
-| **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
-| **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
-| **TOTAL** | **~R$1,260-1,410** |
-
-**Diferença:** Snow Monkey Pass economiza ¥1,800 (2 pessoas)
-
-</details>
 
 **💡 Hotel buffet incluso:** Cafés da manhã (exceto Dia 19 cedo) + 2 jantares cobertos!
 
@@ -366,28 +321,39 @@
 - **Experiência RARA:** Macacos selvagens ENTRAM no onsen externo!
 
 <details>
-<summary>Detalhes</summary>
+<summary>🏨 Detalhes do ryokan</summary>
 
-**Detalhes do ryokan:**
-- Características: Família proprietária desde 1864 (edifício histórico)
-- Preço hospedagem: ¥38,250 (2 pessoas, jantar + café incluso)
-- Quartos: Estilo japonês tradicional (13 quartos únicos, cada um diferente)
+**Características:** Família proprietária desde 1864 (edifício histórico)
+**Preço hospedagem:** ¥38,250 (2 pessoas, jantar + café incluso)
+**Quartos:** Estilo japonês tradicional (13 quartos únicos, cada um diferente)
 
-**Banhos disponíveis para casais:**
-- 🏞️ Externo misto (RECOMENDADO): Juntos! Onde macacos entram (unissex)
-- 🏠 Banho familiar: Reservar quarto privativo (¥5,000-10,000 extra)
-- 🏢 Interno masculino/feminino: Separados (sem macacos, mais tradicional)
+</details>
 
-**Melhor horário para experiência completa:**
-- 15:00-16:30: APÓS horário oficial (permanência estendida)
-- Por quê: Macacos vêm quando parque fecha e visitantes vão embora
-- Experiência: Possibilidade REAL de banho COM macacos selvagens
-- Localização: Principalmente no banho externo misto (como no vídeo)
+<details>
+<summary>♨️ Banhos disponíveis para casais</summary>
 
-**Dicas práticas para casal:**
-- Confirmar horário: Perguntar se pode ficar até 16:30
-- Banho familiar: Considerar para privacidade (¥5,000-10,000)
-- Tempo ideal: Chegar 15:00 (início da "hora dos macacos")
+**🏞️ Externo misto (RECOMENDADO):** Juntos! Onde macacos entram (unissex)
+**🏠 Banho familiar:** Reservar quarto privativo (¥5,000-10,000 extra)
+**🏢 Interno masculino/feminino:** Separados (sem macacos, mais tradicional)
+
+</details>
+
+<details>
+<summary>🐒 Melhor horário para experiência completa</summary>
+
+**15:00-16:30:** APÓS horário oficial (permanência estendida)
+**Por quê:** Macacos vêm quando parque fecha e visitantes vão embora
+**Experiência:** Possibilidade REAL de banho COM macacos selvagens
+**Localização:** Principalmente no banho externo misto (como no vídeo)
+
+</details>
+
+<details>
+<summary>💡 Dicas práticas para casal</summary>
+
+- **Confirmar horário:** Perguntar se pode ficar até 16:30
+- **Banho familiar:** Considerar para privacidade (¥5,000-10,000)
+- **Tempo ideal:** Chegar 15:00 (início da "hora dos macacos")
 
 </details>
 
