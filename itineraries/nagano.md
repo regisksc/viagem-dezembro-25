@@ -71,6 +71,15 @@
 - **Inclui:** Ônibus ilimitado + entrada parque (válido 2 dias)
 - **Tempo:** Processo rápido (5-10 minutos)
 
+**Snow Monkey Pass - Vale a Pena?**
+- **Custo:** ¥7,200 (2 pessoas)
+- **Inclui:** Ônibus ilimitado + entrada parque + trem Nagaden (2 dias)
+
+**Análise econômica:**
+- **Individual (2 dias):** Ônibus ¥1,500-2,000 + entrada ¥800 + transporte Day 19 ¥200-500 = ¥2,500-3,300
+- **Passe:** ¥7,200 (¥3,900-4,700 a mais)
+- **Vale a pena porque:** Ônibus ilimitado + praticidade + funcionários bilíngues
+
 ### 07:30 – 08:20 • Ônibus Nagano → Kanbayashi (chegar 9h no parque)
 
 - **🚌 Ônibus:** Especial Snow Monkey (estação → Kanbayashi)
@@ -252,39 +261,6 @@
 
 ---
 
-## 🎟️ Snow Monkey Pass - Vale a Pena?
-
-**Para 2 pessoas, 2 dias (preço oficial):**
-- **Custo:** ¥7,200 (¥3,600/pessoa - preço oficial)
-- **Inclui:** Ônibus ilimitado + entrada parque + trem Nagaden (2 dias)
-- **Vale a pena?** SIM! Especialmente usando nos 2 dias
-
-**Análise econômica (entrada UMA vez apenas):**
-
-**Day 18 (Snow Monkey Park):**
-- Ônibus ida+volta: ¥1,500-2,000
-- Entrada parque: ¥800
-- **Subtotal Day 18:** ¥2,300-2,800
-
-**Day 19 (transporte local):**
-- Ônibus/trem Nagaden: ¥200-500 (incluso no passe!)
-- **Subtotal Day 19:** ¥200-500
-
-**Total individual (2 dias):** ¥2,500-3,300
-
-**Snow Monkey Pass (2 pessoas):** ¥7,200
-
-**Diferença:** ¥7,200 - ¥2,500-3,300 = **¥3,900-4,700 de valor extra**
-
-**Ainda vale a pena porque:**
-- ✅ **Ônibus ilimitado:** Para Kanbayashi sempre que quiser (2 dias)
-- ✅ **Trem Nagaden:** Para outras atrações em Nagano
-- ✅ **Praticidade:** Não comprar tickets individuais a cada uso
-- ✅ **Flexibilidade:** Ir e voltar se precisar (ônibus múltiplas vezes)
-- ✅ **Turistas:** Funcionários bilíngues facilitam tudo
-
----
-
 ## 🏨 Ryokan com Macacos - Experiência Única
 
 **Jigokudani Onsen Korakukan:**
@@ -310,56 +286,6 @@
 - **Confirmar horário:** Perguntar se pode ficar até 16:30
 - **Banho familiar:** Considerar para privacidade (¥5,000-10,000)
 - **Tempo ideal:** Chegar 15:00 (início da "hora dos macacos")
-
----
-
-## 🚗 Dicas Transporte Público Nagano
-
-**Apps essenciais:**
-- ✅ **Hyperdia** - Horários de trem/ônibus
-- ✅ **Google Maps** - Navegação offline
-- ✅ **JR East** - App da companhia ferroviária
-
-**Passes recomendados:**
-- ✅ **JR Pass** - Se tiver, cobre trens JR
-- ✅ **IC Card (Suica/Pasmo)** - Para ônibus locais
-- ✅ **Day passes** - Para múltiplas viagens
-
-**Ônibus para atrações:**
-- 🚌 **Togakushi:** ¥1,000-1,500 (40-50 min da estação)
-- 🚌 **Obuse:** ¥500-800 (ônibus local)
-- 🚌 **Jigokudani:** Ônibus especial do parque
-
-**Trem para Obuse:**
-- 🚆 **Shinano Railway** - ¥300-500 (20-30 min)
-- 🚆 **Frequência:** A cada 30-60 min
-
----
-
-## ⛰️ Dicas Importantes - Atrações
-
-**Togakushi Shrine:**
-- Caminho de cedros pode estar escorregadio com neve
-- Levar bastões de caminhada se tiver
-- Restaurantes de soba fecham cedo (~15:00-16:00)
-
-**Obuse:**
-- Cidade pequena: ~2h exploração suficiente
-- Museu Hokusai: fecha ~17:00 (verificar horário)
-- Produtos de castanha: experimentar doces locais
-- Estacionamento: fácil no centro da cidade
-
-**Jigokudani:**
-- Trilha 30min pode ter gelo - sapatos apropriados
-- Macacos são selvagens - não tocar, não alimentar
-- Câmera: levar extra battery (frio descarrega rápido)
-- Melhor fotos: manhã (luz melhor, macacos mais ativos)
-
-**Onsen:**
-- Maioria não permite tatuagens visíveis
-- Trazer toalha pequena (ou alugar ¥200-300)
-- Proibido usar trajes de banho
-- Cabelo longo: prender
 
 ---
 
