@@ -454,6 +454,7 @@
 ### 11:00 – 15:00 • Viagem para Nagano
 
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano Station) | ~4h-5h | **¥10,000-13,000**
+- **🛄 Bagagem:** 2 malas grandes - reserve assento oversized se >160cm total
 
 <details>
 <summary>Detalhes</summary>

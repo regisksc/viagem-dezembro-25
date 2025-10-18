@@ -135,15 +135,15 @@ Este guia foca exclusivamente em métodos online para comprar bilhetes de Shinka
 - **160-250cm:** Reserva obrigatória de assento oversized (+¥1,000)
 - **>250cm:** Não permitido
 
-**Recomendação para suas malas:**
-- **Use Yamato (Takkyubin):** ¥2,400-3,600 para 2 malas
-- **Vantagens:** Porta-a-porta, seguro incluso, sem estresse
-- **Prático:** Hotéis oferecem serviço de envio
+**Sua decisão (economia):**
+- **Kyoto → Nagano:** Levar 2 malas no shinkansen (sem Yamato)
+- **Nagano → Tokyo:** Levar malas ( dólares com assento)
 
-**Se levar no trem:**
-- Meça malas antes (largura + altura + profundidade)
-- Reserve assento oversized se >160cm
-- Espaço limitado - considere Green Car se necessário
+**Para levar malas no trem:**
+- ✅ Meça malas antes (largura + altura + profundidade)
+- ✅ Reserve assento oversized se >160cm total
+- ✅ Espaço limitado - chegue cedo para garantir espaço
+- ✅ Considere Green Car se malas grandes
 
 ## 💡 Dicas Finais para Turistas
 - Use plataformas oficiais JR para garantir disponibilidade
