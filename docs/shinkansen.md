@@ -1,114 +1,82 @@
-# Guia Shinkansen - Suas Rotas
+# Como Comprar Shinkansen + Yamato - Guia Simplificado
 
-## 🚅 Suas Rotas
+## 🚅 Suas Rotas + Bagagem
 
-### Kyoto → Nagano (17/12) ⚠️ COM BALDEAÇÃO
-**Esta rota NÃO é direta!**
+### Kyoto → Nagano (17/12/2025)
+- **Shinkansen:** Hokuriku Line (3h-3h30)
+- **Bagagem:** Yamato (2 malas) - ¥2,400-3,600
 
-- **Kyoto → Nagoya:** Shinkansen Tokaido (1h20-1h40)
-- **Nagoya → Nagano:** Shinano Limited Express (3h) - **NÃO é shinkansen!**
-- **Tempo total:** ~4h30-5h (incluindo baldeação)
-- **Preço:** ~¥16,750 por pessoa (¥33,500 para 2)
+### Nagano → Tokyo (19/12/2025)
+- **Shinkansen:** Hokuriku Line (1h30-2h)
+- **Bagagem:** Yamato (2 malas) - ¥2,000-3,000
 
-### Nagano → Tokyo (19/12)
-- **Tipo:** Hokuriku Shinkansen (direto, sem baldeação)
-- **Tempo:** 1h30-2h | **Distância:** 222 km
-- **Preço:** ¥6,000-7,000 por pessoa (¥12,000-14,000 para 2)
-- **Assento:** Lado direito (vista urbana)
+## 🛒 Como Comprar (Klook - Mais Barato)
 
-## 💻 Onde Comprar
+### 1. Plataforma Recomendada: Klook
+- **Site:** klook.com
+- **Cashback:** 18% (válido hoje)
+- **Vantagens:**
+  - Interface em português
+  - Cancelamento grátis até 24h
+  - Suporte em português
+  - QR code para retirada
 
-### Para Kyoto → Nagano (rota complexa)
+### 2. Processo Simples
+1. **Crie conta** gratuita no Klook
+2. **Busque** "Shinkansen Kyoto Nagano" ou "Shinkansen Nagano Tokyo"
+3. **Selecione** data, horário e tipo de assento
+4. **Pague** com cartão internacional
+5. **Receba voucher** por email
+6. **Retire** na estação usando QR code
 
-**Opção 1: SmartEX (Oficial JR) - RECOMENDADO**
-- Site: smart-ex.jp
-- Cobre Kyoto → Nagoya (parte do shinkansen)
-- Para Nagoya → Nagano compre separado no EkiNet ou na estação
-- Interface em inglês
-- Precisa retirar bilhete na estação
+### 3. Preços via Klook
+- **Kyoto → Nagano:** ¥8,000-9,000 (2 pessoas)
+- **Nagano → Tokyo:** ¥6,000-7,000 (2 pessoas)
+- **Com cashback 18%:** Economize ¥2,520-2,880
 
-**Opção 2: Shinkansen-Ticket.com (Terceirizado)**
-- Vende o pacote completo Kyoto → Nagano
-- Mais fácil para turistas (já vem tudo junto)
-- Suporte em inglês
-- Taxa de serviço incluída no preço
-- Recebe QR code por email
+## 🛄 Yamato (Takkyubin) - Para Suas Malas
 
-**Opção 3: Comprar na Estação**
-- Mais simples: compre tudo no dia em Kyoto Station
-- Vá ao guichê JR Ticket Office (balcão com atendentes)
-- Fale "Kyoto to Nagano, reserved seat, two passengers"
-- Aceita cartão de crédito internacional
-- **Vantagem:** Sem estresse com sites em japonês
+### Por que Yamato?
+- ✅ **Não carrega peso** no shinkansen
+- ✅ **Entrega porta-a-porta** (hotel → hotel)
+- ✅ **Seguro incluso** contra danos/perda
+- ✅ **Prático** para 2 malas grandes
 
-### Para Nagano → Tokyo
+### Custos
+- **Kyoto → Nagano:** ¥2,400-3,600 (2 malas)
+- **Nagano → Tokyo:** ¥2,000-3,000 (2 malas)
+- **Total:** ¥4,400-6,600
 
-**Opção 1: EkiNet (Oficial JR)**
-- Site: ekinet.jp
-- Interface em inglês
-- Desconto online
+### Como Usar
+1. **No hotel:** Peça no reception (eles organizam)
+2. **Preencha formulário:** Destino + data de entrega
+3. **Pague:** Cartões aceitos
+4. **Rastreie:** Código de rastreio incluso
 
-**Opção 2: Comprar na Estação**
-- Mesma facilidade da compra em Kyoto
+## 💰 Custo Total Estimado (2 Pessoas)
+| Item | Custo |
+|------|-------|
+| **Shinkansen Kyoto→Nagano** | ¥16,000-18,000 |
+| **Shinkansen Nagano→Tokyo** | ¥12,000-14,000 |
+| **Yamato (2 rotas)** | ¥4,400-6,600 |
+| **Com cashback 18%** | -¥5,040-6,480 |
+| **TOTAL** | **¥27,360-32,120** |
 
-## 💰 Sobre o Preço de ¥32,700
+## ⚠️ Dicas Importantes
 
-**Está correto!** Esse preço é para 2 pessoas na rota Kyoto → Nagano (¥16,750 x 2).
+### Para Shinkansen
+- **Chegue 15 min antes** da partida
+- **Valide bilhete** na catraca amarela
+- **Assentos reservados** recomendados para conforto
 
-Por que é mais caro que o esperado?
-- Não é só shinkansen - inclui o trem expresso Nagoya → Nagano
-- Rota mais longa e complexa (com baldeação)
-- Total: ~420km com dois tipos de trem
+### Para Yamato
+- **Envie 1 dia antes** para entrega no próximo hotel
+- **Rastreie online** usando o código fornecido
+- **Confirme endereço** do hotel de destino
 
-## 🛄 Bagagem com Yamato (Sua Decisão)
+### Geral
+- **Cartões internacionais** funcionam em máquinas
+- **Google Translate** para comunicação
+- **Compre hoje** para aproveitar cashback 18%
 
-**Você decidiu usar Yamato nas 2 rotas** ✅
-
-### Kyoto → Nagano (17/12)
-- Envie malas via Yamato do hotel em Kyoto
-- **IMPORTANTE:** Com baldeação em Nagoya, Yamato é ESSENCIAL
-- Chegam no hotel em Nagano no mesmo/próximo dia
-
-### Nagano → Tokyo (19/12)
-- Envie malas via Yamato do hotel em Nagano
-- Viagem direta e tranquila só com mochila
-
-**Como fazer:**
-1. Pergunte na recepção do hotel sobre "Yamato Luggage Delivery"
-2. Eles ajudam a preencher formulário
-3. Pague ~¥2,000-3,000 por mala
-4. Envie na manhã da viagem (antes do check-out)
-
-## ⚠️ ATENÇÃO: Baldeação em Nagoya
-
-### O que fazer ao chegar em Nagoya
-1. Desça do Shinkansen Tokaido
-2. Siga placas "Shinano Limited Express" ou "Nagano"
-3. Encontre a plataforma do Shinano (geralmente plataformas 11-14)
-4. Tempo de conexão: reserve 15-20min
-5. **Dica:** Compre tudo junto (Kyoto → Nagano) para garantir conexão
-
-### Por que baldeação?
-- Não existe shinkansen direto Kyoto → Nagano
-- O Hokuriku Shinkansen (que vai para Nagano) parte de Tokyo, não de Kyoto
-- Rota Kyoto → Nagano usa linha Shinano que é trem expresso convencional
-
-## ✅ Recomendação Final
-
-**Para facilitar sua vida:**
-
-1. **Kyoto → Nagano:** Compre na estação de Kyoto no dia
-   - Chegue 30min antes da viagem
-   - Vá ao JR Ticket Office (não é máquina)
-   - Compre os 2 bilhetes juntos (Kyoto → Nagano via Nagoya)
-   - Especifique "reserved seat" e horário desejado
-
-2. **Nagano → Tokyo:** Pode comprar online no EkiNet ou na estação
-
-3. **Bagagem:** Use Yamato nas 2 rotas (especialmente importante para a rota com baldeação)
-
-## 📱 Apps Úteis
-
-- **Hyperdia:** Ver horários e conexões (ESSENCIAL para a baldeação)
-- **Google Maps:** Também mostra rotas de trem
-- **Google Translate:** Para comunicação na estação
+Este guia simplificado foca apenas no essencial para suas rotas específicas com Yamato para bagagem.
