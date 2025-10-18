@@ -151,9 +151,16 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - ZENKO-JI ESPIRITUAL + PARTIDA
 
-**📋 Resumo do dia:** Zenko-Ji experiência completa (6:30-9:00) | Ritual Kaidan Meguri | Bênção matinal | Shinkansen Tokyo
+**📋 Resumo do dia:** Zenko-Ji espiritual (6:30-9:00) | Bênção matinal + Kaidan Meguri | Jejum | Shinkansen Tokyo
 
 ### 06:30 – 09:00 • Zenko-Ji Temple - Experiência Espiritual Completa ⛩️
+
+**Horário otimizado para experiência máxima:**
+- **6:30-7:00:** Chegada e exploração (templo vazio, luz matinal)
+- **7:00-7:30:** Cerimônia de bênçãos matinais (O-Asaji)
+- **7:30-8:00:** Ritual Kaidan Meguri (jejum espiritual)
+- **8:00-8:30:** Exploração arquitetura + fotos
+- **8:30-9:00:** Preparação para partida
 
 **🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
 **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
@@ -207,26 +214,23 @@
 
 ---
 
-## 🎭 Ritual Kaidan Meguri - Guia Completo
+**RITUAL MATINAL OPCIONAL (7:00):**
+- **Cerimônia de bênçãos:** Acontece ao nascer do sol (verificar disponibilidade)
+- **Horário variável:** Depende do nascer do sol (dezembro ~7:00)
+- **Experiência:** Bênçãos matinais tradicionais budistas
 
-**O que é:** Ritual budista único onde você caminha por um corredor completamente escuro procurando uma chave simbólica na parede.
+**RITUAL KAIDAN MEGURI (8:30-9:00):**
+- **O que é:** Ritual único no corredor escuro procurando chave simbólica
+- **Como funciona:** Túnel subterrâneo 30m, escuridão total, tatear parede esquerda
+- **Significado:** Quem encontra ganha acesso espiritual ao paraíso
+- **Duração:** 10-15 minutos de meditação sensorial
+- **Preço:** ¥300 adicional (pagar na recepção)
 
-**Por que em jejum:** Experiência espiritual mais intensa - tradição budista fazer rituais matinais antes da primeira refeição.
-
-**Como funciona:**
-1. **Entrada:** Pague ¥300 adicional na recepção do templo
-2. **Preparação:** Tire sapatos, pegue uma vela apagada
-3. **Corredor escuro:** Entre no túnel subterrâneo (total escuridão)
-4. **Procure a chave:** Tateie a parede esquerda até encontrar a maçaneta
-5. **Significado:** Quem encontra acredita ganhar acesso ao paraíso
-6. **Duração:** 10-15 minutos
-
-**Dicas:**
-- ✅ Vá com mente aberta - é uma experiência espiritual/sensorial
-- ⚠️ Não recomendado para claustrofóbicos
-- 💡 Leve dinheiro trocado (¥300 em moedas/notas)
-- 🕐 Faça logo ao abrir (templo abre às 9:00, chegar 8:30)
-- 🍽️ Café da manhã APÓS o ritual (mais significativo)
+**Por que matinal (jejum espiritual):**
+- ✅ **Tradição budista:** Rituais importantes feitos antes da primeira refeição
+- ✅ **Experiência intensa:** Mente clara e focada pelo jejum
+- ✅ **Menos turistas:** Ambiente mais espiritual e tranquilo
+- ✅ **Combinação perfeita:** Bênção + ritual + arquitetura matinal
 
 ---
 
