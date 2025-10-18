@@ -75,10 +75,18 @@
 - **Custo:** ¥7,200 (2 pessoas)
 - **Inclui:** Ônibus ilimitado + entrada parque + trem Nagaden (2 dias)
 
-**Análise econômica:**
-- **Individual (2 dias):** Ônibus ¥1,500-2,000 + entrada ¥800 + transporte Day 19 ¥200-500 = ¥2,500-3,300
-- **Passe:** ¥7,200 (¥3,900-4,700 a mais)
-- **Vale a pena porque:** Ônibus ilimitado + praticidade + funcionários bilíngues
+**Análise econômica detalhada:**
+- **Custos individuais mínimos:** Ônibus ¥1,500 + entrada ¥800 = ¥2,300
+- **Custos individuais máximos:** Ônibus ¥2,000 + entrada ¥800 + transporte Day 19 ¥500 = ¥3,300
+- **Passe:** ¥7,200 (fixo)
+- **Diferença:** ¥3,900-4,700 a mais que o mínimo individual
+
+**VALE A PENA porque:**
+- ✅ **Ônibus ilimitado:** Pode ir múltiplas vezes (segurança caso precise voltar)
+- ✅ **Funcionários bilíngues:** Ajuda turistas com inglês (muito útil)
+- ✅ **Praticidade:** Não comprar tickets individuais a cada uso
+- ✅ **Flexibilidade:** Ônibus sempre disponível (não depende de dinheiro/troco)
+- ✅ **Trem Nagaden:** Acesso a outras áreas de Nagano incluso
 
 ### 07:30 – 08:20 • Ônibus Nagano → Kanbayashi (chegar 9h no parque)
 
