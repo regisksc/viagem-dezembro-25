@@ -79,6 +79,7 @@
 **Economia:** ¥1,800 com passe
 
 **RECOMENDAÇÃO: Snow Monkey Pass**
+
 - Economia líquida ¥1,800 + conveniência + flexibilidade
 
 </details>
@@ -138,6 +139,12 @@
 - **Horário oficial:** 12:00-15:00
 - **Horário estendido:** Possível permanência até 16:30 (confirmar no local)
 
+**🏨 Sobre o Ryokan:**
+
+- Família proprietária desde 1864 (edifício histórico)
+- 13 quartos únicos estilo japonês tradicional
+- Hospedagem: ¥38,250 (2 pessoas, jantar + café incluso)
+
 <details>
 <summary>🐒 Experiência com macacos</summary>
 
@@ -163,6 +170,7 @@
 **Benefícios:** Relaxa após caminhada, hidrata pele, alivia tensão muscular
 
 **Etiqueta para casal no banho misto:**
+
 - ✅ Banho nu obrigatório (todos ficam nus)
 - ✅ Lavar corpo completamente ANTES de entrar na água
 - ✅ Toalha pequena para secar (não levar para o banho)
@@ -198,6 +206,7 @@
 ### 06:30 – 09:00 • Zenko-Ji Temple - Experiência Espiritual Completa ⛩️
 
 **Horário otimizado para experiência máxima:**
+
 - **6:30-7:00:** Chegada e exploração (templo vazio, luz matinal)
 - **7:00-7:30:** Cerimônia de bênçãos matinais (O-Asaji)
 - **7:30-8:00:** Ritual Kaidan Meguri (jejum espiritual)
@@ -306,56 +315,9 @@
 | **Shinkansen Nagano→Tokyo** | ¥16,000-18,000 (2 pessoas) |
 | **TOTAL** | **~R$1,080-1,230** |
 
-
 **💡 Hotel buffet incluso:** Cafés da manhã (exceto Dia 19 cedo) + 2 jantares cobertos!
 
 **⚠️ Onsen externo com macacos:** INESGOTÁVEL! Prioridade máxima no Day 18
-
----
-
-## 🏨 Ryokan com Macacos - Experiência Única
-
-**Jigokudani Onsen Korakukan:**
-- **Localização:** 2 minutos a pé do Snow Monkey Park
-- **Onsen público:** 12:00-15:00 (¥1,200 sem pernoite)
-- **Experiência RARA:** Macacos selvagens ENTRAM no onsen externo!
-
-<details>
-<summary>🏨 Detalhes do ryokan</summary>
-
-**Características:** Família proprietária desde 1864 (edifício histórico)
-**Preço hospedagem:** ¥38,250 (2 pessoas, jantar + café incluso)
-**Quartos:** Estilo japonês tradicional (13 quartos únicos, cada um diferente)
-
-</details>
-
-<details>
-<summary>♨️ Banhos disponíveis para casais</summary>
-
-**🏞️ Externo misto (RECOMENDADO):** Juntos! Onde macacos entram (unissex)
-**🏠 Banho familiar:** Reservar quarto privativo (¥5,000-10,000 extra)
-**🏢 Interno masculino/feminino:** Separados (sem macacos, mais tradicional)
-
-</details>
-
-<details>
-<summary>🐒 Melhor horário para experiência completa</summary>
-
-**15:00-16:30:** APÓS horário oficial (permanência estendida)
-**Por quê:** Macacos vêm quando parque fecha e visitantes vão embora
-**Experiência:** Possibilidade REAL de banho COM macacos selvagens
-**Localização:** Principalmente no banho externo misto (como no vídeo)
-
-</details>
-
-<details>
-<summary>💡 Dicas práticas para casal</summary>
-
-- **Confirmar horário:** Perguntar se pode ficar até 16:30
-- **Banho familiar:** Considerar para privacidade (¥5,000-10,000)
-- **Tempo ideal:** Chegar 15:00 (início da "hora dos macacos")
-
-</details>
 
 ---
 
