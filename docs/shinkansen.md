@@ -22,56 +22,74 @@ Existem 2 rotas possíveis (ambas com baldeação):
 
 ## 🛒 O QUE COMPRAR EXATAMENTE
 
-### ⚠️ IMPORTANTE: SOBRE O KLOOK E KYOTO → NAGANO
+### 🚨 DEZEMBRO = ALTA TEMPORAÇÃO! RISCO REAL DE FICAR SEM ASSENTO
 
-Você viu no Klook que aparece **Tsuruga → Nagano**, certo?
+**PROBLEMAS de comprar em cima da hora:**
+- ❌ Assentos reservados ESGOTAM (especialmente para casal querendo sentar junto)
+- ❌ Pode sobrar só non-reserved (risco de ficar EM PÉ 4 horas!)
+- ❌ Assentos separados (você e esposa em vagões diferentes)
+- ❌ Dezembro = feriados de fim de ano japoneses (MUITO movimento)
 
-**O problema:** Klook vende APENAS a 2ª parte (Tsuruga → Nagano).
-Você ainda precisaria comprar separado Kyoto → Tsuruga (Thunderbird).
+**SOLUÇÃO: COMPRA ANTECIPADA ESTRATÉGICA** ⬇️
 
-**Resultado:** Complicado! Você teria:
-- 2 compras separadas
-- Risco de não coordenar horários de conexão
-- Mais estresse
+### ✅ ESTRATÉGIA SEGURA PARA CASAL
 
-**SOLUÇÃO:** Compre TUDO na estação de Kyoto (explicado abaixo).
+**Para Kyoto → Nagano (17/12):**
 
-### ✅ COMPRE NO KLOOK (ONLINE)
+**QUANDO COMPRAR:** Dia 14/12 (assim que chegar em Kyoto)
+- ❌ NÃO espere até dia 17!
+- ✅ Compre 3 dias antes = assentos reservados garantidos juntos
 
-**Nagano → Tokyo (19/12)**
+**ONDE:** JR Ticket Office na Kyoto Station
+- Vá no balcão JR West (não máquina)
+- **Fale:** "Kyoto to Nagano via Fukui, December 17th, morning departure around 6:30-7:00, two passengers together, reserved seats ordinary car please"
+- **ENFATIZE:** "Two seats together please" (para sentar lado a lado)
+
+**POR QUE NÃO KLOOK:**
+- Klook vende só Fukui → Nagano (parte do trajeto)
+- Você precisaria comprar Kyoto → Fukui separado
+- Complicado coordenar horários de conexão
+
+---
+
+**Para Nagano → Tokyo (19/12):**
+
+**OPÇÃO 1 - KLOOK (MAIS SEGURO, MAS HORÁRIO RUIM):**
 - ✅ Compre AGORA no Klook
 - Busque: "Nagano to Tokyo Shinkansen"
-- **Tipo de assento:** "Reserved Seat - Ordinary Car" (suficiente)
-- **Evite:** Non-reserved seat (vai em pé se lotar!)
-- Preço: ~¥8,000-9,000 por pessoa
-- Vantagem: Garantido, sem estresse, assento reservado
+- **Data:** 19/12/2025
+- **Horário:** 14:26 ou 14:58 (só tem tarde)
+- **Tipo:** "Reserved Seat - Ordinary Car"
+- **Vantagem:** Assento GARANTIDO, lado a lado, compra agora
+- **Desvantagem:** Sai tarde (perde manhã em Tokyo)
 
-**Tipos de assento no Klook:**
-- **Ordinary Car (Reserved):** ¥8,000-9,000 ← ESCOLHA ESSE
-- **Green Car:** ¥12,000-13,000 (primeira classe - desnecessário)
-- **Gran Class:** ¥18,000-20,000 (super luxo - desnecessário)
+**OPÇÃO 2 - ESTAÇÃO (HORÁRIO BOM, MAS ARRISCADO):**
+- Comprar no dia 17/12 na estação de Nagano
+- Horário matinal (~11:00-12:00)
+- **Risco:** Dezembro lotado, pode não ter assento junto
+- **Se arriscar:** Chegue Nagano Station no dia 17 à tarde e compre logo
 
-### ⚠️ COMPRE NA ESTAÇÃO (PRESENCIAL) - RECOMENDADO!
+**MINHA RECOMENDAÇÃO PARA CASAL:**
+- **OPÇÃO 1 (Klook)** = Segurança > Horário
+- Ou compre na estação dia 17 logo que chegar em Nagano (~11:00)
 
-**Kyoto → Nagano (17/12) - ROTA COMPLETA**
-- ❌ NÃO compre no Klook (só vende metade da rota!)
-- ✅ Compre TUDO na estação de Kyoto no dia 17/12
-- **Quando:** Chegue 45min antes da partida desejada
-- **Onde:** JR Ticket Office (balcão com atendentes, não máquina)
+### 📅 CALENDÁRIO DE COMPRAS RECOMENDADO
 
-**O que falar:**
-> "Kyoto to Nagano via Tsuruga, two passengers, reserved seats ordinary car please"
+**AGORA (antes da viagem):**
+- [ ] Decidir: Nagano → Tokyo no Klook (tarde) ou arriscar estação (manhã)?
 
-**O que eles vão dar:**
-- 2 bilhetes juntos (Thunderbird Kyoto→Tsuruga + Kagayaki Tsuruga→Nagano)
-- Horários coordenados (conexão garantida)
-- Assentos reservados em ambos (não vai em pé!)
+**Dia 14/12 (chegada em Kyoto):**
+- [ ] 14:00 - Check-in hotel
+- [ ] 14:30 - Ir a Kyoto Station
+- [ ] 15:00 - JR Ticket Office: comprar Kyoto → Nagano para dia 17/12
+- [ ] **CRÍTICO:** Pedir assentos juntos (together/side by side)
 
-**Por que comprar na estação?**
-- Compra TUDO de uma vez (rota completa)
-- Atendentes coordenam os horários de conexão
-- Aceita cartão internacional
-- Mais simples que comprar em 2 lugares diferentes
+**Dia 17/12 (chegada em Nagano) - SE NÃO COMPROU TOKYO NO KLOOK:**
+- [ ] 11:00 - Chegar Nagano
+- [ ] 11:30 - Deixar malas no hotel
+- [ ] 12:00 - Ir a Nagano Station
+- [ ] 12:30 - JR Ticket Office: comprar Nagano → Tokyo para dia 19/12
+- [ ] **CRÍTICO:** Pedir assentos juntos, horário ~11:00-12:00
 
 ## 🚨 MUITO IMPORTANTE: RESERVED vs NON-RESERVED
 
@@ -107,26 +125,40 @@ Você ainda precisaria comprar separado Kyoto → Tsuruga (Thunderbird).
 ## 📋 CHECKLIST FINAL
 
 ### Antes da Viagem (AGORA)
-- [ ] Comprar Nagano → Tokyo no Klook
-  - [ ] Buscar "Nagano to Tokyo Shinkansen"
-  - [ ] Selecionar "Reserved Seat - Ordinary Car"
-  - [ ] Data: 19/12/2025
-  - [ ] 2 passageiros
+- [ ] **DECISÃO IMPORTANTE:** Nagano → Tokyo
+  - [ ] Opção A: Comprar no Klook agora (horário 14:26-14:58, GARANTIDO)
+  - [ ] Opção B: Arriscar comprar dia 17 em Nagano (horário ~11:00, RISCO)
 - [ ] Confirmar endereço completo dos hotéis (para Yamato)
-- [ ] Baixar app Klook (para ter QR codes)
+- [ ] Baixar app Klook se escolher Opção A
+
+### Dia 14/12 (CHEGADA EM KYOTO) - COMPRA ANTECIPADA! 🎫
+- [ ] 13:00 - Check-in Mercure Kyoto
+- [ ] 14:00 - Descansar/refresh
+- [ ] 14:30 - Ir a Kyoto Station (15min do hotel)
+- [ ] 15:00 - **JR Ticket Office (balcão JR West)**
+- [ ] 15:10 - Falar: "Kyoto to Nagano via Fukui, December 17th morning around 6:30, two passengers **together**, reserved seats ordinary car please"
+- [ ] 15:20 - **CONFERIR:** Assentos lado a lado (side by side)
+- [ ] 15:30 - Guardar bilhetes em local seguro
+- [ ] 16:00 - Seguir com roteiro normal do dia 14
 
 ### Dia 17/12 (Kyoto → Nagano)
 - [ ] 04:00 - Acordar cedo
-- [ ] 04:30 - Na recepção: pedir Yamato para enviar malas a Nagano
+- [ ] 04:30 - Recepção: Yamato para enviar malas a Nagano
 - [ ] 05:00 - Check-out do hotel
-- [ ] 05:30 - Chegar Kyoto Station (45min antes)
-- [ ] 05:45 - Ir ao JR Ticket Office (balcão, não máquina)
-- [ ] 05:50 - Falar: "Kyoto to Nagano via Tsuruga, two passengers, reserved seats ordinary car please"
-- [ ] 06:00 - Conferir bilhetes (2 trens: Thunderbird + Kagayaki)
-- [ ] 06:15 - Embarcar Thunderbird Kyoto → Tsuruga
-- [ ] 08:05 - Chegar Tsuruga, trocar de plataforma (15-20min)
-- [ ] 08:15 - Embarcar Kagayaki Tsuruga → Nagano
-- [ ] 10:12 - Chegar Nagano!
+- [ ] 05:30 - Chegar Kyoto Station
+- [ ] 06:00 - Conferir bilhetes (JÁ TEM, comprou dia 14!)
+- [ ] 06:30 - Embarcar Thunderbird Kyoto → Fukui
+- [ ] 08:30 - Chegar Fukui, trocar de plataforma (15min)
+- [ ] 09:00 - Embarcar Kagayaki Fukui → Nagano
+- [ ] 10:40 - Chegar Nagano!
+
+### Dia 17/12 (Tarde em Nagano) - SE NÃO COMPROU TOKYO NO KLOOK
+- [ ] 11:30 - Check-in hotel Nagano
+- [ ] 12:00 - Ir a Nagano Station
+- [ ] 12:30 - **JR Ticket Office:** comprar Nagano → Tokyo dia 19/12
+- [ ] 12:40 - Falar: "Nagano to Tokyo, December 19th morning around 11:00, two passengers **together**, reserved seats ordinary car please"
+- [ ] 12:50 - **CONFERIR:** Assentos lado a lado
+- [ ] 13:00 - Guardar bilhetes em local seguro
 
 ### Dia 19/12 (Nagano → Tokyo)
 - [ ] Manhã: Enviar malas via Yamato (recepção hotel Nagano)
@@ -147,16 +179,38 @@ Você ainda precisaria comprar separado Kyoto → Tsuruga (Thunderbird).
 
 ## 🕐 Horários Disponíveis (DADOS REAIS DO KLOOK)
 
-### Fukui → Nagano (17/12/2025) - Tarde
+### Tsuruga/Fukui → Nagano (17/12/2025) - Só Tarde
 
-O Klook vende a partir de **Fukui** (não Tsuruga). Fukui é uma estação antes, também na linha Hokuriku Shinkansen.
+O Klook vende a partir de **Tsuruga** ou **Fukui** (estações intermediárias na linha Hokuriku Shinkansen).
 
-| Saída Fukui | Chegada Nagano | Trem | Duração | Preço/pessoa (Ordinary Reserved) |
-|-------------|----------------|------|---------|----------------------------------|
+**⚠️ PROBLEMA:** Você ainda precisa chegar em Tsuruga/Fukui! Klook não vende Kyoto → Tsuruga.
+
+#### Opção A: Via Tsuruga (mais rápido)
+
+| Saída Tsuruga | Chegada Nagano | Trem | Duração | Preço/pessoa |
+|---------------|----------------|------|---------|--------------|
+| 15:04 | 17:03 | Kagayaki 510 | 1h59m | $78.85 (¥11,450) |
+| 16:04 | 17:54 | Kagayaki 512 | 1h50m | $80.15 (¥11,650) |
+
+**Falta comprar:** Kyoto → Tsuruga (Thunderbird, ~2h, ¥5,000/pessoa)
+
+#### Opção B: Via Fukui (um pouco mais barato)
+
+| Saída Fukui | Chegada Nagano | Trem | Duração | Preço/pessoa |
+|-------------|----------------|------|---------|--------------|
 | 15:22 | 17:03 | Kagayaki 510 | 1h41m | $77.85 (¥11,300) |
 | 16:22 | 17:54 | Kagayaki 512 | 1h32m | $75.19 (¥10,900) |
 
-**ATENÇÃO:** Klook só mostra esses 2 horários da tarde. Para viajar de manhã, compre na estação de Kyoto.
+**Falta comprar:** Kyoto → Fukui (Thunderbird, ~2h20m, ¥6,000/pessoa)
+
+**❌ POR QUE NÃO RECOMENDO KLOOK PARA ESSA ROTA:**
+1. Precisa comprar 2 bilhetes separados (Kyoto → Tsuruga/Fukui + Klook)
+2. Risco de não coordenar horários de conexão
+3. Só tem horários da TARDE (chegada 17:03-17:54)
+4. Perde o dia em Nagano
+5. Preço total similar a comprar tudo na estação
+
+**✅ MELHOR OPÇÃO:** Comprar TUDO na estação de Kyoto dia 14/12 (manhã, chegada ~10:40)
 
 ### Nagano → Tokyo (19/12/2025) - Tarde
 
@@ -229,3 +283,22 @@ R: Kyoto → Nagano pode ser mesmo dia ou dia seguinte. Nagano → Tokyo geralme
 
 **P: Preciso imprimir os bilhetes do Klook?**
 R: Não! Baixe o app Klook e tenha o QR code no celular. Na estação, mostre o QR code na máquina ou balcão para retirar o bilhete físico.
+
+**P: E se eu comprar no dia, realmente posso ficar sem assento como casal?**
+R: **SIM!** Risco REAL em dezembro:
+- Assentos reservados juntos esgotam primeiro (casais/famílias têm prioridade)
+- Pode sobrar só assentos separados em vagões diferentes
+- Pior cenário: só non-reserved sobrando = risco de ficar 4h EM PÉ
+- **SOLUÇÃO:** Compre 2-3 dias antes = assentos juntos garantidos
+
+**P: Posso comprar TUDO no Klook e evitar estação?**
+R: Infelizmente não para horários matinais. Klook tem limitações:
+- Kyoto → Nagano: Só vende Fukui → Nagano (tarde), falta Kyoto → Fukui
+- Nagano → Tokyo: Só vende horários tarde (14:26-14:58)
+- **Para horários matinais:** Precisa comprar na estação JR
+
+**P: O atendente da estação fala inglês?**
+R: Sim! JR Ticket Offices em estações grandes (Kyoto, Nagano, Tokyo) têm atendentes que falam inglês básico. E você vai ter a frase pronta para falar.
+
+**P: Posso pagar com cartão internacional?**
+R: SIM! JR Ticket Offices aceitam Visa, Mastercard, Amex. Máquinas também aceitam (mas balcão é melhor para pedir assentos juntos).

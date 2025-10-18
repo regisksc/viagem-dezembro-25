@@ -31,13 +31,35 @@
 
 ### 11:00 – 13:00 • Viagem e chegada em Kyoto
 
-### 13:00 – 15:00 • Check-in no Mercure Kyoto
+### 13:00 – 15:00 • Check-in no Mercure Kyoto + COMPRA SHINKANSEN! 🎫
 
 <details>
 <summary>Detalhes</summary>
 
-- Check-in oficial 15:00
-- Deixar malas, refresh
+- **13:00** - Check-in oficial
+- **13:30** - Deixar malas, refresh rápido
+- **14:00** - **URGENTE:** Ir a Kyoto Station comprar bilhetes para Nagano (dia 17)
+
+**🚨 POR QUE COMPRAR HOJE:**
+- Dezembro = alta temporada
+- Comprando 3 dias antes = assentos reservados JUNTOS garantidos
+- Evita risco de ficar sem assento ou separados no dia 17
+
+**📍 ONDE COMPRAR:**
+- Kyoto Station - JR Ticket Office (balcão JR West)
+- Fica a 15min do hotel
+
+**🗣️ O QUE FALAR:**
+> "Kyoto to Nagano via Fukui, December 17th, morning departure around 6:30-7:00, two passengers together, reserved seats ordinary car please"
+
+**✅ CONFERIR:**
+- Assentos lado a lado (side by side/together)
+- Horário manhã (~06:30 saída)
+- 2 bilhetes: Thunderbird + Kagayaki
+- Custo: ~¥16,000-18,000 (2 pessoas)
+
+**⏰ TEMPO TOTAL:** 30-45min
+**🕐 RETORNO:** 15:00 ao hotel para seguir roteiro
 
 </details>
 

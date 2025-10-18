@@ -33,7 +33,31 @@
 
 </details>
 
-### 13:00 – 17:30 • Exploração completa centro Nagano
+### 13:00 – 13:30 • COMPRA SHINKANSEN TOKYO (SE NÃO COMPROU NO KLOOK) 🎫
+
+<details>
+<summary>⚠️ LEIA SE NÃO COMPROU NAGANO → TOKYO NO KLOOK</summary>
+
+**📍 AGORA É A HORA:**
+- Comprar bilhetes Nagano → Tokyo (dia 19) HOJE
+- Evita risco de ficar sem assento junto no dia 19
+
+**PASSO A PASSO:**
+- **12:00** - Ir a Nagano Station (5min do hotel)
+- **12:30** - JR Ticket Office (balcão)
+- **12:40** - Falar: "Nagano to Tokyo, December 19th, morning around 11:00, two passengers together, reserved seats ordinary car please"
+- **12:50** - **CONFERIR:** Assentos lado a lado
+- **13:00** - Guardar bilhetes em local seguro
+
+**💰 Custo:** ~¥16,000-18,000 (2 pessoas)
+
+**✅ SE JÁ COMPROU NO KLOOK:**
+- Pule esta etapa
+- Já tem assento garantido (horário 14:26-14:58)
+
+</details>
+
+### 13:30 – 17:30 • Exploração completa centro Nagano
 
 - **🚶 Transporte:** Área próxima ao hotel e estação
 - **Atividades:**
