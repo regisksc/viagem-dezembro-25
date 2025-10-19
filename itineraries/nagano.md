@@ -394,16 +394,21 @@
 
 ## 💰 Budget Estimado Nagano (2.5 dias)
 
-| Categoria | Custo |
-|-----------|-------|
-| **Snow Monkey Pass** | ¥8,000 (2 pessoas) |
-| **Onsen ryokan Korakukan** | ¥2,400 (2 pessoas) |
-| **Matsushiro Line** (hotel→estação dia 19) | ¥1,140 (2 pessoas) |
-| **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
-| **Shinkansen Nagano→Tokyo** | $108.10-116.10 (~¥15,700-16,860, 2 pessoas) |
-| **TOTAL** | **~R$1,040-1,210** |
+| Categoria | Custo | Moeda |
+|-----------|-------|-------|
+| **Snow Monkey Pass** | ¥8,000 (2 pessoas) | Dinheiro/cartão |
+| **Onsen ryokan Korakukan** | ¥2,400 (2 pessoas) | Dinheiro |
+| **Matsushiro Line** (hotel→estação dia 19) | ¥1,140 (2 pessoas) | Dinheiro/IC card |
+| **Thunderbird Kyoto→Tsuruga** | ¥6,840 (2 pessoas) | Dinheiro/cartão |
+| **Kagayaki Tsuruga→Nagano** | $157.70 (¥22,900) | Klook (pré-pago) |
+| **Kagayaki Nagano→Tokyo** | $108.10 (¥15,700) | Klook (pré-pago) |
+| **TOTAL EM DINHEIRO NECESSÁRIO** | **¥18,380** | **~R$670** |
+| **TOTAL JÁ PAGO KLOOK** | **$265.80** | **~R$1,455** |
+| **TOTAL GERAL** | **~R$2,125** | - |
 
 **💡 Hotel buffet incluso:** 2 cafés da manhã + 2 jantares cobertos!
+
+**💰 ECONOMIA vs comprar tudo na estação:** ¥8,600 (~R$320)
 
 ---
 

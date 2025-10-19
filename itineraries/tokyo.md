@@ -461,3 +461,28 @@ tokyoveganramen.com
 
 ---
 
+## 💰 Budget Estimado Tokyo (5 dias)
+
+| Categoria | Custo estimado | Observação |
+|-----------|----------------|------------|
+| **Transporte local** (metrô/ônibus) | ¥5,000-7,000 (2 pessoas) | IC card ou passes diários |
+| **Refeições** (almoço + jantar x 5 dias) | ¥30,000-50,000 (2 pessoas) | ¥3,000-5,000/dia por pessoa |
+| **Atrações pagas** | ¥10,000-15,000 (2 pessoas) | Tokyo Skytree, teamLab, museus |
+| **Cooking class** (opcional) | ¥10,000-16,000 (2 pessoas) | Tokyo Vegan Ramen Center |
+| **Compras/souvenirs** | Variável | Conforme desejado |
+| **TOTAL ESTIMADO** | **¥55,000-88,000** | **~R$2,000-3,200** |
+
+**💡 Hotel:** Café da manhã INCLUSO todos os dias!
+
+**📱 Apps úteis:**
+- Suica/Pasmo (IC card digital)
+- Google Maps + NAVITIME
+- HappyCow (restaurantes veganos)
+
+**🎯 Prioridades com custo:**
+- Tokyo Skytree: ¥2,100/pessoa
+- teamLab Planets: ¥3,800/pessoa (Klook mais barato)
+- Cooking class: ¥5,000-8,000/pessoa
+
+---
+
