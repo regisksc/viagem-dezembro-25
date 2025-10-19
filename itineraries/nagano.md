@@ -17,51 +17,49 @@
 
 ## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
 
-**📋 Resumo do dia:** Viagem Kyoto→Nagano (13:00-17:54) | Check-in Mercure | Jantar buffet | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Viagem Kyoto→Nagano (13:40-17:03) | Check-in Mercure | 2x Jantar buffet! 😄 | CALL SEMANAL LONGO
 
-### 17:03-17:54 • Chegada em Nagano
+### 17:03 • Chegada em Nagano
 
-- **🚅 Chegada:** Kagayaki de Tsuruga (saída Kyoto ~13:00, chegada Nagano ~17:00-18:00)
-- **Anoitecer:** Dezembro escurece ~16:30, vai chegar no escuro
+- **🚅 Chegada:** Kagayaki 510 de Tsuruga (via Thunderbird 27 de Kyoto)
+- **Timeline:** Kyoto 13:40 → Tsuruga 14:33 → Nagano 17:03
+- **Anoitecer:** Dezembro escurece ~16:30, chega no escuro
 
-### 17:54 – 18:30 • Check-in no Mercure Nagano
+### 17:03 – 17:30 • Check-in no Mercure Nagano
 
 <details>
 <summary>Detalhes</summary>
 
-- **18:00** - Sair da estação, ir ao hotel a pé (10min) ou táxi
-- **18:15** - Check-in no Mercure
-- **18:30** - Subir ao quarto, refresh rápido
+- **17:03** - Sair da estação
+- **17:10-17:20** - Ir ao hotel a pé (10min) ou táxi
+- **17:20-17:30** - Check-in no Mercure, subir ao quarto
 
 **💡 Malas:** Chegam via Yamato hoje ou amanhã cedo (perguntar na recepção)
 
 </details>
 
-### 18:30 – 19:30 • Descanso no hotel
+### 17:30 – 18:00 • Tempo livre
 
-<details>
-<summary>Depois de viagem longa, DESCANSE!</summary>
+- Onsen rápido
+- Refresh no quarto
+- Organizar malas se chegarem
 
-**Você viajou 4-5h de Kyoto:**
-- Cansado da viagem
-- Quer relaxar antes do jantar
-- Amanhã é dia MUITO intenso (Snow Monkey 6h-17h)
-
-**Opções:**
-- Onsen do hotel (relaxamento perfeito!)
-- Quarto (cochilar, Netflix, organizar malas)
-- Konbini rápido (5min) se precisar snacks/água
-
-**💡 Prioridade:** DESCANSAR para dia intenso amanhã
-
-</details>
-
-### 19:30 – 21:00 • Jantar no hotel (buffet)
+### 18:00 – 19:30 • JANTAR 1 no hotel (buffet) 🍽️
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
-- Primeira refeição em Nagano!
-- Jantar tranquilo sem pressa
+- Primeira rodada do jantar!
+
+### 19:30 – 20:00 • Descanso entre jantares
+
+- Onsen do hotel
+- Quarto (descansar, Netflix)
+
+### 20:00 – 21:00 • JANTAR 2 no hotel (buffet) 🍽️😄
+
+- **Locavore Restaurant (1F)**
+- Segunda rodada! (last entry 20:30)
+- Aproveitar o buffet já pago!
 
 ### 21:00 – 23:00 • Descanso final e preparação
 

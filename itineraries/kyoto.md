@@ -35,35 +35,44 @@
 
 ### 11:00 – 13:00 • Viagem e chegada em Kyoto
 
-### 13:00 – 15:00 • Check-in no Mercure Kyoto + COMPRA SHINKANSEN! 🎫
+### 13:00 – 15:00 • Check-in no Mercure Kyoto + COMPRA THUNDERBIRD! 🎫
 
 <details>
-<summary>Detalhes</summary>
+<summary>Detalhes da compra</summary>
 
 - **13:00** - Check-in oficial
 - **13:30** - Deixar malas, refresh rápido
-- **14:00** - **URGENTE:** Ir a Kyoto Station comprar bilhetes para Nagano (dia 17)
+- **14:00** - Ir a Kyoto Station comprar Thunderbird para dia 17
 
-**🚨 POR QUE COMPRAR HOJE:**
-- Dezembro = alta temporada
-- Comprando 3 dias antes = assentos reservados JUNTOS garantidos
-- Evita risco de ficar sem assento ou separados no dia 17
+**🎫 ESTRATÉGIA HÍBRIDA (Economia ¥8,600!):**
+1. **Comprar NA ESTAÇÃO HOJE:**
+   - Kyoto → Tsuruga (Thunderbird 27)
+   - Saída: 13:40 | Chegada: 14:33
+   - Custo: ¥6,840 (2 pessoas)
+
+2. **JÁ COMPRADO NO KLOOK:**
+   - Tsuruga → Nagano (Kagayaki 510)
+   - Saída: 15:04 | Chegada: 17:03
+   - Custo: $157.70 (já pago)
 
 **📍 ONDE COMPRAR:**
 - Kyoto Station - JR Ticket Office (balcão JR West)
+- Procurar "Midori no Madoguchi" (みどりの窓口)
 - Fica a 15min do hotel
 
 **🗣️ O QUE FALAR:**
-> "Kyoto to Nagano via Fukui, December 17th, morning departure around 6:30-7:00, two passengers together, reserved seats ordinary car please"
+> "Thunderbird 27, Kyoto to Tsuruga, December 17th, 13:40 departure, two passengers, reserved seats please. **隣同士でお願いします** (tonari doushi de onegaishimasu - assentos juntos)"
 
 **✅ CONFERIR:**
-- Assentos lado a lado (side by side/together)
-- Horário manhã (~06:30 saída)
-- 2 bilhetes: Thunderbird + Kagayaki
-- Custo: ~¥16,000-18,000 (2 pessoas)
+- Train: Thunderbird 27
+- Date: 17/12/2025
+- Time: 13:40 Kyoto → 14:33 Tsuruga
+- 2 assentos lado a lado
+- Preferência: lado de 2 assentos (melhor para casal)
 
-**⏰ TEMPO TOTAL:** 30-45min
-**🕐 RETORNO:** 15:00 ao hotel para seguir roteiro
+**💰 CUSTO:** ¥6,840 (2 pessoas)
+**⏰ TEMPO:** 20-30min no balcão
+**🕐 RETORNO:** 15:00 ao hotel
 
 </details>
 
@@ -489,51 +498,55 @@
 
 </details>
 
-### 13:00 – 17:54 • Viagem para Nagano (VIA TSURUGA) 🚅
+### 13:00 – 17:03 • Viagem para Nagano (VIA TSURUGA) 🚅
 
-- **🚅 Transporte:** Thunderbird + Hokuriku Shinkansen | ~4h-5h | **¥33,000-35,000 (2 pessoas)**
+- **🚅 Transporte:** Thunderbird 27 + Kagayaki 510 | 3h23min | **$204.70 (¥29,740)**
 - **🛄 Bagagem:** YAMATO enviou - viaje SÓ COM MOCHILA!
 
 <details>
-<summary>ROTA COMPLETA - COMPRADO DIA 14/12</summary>
+<summary>ROTA COMPLETA - Híbrido Klook + Estação</summary>
 
-**🎫 O QUE VOCÊ JÁ COMPROU:**
+**🎫 ESTRATÉGIA (Economia ¥8,600 vs comprar tudo na estação!):**
 
-**No Klook (AGORA):**
-- Tsuruga → Nagano
-- Kagayaki 510 (15:04 → 17:03) OU Kagayaki 512 (16:04 → 17:54)
-- 2 assentos reservados lado a lado GARANTIDOS
-- $78.85-80.15/pessoa
+**1. JÁ COMPRADO NO KLOOK:**
+- Tsuruga → Nagano (Kagayaki 510)
+- Saída: 15:04 | Chegada: 17:03
+- Custo: $157.70 (¥22,900) - 2 pessoas
+- Assentos: Best effort juntos (lado 2: D-E ideal casal)
 
-**Na estação dia 14/12:**
-- Kyoto → Tsuruga
-- Thunderbird ~13:00
-- 2 assentos reservados lado a lado
-- ~¥10,000 (2 pessoas)
+**2. COMPRADO NA ESTAÇÃO DIA 14:**
+- Kyoto → Tsuruga (Thunderbird 27)
+- Saída: 13:40 | Chegada: 14:33
+- Custo: ¥6,840 (2 pessoas)
+- Assentos: Juntos garantidos (pedido "隣同士")
 
-**PASSO A PASSO DIA 17:**
+**📍 PASSO A PASSO DIA 17:**
 
-1. **13:00** - Chegar Kyoto Station
-2. **13:15** - Embarcar Thunderbird Kyoto → Tsuruga (~2h)
-3. **15:00** - Chegar Tsuruga, trocar de plataforma (10-15min)
-4. **15:04 ou 16:04** - Embarcar Kagayaki Tsuruga → Nagano
-5. **17:03 ou 17:54** - Chegar Nagano! 🎉
+1. **13:20** - Chegar Kyoto Station (20min antes)
+2. **13:40** - **Thunderbird 27** | Kyoto → Tsuruga (53min)
+3. **14:33** - Chegar Tsuruga
+4. **14:33-15:04** - Conexão 31min (trocar plataforma, banheiro, retirar bilhete Klook)
+5. **15:04** - **Kagayaki 510** | Tsuruga → Nagano (1h59min)
+6. **17:03** - Chegar Nagano! 🎉
 
-**💰 Custo total:** ~¥33,000-35,000 (2 pessoas)
-**⏱️ Tempo total:** ~4h-5h (incluindo baldeação)
+**💰 CUSTO TOTAL:** $204.70 (~¥29,740 / R$1,120)
+**⏱️ TEMPO TOTAL:** 3h23min (13:40-17:03)
 
 **✅ VANTAGENS:**
-- Sono adequado (dormiu ~7-8h)
+- Economiza ¥8,600 vs comprar tudo na estação
 - Manhã livre em Kyoto
-- Assentos juntos GARANTIDOS
-- Menos estresse
+- Thunderbird: assentos juntos garantidos
+- Chegada 17:03 = tempo para 2 jantares no hotel! 😄
 
 **📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
 </details>
 
-### 17:03-17:54 • Chegada em Nagano
+### 17:03 • Chegada em Nagano
 
+- Check-in ~17:30
+- **Jantar 1:** 18:00-19:30
+- **Jantar 2:** 20:00-21:00 (last entry 20:30) ✅
 - Ver roteiro completo em [nagano.md](./nagano.md)
 
 ---
