@@ -290,7 +290,7 @@
 
 </details>
 
-### 10:00 – 11:30 • Última exploração Nagano OU continuar descansando
+### 10:00 – 11:15 • Última exploração Nagano OU continuar descansando
 
 <details>
 <summary>Opções</summary>
@@ -298,56 +298,74 @@
 **Se quiser explorar mais:**
 - Compras de última hora
 - Cafés próximos ao hotel
+- Konbini para comprar bento vegano para a viagem (IMPORTANTE!)
 - Última caminhada pela cidade
 
 **Se quiser almoçar:**
 - Snack rápido em café local
-- Konbini para viagem
+- **Comprar bento no konbini** (não haverá tempo na estação!)
 
 **Se quiser descansar:**
 - Continue no hotel
 - Prepare-se mentalmente para Tokyo
 - Organize mochila
+- **Comprar bento no konbini antes de voltar** (fica perto do hotel)
+
+**⚠️ IMPORTANTE:** Compre comida ANTES de voltar ao hotel! Não haverá tempo na estação (só 6 min).
 
 </details>
 
-### 11:30 – 12:00 • Yamato + Check-out
+### 11:15 – 11:45 • Yamato + Check-out
 
 <details>
 <summary>Detalhes</summary>
 
-- **11:30** - Recepção: solicitar Yamato para enviar malas a Tokyo
-- **11:45** - Check-out do Mercure Nagano (14:00 late checkout - benefício Gold Accor)
-- **12:00** - Sair do hotel com mochila
+- **11:15** - Recepção: solicitar Yamato para enviar malas a Tokyo
+- **11:30** - Check-out do Mercure Nagano (14:00 late checkout - benefício Gold Accor)
+- **11:45** - Sair do hotel com mochila
 
 **💡 Yamato:** Malas chegam no hotel em Tokyo no mesmo dia/dia seguinte.
-**💡 Late checkout:** Benefício ALL Gold permite checkout até 14h, mas saindo 12h para pegar trem.
+**💡 Late checkout:** Benefício ALL Gold permite checkout até 14h, mas saindo 11:45h para pegar trem.
 
 </details>
 
-### 12:00 – 12:10 • Deslocamento hotel → Nagano Station
+### 11:45 – 12:25 • Deslocamento hotel → Nagano Station (40 min)
 
 <details>
-<summary>Tempo de deslocamento</summary>
+<summary>Tempo de deslocamento REAL</summary>
 
-- **08 min:** Caminhar até ponto de ônibus
-- **34 min:** Matsushiro Line até Nagano Station
-- **Total:** 42 minutos
-- **Sair 12:00** para chegar confortavelmente antes do trem 12:26
+**TIMELINE COMPLETA:**
+- **11:45** - Sair do Mercure Nagano Matsushiro Resort
+- **11:45-11:53** - Caminhar até parada Kandabashi (8 min, 500m)
+- **11:53-12:19** - **Matsushiro Line** ônibus (26 min, 17 paradas) | **¥570**
+  - Sai: Kandabashi
+  - Chega: Nagano Station
+- **12:19-12:20** - Caminhar da parada até entrada estação (1 min, 76m)
+- **12:20** - **Chegada Nagano Station**
+
+**💡 Custo:** ¥570 por pessoa (¥1,140 total casal)
+**☎️ Informações:** Alpico Kotsu - +81 570-007-039
+
+**⚠️ IMPORTANTE:** Sair 11:45 do hotel = chegar 12:20 estação = só 6 min antes do trem!
 
 </details>
 
-### 12:10 – 12:26 • Na estação: preparação embarque
+### 12:20 – 12:26 • Na estação: preparação embarque RÁPIDA
 
 <details>
-<summary>O que fazer</summary>
+<summary>ATENÇÃO: Apenas 6 minutos!</summary>
 
-- **12:10:** Chegar na estação
-- **12:10-12:15:** Encontrar plataforma do shinkansen
-- **12:15-12:20:** Comprar bento vegano rápido (se quiser)
-- **12:20-12:26:** Validar bilhete Klook, embarcar
+- **12:20:** Chegar Nagano Station (vindo de Matsushiro Line)
+- **12:20-12:22:** Encontrar plataforma do shinkansen (RÁPIDO!)
+- **12:22-12:25:** Retirar bilhete físico Klook nas máquinas ou balcão JR
+- **12:25-12:26:** Embarcar no Hakutaka 560
 
-**💡 Bilhete Klook:** Retirar bilhete físico nas máquinas ou balcão JR
+**⚠️ SEM TEMPO PARA:**
+- Comprar bento (fazer isso antes no konbini perto do hotel)
+- Souvenirs de última hora
+- Explorar a estação
+
+**💡 Bilhete Klook:** Tenha voucher pronto no celular para agilizar retirada
 
 </details>
 
@@ -398,9 +416,10 @@
 |-----------|-------|
 | **Snow Monkey Pass** | ¥8,000 (2 pessoas) |
 | **Onsen ryokan Korakukan** | ¥2,400 (2 pessoas) |
+| **Matsushiro Line** (hotel→estação dia 19) | ¥1,140 (2 pessoas) |
 | **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
 | **Shinkansen Nagano→Tokyo** | $116.10 (~¥16,860 total, 2 pessoas) |
-| **TOTAL** | **~R$1,040-1,180** |
+| **TOTAL** | **~R$1,080-1,220** |
 
 **💡 Hotel buffet incluso:** 2 cafés da manhã + 2 jantares cobertos!
 
