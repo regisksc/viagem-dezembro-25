@@ -16,31 +16,45 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo do dia:** Chegada de Nagano (13:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
+**📋 Resumo do dia:** Chegada de Nagano (13:52 ou 14:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
 
-### 13:52 – 14:30 • Chegada em Tokyo e deslocamento para hotel
+### 13:52 ou 14:52 • Chegada em Tokyo Station
 
 <details>
-<summary>Detalhes</summary>
+<summary>2 opções de horário de chegada</summary>
 
-- **13:52:** Chegada Tokyo Station (Hokuriku Shinkansen Hakutaka 560 de Nagano)
-- **14:00:** Sair da estação
-- **14:10:** Pegar metrô/trem para Ginza (10-15min)
-- **14:25:** Chegar área do hotel
+**OPÇÃO 1 - Chegada 13:52 (Hakutaka 560):**
+- Timing apertado em Nagano (só 6 min na estação)
+- Chega mais cedo em Tokyo
+- Custo: $116.10 total
+
+**OPÇÃO 2 - Chegada 14:52 (Hakutaka 562) ✅ RECOMENDADO:**
+- 1 hora de folga em Nagano Station
+- Tempo para bento, souvenirs, sem estresse
+- Mais barato: $108.10 total
+- **Esta é a opção mais tranquila!**
 
 **🛄 Malas:** Enviadas via Yamato de Nagano, você só tem mochila!
 
 </details>
 
-### 14:30 – 15:00 • Check-in Ibis Styles Tokyo Ginza
+### 14:00-15:00 ou 15:00-16:00 • Deslocamento + Check-in Ibis Styles Tokyo Ginza
 
 <details>
-<summary>Detalhes</summary>
+<summary>Detalhes por opção</summary>
 
-- **Check-in:** 15:00 oficial
-- Deixar mochila no quarto
-- Refresh rápido
-- **Malas grandes:** Chegam via Yamato ainda hoje ou amanhã
+**Se chegou 13:52 (Opção 1):**
+- **13:52-14:00:** Sair da Tokyo Station
+- **14:00-14:15:** Metrô/trem para Ginza (10-15min)
+- **14:15-15:00:** Check-in e refresh no hotel
+
+**Se chegou 14:52 (Opção 2):**
+- **14:52-15:00:** Sair da Tokyo Station
+- **15:00-15:15:** Metrô/trem para Ginza (10-15min)
+- **15:15-16:00:** Check-in e refresh no hotel
+
+**💡 Check-in:** 15:00 oficial (flexível)
+**Malas grandes:** Chegam via Yamato ainda hoje ou amanhã
 
 </details>
 

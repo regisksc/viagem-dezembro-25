@@ -257,7 +257,11 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - MANHÃ LIVRE + PARTIDA TOKYO
 
-**📋 Resumo do dia:** Manhã TRANQUILA em Nagano | Café completo | Descanso | Última exploração | Shinkansen 12:26 → Tokyo 13:52
+**📋 Resumo do dia:** Manhã TRANQUILA em Nagano | Café completo | Descanso | Última exploração | Shinkansen 12:26 ou 13:23 → Tokyo
+
+**🚅 Escolha seu horário:**
+- **Opção 1:** Hakutaka 560 (12:26→13:52) - timing apertado, 6 min na estação
+- **Opção 2:** Hakutaka 562 (13:23→14:52) - ✅ RECOMENDADO (1h de folga, mais barato!)
 
 ### 07:00 – 08:00 • Café da manhã COMPLETO e tranquilo
 
@@ -369,7 +373,7 @@
 
 </details>
 
-### 12:26 – 13:52 • Viagem para Tokyo
+### 12:26 – 13:52 • Viagem para Tokyo ⭐ OPÇÃO 1 (APERTADO)
 
 - **🚅 Transporte:** Hokuriku Shinkansen **Hakutaka 560** (Nagano → Tokyo Station)
 - **⏰ Horários:** Saída 12:26 | Chegada 13:52 | Duração 1h26m
@@ -378,9 +382,9 @@
 - **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
 
 <details>
-<summary>Detalhes do bilhete Klook</summary>
+<summary>⚠️ Timing apertado - só 6 min na estação!</summary>
 
-**COMPRE AGORA antes da viagem no Klook:**
+**COMPRE no Klook antes da viagem:**
 - Train: Hakutaka 560
 - Origin: Nagano
 - Destination: Tokyo Station
@@ -390,21 +394,65 @@
 - Seat: Reserved Ordinary
 - Fare: $58.05/pessoa
 
-**✅ POR QUE ESSE HORÁRIO:**
-- Manhã tranquila em Nagano após dia intenso Snow Monkey
-- Café da manhã completo no hotel (07:00-08:00)
-- Descanso pós-viagem intensa (08:00-10:00)
-- Tempo para última exploração ou continuar relaxando (10:00-11:30)
-- Late checkout benefício Gold (até 14h, mas saindo 12h)
-- Chega Tokyo 13:52 = tempo para check-in e atividades tarde
-- Assentos juntos GARANTIDOS (compra antecipada)
+**⚠️ ATENÇÃO:**
+- Chega estação 12:20, trem sai 12:26 = apenas 6 minutos
+- Timing MUITO apertado para retirar bilhete + embarcar
+- **Se houver qualquer atraso no ônibus Matsushiro, você perde o trem!**
+
+**✅ VANTAGENS:**
+- Chega Tokyo 13:52 (mais tempo tarde em Tokyo)
+- Mais barato ($58.05 vs outras opções)
+
+</details>
+
+---
+
+### 13:23 – 14:52 • Viagem para Tokyo ✅ OPÇÃO 2 (RECOMENDADO - FOLGA!)
+
+- **🚅 Transporte:** Hokuriku Shinkansen **Hakutaka 562** (Nagano → Tokyo Station)
+- **⏰ Horários:** Saída 13:23 | Chegada 14:52 | Duração 1h29m
+- **💰 Custo:** $54.05/pessoa (~¥7,850) = **$108.10 total (2 pessoas)**
+- **🎫 Compra:** Klook (comprar ANTES da viagem)
+- **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
+
+<details>
+<summary>✅ RECOMENDADO: 1 hora de folga na estação!</summary>
+
+**COMPRE no Klook antes da viagem:**
+- Train: Hakutaka 562
+- Origin: Nagano
+- Destination: Tokyo Station
+- Departure: 13:23
+- Arrival: 14:52
+- Duration: 1h29m
+- Seat: Reserved Ordinary
+- Fare: $54.05/pessoa
+
+**✅ VANTAGENS:**
+- Chega estação 12:20, trem sai 13:23 = **1 HORA de folga!**
+- Tempo para: retirar bilhete, comprar bento, souvenirs, ir ao banheiro
+- **Mais barato!** Economiza $8 ($54.05 vs $58.05)
+- Segurança se ônibus atrasar
+- Menos estresse
+
+**Timeline ajustada:**
+- 11:45: Sair hotel
+- 12:20: Chegar estação (1h antes!)
+- 12:20-12:40: Retirar bilhete Klook, encontrar plataforma
+- 12:40-13:00: Comprar bento vegano na estação
+- 13:00-13:20: Souvenirs, banheiro, relaxar
+- 13:20-13:23: Embarcar tranquilamente
+- 13:23-14:52: Viagem (1h29m)
+- 14:52: Chegar Tokyo
 
 **📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
 </details>
 
-### 13:52 • Chegada em Tokyo Station
+### 13:52 ou 14:52 • Chegada em Tokyo Station
 
+- **Opção 1:** 13:52 (Hakutaka 560 - timing apertado)
+- **Opção 2:** 14:52 (Hakutaka 562 - recomendado, 1h de folga)
 - **Próximo:** Check-in hotel Ginza
 - Ver roteiro completo em [tokyo.md](./tokyo.md)
 
@@ -418,8 +466,12 @@
 | **Onsen ryokan Korakukan** | ¥2,400 (2 pessoas) |
 | **Matsushiro Line** (hotel→estação dia 19) | ¥1,140 (2 pessoas) |
 | **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
-| **Shinkansen Nagano→Tokyo** | $116.10 (~¥16,860 total, 2 pessoas) |
-| **TOTAL** | **~R$1,080-1,220** |
+| **Shinkansen Nagano→Tokyo** | $108.10-116.10 (~¥15,700-16,860, 2 pessoas) |
+| **TOTAL** | **~R$1,050-1,220** |
+
+**💡 Shinkansen Nagano→Tokyo:**
+- Opção 1 (12:26): $116.10 total - timing apertado (6 min na estação)
+- **Opção 2 (13:23): $108.10 total - RECOMENDADO (1h de folga, mais barato!)**
 
 **💡 Hotel buffet incluso:** 2 cafés da manhã + 2 jantares cobertos!
 
