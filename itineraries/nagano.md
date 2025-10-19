@@ -249,17 +249,19 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - ZENKO-JI ESPIRITUAL + PARTIDA
 
-**📋 Resumo do dia:** Zenko-Ji espiritual (6:30-9:00) | Bênção matinal + Kaidan Meguri | Jejum | Shinkansen Tokyo
+**📋 Resumo do dia:** Zenko-Ji espiritual (6:30-8:45) | Café completo | Descanso | Exploração | Shinkansen 14:26 → Tokyo
 
-### 06:30 – 09:00 • Zenko-Ji Temple - Experiência Espiritual Completa ⛩️
+### 06:30 – 08:45 • Zenko-Ji Temple - Experiência Espiritual Completa ⛩️
 
-**Horário otimizado para experiência máxima:**
+**Horário otimizado para experiência + café da manhã:**
 
 - **6:30-7:00:** Chegada e exploração (templo vazio, luz matinal)
 - **7:00-7:30:** Cerimônia de bênçãos matinais (O-Asaji)
 - **7:30-8:00:** Ritual Kaidan Meguri (jejum espiritual)
-- **8:00-8:30:** Exploração arquitetura + fotos
-- **8:30-9:00:** Preparação para partida
+- **8:00-8:30:** Exploração arquitetura + fotos + ficar um pouco
+- **8:30-8:45:** Preparação para partida e voltar ao hotel
+
+**⚠️ CRÍTICO: Sair do templo 8:45 para pegar last entry buffet (9:00)!**
 
 - **🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
 - **Custo transporte:** Incluso no Snow Monkey Pass
@@ -298,42 +300,44 @@
 
 </details>
 
-### 09:00 – 09:15 • Retorno ao hotel
+### 08:45 – 09:00 • Retorno ao hotel
 
 - **🚌 Transporte:** Mesmo ônibus que foi (Snow Monkey Pass)
 - **Duração:** ~15 minutos
+- **URGENTE:** Precisa chegar 9:00 para pegar last entry buffet!
 
-### 09:15 – 10:00 • Café da manhã TRANQUILO no hotel
+### 09:00 – 09:45 • Café da manhã COMPLETO no hotel ✅
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
 - **APÓS RITUAL JEJUM:** Refeição espiritual importante e tranquila
-- ⚠️ Você chegou 9:15 mas buffet aceita até 9:30
+- ✅ Chegou exatamente no last entry (9:00)!
+- Buffet serve até 9:30, você tem 30min tranquilos
 - Aproveite essa refeição sem pressa!
 
-### 10:00 – 11:00 • Descanso pós-Zenko-ji
+### 09:45 – 10:30 • Descanso pós-Zenko-ji
 
 <details>
 <summary>Por que descansar?</summary>
 
 **Experiência espiritual intensa:**
-- Acordou 06:00 (5 horas atrás)
-- Jejum até agora
+- Acordou 06:00 (3h45 atrás)
+- Jejum até há pouco
 - Ritual no escuro
 - Caminhada
 - Refeição pesada após jejum
 
 **Opções de descanso:**
 - Voltar ao quarto, relaxar
-- Onsen do hotel
+- Onsen do hotel rapidinho
 - Organizar malas com calma
 - Processar experiência espiritual
 
-**💡 Você tem TARDE em Nagano ainda!**
+**💡 "Poucos minutos" como você quer - 45min perfeito!**
 
 </details>
 
-### 11:00 – 12:00 • Última exploração de Nagano OU almoço
+### 10:30 – 12:00 • Última exploração de Nagano OU almoço
 
 <details>
 <summary>Opções</summary>
@@ -419,11 +423,11 @@
 - Assentos juntos GARANTIDOS (compra agora)
 
 **TIMELINE DIA 19 COM ESSE HORÁRIO:**
-- 06:30-09:00: Zenko-ji tranquilo
-- 09:15-10:00: Café da manhã SEM PRESSA
-- 10:00-11:00: DESCANSO após experiência espiritual
-- 11:00-12:00: Última exploração Nagano OU almoço
-- 12:00-13:00: Yamato + check-out TRANQUILO
+- 06:30-08:45: Zenko-ji completo (sai 8:45 para pegar buffet!)
+- 09:00-09:45: Café da manhã COMPLETO (pega last entry 9:00)
+- 09:45-10:30: DESCANSO poucos minutos como você quer
+- 10:30-12:00: Última exploração Nagano OU almoço
+- 12:00-13:00: Yamato + check-out + organizar
 - 13:42: Chega estação (44min de margem)
 - 14:26: Embarque shinkansen
 - 15:52: Chega Tokyo
