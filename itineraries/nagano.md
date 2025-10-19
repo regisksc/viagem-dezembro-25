@@ -33,33 +33,38 @@
 
 </details>
 
-### 18:30 – 19:00 • Exploração rápida ao redor do hotel OU descanso
+### 18:30 – 19:30 • Descanso no hotel
 
 <details>
-<summary>Opções</summary>
+<summary>Depois de viagem longa, DESCANSE!</summary>
 
-**Se estiver com energia:**
-- Caminhar 5min ao redor do hotel
-- Konbini próximo para comprar snacks/água
+**Você viajou 4-5h de Kyoto:**
+- Cansado da viagem
+- Quer relaxar antes do jantar
+- Amanhã é dia MUITO intenso (Snow Monkey 6h-17h)
 
-**Se estiver cansado:**
-- Descansar no quarto
-- Aproveitar onsen do hotel (se tiver)
-- Ir direto para jantar
+**Opções:**
+- Onsen do hotel (relaxamento perfeito!)
+- Quarto (cochilar, Netflix, organizar malas)
+- Konbini rápido (5min) se precisar snacks/água
+
+**💡 Prioridade:** DESCANSAR para dia intenso amanhã
 
 </details>
 
-### 19:00 – 20:30 • Jantar no hotel (buffet)
+### 19:30 – 21:00 • Jantar no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
 - Primeira refeição em Nagano!
+- Jantar tranquilo sem pressa
 
-### 20:30 – 23:00 • Retorno ao hotel e descanso
+### 21:00 – 23:00 • Descanso final e preparação
 
-- **Onsen do hotel:** Aproveitar instalações térmicas do Mercure (incluído na diária)
-- Preparar para dia INTENSO amanhã
-- Organizar roupa para neve/frio
+- **Onsen pós-jantar** se não fez antes
+- Organizar roupa para neve/frio (amanhã é COLD!)
+- Preparar mochila para Snow Monkey
+- Dormir cedo se possível (call 23:30...)
 
 ### 23:30 – 01:00+ • Trabalho remoto LONGO (10:30 EST quinta = 00:30 JST sexta)
 
@@ -247,144 +252,42 @@
 
 ---
 
-## Sexta-feira, 19 de dezembro de 2025 - ZENKO-JI ESPIRITUAL + PARTIDA
+## Sexta-feira, 19 de dezembro de 2025 - MANHÃ LIVRE + PARTIDA TOKYO
 
-**📋 Resumo do dia:** Zenko-Ji espiritual (6:30-8:15 OU 9:00) | Decisão: buffet corrido OU almoço tranquilo | Shinkansen 14:26 → Tokyo
+**📋 Resumo do dia:** Manhã TRANQUILA em Nagano | Café completo | Descanso | Última exploração | Shinkansen 14:26 → Tokyo
 
-**⚠️ DILEMA DO DIA:** Buffet hotel (incluso) CONFLITA com timing do Zenko-ji! Veja opções abaixo.
-
-### 06:30 – 08:15 • Zenko-Ji Temple - Experiência Espiritual Completa ⛩️
-
-**Horário otimizado para experiência + VOLTAR A TEMPO pro buffet:**
-
-- **6:30-7:00:** Chegada e exploração (templo vazio, luz matinal)
-- **7:00-7:30:** Cerimônia de bênçãos matinais (O-Asaji)
-- **7:30-8:00:** Ritual Kaidan Meguri (jejum espiritual)
-- **8:00-8:15:** Exploração arquitetura + fotos (resumido por causa do buffet)
-
-**⚠️ CRÍTICO: Sair do templo 8:15 SHARP para pegar last entry buffet (9:00)!**
-
-**Por que tão cedo?**
-- Zenko-ji → Hotel = ~30-40min REAIS
-- Ônibus: 20-25min
-- Caminhada até ponto + espera: 5-10min
-- Caminhada ponto → hotel: 5-10min
-- **Total: ~35-45min**
-- Margem de segurança para pegar 9:00!
-
-- **🚌 Transporte:** Ônibus local Nagaden (USANDO SNOW MONKEY PASS!)
-- **Custo transporte:** Incluso no Snow Monkey Pass
-- **Entrada:** ¥500 (~R$ 18 / $3.50 USD)
-- **Ritual Kaidan Meguri:** ¥300 por pessoa
-- **Horário templo:** 9:00-16:00 (dezembro)
-
-<details>
-<summary>⛩️ Experiência matinal espiritual</summary>
-
-**Horário otimizado:** 6:30-7:00 chegada, 7:00 bênçãos, 8:30 ritual
-**JEJUM ESPIRITUAL:** Tradição budista - experiência mais intensa
-**Por que matinal:** Menos turistas, luz matinal, jejum tradicional
-
-</details>
-
-<details>
-<summary>🔑 Ritual Kaidan Meguri - Guia Detalhado</summary>
-
-1. **Pagamento:** ¥300 na recepção (além entrada templo)
-2. **Preparação:** Tirar sapatos, pegar vela apagada como guia
-3. **Entrada:** Túnel completamente escuro (30m subterrâneo)
-4. **Experiência:** Tatear parede esquerda procurando "chave do paraíso"
-5. **Duração:** 10-15 minutos de meditação no escuro total
-6. **Significado:** Quem encontra a chave ganha acesso espiritual ao paraíso
-
-</details>
-
-<details>
-<summary>💡 Dicas práticas</summary>
-
-- **Chegar 8:30:** Ser dos primeiros para o ritual
-- **ROUPA:** Confortável para ficar de joelhos/ajoelhado
-- **Mente aberta:** Experiência sensorial e espiritual única
-- **Fotos:** Apenas nas áreas externas (respeitar santidade)
-
-</details>
-
-### 08:15 – 08:55 • Retorno CORRENDO ao hotel
-
-- **🚌 Transporte:** Ônibus local Nagaden (Snow Monkey Pass)
-- **Tempo REAL:**
-  - Caminhar até ponto de ônibus: 5min
-  - Esperar ônibus: 5-10min
-  - Ônibus até centro: 20-25min
-  - Caminhar até hotel: 5-10min
-  - **Total: 35-50min**
-- **⚠️ MUITO APERTADO:** Sai 8:15, chega ~8:50-9:00
-- **URGENTE:** Precisa chegar 9:00 para pegar last entry buffet!
-
-### 08:55-09:00 – 09:30 • Café da manhã RÁPIDO no hotel ⚠️
+### 07:00 – 08:00 • Café da manhã COMPLETO e tranquilo
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
-- **APÓS RITUAL JEJUM:** Refeição espiritual importante
-- ⚠️ Chegou correndo no last entry (8:55-9:00)!
-- Buffet serve até 9:30, você tem 30-35min
-- **Problema:** Vai comer MEIO CORRIDO após experiência espiritual 😕
+- **Refeição importante:**
+  - Ontem foi dia MUITO intenso (Snow Monkey)
+  - Você merece café TRANQUILO
+  - Sem pressa, sem correria
+  - Aproveite o buffet já pago!
 
-### 🤔 ALTERNATIVA: Pular buffet e almoçar depois?
-
-<details>
-<summary>Opção sem estresse</summary>
-
-**Se o timing está muito apertado:**
-- Pule o buffet do hotel
-- Volte tranquilo do Zenko-ji (09:30-10:00)
-- Almoce em restaurante vegano em Nagano (10:30-12:00)
-- Mais tempo no templo (ficar até 8:45-9:00)
-- Experiência espiritual SEM pressa
-- Refeição pós-jejum TRANQUILA em restaurante
-
-**Desvantagem:** Perde buffet já pago (incluído na diária)
-
-</details>
-
-### 09:30 – 10:30 • Descanso pós-Zenko-ji (SE FEZ OPÇÃO A - buffet)
+### 08:00 – 10:00 • Descanso pós-Snow Monkey
 
 <details>
-<summary>Se escolheu buffet corrido</summary>
+<summary>Por que descansar?</summary>
 
-**Experiência intensa:**
+**Dia anterior foi MUITO intenso:**
 - Acordou 06:00
-- Zenko-ji CORRIDO (saiu 8:15)
-- Retorno CORRIDO
-- Café RÁPIDO
-- Cansado!
+- Snow Monkey Park (caminhada 1.6km neve)
+- Onsen com macacos
+- Muito cansativo!
 
 **Opções de descanso:**
-- Voltar ao quarto, relaxar
-- Onsen do hotel rapidinho
-- Organizar malas
-- Processar experiência (que foi meio corrida 😕)
+- **Onsen do hotel:** Relaxar músculos após caminhada
+- **Quarto:** Cochilar, relaxar, processar experiência
+- **Organizar malas:** Com calma, sem estresse
+- **Netflix, livro, nada:** Você merece!
+
+**💡 Você tem 4+ DIAS em Tokyo - não precisa correr!**
 
 </details>
 
-### 10:00 – 10:30 • Descanso (SE FEZ OPÇÃO B - pular buffet)
-
-<details>
-<summary>Se pulou buffet para fazer Zenko-ji tranquilo</summary>
-
-**Melhor experiência:**
-- Zenko-ji TRANQUILO (ficou até 9:00)
-- Retorno SEM pressa
-- Agora descansa antes do almoço
-
-**Opções:**
-- Quarto
-- Onsen
-- Organizar malas
-
-</details>
-
-### 10:30 – 12:00 • Almoço em restaurante OU última exploração
+### 10:00 – 12:00 • Última exploração Nagano OU continuar descansando
 
 <details>
 <summary>Opções</summary>

@@ -1493,10 +1493,11 @@
         }
       ],
       "activities": [
-        { "name": "Templo Zenko-ji", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "na hora" },
-        { "name": "Parque dos Macacos Jigokudani", "ticket_required": true, "price": "¥ 800 (~R$ 576)", "advance_booking": "1-2 dias" },
-        { "name": "Passeio por onsen em Yudanaka ou Shibu", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "1 semana" },
-        { "name": "Explorar montanhas e neve (dependendo do clima)", "ticket_required": false, "price": 0, "advance_booking": null }
+        { "name": "Parque dos Macacos Jigokudani", "ticket_required": true, "price": "¥ 800 (~R$ 576)", "advance_booking": "1-2 dias", "status": "included" },
+        { "name": "Onsen no Ryokan Korakukan (com macacos)", "ticket_required": true, "price": "¥ 2,400 (2 pessoas)", "advance_booking": "não necessário", "status": "included" },
+        { "name": "Snow Monkey Pass", "ticket_required": true, "price": "¥ 8,000 (2 pessoas)", "advance_booking": "comprar na estação", "status": "included" },
+        { "name": "Templo Zenko-ji", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "na hora", "status": "removed_from_itinerary", "reason": "Conflito de tempo com café da manhã do hotel e deslocamento muito longo (53min cada trajeto). Removido após análise de viabilidade." },
+        { "name": "Explorar montanhas e neve (dependendo do clima)", "ticket_required": false, "price": 0, "advance_booking": null, "status": "flexible" }
       ]
     },
     {
