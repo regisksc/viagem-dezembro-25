@@ -16,7 +16,33 @@
 
 ## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo do dia:** Chegada de Nagano | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
+**📋 Resumo do dia:** Chegada de Nagano (13:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
+
+### 13:52 – 14:30 • Chegada em Tokyo e deslocamento para hotel
+
+<details>
+<summary>Detalhes</summary>
+
+- **13:52:** Chegada Tokyo Station (Hokuriku Shinkansen Hakutaka 560 de Nagano)
+- **14:00:** Sair da estação
+- **14:10:** Pegar metrô/trem para Ginza (10-15min)
+- **14:25:** Chegar área do hotel
+
+**🛄 Malas:** Enviadas via Yamato de Nagano, você só tem mochila!
+
+</details>
+
+### 14:30 – 15:00 • Check-in Ibis Styles Tokyo Ginza
+
+<details>
+<summary>Detalhes</summary>
+
+- **Check-in:** 15:00 oficial
+- Deixar mochila no quarto
+- Refresh rápido
+- **Malas grandes:** Chegam via Yamato ainda hoje ou amanhã
+
+</details>
 
 ### 15:00 – 17:00 • Shibuya Crossing e Hachiko
 - **Entrada:** FREE
