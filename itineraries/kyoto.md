@@ -438,64 +438,97 @@
 
 ---
 
-## Quarta-feira, 17 de dezembro de 2025 - VIAGEM PARA NAGANO
+## Quarta-feira, 17 de dezembro de 2025 - MANHÃ LIVRE + VIAGEM TARDE
 
-**📋 Resumo do dia:** Saída MUITO CEDO | Yamato malas | Viagem Kyoto → Nagano via Fukui | Chegada ~10:40
+**📋 Resumo do dia:** Manhã livre em Kyoto | Almoço | Yamato malas | Viagem Kyoto → Nagano via Tsuruga (tarde) | Chegada 17:03-17:54
 
-### 04:30 – 05:00 • Yamato + Check-out antecipado
+### 07:00 – 08:00 • Café da manhã no hotel
+
+- Última manhã em Kyoto, aproveite!
+
+### 08:00 – 11:00 • Últimas compras e experiências em Kyoto
+
+<details>
+<summary>Sugestões de atividades matinais</summary>
+
+**Opções próximas ao hotel:**
+- **Nishiki Market:** Última visita para compras de souvenirs/comida
+- **Gion/Pontocho:** Caminhada matinal pelas ruas históricas
+- **Sanjo Dori:** Compras finais de lembranças
+- **Templos próximos:** Visita rápida que não fez
+
+**💡 Dica:** Mantenha leve, você vai viajar à tarde!
+
+</details>
+
+### 11:00 – 11:30 • Check-out + Yamato
 
 <details>
 <summary>Detalhes</summary>
 
-- **04:30** - Acordar e organizar
-- **04:45** - Recepção: solicitar Yamato para enviar malas a Nagano
-- **05:00** - Check-out antecipado do hotel
+- **11:00** - Check-out do Mercure Kyoto
+- **11:15** - Recepção: solicitar Yamato para enviar malas a Nagano
+- **11:30** - Malas enviadas, você fica só com mochila!
 
-**💡 Por que tão cedo?** Para pegar horário matinal do shinkansen e chegar em Nagano com tempo de aproveitar.
+**💡 Yamato:** Malas chegam hotel Nagano mesmo dia/dia seguinte
 
 </details>
 
-### 05:00 – 10:40 • Viagem para Nagano (VIA FUKUI)
-
-- **🚅 Transporte:** Thunderbird + Hokuriku Shinkansen | ~4h-4h30 | **¥16,000-18,000 (2 pessoas)**
-- **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
+### 11:30 – 13:00 • Almoço em Kyoto
 
 <details>
-<summary>ROTA COMPLETA RECOMENDADA</summary>
+<summary>Opções vegetarianas</summary>
 
-**📍 ATENÇÃO: Compre na estação de Kyoto, NÃO no Klook!**
-- Klook só vende horários da tarde (chegada 17:03-17:54)
-- Você quer chegar cedo em Nagano (~10:40-11:00)
+- **Escolha um restaurante favorito** que conheceu durante os dias em Kyoto
+- Ou explore algum que não deu tempo
+- **Dica:** Próximo a Kyoto Station para facilitar
 
-**PASSO A PASSO:**
+</details>
 
-1. **05:30** - Chegar Kyoto Station
-2. **05:45** - JR Ticket Office: "Kyoto to Nagano via Fukui, two passengers, reserved seats ordinary car please"
-3. **06:30** - Embarcar Thunderbird Kyoto → Fukui (2h)
-4. **08:30** - Chegar Fukui, trocar de plataforma (10-15min)
-5. **09:00** - Embarcar Kagayaki Fukui → Nagano (1h40m)
-6. **10:40** - Chegar Nagano! 🎉
+### 13:00 – 17:54 • Viagem para Nagano (VIA TSURUGA) 🚅
 
-**💰 Custo total:** ~¥16,000-18,000 (2 pessoas)
-**⏱️ Tempo total:** ~4h-4h30 (incluindo baldeação)
+- **🚅 Transporte:** Thunderbird + Hokuriku Shinkansen | ~4h-5h | **¥33,000-35,000 (2 pessoas)**
+- **🛄 Bagagem:** YAMATO enviou - viaje SÓ COM MOCHILA!
 
-**🎫 ALTERNATIVA - Horários da tarde (Klook):**
-Se preferir viajar mais tarde e chegar fim de tarde:
-- 15:22 Fukui → 17:03 Nagano (Kagayaki 510) - $77.85/pessoa
-- 16:22 Fukui → 17:54 Nagano (Kagayaki 512) - $75.19/pessoa
+<details>
+<summary>ROTA COMPLETA - COMPRADO DIA 14/12</summary>
 
-**⚠️ Desvantagem:** Perde tarde/noite em Nagano no dia 17.
+**🎫 O QUE VOCÊ JÁ COMPROU:**
 
-**🍱 PREPARO:**
-- Compre bento vegano na estação antes de embarcar
-- Leve água e snacks
-- Tenha Google Translate pronto
+**No Klook (AGORA):**
+- Tsuruga → Nagano
+- Kagayaki 510 (15:04 → 17:03) OU Kagayaki 512 (16:04 → 17:54)
+- 2 assentos reservados lado a lado GARANTIDOS
+- $78.85-80.15/pessoa
+
+**Na estação dia 14/12:**
+- Kyoto → Tsuruga
+- Thunderbird ~13:00
+- 2 assentos reservados lado a lado
+- ~¥10,000 (2 pessoas)
+
+**PASSO A PASSO DIA 17:**
+
+1. **13:00** - Chegar Kyoto Station
+2. **13:15** - Embarcar Thunderbird Kyoto → Tsuruga (~2h)
+3. **15:00** - Chegar Tsuruga, trocar de plataforma (10-15min)
+4. **15:04 ou 16:04** - Embarcar Kagayaki Tsuruga → Nagano
+5. **17:03 ou 17:54** - Chegar Nagano! 🎉
+
+**💰 Custo total:** ~¥33,000-35,000 (2 pessoas)
+**⏱️ Tempo total:** ~4h-5h (incluindo baldeação)
+
+**✅ VANTAGENS:**
+- Sono adequado (dormiu ~7-8h)
+- Manhã livre em Kyoto
+- Assentos juntos GARANTIDOS
+- Menos estresse
 
 **📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
 </details>
 
-### 10:40 – 11:00 • Chegada em Nagano
+### 17:03-17:54 • Chegada em Nagano
 
 - Ver roteiro completo em [nagano.md](./nagano.md)
 

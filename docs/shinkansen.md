@@ -36,19 +36,47 @@ Existem 2 rotas possíveis (ambas com baldeação):
 
 **Para Kyoto → Nagano (17/12):**
 
-**QUANDO COMPRAR:** Dia 14/12 (assim que chegar em Kyoto)
-- ❌ NÃO espere até dia 17!
-- ✅ Compre 3 dias antes = assentos reservados garantidos juntos
+**🚨 ATENÇÃO: ROTEIRO NÃO PERMITE SAÍDA MATINAL!**
+- Dia 16 à noite: Call de trabalho 23:30-00:30+
+- Dormir ~01:00 (madrugada dia 17)
+- Acordar 04:30 = apenas 3h30 de sono (INVIÁVEL!)
 
-**ONDE:** JR Ticket Office na Kyoto Station
-- Vá no balcão JR West (não máquina)
-- **Fale:** "Kyoto to Nagano via Fukui, December 17th, morning departure around 6:30-7:00, two passengers together, reserved seats ordinary car please"
-- **ENFATIZE:** "Two seats together please" (para sentar lado a lado)
+**✅ SOLUÇÃO: HORÁRIO DA TARDE VIA KLOOK**
 
-**POR QUE NÃO KLOOK:**
-- Klook vende só Fukui → Nagano (parte do trajeto)
-- Você precisaria comprar Kyoto → Fukui separado
-- Complicado coordenar horários de conexão
+**OPÇÃO RECOMENDADA - Klook (Tsuruga → Nagano):**
+1. **COMPRE AGORA NO KLOOK:**
+   - Rota: Tsuruga → Nagano
+   - Trem: Kagayaki 510 ou 512
+   - Horário: 15:04 → 17:03 OU 16:04 → 17:54
+   - **Tipo:** "Reserved Seat - Ordinary Car"
+   - **Preço:** $78.85-80.15/pessoa (~¥11,450-11,650)
+   - **2 passageiros lado a lado GARANTIDO**
+
+2. **DIA 14/12 - Compre complemento na estação:**
+   - 14:30 - Ir a Kyoto Station
+   - 15:00 - JR Ticket Office: "Kyoto to Tsuruga, December 17th, afternoon around 13:00, two passengers **together**, reserved seats ordinary car please"
+   - **Thunderbird Kyoto → Tsuruga (~2h)**
+   - Coordenar horário para pegar Kagayaki 15:04 ou 16:04
+   - **Preço:** ~¥5,000/pessoa (¥10,000 total)
+
+**HORÁRIO COMPLETO DIA 17:**
+- 07:00 - Café da manhã tranquilo
+- 08:00 - Últimas compras em Kyoto
+- 11:00 - Check-out sem pressa
+- 11:30 - Yamato enviar malas
+- 12:00 - Almoço em Kyoto
+- 13:00 - Pegar Thunderbird Kyoto → Tsuruga
+- 15:00 - Chegar Tsuruga, trocar de plataforma
+- 15:04 ou 16:04 - Pegar Kagayaki → Nagano
+- 17:03 ou 17:54 - **Chegar Nagano!**
+
+**💰 CUSTO TOTAL:** ~¥33,000-35,000 (2 pessoas)
+
+**✅ VANTAGENS:**
+- Sono adequado (acordar ~07:00, não 04:30!)
+- Assentos juntos GARANTIDOS (Klook + estação)
+- Menos estresse
+- Chegada tarde mas ainda dá tempo de jantar e onsen
 
 ---
 
@@ -302,3 +330,50 @@ R: Sim! JR Ticket Offices em estações grandes (Kyoto, Nagano, Tokyo) têm aten
 
 **P: Posso pagar com cartão internacional?**
 R: SIM! JR Ticket Offices aceitam Visa, Mastercard, Amex. Máquinas também aceitam (mas balcão é melhor para pedir assentos juntos).
+
+**P: E SE NÃO TIVER ASSENTOS JUNTOS DISPONÍVEIS? Minha esposa não fala inglês nem japonês!**
+R: **SITUAÇÃO CRÍTICA - Precisa planejar para isso!**
+
+**SE COMPRAR ANTECIPADO (3 dias antes):**
+- ✅ 99% de chance de ter assentos juntos
+- Dezembro lota, mas comprando cedo sempre tem juntos
+- Se não tiver juntos, o atendente VAI AVISAR e você pode:
+  - Escolher outro horário (antes ou depois)
+  - Pagar Green Car (sempre tem mais disponibilidade)
+  - Tentar outro dia
+
+**SE NÃO TIVER ASSENTOS JUNTOS (pior cenário):**
+
+**OPÇÃO 1 - ACEITAR ASSENTOS PRÓXIMOS:**
+- Assentos no mesmo vagão mas fileiras diferentes
+- Você pode vê-la o tempo todo
+- Seguro para ela (você está perto)
+
+**OPÇÃO 2 - GREEN CAR (upgrade):**
+- Sempre tem mais disponibilidade
+- +¥2,000-3,000 por pessoa
+- Assentos mais largos e confortáveis
+- **Fale:** "Green car seats together please"
+
+**OPÇÃO 3 - OUTRO HORÁRIO:**
+- Pergunte próximo trem com assentos juntos
+- **Fale:** "Next train with seats together please?"
+- Ajuste roteiro do dia
+
+**OPÇÃO 4 - OUTRO DIA (última opção):**
+- Se realmente crítico ter assentos juntos
+- Ajuste hotel Kyoto +1 dia
+
+**🗣️ FRASE CRÍTICA PARA USAR:**
+> "My wife doesn't speak English or Japanese. We MUST sit together. Do you have two seats together (side by side)? If not, what options do we have?"
+
+**💡 DICA PRO:**
+- Leve celular com Google Translate aberto
+- Mostre para o atendente: "座席を並んで" (assentos lado a lado)
+- Ele vai entender a importância
+
+**REALIDADE:**
+- Comprando dia 14 para dia 17 = MUITO provável ter juntos
+- Dezembro lota mas 3 dias antes ainda tem bastante opção
+- JR entende necessidade de casais/famílias sentarem juntos
+- **PIOR CASO:** Você escolhe Green Car ou outro horário

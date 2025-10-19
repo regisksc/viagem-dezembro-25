@@ -11,81 +11,49 @@
 
 ---
 
-## Quarta-feira, 17 de dezembro de 2025 - CHEGADA MANHÃ
+## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
 
-**📋 Resumo do dia:** Viagem Kyoto→Nagano (05:00-10:40) | Check-in Mercure | DIA LIVRE explorando Nagano | CALL SEMANAL LONGO
+**📋 Resumo do dia:** Viagem Kyoto→Nagano (13:00-17:54) | Check-in Mercure | Jantar buffet | CALL SEMANAL LONGO
 
-### 10:40 – 11:30 • Chegada e check-in no Mercure Nagano
+### 17:03-17:54 • Chegada em Nagano
 
-- **🚅 Chegada:** Hokuriku Shinkansen de Kyoto (saída ~06:30, chegada ~10:40)
-- **11:00** - Ir ao hotel a pé ou ônibus local
-- **11:30** - Check-in no Mercure (check-in oficial 15:00, mas pode deixar malas)
-- Refresh, descansar da viagem
+- **🚅 Chegada:** Kagayaki de Tsuruga (saída Kyoto ~13:00, chegada Nagano ~17:00-18:00)
+- **Anoitecer:** Dezembro escurece ~16:30, vai chegar no escuro
 
-### 11:30 – 13:00 • Almoço e descanso
+### 17:54 – 18:30 • Check-in no Mercure Nagano
 
 <details>
 <summary>Detalhes</summary>
 
-- Procurar restaurante vegano próximo ao hotel
-- Descansar após viagem matinal
-- Explorar área ao redor do hotel
+- **18:00** - Sair da estação, ir ao hotel a pé (10min) ou táxi
+- **18:15** - Check-in no Mercure
+- **18:30** - Subir ao quarto, refresh rápido
+
+**💡 Malas:** Chegam via Yamato hoje ou amanhã cedo (perguntar na recepção)
 
 </details>
 
-### 13:00 – 13:30 • COMPRA SHINKANSEN TOKYO (SE NÃO COMPROU NO KLOOK) 🎫
+### 18:30 – 19:00 • Exploração rápida ao redor do hotel OU descanso
 
 <details>
-<summary>⚠️ LEIA SE NÃO COMPROU NAGANO → TOKYO NO KLOOK</summary>
+<summary>Opções</summary>
 
-**📍 AGORA É A HORA:**
-- Comprar bilhetes Nagano → Tokyo (dia 19) HOJE
-- Evita risco de ficar sem assento junto no dia 19
+**Se estiver com energia:**
+- Caminhar 5min ao redor do hotel
+- Konbini próximo para comprar snacks/água
 
-**PASSO A PASSO:**
-- **12:00** - Ir a Nagano Station (5min do hotel)
-- **12:30** - JR Ticket Office (balcão)
-- **12:40** - Falar: "Nagano to Tokyo, December 19th, morning around 11:00, two passengers together, reserved seats ordinary car please"
-- **12:50** - **CONFERIR:** Assentos lado a lado
-- **13:00** - Guardar bilhetes em local seguro
-
-**💰 Custo:** ~¥16,000-18,000 (2 pessoas)
-
-**✅ SE JÁ COMPROU NO KLOOK:**
-- Pule esta etapa
-- Já tem assento garantido (horário 14:26-14:58)
+**Se estiver cansado:**
+- Descansar no quarto
+- Aproveitar onsen do hotel (se tiver)
+- Ir direto para jantar
 
 </details>
 
-### 13:30 – 17:30 • Exploração completa centro Nagano
-
-- **🚶 Transporte:** Área próxima ao hotel e estação
-- **Atividades:**
-  - **Konbini e lojas:** Compras de snacks, itens para neve/frio
-  - **Chuo-Dori Street:** Rua principal com lojas e restaurantes
-  - **Zenko-ji preview:** Visita rápida externa (volta amanhã cedo para ritual)
-  - **Compras de preparação:** Luvas, gorros, baterias extras para câmeras
-  - **Clima:** Dezembro frio - testar roupas de inverno
-
-<details>
-<summary>Sugestões de exploração</summary>
-
-**Centro de Nagano:**
-- Midori Nagano (shopping próximo à estação)
-- Lojas de departamento com seção outdoor/inverno
-- Konbini (Family Mart, Lawson, 7-Eleven) para snacks
-
-**Zenko-ji preview:**
-- Caminhar até a entrada (20-30min do hotel)
-- Ver a arquitetura externa
-- Voltar amanhã 06:30 para ritual matinal completo
-
-</details>
-
-### 17:30 – 19:00 • Jantar no hotel (buffet)
+### 19:00 – 20:30 • Jantar no hotel (buffet)
 
 - **Locavore Restaurant (1F)**
 - Buffet 17:30-21:00 (last entry 20:30)
+- Primeira refeição em Nagano!
 
 ### 20:30 – 23:00 • Retorno ao hotel e descanso
 
@@ -113,11 +81,36 @@
 - **Levar:** Água, snacks, protetor solar, dinheiro trocado
 - **💡 Prioridade:** Chegar ao parque na abertura (9:00)
 
-### 06:30 – 07:00 • Deslocamento hotel → estação Nagano
+### 06:30 – 07:00 • COMPRA BILHETE TOKYO (SE NÃO COMPROU NO KLOOK) 🎫
+
+<details>
+<summary>⚠️ LEIA SE NÃO COMPROU NAGANO → TOKYO NO KLOOK</summary>
+
+**📍 APROVEITE QUE ESTÁ INDO PRA ESTAÇÃO:**
+- Comprar bilhetes Nagano → Tokyo (dia 19 AMANHÃ) AGORA
+- Evita risco de ficar sem assento junto
+
+**PASSO A PASSO:**
+- **06:30** - Ir a Nagano Station (já vai pra lá)
+- **06:45** - JR Ticket Office ABRE 6:00 (balcão)
+- **06:50** - Falar: "Nagano to Tokyo, December 19th, morning around 11:00, two passengers **together**, reserved seats ordinary car please"
+- **07:00** - **CONFERIR:** Assentos lado a lado
+- **07:05** - Guardar bilhetes em local seguro
+
+**💰 Custo:** ~¥16,000-18,000 (2 pessoas)
+
+**✅ SE JÁ COMPROU NO KLOOK:**
+- Pule esta etapa
+- Vá direto comprar Snow Monkey Pass
+- Já tem assento garantido Tokyo (horário 14:26-14:58)
+
+</details>
+
+### 06:30-07:00 • Deslocamento hotel → estação Nagano
 
 - **🚶 Distância:** 3km | **Duração:** 30-40 minutos caminhando
 - **Alternativa:** Ônibus local (10 minutos) se cansados
-- **Objetivo:** Chegar estação até 7:00 para comprar passe
+- **Objetivo:** Chegar estação até 7:00 para comprar passes
 
 ### 07:00 – 07:30 • Comprar Snow Monkey Pass
 
