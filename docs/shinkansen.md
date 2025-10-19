@@ -82,24 +82,36 @@ Existem 2 rotas possíveis (ambas com baldeação):
 
 **Para Nagano → Tokyo (19/12):**
 
-**OPÇÃO 1 - KLOOK (MAIS SEGURO, MAS HORÁRIO RUIM):**
-- ✅ Compre AGORA no Klook
-- Busque: "Nagano to Tokyo Shinkansen"
-- **Data:** 19/12/2025
-- **Horário:** 14:26 ou 14:58 (só tem tarde)
-- **Tipo:** "Reserved Seat - Ordinary Car"
-- **Vantagem:** Assento GARANTIDO, lado a lado, compra agora
-- **Desvantagem:** Sai tarde (perde manhã em Tokyo)
+**BASEADO NO SEU ROTEIRO:**
+- Dia 19: Zenko-ji 06:30-09:00 + check-out + deslocamento 42min
+- **Chegada na estação:** 10:42
+- **Horário ideal do trem:** 11:30-12:00
 
-**OPÇÃO 2 - ESTAÇÃO (HORÁRIO BOM, MAS ARRISCADO):**
-- Comprar no dia 17/12 na estação de Nagano
-- Horário matinal (~11:00-12:00)
-- **Risco:** Dezembro lotado, pode não ter assento junto
-- **Se arriscar:** Chegue Nagano Station no dia 17 à tarde e compre logo
+**OPÇÃO 1 - KLOOK (❌ NÃO RECOMENDADO):**
+- Klook só tem: 14:26 ou 14:58
+- **PROBLEMA:** Você chegaria 10:42 e esperaria 3h30-4h na estação!
+- Chegada Tokyo muito tarde (15:46-16:20)
+- **Não faz sentido para seu roteiro**
+
+**OPÇÃO 2 - ESTAÇÃO DIA 18 MANHÃ (✅ RECOMENDADO):**
+- **Quando comprar:** Dia 18/12 manhã (antes do Snow Monkey)
+- **Onde:** Nagano Station - JR Ticket Office
+- **Horário:** Peça trem 11:30-12:00 (saída dia 19)
+- **Vantagem:** Comprando 1 dia antes = assentos juntos garantidos
+- **Custo:** ¥8,000-9,000/pessoa (¥16,000-18,000 para 2)
+
+**COMO COMPRAR DIA 18:**
+1. 06:30 - Ir à Nagano Station (já vai para Snow Monkey)
+2. 06:50 - JR Ticket Office: "Nagano to Tokyo, December 19th, **11:30-12:00 departure**, two passengers **together**, reserved seats ordinary car please"
+3. 07:00 - Conferir assentos lado a lado
+4. 07:05 - Guardar bilhetes
+5. Continuar para comprar Snow Monkey Pass
 
 **MINHA RECOMENDAÇÃO PARA CASAL:**
-- **OPÇÃO 1 (Klook)** = Segurança > Horário
-- Ou compre na estação dia 17 logo que chegar em Nagano (~11:00)
+- **OPÇÃO 2** = Perfeito para seu roteiro
+- Tempo ideal na estação (~50min)
+- Chegada Tokyo 13:00-13:30 (aproveita tarde)
+- Assentos juntos garantidos (compra 1 dia antes)
 
 ### 📅 CALENDÁRIO DE COMPRAS RECOMENDADO
 

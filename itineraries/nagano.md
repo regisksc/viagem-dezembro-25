@@ -298,26 +298,103 @@
 
 </details>
 
-### 08:00 – 09:00 • Café da manhã no hotel (buffet)
+### 09:00 – 09:15 • Retorno ao hotel
+
+- **🚌 Transporte:** Mesmo ônibus que foi (Snow Monkey Pass)
+- **Duração:** ~15 minutos
+
+### 09:15 – 10:00 • Café da manhã TRANQUILO no hotel
 
 - **Locavore Restaurant (1F)**
 - Buffet 7:00-9:30 (last entry 9:00)
-- **APÓS RITUAL:** Melhor horário para refeição espiritual
+- **APÓS RITUAL JEJUM:** Refeição espiritual importante e tranquila
+- ⚠️ Você chegou 9:15 mas buffet aceita até 9:30
+- Aproveite essa refeição sem pressa!
 
-### 09:00 – 10:00 • Yamato + Check-out
+### 10:00 – 11:00 • Descanso pós-Zenko-ji
+
+<details>
+<summary>Por que descansar?</summary>
+
+**Experiência espiritual intensa:**
+- Acordou 06:00 (5 horas atrás)
+- Jejum até agora
+- Ritual no escuro
+- Caminhada
+- Refeição pesada após jejum
+
+**Opções de descanso:**
+- Voltar ao quarto, relaxar
+- Onsen do hotel
+- Organizar malas com calma
+- Processar experiência espiritual
+
+**💡 Você tem TARDE em Nagano ainda!**
+
+</details>
+
+### 11:00 – 12:00 • Última exploração de Nagano OU almoço
+
+<details>
+<summary>Opções</summary>
+
+**Se quiser explorar mais:**
+- Compras de última hora
+- Lugares que não visitou
+- Cafés próximos ao hotel
+
+**Se quiser almoçar:**
+- Restaurante vegano em Nagano
+- Última refeição na cidade
+- Experimente algo que não provou
+
+**Se quiser descansar:**
+- Continue no hotel
+- Prepare-se mentalmente para Tokyo
+- Organize mochila
+
+</details>
+
+### 12:00 – 13:00 • Yamato + Check-out
 
 <details>
 <summary>Detalhes</summary>
 
-- **09:00** - Retornar ao hotel após Zenko-ji
-- **09:15** - Recepção: solicitar Yamato para enviar malas a Tokyo
-- **09:45** - Check-out do Mercure Nagano
+- **12:00** - Recepção: solicitar Yamato para enviar malas a Tokyo
+- **12:30** - Check-out do Mercure Nagano (11:00 oficial, mas pode negociar late)
+- **13:00** - Sair do hotel com mochila
 
 **💡 Yamato:** Malas chegam no hotel em Tokyo no mesmo dia/dia seguinte.
 
 </details>
 
-### 10:00 – 12:30 • Viagem para Tokyo
+### 13:00 – 13:42 • Deslocamento hotel → Nagano Station
+
+<details>
+<summary>Tempo de deslocamento</summary>
+
+- **08 min:** Caminhar até ponto de ônibus
+- **34 min:** Matsushiro Line até Nagano Station
+- **Total:** 42 minutos
+- **Chegada:** 13:42 na estação
+
+</details>
+
+### 13:42 – 14:26 • Na estação: última exploração + preparação
+
+<details>
+<summary>O que fazer</summary>
+
+- **13:42-14:00:** Comprar souvenirs de última hora na estação
+- **14:00-14:10:** Comprar bento vegano para viagem
+- **14:10-14:20:** Encontrar plataforma do shinkansen
+- **14:20-14:26:** Validar bilhete, embarcar
+
+**💡 Se tiver bilhete do Klook:** Retirar bilhete físico
+
+</details>
+
+### 14:26 – 16:00 • Viagem para Tokyo (HORÁRIO TRANQUILO)
 
 - **🚅 Transporte:** Hokuriku Shinkansen (Nagano → Tokyo) | 1h22-1h43 | **¥16,000-18,000 (2 pessoas)**
 - **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
@@ -325,41 +402,46 @@
 <details>
 <summary>OPÇÕES DE HORÁRIO E COMPRA</summary>
 
-**🎫 OPÇÃO 1: Comprar no Klook (horários da tarde)**
+**🎫 OPÇÃO 1: Comprar no Klook (horário 14:26) - ✅ RECOMENDADO**
 
-Disponível para compra online:
+**COMPRE AGORA antes da viagem:**
 
 | Saída Nagano | Chegada | Trem | Duração | Destino | Preço/pessoa |
 |--------------|---------|------|---------|---------|--------------|
-| 14:26 | 15:46 | Hakutaka 564 | 1h20m | Ueno | $52.65 (¥7,650) |
 | 14:26 | 15:52 | Hakutaka 564 | 1h26m | Tokyo Station | $58.05 (¥8,430) |
-| 14:58 | 16:14 | Kagayaki 532 | 1h16m | Ueno | $53.99 (¥7,850) |
-| 14:58 | 16:20 | Kagayaki 532 | 1h22m | Tokyo Station | $58.05 (¥8,430) |
 
-**✅ Vantagem:** Compra online antecipada, assento reservado garantido
-**⚠️ Desvantagem:** Só horários da tarde (chega 15:46-16:20), perde manhã/tarde em Tokyo
+**✅ POR QUE ESSE HORÁRIO É MELHOR:**
+- Zenko-ji é experiência espiritual INTENSA (jejum, ritual escuro)
+- Você vai querer descansar/processar depois
+- Tempo para almoçar em Nagano
+- Aproveita MANHÃ completa em Nagano (só 2 dias lá)
+- Você tem 4+ DIAS em Tokyo (perder tarde dia 19 não é problema)
+- Assentos juntos GARANTIDOS (compra agora)
 
-**🎫 OPÇÃO 2: Comprar na estação (horários matinais) - RECOMENDADO**
+**TIMELINE DIA 19 COM ESSE HORÁRIO:**
+- 06:30-09:00: Zenko-ji tranquilo
+- 09:15-10:00: Café da manhã SEM PRESSA
+- 10:00-11:00: DESCANSO após experiência espiritual
+- 11:00-12:00: Última exploração Nagano OU almoço
+- 12:00-13:00: Yamato + check-out TRANQUILO
+- 13:42: Chega estação (44min de margem)
+- 14:26: Embarque shinkansen
+- 15:52: Chega Tokyo
+- 16:00-18:00: Check-in hotel Tokyo, descansar
+- Ainda dá tempo de jantar em Tokyo!
 
-Horários disponíveis de manhã (09:00-12:00):
-- **~11:00** - Saída Nagano
-- **~12:30** - Chegada Tokyo Station
-- **Custo:** ¥8,000-9,000 por pessoa (¥16,000-18,000 para 2)
+**🎫 OPÇÃO 2: Comprar na estação (horário 11:30-12:00) - MUITO CORRIDO**
 
-**COMO COMPRAR:**
-1. **10:00** - Ir à Nagano Station
-2. **10:10** - JR Ticket Office: "Nagano to Tokyo, two passengers, reserved seats ordinary car please"
-3. **10:30** - Ter bilhetes em mãos
-4. **11:00** - Embarcar shinkansen
-5. **12:30** - Chegar Tokyo!
+**⚠️ PROBLEMAS:**
+- Chega estação 10:42, embarca 11:30 = apenas 48min!
+- Sem tempo de almoçar em Nagano
+- Sem tempo de descansar pós-Zenko-ji
+- MUITO corrido após experiência espiritual intensa
+- Para quê? Você tem DIAS em Tokyo!
 
-**✅ Vantagem:** Horário matinal, aproveita dia em Tokyo, preço similar
-**⚠️ Desvantagem:** Precisa comprar na hora (mas é rápido)
-
-**💡 RECOMENDAÇÃO:** Opção 2 (comprar na estação com horário ~11:00)
-- Permite fazer Zenko-ji matinal completo (06:30-09:00)
-- Chega em Tokyo ~12:30 (tempo de aproveitar tarde)
-- Preço similar ao Klook
+**💡 RECOMENDAÇÃO FINAL:**
+- **Opção 1 (Klook 14:26)** = Viagem TRANQUILA, respeita experiência espiritual
+- Compre AGORA, tenha paz de espírito com assentos juntos garantidos
 
 **📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
