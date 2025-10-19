@@ -10,6 +10,10 @@
 
 ---
 
+**Ir para:** [Sexta, 19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) | [Domingo, 21 dez](#domingo-21-de-dezembro-de-2025) | [Segunda, 22 dez](#segunda-feira-22-de-dezembro-de-2025) | [Terça, 23 dez](#terça-feira-23-de-dezembro-de-2025) | [Quarta, 24 dez](#quarta-feira-24-de-dezembro-de-2025---dia-de-voo) | [Quinta, 25 dez](#quinta-feira-25-de-dezembro-de-2025---natal) | [Sexta, 26 dez](#sexta-feira-26-de-dezembro-de-2025) | [Sábado, 27 dez](#sábado-27-de-dezembro-de-2025) | [Domingo, 28 dez](#domingo-28-de-dezembro-de-2025---dia-de-partida)
+
+---
+
 ## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Nagano | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)

@@ -10,6 +10,10 @@
 
 ---
 
+**Ir para:** [Sexta, 5 dez](#sexta-feira-5-de-dezembro-de-2025) | [Sábado, 6 dez](#sábado-6-de-dezembro-de-2025)
+
+---
+
 ## Sexta-feira, 5 de dezembro de 2025
 
 **📋 Resumo do dia:** Chegada em Hong Kong | Configuração de apps essenciais | Chi Lin Nunnery | Lugard Road pôr do sol | LockCha Tea House (jantar) | Temple Street Night Market

@@ -11,6 +11,10 @@
 
 ---
 
+**Ir para:** [Domingo, 14 dez](#domingo-14-de-dezembro-de-2025---chegada-e-higashiyama-focus) | [Segunda, 15 dez](#segunda-feira-15-de-dezembro-de-2025---arashiyama-focus) | [Terça, 16 dez](#terça-feira-16-de-dezembro-de-2025---norte-focus) | [Quarta, 17 dez](#quarta-feira-17-de-dezembro-de-2025---manhã-livre--viagem-tarde)
+
+---
+
 ## Domingo, 14 de dezembro de 2025 - CHEGADA E HIGASHIYAMA FOCUS
 
 **📋 Resumo do dia:** Viagem de Nara para Kyoto | Higashiyama: Kodai-ji, Kennin-ji, Ninenzaka/Sannenzaka, Kiyomizu-dera | Gion/Pontocho à noite

@@ -10,6 +10,10 @@
 
 ---
 
+**Ir para:** [Sábado, 13 dez](#sábado-13-de-dezembro-de-2025---chegada) | [Domingo, 14 dez](#domingo-14-de-dezembro-de-2025)
+
+---
+
 ## Sábado, 13 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Osaka | Kashihara Jingu (santuário fundacional) | Imai-cho (cidade mercantil preservada do século XVII) | Jantar vegano em Nara centro | Kofuku-ji iluminado (Pagode 5 andares) + Sanjo Dori

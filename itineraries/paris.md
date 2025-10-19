@@ -10,6 +10,10 @@
 
 ---
 
+**Ir para:** [Quarta, 24 dez](#quarta-feira-24-de-dezembro-de-2025---chegada) | [Quinta, 25 dez](#quinta-feira-25-de-dezembro-de-2025---natal) | [Sexta, 26 dez](#sexta-feira-26-de-dezembro-de-2025) | [Sábado, 27 dez](#sábado-27-de-dezembro-de-2025) | [Domingo, 28 dez](#domingo-28-de-dezembro-de-2025---dia-de-partida)
+
+---
+
 ## Quarta-feira, 24 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada de Tokyo em Paris | Check-in Adagio Tour Eiffel | Descanso e ajuste ao fuso | Hank Burger (jantar)

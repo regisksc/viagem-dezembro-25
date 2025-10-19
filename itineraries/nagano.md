@@ -11,6 +11,10 @@
 
 ---
 
+**Ir para:** [Quarta, 17 dez](#quarta-feira-17-de-dezembro-de-2025---chegada-tarde) | [Quinta, 18 dez](#quinta-feira-18-de-dezembro-de-2025---snow-monkey-park-full-day-️) | [Sexta, 19 dez](#sexta-feira-19-de-dezembro-de-2025---manhã-livre--partida-tokyo)
+
+---
+
 ## Quarta-feira, 17 de dezembro de 2025 - CHEGADA TARDE
 
 **📋 Resumo do dia:** Viagem Kyoto→Nagano (13:00-17:54) | Check-in Mercure | Jantar buffet | CALL SEMANAL LONGO
