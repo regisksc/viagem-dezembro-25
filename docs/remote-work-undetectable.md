@@ -636,6 +636,75 @@ Personal MacBook → Normal browsing
 **Problem**: Slow connection speeds
 **Solution**: Adjust MTU settings (try 1420 or 1380)
 
+## Hardware Restrictions & Wireless Device Warnings
+
+### Critical: No Wireless Peripherals During Work
+
+**Golden Rule**: All wireless connections must remain disabled during work hours. Use Ethernet for network, wired peripherals for input/audio, and isolate phone on mobile data.
+
+### Headset: Sennheiser Momentum 4
+
+**❌ AVOID:**
+- **Never use Bluetooth mode** - Bluetooth broadcasts your device MAC address and can be detected by endpoint monitoring tools
+- **Never use USB dongles that pair wirelessly** - these still transmit RF signals and can be detected as Bluetooth devices
+
+**✅ SAFE USE:**
+- **Use wired mode ONLY**: Connect using 3.5mm cable directly to laptop
+- **If laptop lacks 3.5mm port**: Use USB-C to 3.5mm DAC adapter (digital audio converter)
+- **Recommended adapters**: Apple USB-C to 3.5mm ($9), Anker USB-C Audio Adapter ($13)
+
+**Why this matters**: Corporate endpoint monitoring tools can detect Bluetooth devices even if you think they're "just headphones". The Momentum 4 has a detachable cable - use it!
+
+### Mouse: Logitech MX Master 3
+
+**❌ AVOID:**
+- **Never use Bluetooth mode** - wireless RF transmission breaks your isolation
+- **Never use Logitech Unifying Receiver** - even though it's not "Bluetooth", it still uses 2.4GHz RF wireless that can be detected by monitoring tools
+- **Both methods transmit wireless signals** that endpoint security can detect
+
+**✅ SAFE ALTERNATIVES:**
+1. **Use laptop trackpad** temporarily during work hours (free, 100% safe)
+2. **Get a wired mouse**:
+   - Logitech G203 Wired Gaming Mouse ($25) - excellent sensor, durable
+   - Razer DeathAdder Essential ($20) - ergonomic, reliable
+   - Any basic USB wired mouse ($10-15)
+
+**Why this matters**: The Unifying Receiver uses RF 2.4GHz wireless, which is just as detectable as Bluetooth. Corporate security tools scan for ALL wireless transmissions, not just Bluetooth specifically.
+
+### Phone: Teams/Slack Integration
+
+**❌ AVOID:**
+- **Never connect phone to work laptop** via USB tethering, Wi-Fi hotspot, or Bluetooth
+- **Never use phone hotspot** for laptop internet connection (even though it's convenient)
+- **Never log into work accounts from phone's non-VPN IP** - this creates a foreign IP login in the audit logs
+
+**✅ SAFE USE:**
+1. **Keep phone on mobile data only** - never connect to work laptop
+2. **Use phone as passive alert device**: Monitor Teams/Slack notifications on mobile app
+3. **If you need to respond**:
+   - Use mobile app via cellular data ONLY
+   - Avoid video calls or screen sharing from phone (creates non-VPN connection logs)
+4. **Never log into work accounts** from phone when traveling unless absolutely necessary
+5. **If you must use phone for work**:
+   - Only for reading notifications/messages
+   - Reply with "I'll check on my laptop" instead of responding directly
+
+**Why this matters**: Every time you connect your phone to the laptop, you create a new network interface that can leak your real location. Teams/Slack mobile apps also report location metadata.
+
+### Summary: Wired-Only Work Setup
+
+When working remotely:
+
+| Device | Status | Connection Method |
+|--------|--------|------------------|
+| **Laptop Network** | ✅ | Ethernet cable to GL.iNet router |
+| **Laptop Bluetooth** | ❌ OFF | Disabled in System Preferences |
+| **Laptop Wi-Fi** | ❌ OFF | Disabled in System Preferences |
+| **Headset (Momentum 4)** | ✅ | 3.5mm wired cable (or USB-C DAC) |
+| **Mouse (MX Master 3)** | ❌ | Replace with wired mouse or use trackpad |
+| **Phone** | ⚠️ ISOLATED | Mobile data only, no connection to laptop |
+| **Airplane Mode** | ✅ | Enable when possible to disable all radios |
+
 ## App-by-App Hardening & Hygiene
 
 ### macOS System Settings
@@ -643,14 +712,36 @@ Personal MacBook → Normal browsing
 1. **Time Zone**:
    - System Preferences → Date & Time
    - Set to "São Paulo" (UTC-3)
-   - Never change while traveling
+   - **Never change while traveling** - maintain timezone consistency
+   - Ensure system clock syncs with Brazil timezone to prevent timestamp anomalies in logs
 
-2. **Network Profiles**:
+2. **Location Services**:
+   - System Preferences → Security & Privacy → Privacy → Location Services
+   - **Disable all location services** during work hours
+   - Prevents apps from detecting your actual location via GPS
+   - Apple can detect location via Bluetooth, Wi-Fi, and telemetry even without GPS
+
+3. **Account Sync** (Critical):
+   - System Preferences → Internet Accounts
+   - **Disable or limit sync** for Google, Apple, and Microsoft accounts during travel
+   - iCloud sync can leak location data through device timestamps
+   - Google account sync shares timezone and device location
+   - Microsoft 365 sync may trigger location-based security alerts
+
+4. **Wireless Radios** (Most Important):
+   - **Disable Bluetooth completely** when working
+   - **Disable Wi-Fi on work laptop** - use Ethernet only
+   - **Enable Airplane Mode** when possible to disable all radios
+   - Menu Bar → Bluetooth → Turn Bluetooth Off
+   - Menu Bar → Wi-Fi → Turn Wi-Fi Off
+   - This prevents geo-databases from triangulating your location
+
+5. **Network Profiles**:
    - Create separate profiles for home vs travel
    - Home profile: normal settings
-   - Travel profile: use router's DNS
+   - Travel profile: use router's DNS, Ethernet-only
 
-3. **Browser Configuration**:
+6. **Browser Configuration**:
    - Use separate browser profiles
    - Disable WebRTC in Chrome: `chrome://flags/#disable-webrtc`
    - Use Firefox with `media.peerconnection.enabled = false`
@@ -690,6 +781,57 @@ Personal MacBook → Normal browsing
 2. **Status Management**:
    - Use consistent status messages
    - Avoid location-specific status updates
+
+### Social Media & Behavioral Hygiene
+
+**Critical**: Your colleagues follow you on social media. One Instagram story from Tokyo can undo all your technical setup!
+
+1. **Posting Restrictions**:
+   - **Never post location-based content** while traveling (no geotags, no landmarks, no timezone reveals)
+   - **Avoid posting during work hours** in different timezones (posting at 2 AM "Brazil time" is suspicious)
+   - **Schedule posts** to appear during normal Brazil hours (8 AM - 10 PM Brazil time)
+   - **Review photo metadata** - remove EXIF data with GPS coordinates before posting
+
+2. **Story/Status Controls**:
+   - **Restrict coworkers from viewing stories** during travel
+   - Instagram: Settings → Privacy → Story → Hide story from [select coworkers]
+   - Facebook: Settings → Privacy → Story → Custom → Don't share with [select coworkers]
+   - **Alternative**: Don't post stories at all during travel period
+
+3. **Timezone Betrayals to Avoid**:
+   - Posting "Good morning!" at 2 AM Brazil time
+   - Commenting on posts during Brazil nighttime hours
+   - Online gaming/activity during "sleep hours"
+   - Last seen timestamps on WhatsApp/Telegram
+
+4. **Background Reveals**:
+   - Be careful with video call backgrounds (virtual backgrounds recommended)
+   - Hotel rooms, airport signs, foreign power outlets in photos
+   - Language on signs/menus visible in background
+   - Foreign currency, SIM cards, or travel items in frame
+
+### Work Pattern Consistency
+
+Maintain normal work behaviors to avoid raising flags:
+
+1. **Meeting Schedule**:
+   - Keep same meeting times aligned with Brazil timezone
+   - Don't schedule meetings at "convenient local times" that would be odd for Brazil
+   - If you normally attend 9 AM Brazil meetings, keep attending at 9 AM Brazil time
+
+2. **Response Patterns**:
+   - Maintain same response time patterns
+   - If you normally respond within 15 minutes during work hours, keep doing that
+   - Don't suddenly become a "night owl" responding at 2 AM Brazil time
+
+3. **Break Schedules**:
+   - Take breaks at normal Brazil times (lunch 12-1 PM, etc.)
+   - Don't take lunch at 3 AM Brazil time because it's noon locally
+
+4. **Calendar Management**:
+   - Keep calendar in Brazil timezone
+   - Mark "out of office" only if you would normally do so
+   - Don't block off unusual hours that reveal different timezone
 
 ## Validation and Monitoring
 
@@ -978,12 +1120,25 @@ Before you travel, verify:
 
 ### Backup Plans
 
-- [ ] iPhone hotspot as emergency internet
-- [ ] Alternative VPN configuration ready
-- [ ] IT contact information handy
-- [ ] "Technical issues" excuse prepared
-- [ ] Remote troubleshooting access configured
-- [ ] UPS monitoring alerts set up
+**Primary Backup**: Always have a fallback if your home router/server loses connectivity or power
+
+- [ ] **iPhone hotspot as emergency internet** - use mobile data if hotel Wi-Fi fails
+- [ ] **Alternative VPN configuration ready** - secondary WireGuard server on different device or VPS backup
+- [ ] **Home router backup power** - UPS provides 2-4 hours during power outages
+- [ ] **Secondary internet at home** - consider mobile hotspot at home as backup internet
+- [ ] **IT contact information handy** - know who to call if detected
+- [ ] **"Technical issues" excuse prepared** - rehearse your explanation
+- [ ] **Remote troubleshooting access configured** - SSH access to home server via DDNS
+- [ ] **UPS monitoring alerts set up** - get notified when home power fails
+- [ ] **Backup travel router** - consider bringing a second GL.iNet router as spare
+- [ ] **Test failover before travel** - simulate power failure and verify recovery
+
+**What to do if home VPN fails during work**:
+1. Immediately disconnect from current network
+2. Use iPhone hotspot temporarily
+3. Contact IT: "Having internet issues at home, using mobile hotspot as backup"
+4. Troubleshoot home setup remotely via SSH
+5. If unfixable, consider taking day off citing "home internet outage"
 
 ### Travel Preparation
 
