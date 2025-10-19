@@ -307,41 +307,7 @@
 
 </details>
 
-### 12:26 – 13:52 • Viagem para Tokyo ⭐ OPÇÃO 1 (APERTADO)
-
-- **🚅 Transporte:** Hokuriku Shinkansen **Hakutaka 560** (Nagano → Tokyo Station)
-- **⏰ Horários:** Saída 12:26 | Chegada 13:52 | Duração 1h26m
-- **💰 Custo:** $58.05/pessoa (~¥8,430) = **$116.10 total (2 pessoas)**
-- **🎫 Compra:** Klook (comprar ANTES da viagem)
-- **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
-
-<details>
-<summary>⚠️ Timing apertado - só 6 min na estação!</summary>
-
-**COMPRE no Klook antes da viagem:**
-- Train: Hakutaka 560
-- Origin: Nagano
-- Destination: Tokyo Station
-- Departure: 12:26
-- Arrival: 13:52
-- Duration: 1h26m
-- Seat: Reserved Ordinary
-- Fare: $58.05/pessoa
-
-**⚠️ ATENÇÃO:**
-- Chega estação 12:20, trem sai 12:26 = apenas 6 minutos
-- Timing MUITO apertado para retirar bilhete + embarcar
-- **Se houver qualquer atraso no ônibus Matsushiro, você perde o trem!**
-
-**✅ VANTAGENS:**
-- Chega Tokyo 13:52 (mais tempo tarde em Tokyo)
-- Mais barato ($58.05 vs outras opções)
-
-</details>
-
----
-
-### 13:23 – 14:52 • Viagem para Tokyo ✅ OPÇÃO 2 (RECOMENDADO - FOLGA!)
+### 13:23 – 14:52 • Viagem para Tokyo
 
 - **🚅 Transporte:** Hokuriku Shinkansen **Hakutaka 562** (Nagano → Tokyo Station)
 - **⏰ Horários:** Saída 13:23 | Chegada 14:52 | Duração 1h29m
@@ -350,7 +316,7 @@
 - **🛄 Bagagem:** YAMATO (malas enviadas separado) - viaje SÓ COM MOCHILA!
 
 <details>
-<summary>✅ RECOMENDADO: 1 hora de folga na estação!</summary>
+<summary>Detalhes da viagem</summary>
 
 **COMPRE no Klook antes da viagem:**
 - Train: Hakutaka 562
@@ -362,16 +328,9 @@
 - Seat: Reserved Ordinary
 - Fare: $54.05/pessoa
 
-**✅ VANTAGENS:**
-- Chega estação 12:20, trem sai 13:23 = **1 HORA de folga!**
-- Tempo para: retirar bilhete, comprar bento, souvenirs, ir ao banheiro
-- **Mais barato!** Economiza $8 ($54.05 vs $58.05)
-- Segurança se ônibus atrasar
-- Menos estresse
-
-**Timeline ajustada:**
+**Timeline do dia 19:**
 - 11:45: Sair hotel
-- 12:20: Chegar estação (1h antes!)
+- 12:20: Chegar estação (1h de folga!)
 - 12:20-12:40: Retirar bilhete Klook, encontrar plataforma
 - 12:40-13:00: Comprar bento vegano na estação
 - 13:00-13:20: Souvenirs, banheiro, relaxar
@@ -379,14 +338,18 @@
 - 13:23-14:52: Viagem (1h29m)
 - 14:52: Chegar Tokyo
 
+**✅ VANTAGENS:**
+- 1 hora de folga na estação (sem estresse!)
+- Tempo para retirar bilhete, bento, souvenirs
+- Segurança se ônibus atrasar
+- Assentos reservados (best effort juntos)
+
 **📖 Guia completo:** Ver [shinkansen.md](../docs/shinkansen.md)
 
 </details>
 
-### 13:52 ou 14:52 • Chegada em Tokyo Station
+### 14:52 • Chegada em Tokyo Station
 
-- **Opção 1:** 13:52 (Hakutaka 560 - timing apertado)
-- **Opção 2:** 14:52 (Hakutaka 562 - recomendado, 1h de folga)
 - **Próximo:** Check-in hotel Ginza
 - Ver roteiro completo em [tokyo.md](./tokyo.md)
 
