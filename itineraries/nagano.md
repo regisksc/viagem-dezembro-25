@@ -121,31 +121,35 @@
 - **Alternativa:** Ônibus local (10 minutos) se cansados
 - **Objetivo:** Chegar estação até 7:00 para comprar passes
 
-### 07:00 – 07:30 • Comprar Snow Monkey Pass
+### 07:00 – 07:30 • Comprar bilhetes Snow Monkey
 
-- **📍 Local:** Bilheteria Nagano Dentetsu Railway Line (estação Nagano)
-- **🎟️ Custo:** ¥4,000 por pessoa (2 pessoas = ¥8,000)
-- **Inclui:** Ônibus ilimitado + entrada parque + trem Nagaden (2 dias)
+- **📍 Local:** Bilheteria Nagano Dentetsu ou balcão na estação Nagano
+- **🎟️ Comprar:** Express Bus (ida e volta) + Entrada do parque
+- **💰 Custo total:** ¥5,600 (2 pessoas)
 - **Tempo:** Processo rápido (5-10 minutos)
 
 <details>
-<summary>📊 Análise Comparativa</summary>
+<summary>📊 Por que NÃO comprar Snow Monkey Pass?</summary>
 
-**Snow Monkey Pass:** ¥8,000 (2 pessoas)
-**Tickets individuais:** ¥7,200 (2 pessoas) + trem Day 19 ¥2,600 = ¥9,800 total
-**Economia:** ¥1,800 com passe
+**❌ Snow Monkey Pass (2 dias):** ¥8,000 (2 pessoas)
+- Inclui transporte ilimitado 2 dias + 1 entrada parque
+- **Problema:** Você não vai usar o 2º dia (sem Zenko-ji no roteiro)
 
-**RECOMENDAÇÃO: Snow Monkey Pass**
+**✅ Bilhetes individuais:** ¥5,600 (2 pessoas)
+- Express Bus ida e volta: ¥4,000 (¥2,000 x 2 pessoas)
+- Entrada parque: ¥1,600 (¥800 x 2 pessoas)
 
-- Economia líquida ¥1,800 + conveniência + flexibilidade
+**💰 ECONOMIA: ¥2,400** comprando bilhetes individuais!
+
+**RECOMENDAÇÃO: Bilhetes individuais (não compre o passe)**
 
 </details>
 
 ### 07:30 – 08:20 • Ônibus Nagano → Kanbayashi
 
-- **🚌 Ônibus:** Especial Snow Monkey (estação → Kanbayashi)
-- **Custo:** Incluso no Snow Monkey Pass
-- **Duração:** 50 minutos | **Horário ideal:** 07:30-07:50
+- **🚌 Ônibus:** Express Snow Monkey Bus (estação → Kanbayashi)
+- **Custo:** Já pago (¥2,000 por pessoa ida e volta)
+- **Duração:** 40-50 minutos
 - **Objetivo:** Chegar Kanbayashi às 8:20-8:40
 
 ### 08:20 – 08:55 • Caminhada Kanbayashi → Parque (35 min)
@@ -156,7 +160,7 @@
 
 ### 09:00 – 14:00 • Snow Monkey Park 🐒❄️
 
-- **Entrada:** Inclusa no Snow Monkey Pass
+- **Entrada:** Já paga (¥800 por pessoa)
 - **Experiência:** Macacos selvagens nas fontes termais
 - **Duração:** Tempo ilimitado para observar e fotografar
 
@@ -238,13 +242,12 @@
 
 ### 16:30 – 17:20 • Ônibus retorno Kanbayashi → Nagano
 
-- **🚌 Ônibus:** Especial Snow Monkey (retorno incluso no Snow Monkey Pass)
-- **Duração:** 50 minutos
+- **🚌 Ônibus:** Express Snow Monkey Bus (retorno já pago)
+- **Duração:** 40-50 minutos
 
-### 17:20 – 18:30 • Exploração Nagano ou descanso
+### 17:20 – 18:30 • Tempo livre em Nagano ou retorno ao hotel
 
-- **Opções:** Compras, souvenirs, café, ou retorno ao hotel
-- **Transporte:** Ônibus local (linha Nagano Dentetsu) - incluso no Snow Monkey Pass
+- **Opções:** Compras, souvenirs, café, ou retorno direto ao hotel
 
 ### 19:00 – 23:00 • Descanso e trabalho remoto
 
@@ -263,75 +266,25 @@
 - **Opção 1:** Hakutaka 560 (12:26→13:52) - timing apertado, 6 min na estação
 - **Opção 2:** Hakutaka 562 (13:23→14:52) - ✅ RECOMENDADO (1h de folga, mais barato!)
 
-### 07:00 – 08:00 • Café da manhã COMPLETO e tranquilo
+### 07:00 – 07:45 • Café da manhã + Yamato
 
-- **Locavore Restaurant (1F)**
-- Buffet 7:00-9:30 (last entry 9:00)
-- **Refeição importante:**
-  - Ontem foi dia MUITO intenso (Snow Monkey)
-  - Você merece café TRANQUILO
-  - Sem pressa, sem correria
-  - Aproveite o buffet já pago!
+- **Locavore Restaurant (1F)** - Buffet 7:00-9:30 (last entry 9:00)
+- **Café da manhã:** 45 minutos
+- **Solicitar Yamato:** Descer com as malas quando for pro café, solicitar envio para Tokyo
 
-### 08:00 – 10:00 • Descanso pós-Snow Monkey
+### 07:45 – 11:15 • Tempo livre no hotel
 
-<details>
-<summary>Por que descansar?</summary>
+- Onsen
+- Descanso no quarto
+- Organizar mochila de mão para viagem
 
-**Dia anterior foi MUITO intenso:**
-- Acordou 06:00
-- Snow Monkey Park (caminhada 1.6km neve)
-- Onsen com macacos
-- Muito cansativo!
+### 11:15 – 11:45 • Check-out
 
-**Opções de descanso:**
-- **Onsen do hotel:** Relaxar músculos após caminhada
-- **Quarto:** Cochilar, relaxar, processar experiência
-- **Organizar malas:** Com calma, sem estresse
-- **Netflix, livro, nada:** Você merece!
-
-**💡 Você tem 4+ DIAS em Tokyo - não precisa correr!**
-
-</details>
-
-### 10:00 – 11:15 • Última exploração Nagano OU continuar descansando
-
-<details>
-<summary>Opções</summary>
-
-**Se quiser explorar mais:**
-- Compras de última hora
-- Cafés próximos ao hotel
-- Konbini para comprar bento vegano para a viagem (IMPORTANTE!)
-- Última caminhada pela cidade
-
-**Se quiser almoçar:**
-- Snack rápido em café local
-- **Comprar bento no konbini** (não haverá tempo na estação!)
-
-**Se quiser descansar:**
-- Continue no hotel
-- Prepare-se mentalmente para Tokyo
-- Organize mochila
-- **Comprar bento no konbini antes de voltar** (fica perto do hotel)
-
-**⚠️ IMPORTANTE:** Compre comida ANTES de voltar ao hotel! Não haverá tempo na estação (só 6 min).
-
-</details>
-
-### 11:15 – 11:45 • Yamato + Check-out
-
-<details>
-<summary>Detalhes</summary>
-
-- **11:15** - Recepção: solicitar Yamato para enviar malas a Tokyo
 - **11:30** - Check-out do Mercure Nagano (14:00 late checkout - benefício Gold Accor)
 - **11:45** - Sair do hotel com mochila
 
-**💡 Yamato:** Malas chegam no hotel em Tokyo no mesmo dia/dia seguinte.
-**💡 Late checkout:** Benefício ALL Gold permite checkout até 14h, mas saindo 11:45h para pegar trem.
-
-</details>
+**💡 Yamato:** Já solicitado de manhã, malas chegam em Tokyo no mesmo dia/dia seguinte.
+**💡 Late checkout:** Benefício ALL Gold permite checkout até 14h.
 
 ### 11:45 – 12:25 • Deslocamento hotel → Nagano Station (40 min)
 
@@ -462,16 +415,19 @@
 
 | Categoria | Custo |
 |-----------|-------|
-| **Snow Monkey Pass** | ¥8,000 (2 pessoas) |
+| **Express Bus Snow Monkey** (ida e volta) | ¥4,000 (2 pessoas) |
+| **Entrada Snow Monkey Park** | ¥1,600 (2 pessoas) |
 | **Onsen ryokan Korakukan** | ¥2,400 (2 pessoas) |
 | **Matsushiro Line** (hotel→estação dia 19) | ¥1,140 (2 pessoas) |
 | **Shinkansen Kyoto→Nagano** | ¥20,000-22,000 (2 pessoas) |
 | **Shinkansen Nagano→Tokyo** | $108.10-116.10 (~¥15,700-16,860, 2 pessoas) |
-| **TOTAL** | **~R$1,050-1,220** |
+| **TOTAL** | **~R$990-1,160** |
 
 **💡 Shinkansen Nagano→Tokyo:**
 - Opção 1 (12:26): $116.10 total - timing apertado (6 min na estação)
 - **Opção 2 (13:23): $108.10 total - RECOMENDADO (1h de folga, mais barato!)**
+
+**💰 Economia vs Snow Monkey Pass:** ¥2,400 (~R$90) comprando bilhetes individuais!
 
 **💡 Hotel buffet incluso:** 2 cafés da manhã + 2 jantares cobertos!
 
