@@ -1493,10 +1493,8 @@
         }
       ],
       "activities": [
-        { "name": "Parque dos Macacos Jigokudani", "ticket_required": true, "price": "¥ 1,600 (2 pessoas)", "advance_booking": "comprar na estação dia 18", "status": "included" },
-        { "name": "Express Bus Snow Monkey (ida e volta)", "ticket_required": true, "price": "¥ 4,000 (2 pessoas)", "advance_booking": "comprar na estação dia 18", "status": "included" },
+        { "name": "Snow Monkey Pass (2 dias)", "ticket_required": true, "price": "¥ 8,000 (2 pessoas)", "advance_booking": "comprar na estação dia 18", "status": "included", "includes": "Express Bus ilimitado + entrada parque + transporte local Nagano", "payment": "somente dinheiro" },
         { "name": "Onsen no Ryokan Korakukan (com macacos)", "ticket_required": true, "price": "¥ 2,400 (2 pessoas)", "advance_booking": "não necessário", "status": "included" },
-        { "name": "Snow Monkey Pass (2 dias)", "ticket_required": true, "price": "¥ 8,000 (2 pessoas)", "advance_booking": "comprar na estação", "status": "not_recommended", "reason": "Não vale a pena - perde ¥2,400 vs bilhetes individuais pois não haverá uso do 2º dia (Zenko-ji foi removido do roteiro)" },
         { "name": "Templo Zenko-ji", "ticket_required": true, "price": "¥ 500 (~R$ 360)", "advance_booking": "na hora", "status": "removed_from_itinerary", "reason": "Conflito de tempo com café da manhã do hotel e deslocamento muito longo (53min cada trajeto). Removido após análise de viabilidade." }
       ]
     },
