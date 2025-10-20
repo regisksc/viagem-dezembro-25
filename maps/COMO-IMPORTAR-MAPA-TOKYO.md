@@ -2,7 +2,7 @@
 
 ## 📍 O que está incluído no mapa
 
-O arquivo `tokyo-map.kml` contém todos os pontos do seu roteiro de Tokyo organizado por:
+O arquivo `tokyo-map.csv` contém todos os pontos do seu roteiro de Tokyo organizado por:
 
 - **🏨 Hotel**: Ibis Styles Tokyo Ginza
 - **📅 19 Dez**: Shibuya Crossing, Meiji Jingu, Harajuku, Ain Soph Ginza
@@ -37,23 +37,32 @@ Total: **25+ pontos** com descrições detalhadas, horários, preços e dicas!
 1. No painel esquerdo, abaixo do nome do mapa, você verá **"Camada sem título"**
 2. Clique em **"Adicionar camada"** (se não aparecer automaticamente)
 
-### 5. Importe o Arquivo KML
+### 5. Importe o Arquivo CSV
 
 1. Agora você verá o botão **"Importar"** aparecer abaixo da camada
 2. Clique em **"Importar"**
 3. Uma janela vai abrir - clique em **"Selecionar um arquivo do seu computador"**
-4. Navegue até: `/Users/regiskian/viagem-dezembro-25/maps/tokyo-map.kml`
-5. Selecione o arquivo `tokyo-map.kml` e clique em **"Abrir"**
+4. Navegue até: `/Users/regiskian/viagem-dezembro-25/maps/tokyo-map.csv`
+5. Selecione o arquivo `tokyo-map.csv` e clique em **"Abrir"**
 
 ### 6. Configure a Importação
 
-1. O Google vai perguntar quais colunas usar para os marcadores
-2. Marque apenas: **"Nome"** e **"Descrição"**
-3. Clique em **"Concluir"**
+1. O Google vai perguntar quais colunas usar para posicionar os marcadores
+2. Selecione: **"Latitude"** e **"Longitude"**
+3. Para o título dos marcadores, escolha: **"Nome"**
+4. Clique em **"Concluir"**
 
-### 7. Pronto! 🎉
+### 7. Organize por Categoria (Opcional)
 
-Seu mapa agora está criado com todos os pontos organizados em pastas por dia!
+Depois de importar, você pode organizar os pontos por categoria:
+
+1. No painel esquerdo, clique em **"Estilo uniforme"** → **"Agrupar locais por"**
+2. Selecione **"Categoria"**
+3. Agora os pontos estarão coloridos por tipo: Hotel, Restaurante, Dia 19 Dez, Dia 21 Dez, etc.
+
+### 8. Pronto! 🎉
+
+Seu mapa agora está criado com todos os 23 pontos do roteiro!
 
 ## 🎨 Personalizando o Mapa (Opcional)
 
