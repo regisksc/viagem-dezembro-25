@@ -2,3 +2,4 @@
 - pode dar push depois de alteraçoes
 - use sintaxe spoiler pra detalhes de um bloco do roteiro. Deixe visivel sem spoiler so o horario titulo deslocamento e custo, para facilitar a carga visual.
 - Nao fique mencionando tanto os pontos principais do ultimo prompt na ediçao do roteiro. Exemplo, se eu falo "corrija o roteior em Nara, porque eu vou ficar 1 dia só, check in dia 13 e check-out em 14" voce nao precisa colocar explicitamente "Roteiro APENAS 1 DIA EM NARA". So altere, nao precisa comentar os detalhes do requisito
+- nao commite KML
