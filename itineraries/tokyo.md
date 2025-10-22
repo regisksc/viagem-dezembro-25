@@ -78,7 +78,7 @@ ainsoph.jp/ginza
 
 ## Sábado, 20 de dezembro de 2025 - DAY TRIP MONTE FUJI 🗻
 
-**📋 Resumo do dia:** Chureito Pagoda (vista ICÔNICA) | Kachi Kachi Ropeway + Swing facing Fuji | Oshino Hakkai (vila tradicional + 8 lagos) | Paragliding tandem (VOAR com vista Fuji!) | Retorno Tokyo
+**📋 Resumo do dia:** Chureito Pagoda (vista ICÔNICA) | Kachi Kachi Ropeway + Swing facing Fuji | Oshino Hakkai (vila tradicional + 8 lagos) | Kawaguchi Asama Shrine (UNESCO + gate in the sky) | Retorno Tokyo
 
 ### 05:45 • Acordar CEDO (vai valer a pena!)
 
@@ -209,40 +209,43 @@ ainsoph.jp/ginza
 
 </details>
 
-### 15:00 – 16:30 • 🪂 PARAGLIDING TANDEM - VOAR COM VISTA DO MONTE FUJI! ✈️
+### 15:00 – 16:30 • ⛩️ KAWAGUCHI ASAMA SHRINE - UNESCO World Heritage
 
 <details>
-<summary>A experiência OUT OF THE BOX! 🚀</summary>
+<summary>Santuário histórico com "Gate in the Sky"</summary>
 
-**Operador:** Asagiri Kogen Paragliding School
-**Local:** Asagiri Kogen (40min de Oshino de táxi/tour pickup)
+**Como chegar:** 15min de ônibus de Oshino Hakkai até Kawaguchiko Station, depois 15min de ônibus até o shrine (ou 20min de bike direto de Oshino)
 
-**Tandem Flight Course (Iniciantes):**
-- Você voa com instrutor experiente
-- **Decolagem:** 400m de diferença de altura
-- **Duração voo:** 10-15 minutos
-- **Vista:** Monte Fuji GIGANTE + Lago Kawaguchi + planícies
-- **Sensação:** VOANDO entre nuvens com Fuji à sua frente!
-- **Idade:** A partir de 12 anos
-- **Peso:** Até 100kg
+**História:**
+- Fundado em **865 d.C.** (1.160 anos!) para apaziguar a "raiva" do Monte Fuji e suas erupções
+- **UNESCO World Heritage Site** desde 2013 (parte do Monte Fuji)
+- Santuário principal na base norte do Monte Fuji
 
-**Custo:** ¥12,000-15,000/pessoa = ¥24,000-30,000 total
+**Destaques:**
+1. **7 Cedros Japoneses Gigantes** 🌲
+   - Mais de **1.200 anos de idade** cada um
+   - Árvores sagradas impressionantes
+   - Atmosfera mística e silenciosa
 
-**Reserva:**
-- https://en.activityjapan.com/
-- Ou https://exploreshizuoka.jp/
-- **ANTECIPAÇÃO:** 1-2 semanas
+2. **Tenku no Torii** (Gate in the Sky) ⛩️
+   - Torii gate PEQUENO mas FAMOSO no topo de uma colina
+   - Vista linda do Monte Fuji emoldurado pelo torii
+   - **FOTO OBRIGATÓRIA:** Torii + Fuji ao fundo
 
-**Alternativa se não quiser paragliding:**
-- Voltar para Lago Kawaguchi
-- Passeio de barco cisne (¥1,000)
-- Mais fotos da margem norte do lago
+3. **Arquitetura tradicional**
+   - Haiden (salão de orações)
+   - Honden (santuário principal)
+   - Lanternas de pedra centenárias
 
-**Por quê é OUT OF THE BOX:**
-- 🪂 Literalmente VOAR com vista do Monte Fuji
-- 🦅 Perspectiva que 99% dos turistas não tem
-- 🏔️ Adrenalina + beleza natural
-- 📸 Fotos/vídeos ÉPICOS do ar
+**Entrada:** FREE
+**Tempo:** 45min-1h
+**Atmosfera:** Tranquila, espiritual, silenciosa - perfeito após o dia movimentado
+
+**Por quê vale a pena:**
+- ⛩️ UNESCO World Heritage
+- 🌲 Árvores de 1.200 anos (mais antigas que o Descobrimento do Brasil!)
+- 📸 "Gate in the Sky" com vista do Fuji
+- 🧘 Paz e conexão espiritual
 
 </details>
 
@@ -300,20 +303,19 @@ ainsoph.jp/ginza
 | Kachi Kachi Swing | ¥1,000 |
 | Almoço Hoto | ¥3,000 |
 | Oshino Hakkai | FREE |
-| **PARAGLIDING** | **¥24,000-30,000** |
+| Kawaguchi Asama Shrine | FREE |
 | Jantar | ¥3,000 |
-| **TOTAL COM PARAGLIDING** | **¥42,040-48,040** (~**R$ 1,535-1,755**) |
-| **TOTAL SEM PARAGLIDING** | **¥18,040** (~**R$ 660**) |
+| **TOTAL** | **¥18,040** (~**R$ 660**) |
 
 ---
 
 ## 🎯 Por que esse day trip é OUT OF THE BOX:
 
-1. **🪂 PARAGLIDING** - Literalmente voar com vista do Fuji (pouquíssimos fazem!)
-2. **🎢 Swing facing Fuji** - Balançar a 1,075m com Fuji na sua frente
-3. **🚴 Bicicleta** - Flexibilidade em vez de tour engessado
-4. **📸 Chureito Pagoda** - A foto MAIS ICÔNICA do Japão
-5. **🏘️ Oshino Hakkai** - Vila tradicional autêntica (não turística)
+1. **🎢 Swing facing Fuji** - Balançar a 1,075m com Fuji na sua frente (poucos fazem!)
+2. **🚴 Bicicleta** - Flexibilidade em vez de tour engessado
+3. **📸 Chureito Pagoda** - A foto MAIS ICÔNICA do Japão
+4. **🏘️ Oshino Hakkai** - Vila tradicional autêntica com 8 lagos sagrados
+5. **⛩️ Kawaguchi Asama Shrine** - UNESCO com árvores de 1.200 anos + "Gate in the Sky"
 6. **❄️ Dezembro** - Melhor época para vistas claras + neve no Fuji
 
 ---
@@ -325,14 +327,9 @@ ainsoph.jp/ginza
 - **Levar:** Casaco grosso, luvas, cachecol, gorro
 - Sol se põe: ~16:30 (por isso voltar 17:00)
 
-**Paragliding:**
-- Depende de condições climáticas
-- Se vento forte = cancela (reembolso total)
-- Backup plan: Mais tempo em Oshino Hakkai + Lago Kawaguchi
-
 **Reservas necessárias:**
-- ✅ Ônibus Tokyo-Kawaguchiko (1 semana antes)
-- ✅ Paragliding (1-2 semanas antes)
+- ✅ Ônibus Tokyo-Kawaguchiko (reservar 1 semana antes)
+  - https://japanbusonline.com/ ou https://highway-buses.jp/
 
 ---
 
