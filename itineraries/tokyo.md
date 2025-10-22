@@ -76,6 +76,266 @@ ainsoph.jp/ginza
 
 ---
 
+## Sábado, 20 de dezembro de 2025 - DAY TRIP MONTE FUJI 🗻
+
+**📋 Resumo do dia:** Chureito Pagoda (vista ICÔNICA) | Kachi Kachi Ropeway + Swing facing Fuji | Oshino Hakkai (vila tradicional + 8 lagos) | Paragliding tandem (VOAR com vista Fuji!) | Retorno Tokyo
+
+### 05:45 • Acordar CEDO (vai valer a pena!)
+
+### 06:00 – 06:30 • Café da manhã rápido no hotel
+
+### 06:30 – 09:00 • Transporte Tokyo → Fujisan
+
+<details>
+<summary>Detalhes do transporte</summary>
+
+**Opção recomendada: Highway Bus**
+- **Saída:** Shinjuku Highway Bus Terminal 06:40
+- **Chegada:** Kawaguchiko Station 09:00 (2h20min)
+- **Custo:** ¥2,060/pessoa = ¥4,120 total (2 pessoas)
+- **Reserva:** https://japanbusonline.com/ ou https://highway-buses.jp/
+- **Vantagem:** Direto, confortável, sem baldeação
+
+**Alternativa: Trem (mais caro)**
+- JR Chuo Line → Otsuki → Fujikyu Railway → Kawaguchiko
+- Tempo: ~2h30
+- Custo: ~¥5,000 (2 pessoas)
+
+</details>
+
+### 09:00 – 09:30 • Chegada Kawaguchiko + aluguel bicicleta
+
+<details>
+<summary>Aluguel de bicicleta</summary>
+
+- **Onde:** Kawaguchiko Station Rent-a-Cycle
+- **Custo:** ¥500/pessoa/dia = ¥1,000 total
+- **Por quê:** Flexibilidade para ir entre pontos + economia
+- **Alternativa:** Ônibus local (¥150-400/trecho)
+
+</details>
+
+### 09:30 – 11:00 • 📸 CHUREITO PAGODA - Vista CARTÃO POSTAL
+
+<details>
+<summary>Detalhes</summary>
+
+**Como chegar de bike:** 15-20min de Kawaguchiko Station
+**Alternativa:** Fujikyu Railway → Shimoyoshida Station (5min, ¥160)
+
+**O que fazer:**
+- Subir **398 degraus** até o topo (15-20min)
+- **FOTO ICÔNICA:** Pagoda de 5 andares + Monte Fuji nevado ao fundo
+- Vista panorâmica 360° de Fujiyoshida
+- **Melhor luz:** Manhã (09:30-11:00) ☀️
+
+**Entrada:** FREE
+**Tempo:** 1h-1h30
+
+**Dica:** Dezembro = neve no Fuji + céu limpo = MELHOR ÉPOCA para essa foto!
+
+</details>
+
+### 11:00 – 12:30 • 🎡 KACHI KACHI ROPEWAY + Swing facing Mt. Fuji
+
+<details>
+<summary>Detalhes</summary>
+
+**Como chegar de bike:** 20min de Chureito até margem leste Lago Kawaguchi
+
+**Mt. Fuji Panoramic Ropeway:**
+- **Teleférico:** Sobe 400m em 3min até Monte Tenjo (1,075m altitude)
+- **Vista:** 360° panorâmica do Lago Kawaguchi + Monte Fuji
+- **Custo:** ¥900/pessoa round-trip = ¥1,800 total
+- **Horário:** Dezembro abre 09:30
+
+**No topo (Monte Tenjo):**
+1. **Kachi Kachi Swing** (¥500/pessoa) 🎢
+   - Balanço gigante (3.5m altura) DE FRENTE para o Monte Fuji
+   - Vista INSANA balançando com Fuji ao fundo
+   - **OUT OF THE BOX** ✨
+
+2. **Bell of Tenjo** (Sino do Amor) 🔔
+   - Moldura coração + sino
+   - Casais tocam juntos para sorte no relacionamento
+   - Vista Monte Fuji
+
+3. **Kawarake Throwing** (¥100)
+   - Jogar discos de cerâmica através de argola
+   - Boa sorte/fortuna
+
+4. **Café:** Mitarashi dango (bolinhos arroz) + chá quente
+
+**Lenda:** Local do conto "Kachi Kachi Yama" (coelho vs tanuki)
+
+</details>
+
+### 12:30 – 13:30 • 🍜 Almoço: Hoto Noodles (especialidade Fuji!)
+
+<details>
+<summary>Restaurante recomendado</summary>
+
+**Houtou Fudou** (perto do ropeway)
+- **Especialidade:** Hoto (macarrão grosso em sopa miso com vegetais)
+- **Opção vegana:** Pedir sem carne (野菜だけ - yasai dake)
+- **Custo:** ¥1,200-1,500/pessoa = ¥3,000 total
+- Servido em panela de ferro quente = PERFEITO no frio!
+
+</details>
+
+### 13:30 – 15:00 • 🏘️ OSHINO HAKKAI - Vila Tradicional + 8 Lagos Sagrados
+
+<details>
+<summary>Detalhes</summary>
+
+**Como chegar de bike:** 30min de Kawaguchiko (ou ônibus 20min, ¥300)
+
+**O que é:**
+- Vila tradicional ao pé do Monte Fuji
+- **8 lagos cristalinos** alimentados por água derretida da neve do Fuji
+- Água filtra por 80 anos através de lava = água PURÍSIMA
+- Casas tradicionais com telhado de palha
+- Rodas d'água girando
+- UNESCO World Heritage (parte do Monte Fuji)
+
+**Destaques:**
+- **Dezembro:** Possível ver "Diamond Fuji" (sol nascente/poente alinhado com pico)
+- **Água tão clara** que você vê o fundo dos lagos
+- Ruas tradicionais preservadas
+- Lojas de souvenirs artesanais
+- **ENTRADA FREE**
+
+**Tempo:** 1h-1h30
+
+</details>
+
+### 15:00 – 16:30 • 🪂 PARAGLIDING TANDEM - VOAR COM VISTA DO MONTE FUJI! ✈️
+
+<details>
+<summary>A experiência OUT OF THE BOX! 🚀</summary>
+
+**Operador:** Asagiri Kogen Paragliding School
+**Local:** Asagiri Kogen (40min de Oshino de táxi/tour pickup)
+
+**Tandem Flight Course (Iniciantes):**
+- Você voa com instrutor experiente
+- **Decolagem:** 400m de diferença de altura
+- **Duração voo:** 10-15 minutos
+- **Vista:** Monte Fuji GIGANTE + Lago Kawaguchi + planícies
+- **Sensação:** VOANDO entre nuvens com Fuji à sua frente!
+- **Idade:** A partir de 12 anos
+- **Peso:** Até 100kg
+
+**Custo:** ¥12,000-15,000/pessoa = ¥24,000-30,000 total
+
+**Reserva:**
+- https://en.activityjapan.com/
+- Ou https://exploreshizuoka.jp/
+- **ANTECIPAÇÃO:** 1-2 semanas
+
+**Alternativa se não quiser paragliding:**
+- Voltar para Lago Kawaguchi
+- Passeio de barco cisne (¥1,000)
+- Mais fotos da margem norte do lago
+
+**Por quê é OUT OF THE BOX:**
+- 🪂 Literalmente VOAR com vista do Monte Fuji
+- 🦅 Perspectiva que 99% dos turistas não tem
+- 🏔️ Adrenalina + beleza natural
+- 📸 Fotos/vídeos ÉPICOS do ar
+
+</details>
+
+### 16:30 – 17:00 • Retorno Kawaguchiko Station
+
+- Devolver bicicleta
+- Comprar souvenirs/snacks para viagem
+- Banheiro, refresh
+
+### 17:00 – 19:30 • Ônibus retorno Tokyo
+
+<details>
+<summary>Transporte de volta</summary>
+
+**Highway Bus Kawaguchiko → Shinjuku:**
+- Saída: 17:00 ou 17:30
+- Chegada: ~19:30
+- Custo: ¥2,060/pessoa (já incluído no bilhete ida/volta)
+
+**Dica:** Comprar bilhete ida/volta pela manhã economiza tempo!
+
+</details>
+
+### 19:30 – 21:00 • Jantar em Shinjuku
+
+<details>
+<summary>Opção vegetariana pós-aventura</summary>
+
+**Nagi Shokudo** (Shinjuku)
+- 100% Vegan ramen + sides
+- ¥1,000-1,500/pessoa
+- Perto da estação de ônibus
+- Perfeito após dia cansativo!
+
+</details>
+
+### 21:00 – 22:00 • Retorno ao hotel Ginza
+
+- Metrô Shinjuku → Ginza (15-20min)
+
+### 22:00 • Descanso
+
+**SEM WORK CALL!** É sábado! 🎉
+
+---
+
+## 💰 Custo Total Day Trip Monte Fuji (Sábado 20/12):
+
+| Item | Custo (2 pessoas) |
+|------|------------------|
+| Ônibus round-trip Tokyo-Kawaguchiko | ¥8,240 |
+| Aluguel bicicleta | ¥1,000 |
+| Chureito Pagoda | FREE |
+| Kachi Kachi Ropeway | ¥1,800 |
+| Kachi Kachi Swing | ¥1,000 |
+| Almoço Hoto | ¥3,000 |
+| Oshino Hakkai | FREE |
+| **PARAGLIDING** | **¥24,000-30,000** |
+| Jantar | ¥3,000 |
+| **TOTAL COM PARAGLIDING** | **¥42,040-48,040** (~**R$ 1,535-1,755**) |
+| **TOTAL SEM PARAGLIDING** | **¥18,040** (~**R$ 660**) |
+
+---
+
+## 🎯 Por que esse day trip é OUT OF THE BOX:
+
+1. **🪂 PARAGLIDING** - Literalmente voar com vista do Fuji (pouquíssimos fazem!)
+2. **🎢 Swing facing Fuji** - Balançar a 1,075m com Fuji na sua frente
+3. **🚴 Bicicleta** - Flexibilidade em vez de tour engessado
+4. **📸 Chureito Pagoda** - A foto MAIS ICÔNICA do Japão
+5. **🏘️ Oshino Hakkai** - Vila tradicional autêntica (não turística)
+6. **❄️ Dezembro** - Melhor época para vistas claras + neve no Fuji
+
+---
+
+## ⚠️ Notas Importantes:
+
+**Clima dezembro:**
+- Temperatura: 0-8°C na região Fuji
+- **Levar:** Casaco grosso, luvas, cachecol, gorro
+- Sol se põe: ~16:30 (por isso voltar 17:00)
+
+**Paragliding:**
+- Depende de condições climáticas
+- Se vento forte = cancela (reembolso total)
+- Backup plan: Mais tempo em Oshino Hakkai + Lago Kawaguchi
+
+**Reservas necessárias:**
+- ✅ Ônibus Tokyo-Kawaguchiko (1 semana antes)
+- ✅ Paragliding (1-2 semanas antes)
+
+---
+
 ## Domingo, 21 de dezembro de 2025
 
 **📋 Resumo do dia:** Senso-ji Asakusa | Tokyo Vegan Ramen Center (cooking class) | Tokyo Skytree | Akihabara (anime/games) | Vegan Bistro Jangara
