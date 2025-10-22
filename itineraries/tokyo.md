@@ -76,266 +76,11 @@ ainsoph.jp/ginza
 
 ---
 
-## Sábado, 20 de dezembro de 2025 - DAY TRIP MONTE FUJI 🗻
-
-**📋 Resumo do dia:** Chureito Pagoda (vista ICÔNICA) | Kachi Kachi Ropeway + Swing facing Fuji | Oshino Hakkai (vila tradicional + 8 lagos) | Kawaguchi Asama Shrine (UNESCO + gate in the sky) | Retorno Tokyo
-
-### 05:45 • Acordar CEDO (vai valer a pena!)
-
-### 06:00 – 06:30 • Café da manhã rápido no hotel
-
-### 06:30 – 09:00 • Transporte Tokyo → Fujisan
-
-<details>
-<summary>Detalhes do transporte</summary>
-
-**Opção recomendada: Highway Bus**
-- **Saída:** Shinjuku Highway Bus Terminal 06:40
-- **Chegada:** Kawaguchiko Station 09:00 (2h20min)
-- **Custo:** ¥2,060/pessoa = ¥4,120 total (2 pessoas)
-- **Reserva:** https://japanbusonline.com/ ou https://highway-buses.jp/
-- **Vantagem:** Direto, confortável, sem baldeação
-
-**Alternativa: Trem (mais caro)**
-- JR Chuo Line → Otsuki → Fujikyu Railway → Kawaguchiko
-- Tempo: ~2h30
-- Custo: ~¥5,000 (2 pessoas)
-
-</details>
-
-### 09:00 – 09:30 • Chegada Kawaguchiko + aluguel bicicleta
-
-<details>
-<summary>Aluguel de bicicleta</summary>
-
-- **Onde:** Kawaguchiko Station Rent-a-Cycle
-- **Custo:** ¥500/pessoa/dia = ¥1,000 total
-- **Por quê:** Flexibilidade para ir entre pontos + economia
-- **Alternativa:** Ônibus local (¥150-400/trecho)
-
-</details>
-
-### 09:30 – 11:00 • 📸 CHUREITO PAGODA - Vista CARTÃO POSTAL
-
-<details>
-<summary>Detalhes</summary>
-
-**Como chegar de bike:** 15-20min de Kawaguchiko Station
-**Alternativa:** Fujikyu Railway → Shimoyoshida Station (5min, ¥160)
-
-**O que fazer:**
-- Subir **398 degraus** até o topo (15-20min)
-- **FOTO ICÔNICA:** Pagoda de 5 andares + Monte Fuji nevado ao fundo
-- Vista panorâmica 360° de Fujiyoshida
-- **Melhor luz:** Manhã (09:30-11:00) ☀️
-
-**Entrada:** FREE
-**Tempo:** 1h-1h30
-
-**Dica:** Dezembro = neve no Fuji + céu limpo = MELHOR ÉPOCA para essa foto!
-
-</details>
-
-### 11:00 – 12:30 • 🎡 KACHI KACHI ROPEWAY + Swing facing Mt. Fuji
-
-<details>
-<summary>Detalhes</summary>
-
-**Como chegar de bike:** 20min de Chureito até margem leste Lago Kawaguchi
-
-**Mt. Fuji Panoramic Ropeway:**
-- **Teleférico:** Sobe 400m em 3min até Monte Tenjo (1,075m altitude)
-- **Vista:** 360° panorâmica do Lago Kawaguchi + Monte Fuji
-- **Custo:** ¥900/pessoa round-trip = ¥1,800 total
-- **Horário:** Dezembro abre 09:30
-
-**No topo (Monte Tenjo):**
-1. **Kachi Kachi Swing** (¥500/pessoa) 🎢
-   - Balanço gigante (3.5m altura) DE FRENTE para o Monte Fuji
-   - Vista INSANA balançando com Fuji ao fundo
-   - **OUT OF THE BOX** ✨
-
-2. **Bell of Tenjo** (Sino do Amor) 🔔
-   - Moldura coração + sino
-   - Casais tocam juntos para sorte no relacionamento
-   - Vista Monte Fuji
-
-3. **Kawarake Throwing** (¥100)
-   - Jogar discos de cerâmica através de argola
-   - Boa sorte/fortuna
-
-4. **Café:** Mitarashi dango (bolinhos arroz) + chá quente
-
-**Lenda:** Local do conto "Kachi Kachi Yama" (coelho vs tanuki)
-
-</details>
-
-### 12:30 – 13:30 • 🍜 Almoço: Hoto Noodles (especialidade Fuji!)
-
-<details>
-<summary>Restaurante recomendado</summary>
-
-**Houtou Fudou** (perto do ropeway)
-- **Especialidade:** Hoto (macarrão grosso em sopa miso com vegetais)
-- **Opção vegana:** Pedir sem carne (野菜だけ - yasai dake)
-- **Custo:** ¥1,200-1,500/pessoa = ¥3,000 total
-- Servido em panela de ferro quente = PERFEITO no frio!
-
-</details>
-
-### 13:30 – 15:00 • 🏘️ OSHINO HAKKAI - Vila Tradicional + 8 Lagos Sagrados
-
-<details>
-<summary>Detalhes</summary>
-
-**Como chegar de bike:** 30min de Kawaguchiko (ou ônibus 20min, ¥300)
-
-**O que é:**
-- Vila tradicional ao pé do Monte Fuji
-- **8 lagos cristalinos** alimentados por água derretida da neve do Fuji
-- Água filtra por 80 anos através de lava = água PURÍSIMA
-- Casas tradicionais com telhado de palha
-- Rodas d'água girando
-- UNESCO World Heritage (parte do Monte Fuji)
-
-**Destaques:**
-- **Dezembro:** Possível ver "Diamond Fuji" (sol nascente/poente alinhado com pico)
-- **Água tão clara** que você vê o fundo dos lagos
-- Ruas tradicionais preservadas
-- Lojas de souvenirs artesanais
-- **ENTRADA FREE**
-
-**Tempo:** 1h-1h30
-
-</details>
-
-### 15:00 – 16:30 • ⛩️ KAWAGUCHI ASAMA SHRINE - UNESCO World Heritage
-
-<details>
-<summary>Santuário histórico com "Gate in the Sky"</summary>
-
-**Como chegar:** 15min de ônibus de Oshino Hakkai até Kawaguchiko Station, depois 15min de ônibus até o shrine (ou 20min de bike direto de Oshino)
-
-**História:**
-- Fundado em **865 d.C.** (1.160 anos!) para apaziguar a "raiva" do Monte Fuji e suas erupções
-- **UNESCO World Heritage Site** desde 2013 (parte do Monte Fuji)
-- Santuário principal na base norte do Monte Fuji
-
-**Destaques:**
-1. **7 Cedros Japoneses Gigantes** 🌲
-   - Mais de **1.200 anos de idade** cada um
-   - Árvores sagradas impressionantes
-   - Atmosfera mística e silenciosa
-
-2. **Tenku no Torii** (Gate in the Sky) ⛩️
-   - Torii gate PEQUENO mas FAMOSO no topo de uma colina
-   - Vista linda do Monte Fuji emoldurado pelo torii
-   - **FOTO OBRIGATÓRIA:** Torii + Fuji ao fundo
-
-3. **Arquitetura tradicional**
-   - Haiden (salão de orações)
-   - Honden (santuário principal)
-   - Lanternas de pedra centenárias
-
-**Entrada:** FREE
-**Tempo:** 45min-1h
-**Atmosfera:** Tranquila, espiritual, silenciosa - perfeito após o dia movimentado
-
-**Por quê vale a pena:**
-- ⛩️ UNESCO World Heritage
-- 🌲 Árvores de 1.200 anos (mais antigas que o Descobrimento do Brasil!)
-- 📸 "Gate in the Sky" com vista do Fuji
-- 🧘 Paz e conexão espiritual
-
-</details>
-
-### 16:30 – 17:00 • Retorno Kawaguchiko Station
-
-- Devolver bicicleta
-- Comprar souvenirs/snacks para viagem
-- Banheiro, refresh
-
-### 17:00 – 19:30 • Ônibus retorno Tokyo
-
-<details>
-<summary>Transporte de volta</summary>
-
-**Highway Bus Kawaguchiko → Shinjuku:**
-- Saída: 17:00 ou 17:30
-- Chegada: ~19:30
-- Custo: ¥2,060/pessoa (já incluído no bilhete ida/volta)
-
-**Dica:** Comprar bilhete ida/volta pela manhã economiza tempo!
-
-</details>
-
-### 19:30 – 21:00 • Jantar em Shinjuku
-
-<details>
-<summary>Opção vegetariana pós-aventura</summary>
-
-**Nagi Shokudo** (Shinjuku)
-- 100% Vegan ramen + sides
-- ¥1,000-1,500/pessoa
-- Perto da estação de ônibus
-- Perfeito após dia cansativo!
-
-</details>
-
-### 21:00 – 22:00 • Retorno ao hotel Ginza
-
-- Metrô Shinjuku → Ginza (15-20min)
-
-### 22:00 • Descanso
-
-**SEM WORK CALL!** É sábado! 🎉
-
----
-
-## 💰 Custo Total Day Trip Monte Fuji (Sábado 20/12):
-
-| Item | Custo (2 pessoas) |
-|------|------------------|
-| Ônibus round-trip Tokyo-Kawaguchiko | ¥8,240 |
-| Aluguel bicicleta | ¥1,000 |
-| Chureito Pagoda | FREE |
-| Kachi Kachi Ropeway | ¥1,800 |
-| Kachi Kachi Swing | ¥1,000 |
-| Almoço Hoto | ¥3,000 |
-| Oshino Hakkai | FREE |
-| Kawaguchi Asama Shrine | FREE |
-| Jantar | ¥3,000 |
-| **TOTAL** | **¥18,040** (~**R$ 660**) |
-
----
-
-## 🎯 Por que esse day trip é OUT OF THE BOX:
-
-1. **🎢 Swing facing Fuji** - Balançar a 1,075m com Fuji na sua frente (poucos fazem!)
-2. **🚴 Bicicleta** - Flexibilidade em vez de tour engessado
-3. **📸 Chureito Pagoda** - A foto MAIS ICÔNICA do Japão
-4. **🏘️ Oshino Hakkai** - Vila tradicional autêntica com 8 lagos sagrados
-5. **⛩️ Kawaguchi Asama Shrine** - UNESCO com árvores de 1.200 anos + "Gate in the Sky"
-6. **❄️ Dezembro** - Melhor época para vistas claras + neve no Fuji
-
----
-
-## ⚠️ Notas Importantes:
-
-**Clima dezembro:**
-- Temperatura: 0-8°C na região Fuji
-- **Levar:** Casaco grosso, luvas, cachecol, gorro
-- Sol se põe: ~16:30 (por isso voltar 17:00)
-
-**Reservas necessárias:**
-- ✅ Ônibus Tokyo-Kawaguchiko (reservar 1 semana antes)
-  - https://japanbusonline.com/ ou https://highway-buses.jp/
-
----
-
-## Domingo, 21 de dezembro de 2025
+## Sábado, 20 de dezembro de 2025
 
 **📋 Resumo do dia:** Senso-ji Asakusa | Tokyo Vegan Ramen Center (cooking class) | Tokyo Skytree | Akihabara (anime/games) | Vegan Bistro Jangara
+
+**💡 POR QUE SÁBADO EM TOKYO:** Final de semana = mais eventos, movimento, energia na cidade!
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
@@ -390,10 +135,276 @@ tokyoveganramen.com
 
 ### 22:30 – 23:00 • Retorno ao hotel
 
-### 23:00 – 23:30 • Descanso
+### 23:00 • Descanso
 
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
+**SEM WORK CALL!** É sábado! 🎉
+
+---
+
+## Domingo, 21 de dezembro de 2025 - DAY TRIP MONTE FUJI 🗻
+
+**📋 Resumo do dia:** LAWSON FUJI (foto VIRAL) | Chureito Pagoda (vista ICÔNICA) | Oshino Hakkai (vila + 8 lagos) | Kawaguchi Asama Shrine (UNESCO) | Retorno Tokyo
+
+**💡 POR QUE DOMINGO:** Começar CEDO no Lawson para luz perfeita + menos gente!
+
+### 04:45 • Acordar MUITO CEDO! ☀️
+
+**POR QUÊ:** Lawson precisa ser fotografado de manhã cedo (6:30-7:30) = melhor luz + menos turistas
+
+### 05:00 – 05:30 • Preparação rápida
+
+- Lavar rosto, trocar roupa
+- **Café:** Comprar no próprio Lawson ao chegar!
+
+### 05:30 – 08:00 • Transporte Tokyo → Kawaguchiko
+
+<details>
+<summary>Detalhes do transporte</summary>
+
+**Opção recomendada: Highway Bus PRIMEIRO do dia**
+- **Saída:** Shinjuku Highway Bus Terminal **05:35** (PRIMEIRO ônibus!)
+- **Chegada:** Kawaguchiko Station **07:55** (2h20min)
+- **Custo:** ¥2,060/pessoa = ¥4,120 total (2 pessoas)
+- **Reserva:** https://japanbusonline.com/ ou https://highway-buses.jp/
+- **IMPORTANTE:** Reservar COM ANTECEDÊNCIA! Ônibus cedo enche rápido
+
+**Por quê esse horário:**
+- Chegar 07:55 = tempo perfeito para Lawson às 08:15-09:00 (LUZ PERFEITA)
+
+</details>
+
+### 08:00 – 09:00 • 📸 LAWSON KAWAGUCHIKO - A FOTO VIRAL! 🏪
+
+<details>
+<summary>A foto MAIS VIRAL do Monte Fuji</summary>
+
+**Localização:** Lawson na rua principal de Kawaguchiko (5min a pé da estação)
+- Endereço: FamilyMart ou Lawson com vista direta do Fuji
+- **Coordenadas:** 35.5008, 138.7644
+
+**O QUE É:**
+- Conveniência store japonesa com **Monte Fuji GIGANTE ao fundo**
+- Logo azul/branco do Lawson + Fuji nevado = foto ICÔNICA viral no Instagram/TikTok
+- Turistas do mundo inteiro vêm ESPECIALMENTE para essa foto
+
+**MELHOR HORÁRIO:**
+- ⏰ **06:30-09:00** = luz dourada da manhã + Fuji iluminado
+- Menos turistas às 08:00-08:30
+- Dezembro = sol nasce ~06:40 = perfeito às 08:00!
+
+**DICAS PARA FOTO:**
+1. Ficar no meio da rua (CUIDADO com carros!)
+2. Enquadrar: logo Lawson embaixo + Monte Fuji gigante em cima
+3. Modo retrato para fundo desfocado
+4. Tirar várias fotos (turistas aparecem)
+
+**Café da manhã:**
+- Comprar **onigiri** (bolinho arroz), café, snacks NO PRÓPRIO LAWSON
+- Comer enquanto aprecia a vista
+
+**Entrada:** FREE (é uma loja pública!)
+**Tempo:** 30-45min (tirar MUITAS fotos!)
+
+</details>
+
+### 09:00 – 09:30 • Aluguel bicicleta + deslocamento
+
+<details>
+<summary>Aluguel de bicicleta</summary>
+
+- **Onde:** Kawaguchiko Station Rent-a-Cycle
+- **Custo:** ¥500/pessoa/dia = ¥1,000 total
+- **Por quê:** Flexibilidade para ir entre pontos + economia
+- **Alternativa:** Ônibus local (¥150-400/trecho)
+
+</details>
+
+### 09:30 – 11:00 • 📸 CHUREITO PAGODA - Vista CARTÃO POSTAL
+
+<details>
+<summary>Detalhes</summary>
+
+**Como chegar de bike:** 20min de Lawson/Kawaguchiko Station
+**Alternativa:** Fujikyu Railway → Shimoyoshida Station (5min, ¥160)
+
+**O que fazer:**
+- Subir **398 degraus** até o topo (15-20min)
+- **FOTO ICÔNICA:** Pagoda de 5 andares + Monte Fuji nevado ao fundo
+- Vista panorâmica 360° de Fujiyoshida
+- **Melhor luz:** Manhã (09:30-11:00) ☀️
+
+**Entrada:** FREE
+**Tempo:** 1h-1h30
+
+**Dica:** Dezembro = neve no Fuji + céu limpo = MELHOR ÉPOCA para essa foto!
+
+</details>
+
+### 11:00 – 12:30 • 🏘️ OSHINO HAKKAI - Vila Tradicional + 8 Lagos Sagrados
+
+<details>
+<summary>Detalhes</summary>
+
+**Como chegar de bike:** 30min de Chureito (ou ônibus 20min, ¥300)
+
+**O que é:**
+- Vila tradicional ao pé do Monte Fuji
+- **8 lagos cristalinos** alimentados por água derretida da neve do Fuji
+- Água filtra por 80 anos através de lava = água PURÍSIMA
+- Casas tradicionais com telhado de palha
+- Rodas d'água girando
+- UNESCO World Heritage (parte do Monte Fuji)
+
+**Destaques:**
+- **Dezembro:** Possível ver "Diamond Fuji" (sol nascente/poente alinhado com pico)
+- **Água tão clara** que você vê o fundo dos lagos
+- Ruas tradicionais preservadas
+- Lojas de souvenirs artesanais
+- **ENTRADA FREE**
+
+**Tempo:** 1h-1h30
+
+</details>
+
+### 12:30 – 13:30 • 🍜 Almoço: Hoto Noodles (especialidade Fuji!)
+
+<details>
+<summary>Restaurante recomendado</summary>
+
+**Houtou Fudou** (em Oshino Hakkai ou voltar para Kawaguchiko)
+- **Especialidade:** Hoto (macarrão grosso em sopa miso com vegetais)
+- **Opção vegana:** Pedir sem carne (野菜だけ - yasai dake)
+- **Custo:** ¥1,200-1,500/pessoa = ¥3,000 total
+- Servido em panela de ferro quente = PERFEITO no frio!
+
+</details>
+
+### 13:30 – 15:00 • ⛩️ KAWAGUCHI ASAMA SHRINE - UNESCO World Heritage
+
+<details>
+<summary>Santuário histórico com "Gate in the Sky"</summary>
+
+**Como chegar:** 20min de bike de Oshino até o shrine
+
+**História:**
+- Fundado em **865 d.C.** (1.160 anos!) para apaziguar a "raiva" do Monte Fuji e suas erupções
+- **UNESCO World Heritage Site** desde 2013 (parte do Monte Fuji)
+- Santuário principal na base norte do Monte Fuji
+
+**Destaques:**
+1. **7 Cedros Japoneses Gigantes** 🌲
+   - Mais de **1.200 anos de idade** cada um
+   - Árvores sagradas impressionantes
+   - Atmosfera mística e silenciosa
+
+2. **Tenku no Torii** (Gate in the Sky) ⛩️
+   - Torii gate PEQUENO mas FAMOSO no topo de uma colina
+   - Vista linda do Monte Fuji emoldurado pelo torii
+   - **FOTO OBRIGATÓRIA:** Torii + Fuji ao fundo
+
+3. **Arquitetura tradicional**
+   - Haiden (salão de orações)
+   - Honden (santuário principal)
+   - Lanternas de pedra centenárias
+
+**Entrada:** FREE
+**Tempo:** 45min-1h
+**Atmosfera:** Tranquila, espiritual, silenciosa
+
+**Por quê vale a pena:**
+- ⛩️ UNESCO World Heritage
+- 🌲 Árvores de 1.200 anos
+- 📸 "Gate in the Sky" com vista do Fuji
+- 🧘 Paz e conexão espiritual
+
+</details>
+
+### 15:00 – 15:30 • Retorno Kawaguchiko Station
+
+- Devolver bicicleta
+- Comprar souvenirs/snacks para viagem
+- Banheiro, refresh
+
+### 15:30 – 18:00 • Ônibus retorno Tokyo
+
+<details>
+<summary>Transporte de volta</summary>
+
+**Highway Bus Kawaguchiko → Shinjuku:**
+- Saída: 15:30 ou 16:00
+- Chegada: ~18:00
+- Custo: ¥2,060/pessoa (já incluído no bilhete ida/volta)
+
+**Dica:** Comprar bilhete ida/volta pela manhã economiza tempo!
+
+</details>
+
+### 18:00 – 19:30 • Jantar em Shinjuku
+
+<details>
+<summary>Opção vegetariana pós-aventura</summary>
+
+**Nagi Shokudo** (Shinjuku)
+- 100% Vegan ramen + sides
+- ¥1,000-1,500/pessoa
+- Perto da estação de ônibus
+- Perfeito após dia cansativo!
+
+</details>
+
+### 19:30 – 20:30 • Retorno ao hotel Ginza
+
+- Metrô Shinjuku → Ginza (15-20min)
+
+### 20:30 – 21:00 • Descanso
+
+### 21:00 – 22:00+ • Trabalho remoto (07:00 EST = 21:00 JST)
+- Daily work call DOMINGO à noite
+
+---
+
+## 💰 Custo Total Day Trip Monte Fuji (Domingo 21/12):
+
+| Item | Custo (2 pessoas) |
+|------|------------------|
+| Ônibus round-trip Tokyo-Kawaguchiko | ¥8,240 |
+| Aluguel bicicleta | ¥1,000 |
+| Lawson Fuji | FREE (+ café ~¥500) |
+| Chureito Pagoda | FREE |
+| Oshino Hakkai | FREE |
+| Almoço Hoto | ¥3,000 |
+| Kawaguchi Asama Shrine | FREE |
+| Jantar | ¥3,000 |
+| **TOTAL** | **¥15,740** (~**R$ 575**) |
+
+---
+
+## 🎯 Por que esse day trip é OUT OF THE BOX:
+
+1. **🏪 LAWSON FUJI** - A foto MAIS VIRAL do Monte Fuji (milhões de views no IG/TikTok!)
+2. **⏰ Começar às 04:45** - Acordar MUITO cedo vale CADA segundo pela luz perfeita
+3. **📸 Chureito Pagoda** - A foto MAIS ICÔNICA do Japão
+4. **🏘️ Oshino Hakkai** - Vila tradicional autêntica com 8 lagos sagrados
+5. **⛩️ Kawaguchi Asama Shrine** - UNESCO com árvores de 1.200 anos + "Gate in the Sky"
+6. **❄️ Dezembro** - Melhor época para vistas claras + neve no Fuji
+
+---
+
+## ⚠️ Notas Importantes:
+
+**Acordar cedo:**
+- 04:45 é MUITO cedo, mas a foto do Lawson com luz perfeita VALE A PENA
+- Dormir cedo no sábado (23:00)
+
+**Clima dezembro:**
+- Temperatura: 0-8°C na região Fuji
+- **Levar:** Casaco grosso, luvas, cachecol, gorro
+- Sol se põe: ~16:30
+
+**Reservas necessárias:**
+- ✅ Ônibus Tokyo-Kawaguchiko **05:35** (reservar 1-2 semanas antes!)
+  - https://japanbusonline.com/ ou https://highway-buses.jp/
+  - PRIMEIRO ônibus do dia enche RÁPIDO!
 
 ---
 
