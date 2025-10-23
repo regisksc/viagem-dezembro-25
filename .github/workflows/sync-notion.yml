@@ -2,6 +2,15 @@ name: Sync Markdown to Notion
 
 on:
   workflow_dispatch:
+    inputs:
+      sync_mode:
+        description: 'Sync mode (delta or full)'
+        required: false
+        default: 'delta'
+        type: choice
+        options:
+          - delta
+          - full
 
 jobs:
   sync:
@@ -10,6 +19,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for git diff
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -20,17 +31,28 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Sync Markdown to Notion
+    - name: Delta Sync Markdown to Notion
+      if: github.event.inputs.sync_mode == 'delta' || github.event.inputs.sync_mode == ''
       env:
         NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
         NOTION_PARENT_PAGE_ID: ${{ secrets.NOTION_PARENT_PAGE_ID }}
-      run: npm run sync
+        BASE_SHA: ${{ github.event.before || 'HEAD~1' }}
+        HEAD_SHA: ${{ github.sha }}
+      run: npm run sync:delta
+
+    - name: Full Sync Markdown to Notion
+      if: github.event.inputs.sync_mode == 'full'
+      env:
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_PARENT_PAGE_ID: ${{ secrets.NOTION_PARENT_PAGE_ID }}
+        FORCE_FULL_SYNC: 'true'
+      run: npm run sync:delta
 
     - name: Success notification
       if: success()
       run: |
         echo "✅ Sincronização Markdown → Notion concluída!"
-        echo "📄 Arquivos sincronizados: INDICE.md, itineraries/*.md"
+        echo "📄 Modo: ${{ github.event.inputs.sync_mode || 'delta' }}"
 
     - name: Failure notification
       if: failure()

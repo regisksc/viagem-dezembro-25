@@ -6,6 +6,7 @@
   "scripts": {
     "sync": "node scripts/sync-markdown-to-notion.js",
     "sync:single": "node scripts/sync-markdown-to-notion.js --file",
+    "sync:delta": "node scripts/sync-delta.js",
     "setup": "node scripts/setup-notion-pages.js"
   },
   "keywords": [
@@ -20,7 +21,12 @@
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "notion-to-md": "^3.1.1",
-    "markdown-it": "^14.0.0"
+    "markdown-it": "^14.0.0",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.4",
+    "simple-git": "^3.25.0"
   },
   "devDependencies": {
     "dotenv": "^16.3.1"

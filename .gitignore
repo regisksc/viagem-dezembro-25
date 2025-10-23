@@ -5,6 +5,9 @@ node_modules/
 .env
 .env.local
 
+# Notion sync mapping
+.notion-sync-map.json
+
 # Logs
 *.log
 npm-debug.log*
