@@ -712,3 +712,4 @@ Reddit: "Snacks em Asakusa/Harajuku = 2-3x preço normal"
 *"Don't overthink it. Walk into stores full of Japanese people. If you're the only tourist there, you found the right place."*
 
 **Boas compras! 🛍️**
+
