@@ -6,8 +6,11 @@ on:
     paths:
       - '*.md'
       - 'itineraries/*.md'
+      - 'guides/*.md'
       - 'docs/*.md'
       - 'scripts/sync-markdown-to-notion.js'
+      - 'package.json'
+      - 'package-lock.json'
 
   workflow_dispatch:
 
