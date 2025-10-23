@@ -500,80 +500,80 @@ tokyoveganramen.com
 - Fotos finais
 - Organizar malas para partida amanhã
 
-### 22:00 – 23:00 • Organizar malas COMPLETO
-- **Partida amanhã cedo de HANEDA** (Terminal 3 - Internacional)
+### 22:00 – 23:00 • Organizar malas COMPLETO + CARREGAR TUDO!
+- **VOO AMANHÃ 08:30 = ACORDAR 04:30!** ⚠️
 - Separar documentos, passaporte, boarding pass
-- Deixar malas prontas para check-out cedo
+- **CARREGAR:** Celular, power banks, eletrônicos
+- Deixar roupa separada para amanhã
+- Deixar malas 100% prontas
 
-### 23:00 – 23:30 • Descanso
+### 23:00 – 23:30 • ⚠️ PEDIR TÁXI PARA AMANHÃ 04:50!
+- **IMPORTANTE:** Ir à recepção pedir táxi para amanhã 04:50
+- Alternativa: Reservar Uber/JapanTaxi app agora
+- Confirmar hotel que você sai MUITO cedo
 
 ### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
 - Daily work call
+- **DORMIR CEDO HOJE!** Acordar 04:30 amanhã
 
 ---
 
 ## Quarta-feira, 24 de dezembro de 2025 - DIA DE PARTIDA ✈️
 
-**📋 Resumo do dia:** Check-out hotel | Transporte para Haneda Airport | Partida do Japão
+**📋 Resumo do dia:** Check-out hotel MADRUGADA | Táxi para Haneda Airport | Voo 08:30 HND → CDG (Paris)
 
-**⚠️ VOO INTERNACIONAL:** Chegar ao aeroporto 3h antes (mínimo 2h30)
+**⚠️ VOO 08:30 = ACORDAR MUITO CEDO! Primeiro trem é muito arriscado.**
 
-### 05:00 – 06:00 • Despertar e preparação final
+### 04:30 • Despertar MADRUGADA ⏰
+
+**Por quê tão cedo:**
+- Voo: 08:30
+- Chegar aeroporto: 05:30 (3h antes)
+- Transporte: 04:50 saída do hotel
+- = Acordar 04:30
 
 <details>
 <summary>Checklist de partida</summary>
 
-- ✅ Passaporte, boarding pass
+- ✅ Passaporte, boarding pass (imprimir ou digital)
 - ✅ Cartões de crédito, dinheiro
 - ✅ Documentos de viagem
-- ✅ Carregar eletrônicos
+- ✅ Carregar eletrônicos (fazer NA NOITE ANTERIOR!)
 - ✅ Última verificação do quarto
+- ✅ Não esquecer nada no cofre/banheiro
 
 </details>
 
-### 06:00 – 06:30 • Café da manhã rápido no hotel
-- Última refeição no Japão
-- Café da manhã incluído (7:00-11:00, mas pode pedir mais cedo)
-
-### 06:30 – 07:00 • Check-out do Ibis Styles Tokyo Ginza
-- Check-out oficial: 11:00, mas saindo cedo
+### 04:30 – 04:50 • Preparação final + check-out antecipado
+- Lavar rosto, trocar roupa
+- **SEM café da manhã** (muito cedo, comer no aeroporto)
+- Check-out antecipado no hotel
 - Última verificação das malas
 
-### 07:00 – 07:45 • Transporte Ginza → Haneda Airport
+### 04:50 – 05:30 • TÁXI Ginza → Haneda Airport (ÚNICA OPÇÃO!)
 
 <details>
-<summary>Opções de transporte (escolher 1)</summary>
+<summary>Por quê táxi é OBRIGATÓRIO nesse horário</summary>
 
-**OPÇÃO 1: Tokyo Monorail (RECOMENDADO)**
-- Ginza → Hamamatsucho (JR Yamanote Line, 5min, ¥160)
-- Hamamatsucho → Haneda Airport Terminal 3 (Tokyo Monorail, 13min, ¥500)
-- **Tempo total:** ~30-35min
-- **Custo:** ¥660/pessoa = ¥1,320 total (2 pessoas)
-- **Vantagem:** Rápido, direto, confiável
+**❌ TRENS NÃO FUNCIONAM às 04:50:**
+- Tokyo Monorail: Primeiro trem Hamamatsucho 05:17 → Haneda 05:30
+- Keikyu Line: Primeiro trem Shinagawa ~05:00 → Haneda 05:11
+- JR Yamanote para Hamamatsucho: Primeiro ~05:00
+- **= Chegaria 05:30 NO LIMITE, SEM MARGEM DE ERRO**
 
-**OPÇÃO 2: Keikyu Line**
-- Ginza → Shinagawa (metrô, 10min)
-- Shinagawa → Haneda Airport (Keikyu Express, 11min, ¥300)
-- **Tempo total:** ~30-35min
-- **Custo:** ¥600/pessoa = ¥1,200 total
-- **Vantagem:** Um pouco mais barato
+**✅ TÁXI É A ÚNICA OPÇÃO SEGURA:**
+- **Reservar ANTECIPADO:** Pedir hotel chamar táxi para 04:50
+- **OU:** Uber/apps de táxi (menos confiável de madrugada)
+- **Saída:** 04:50 do hotel
+- **Chegada:** 05:20-05:30 Haneda (sem trânsito de madrugada)
+- **Tempo:** 20-30min
+- **Custo:** ¥5,000-7,000 (~R$ 183-256 / $35-50)
 
-**OPÇÃO 3: Táxi/Uber**
-- Direto Ginza → Haneda
-- **Tempo:** 20-30min (sem trânsito)
-- **Custo:** ¥5,000-7,000
-- **Vantagem:** Porta a porta, sem carregar malas
-- **Desvantagem:** Pode pegar trânsito matinal
-
-**OPÇÃO 4: Airport Limousine Bus**
-- Saída de vários hotéis em Ginza
-- **Tempo:** 30-45min
-- **Custo:** ¥1,000/pessoa
-- **Vantagem:** Confortável, espaço para bagagem
+**Dica:** Pedir hotel arranjar táxi NA NOITE ANTERIOR (23/12)!
 
 </details>
 
-### 07:45 – 08:00 • Chegada Haneda Airport Terminal 3 (Internacional)
+### 05:20 – 05:30 • Chegada Haneda Airport Terminal 3 (Internacional)
 
 <details>
 <summary>Informações Haneda</summary>
@@ -590,22 +590,37 @@ tokyoveganramen.com
 
 </details>
 
-### 08:00 – 10:00 • Check-in e Immigration
+### 05:30 – 06:00 • Check-in
+- Check-in counters abrem 3h antes (05:30)
 - Fazer check-in das malas
-- Passar pela imigração japonesa
+- Pegar boarding pass
+
+### 06:00 – 06:30 • Immigration & Security
+- Passar pela imigração japonesa (carimbo de saída)
 - Security check
+- Entrar na área de embarque
 
-### 10:00+ • Área de embarque
-- Duty-free shopping (última chance!)
-- Snacks japoneses para viagem
-- Relaxar antes do voo
+### 06:30 – 08:00 • Área de embarque - Tempo LIVRE!
+- ☕ **Café da manhã no aeroporto** (primeira refeição do dia!)
+- 🛍️ Duty-free shopping (última chance!)
+  - Whisky japonês, sake, snacks, cosméticos
+- 📸 Últimas fotos do Japão
+- Relaxar antes do voo longo (13h para Paris)
 
-### Horário do voo • Partida do Japão 🇯🇵
-- **Aeroporto:** Tokyo Haneda (HND) - Terminal 3
-- **Destino:** [Adicionar destino]
-- **Horário:** [Adicionar horário do voo]
+### 08:00 • Embarque
+- Gate provavelmente abre ~07:45
+- Embarcar com calma
 
-**🎌 Fim da aventura japonesa!**
+### 08:30 • VOO HND → CDG (Paris) ✈️
+- **Voo:** [Adicionar número do voo]
+- **Cia aérea:** [Adicionar cia aérea]
+- **Origem:** Tokyo Haneda (HND) - Terminal 3
+- **Destino:** Paris Charles de Gaulle (CDG)
+- **Horário saída:** 08:30 (horário Tokyo)
+- **Duração:** ~13h
+- **Chegada Paris:** ~14:30 (mesmo dia, horário Paris)
+
+**🎌 Fim da aventura japonesa! Au revoir Tokyo, Bonjour Paris! 🇫🇷**
 
 ---
 
