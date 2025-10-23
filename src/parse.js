@@ -1,6 +1,6 @@
 const { unified } = require('unified');
-const remarkParse = require('remark-parse');
-const remarkGfm = require('remark-gfm');
+const remarkParse = require('remark-parse').default || require('remark-parse');
+const remarkGfm = require('remark-gfm').default || require('remark-gfm');
 
 /**
  * Parse Markdown to AST with position tracking
@@ -12,6 +12,7 @@ function parseMarkdownToAST(markdown) {
     .use(remarkParse)
     .use(remarkGfm);
 
+  // Parse the markdown - the parse method is synchronous
   const ast = processor.parse(markdown);
   return ast;
 }
