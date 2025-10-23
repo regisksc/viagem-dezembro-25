@@ -32,7 +32,8 @@ const cityEmojis = {
   'nagano': '🏔️',
   'tokyo': '🗼',
   'paris': '🗼',
-  'INDICE': '🗺️'
+  'INDICE': '🗺️',
+  'shopping-guide': '🛍️'
 };
 
 // Converter markdown para blocos do Notion
@@ -285,7 +286,8 @@ async function main() {
     'kyoto.md': 'itineraries/kyoto.md',
     'nagano.md': 'itineraries/nagano.md',
     'tokyo.md': 'itineraries/tokyo.md',
-    'paris.md': 'itineraries/paris.md'
+    'paris.md': 'itineraries/paris.md',
+    'shopping-guide.md': 'guides/shopping-guide.md'
   };
 
   const rootDir = path.join(__dirname, '..');
