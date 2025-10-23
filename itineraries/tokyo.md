@@ -498,11 +498,12 @@ tokyoveganramen.com
 ### 19:00 – 22:00 • Última noite em Tokyo
 - Revisitar local favorito
 - Fotos finais
-- Organizar malas para voo amanhã
+- Organizar malas para partida amanhã
 
 ### 22:00 – 23:00 • Organizar malas COMPLETO
-- Voo às 08:30 amanhã de HANEDA (não Narita!)
-- Separar documentos, boarding pass
+- **Partida amanhã cedo de HANEDA** (Terminal 3 - Internacional)
+- Separar documentos, passaporte, boarding pass
+- Deixar malas prontas para check-out cedo
 
 ### 23:00 – 23:30 • Descanso
 
@@ -511,23 +512,100 @@ tokyoveganramen.com
 
 ---
 
-## Quarta-feira, 24 de dezembro de 2025 - DIA DE PARTIDA
+## Quarta-feira, 24 de dezembro de 2025 - DIA DE PARTIDA ✈️
 
-**📋 Resumo do dia:** Últimas compras/exploração em Tokyo | Check-out do hotel | Partida do Japão
+**📋 Resumo do dia:** Check-out hotel | Transporte para Haneda Airport | Partida do Japão
 
-### 07:00 – 08:00 • Café da manhã no hotel
+**⚠️ VOO INTERNACIONAL:** Chegar ao aeroporto 3h antes (mínimo 2h30)
 
-### 08:00 – 10:00 • Últimas compras/exploração
-- Galeries Lafayette para compras finais
-- Souvenirs finais de Tokyo
-- Última caminhada por Ginza
+### 05:00 – 06:00 • Despertar e preparação final
 
-### 10:00 – 11:00 • Check-out do Ibis Styles Tokyo Ginza
-- Organizar malas
-- Verificar detalhes de partida
+<details>
+<summary>Checklist de partida</summary>
 
-### 11:00+ • Partida
-- Dependendo dos planos de viagem
+- ✅ Passaporte, boarding pass
+- ✅ Cartões de crédito, dinheiro
+- ✅ Documentos de viagem
+- ✅ Carregar eletrônicos
+- ✅ Última verificação do quarto
+
+</details>
+
+### 06:00 – 06:30 • Café da manhã rápido no hotel
+- Última refeição no Japão
+- Café da manhã incluído (7:00-11:00, mas pode pedir mais cedo)
+
+### 06:30 – 07:00 • Check-out do Ibis Styles Tokyo Ginza
+- Check-out oficial: 11:00, mas saindo cedo
+- Última verificação das malas
+
+### 07:00 – 07:45 • Transporte Ginza → Haneda Airport
+
+<details>
+<summary>Opções de transporte (escolher 1)</summary>
+
+**OPÇÃO 1: Tokyo Monorail (RECOMENDADO)**
+- Ginza → Hamamatsucho (JR Yamanote Line, 5min, ¥160)
+- Hamamatsucho → Haneda Airport Terminal 3 (Tokyo Monorail, 13min, ¥500)
+- **Tempo total:** ~30-35min
+- **Custo:** ¥660/pessoa = ¥1,320 total (2 pessoas)
+- **Vantagem:** Rápido, direto, confiável
+
+**OPÇÃO 2: Keikyu Line**
+- Ginza → Shinagawa (metrô, 10min)
+- Shinagawa → Haneda Airport (Keikyu Express, 11min, ¥300)
+- **Tempo total:** ~30-35min
+- **Custo:** ¥600/pessoa = ¥1,200 total
+- **Vantagem:** Um pouco mais barato
+
+**OPÇÃO 3: Táxi/Uber**
+- Direto Ginza → Haneda
+- **Tempo:** 20-30min (sem trânsito)
+- **Custo:** ¥5,000-7,000
+- **Vantagem:** Porta a porta, sem carregar malas
+- **Desvantagem:** Pode pegar trânsito matinal
+
+**OPÇÃO 4: Airport Limousine Bus**
+- Saída de vários hotéis em Ginza
+- **Tempo:** 30-45min
+- **Custo:** ¥1,000/pessoa
+- **Vantagem:** Confortável, espaço para bagagem
+
+</details>
+
+### 07:45 – 08:00 • Chegada Haneda Airport Terminal 3 (Internacional)
+
+<details>
+<summary>Informações Haneda</summary>
+
+**Terminal 3 - Internacional:**
+- Check-in counters: 3h antes do voo
+- Immigration & Security: Pode ter fila
+- Duty-free shops extensos
+
+**Tempo recomendado:**
+- ✅ Check-in: 2h30-3h antes
+- ✅ Immigration: 2h antes
+- ✅ Embarque: 45min antes
+
+</details>
+
+### 08:00 – 10:00 • Check-in e Immigration
+- Fazer check-in das malas
+- Passar pela imigração japonesa
+- Security check
+
+### 10:00+ • Área de embarque
+- Duty-free shopping (última chance!)
+- Snacks japoneses para viagem
+- Relaxar antes do voo
+
+### Horário do voo • Partida do Japão 🇯🇵
+- **Aeroporto:** Tokyo Haneda (HND) - Terminal 3
+- **Destino:** [Adicionar destino]
+- **Horário:** [Adicionar horário do voo]
+
+**🎌 Fim da aventura japonesa!**
 
 ---
 
