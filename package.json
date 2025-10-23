@@ -20,7 +20,7 @@
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "notion-to-md": "^3.1.1",
-    "md-to-notion": "^1.0.0"
+    "markdown-it": "^14.0.0"
   },
   "devDependencies": {
     "dotenv": "^16.3.1"

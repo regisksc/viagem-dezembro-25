@@ -380,6 +380,62 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - Roupas esportivas com DESCONTO
 - **Dica:** Ir às 10h (abre) para ter todo o estoque
 
+---
+
+### 👟 **SNEAKER STORES** (High-end & Hype)
+
+<details>
+<summary>Lojas especializadas em tênis</summary>
+
+#### **ABC-MART GRAND STAGE**
+- **O QUE É:** Maior cadeia de sneaker stores do Japão
+- **Formato Grand Stage:** Flagship stores maiores
+- Mainstream brands (Nike, Adidas, Converse, Vans)
+- **Localização:** Harajuku, Shibuya, Shinjuku
+- **Preço:** Médio (não é bargain, mas razoável)
+- **Vantagem:** Tax-free disponível
+
+#### **ALPEN TOKYO** (já mencionado acima)
+- Mainstream brands + Japan-only colorways
+- Fair prices
+- Foot scan grátis
+- **Melhor custo-benefício** para marcas mainstream
+
+#### **KICKS LAB.**
+- **Tipo:** High-end sneaker boutique
+- **Especialidade:** Retro Jordans, Nike SB, hype releases
+- **Público:** Sneakerheads, colecionadores
+- **Localização:** Harajuku, Shibuya
+- **Preço:** ALTO (premium/resale pricing)
+- **Vantagem:** Tênis difíceis de achar, edições limitadas
+- **Desvantagem:** Não é bargain, é caro!
+
+#### **UNDEFEATED TOKYO**
+- **Conceito:** LA meets Tokyo streetwear
+- **Vibe:** Rare collabs, cool atmosphere
+- **Localização:** Harajuku, Daikanyama
+- **Público:** Streetwear enthusiasts
+- **Preço:** Premium (não barato)
+- **Por quê vale:** Colaborações exclusivas, cultura streetwear autêntica
+
+#### **BILLY'S TOKYO**
+- **Tipo:** Curated streetwear + lifestyle sneaker store
+- **Diferencial:** Exclusive models, clean store aesthetics
+- **Atmosfera:** Mais boutique que loja
+- **Localização:** Omotesando, Shibuya
+- **Preço:** Premium/Alto
+- **Target:** Fashion-forward sneaker buyers
+
+</details>
+
+**💡 DICA GERAL SNEAKERS:**
+- **Para BARGAINS:** Alpen Tokyo (mainstream brands, preço justo)
+- **Para HYPE/RARE:** Kicks Lab, Undefeated, Billy's (caro, mas exclusivo)
+- **Para VARIETY mainstream:** ABC-Mart Grand Stage
+- **EVITE:** Comprar mainstream brands (Nike, Adidas regular) em lojas hype (overpriced!)
+
+---
+
 ### **SHIMOKITAZAWA** (Vintage heaven) 🌟 HIDDEN GEM
 - **O QUE É:** Bairro de vintage clothing stores, music venues, cafés
 - Labirintos de ruas pedestres
