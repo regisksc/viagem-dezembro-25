@@ -1,61 +1,62 @@
-const { unified } = require('unified');
-const remarkParse = require('remark-parse').default || require('remark-parse');
-const remarkGfm = require('remark-gfm').default || require('remark-gfm');
+const MarkdownIt = require('markdown-it');
+
+// Initialize markdown-it with GFM support
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});
 
 /**
- * Parse Markdown to AST with position tracking
+ * Parse Markdown to tokens with position tracking
  * @param {string} markdown - Raw markdown content
- * @returns {Object} - AST tree with position information
+ * @returns {Array} - Token array with position information
  */
-function parseMarkdownToAST(markdown) {
-  const processor = unified()
-    .use(remarkParse)
-    .use(remarkGfm);
-
-  // Parse the markdown - the parse method is synchronous
-  const ast = processor.parse(markdown);
-  return ast;
+function parseMarkdownToTokens(markdown) {
+  const tokens = md.parse(markdown, {});
+  return tokens;
 }
 
 /**
- * Convert AST node to Notion block format
- * @param {Object} node - AST node
+ * Convert markdown-it token to Notion block format
+ * @param {Object} token - markdown-it token
+ * @param {Array} tokens - All tokens (for context)
+ * @param {number} index - Current token index
  * @returns {Object|null} - Notion block or null if not convertible
  */
-function astNodeToNotionBlock(node) {
-  if (!node.type) return null;
+function tokenToNotionBlock(token, tokens, index) {
+  if (!token.type) return null;
 
-  switch (node.type) {
-    case 'heading':
-      return convertHeading(node);
+  // Skip closing tags
+  if (token.nesting === -1) return null;
 
-    case 'paragraph':
-      return convertParagraph(node);
+  switch (token.type) {
+    case 'heading_open':
+      return convertHeading(token, tokens, index);
 
-    case 'list':
-      return convertList(node);
+    case 'paragraph_open':
+      return convertParagraph(token, tokens, index);
 
-    case 'listItem':
-      return convertListItem(node);
+    case 'bullet_list_open':
+    case 'ordered_list_open':
+      return convertList(token, tokens, index);
 
-    case 'code':
-      return convertCode(node);
+    case 'code_block':
+    case 'fence':
+      return convertCodeBlock(token);
 
-    case 'blockquote':
-      return convertBlockquote(node);
+    case 'blockquote_open':
+      return convertBlockquote(token, tokens, index);
 
-    case 'thematicBreak':
+    case 'hr':
       return {
         object: 'block',
         type: 'divider',
         divider: {}
       };
 
-    case 'table':
-      return convertTable(node);
-
-    case 'html':
-      return convertHtml(node);
+    case 'html_block':
+      return convertHtmlBlock(token);
 
     default:
       return null;
@@ -63,27 +64,33 @@ function astNodeToNotionBlock(node) {
 }
 
 /**
- * Convert heading node to Notion block
+ * Convert heading token to Notion block
  */
-function convertHeading(node) {
-  const level = Math.min(node.depth, 3); // Notion supports heading_1, heading_2, heading_3
+function convertHeading(token, tokens, index) {
+  const level = Math.min(parseInt(token.tag.substring(1)), 3);
   const type = `heading_${level}`;
+
+  // Find the inline token with content
+  const inlineToken = tokens[index + 1];
+  const richText = inlineToken ? convertInlineToken(inlineToken) : [];
 
   return {
     object: 'block',
     type,
     [type]: {
-      rich_text: convertInlineContent(node.children),
+      rich_text: richText,
       color: 'default'
     }
   };
 }
 
 /**
- * Convert paragraph node to Notion block
+ * Convert paragraph token to Notion block
  */
-function convertParagraph(node) {
-  const richText = convertInlineContent(node.children);
+function convertParagraph(token, tokens, index) {
+  // Find the inline token with content
+  const inlineToken = tokens[index + 1];
+  const richText = inlineToken ? convertInlineToken(inlineToken) : [];
 
   // Skip empty paragraphs
   if (richText.length === 0 || (richText.length === 1 && !richText[0].text.content.trim())) {
@@ -101,124 +108,112 @@ function convertParagraph(node) {
 }
 
 /**
- * Convert list node to Notion blocks (returns array since lists are flattened)
+ * Convert list token to Notion blocks
  */
-function convertList(node) {
-  const type = node.ordered ? 'numbered_list_item' : 'bulleted_list_item';
+function convertList(token, tokens, index) {
+  const isOrdered = token.type === 'ordered_list_open';
+  const type = isOrdered ? 'numbered_list_item' : 'bulleted_list_item';
+  const blocks = [];
 
-  return node.children.map(item => {
-    const richText = convertInlineContent(item.children);
+  // Find all list items
+  let i = index + 1;
+  while (i < tokens.length && tokens[i].type !== 'bullet_list_close' && tokens[i].type !== 'ordered_list_close') {
+    if (tokens[i].type === 'list_item_open') {
+      // Find the inline content
+      let j = i + 1;
+      let richText = [];
 
-    return {
-      object: 'block',
-      type,
-      [type]: {
-        rich_text: richText,
-        color: 'default'
+      while (j < tokens.length && tokens[j].type !== 'list_item_close') {
+        if (tokens[j].type === 'inline') {
+          richText = convertInlineToken(tokens[j]);
+          break;
+        } else if (tokens[j].type === 'paragraph_open' && tokens[j + 1] && tokens[j + 1].type === 'inline') {
+          richText = convertInlineToken(tokens[j + 1]);
+          break;
+        }
+        j++;
       }
-    };
-  });
+
+      blocks.push({
+        object: 'block',
+        type,
+        [type]: {
+          rich_text: richText.length > 0 ? richText : [{ type: 'text', text: { content: '' } }],
+          color: 'default'
+        }
+      });
+    }
+    i++;
+  }
+
+  return blocks;
 }
 
 /**
- * Convert list item node to Notion block
+ * Convert code block token to Notion block
  */
-function convertListItem(node) {
-  // This is handled by convertList
-  return null;
-}
-
-/**
- * Convert code block to Notion block
- */
-function convertCode(node) {
+function convertCodeBlock(token) {
   return {
     object: 'block',
     type: 'code',
     code: {
       rich_text: [{
         type: 'text',
-        text: { content: node.value || '' }
+        text: { content: token.content || '' }
       }],
-      language: node.lang || 'plain text'
+      language: token.info || 'plain text'
     }
   };
 }
 
 /**
- * Convert blockquote to Notion block
+ * Convert blockquote token to Notion block
  */
-function convertBlockquote(node) {
-  const richText = convertInlineContent(node.children);
+function convertBlockquote(token, tokens, index) {
+  // Find inline content inside blockquote
+  let richText = [];
+  let i = index + 1;
+
+  while (i < tokens.length && tokens[i].type !== 'blockquote_close') {
+    if (tokens[i].type === 'inline') {
+      richText = convertInlineToken(tokens[i]);
+      break;
+    } else if (tokens[i].type === 'paragraph_open' && tokens[i + 1] && tokens[i + 1].type === 'inline') {
+      richText = convertInlineToken(tokens[i + 1]);
+      break;
+    }
+    i++;
+  }
 
   return {
     object: 'block',
     type: 'quote',
     quote: {
-      rich_text: richText,
+      rich_text: richText.length > 0 ? richText : [{ type: 'text', text: { content: '' } }],
       color: 'default'
     }
   };
 }
 
 /**
- * Convert table to Notion table block
+ * Convert HTML block to Notion block
  */
-function convertTable(node) {
-  // Notion tables are complex - for now, convert to code block with markdown table
-  const tableMarkdown = reconstructTableMarkdown(node);
+function convertHtmlBlock(token) {
+  const html = token.content || '';
 
-  return {
-    object: 'block',
-    type: 'code',
-    code: {
-      rich_text: [{
-        type: 'text',
-        text: { content: tableMarkdown }
-      }],
-      language: 'markdown'
-    }
-  };
-}
-
-/**
- * Reconstruct markdown table from AST
- */
-function reconstructTableMarkdown(node) {
-  let markdown = '';
-
-  if (node.children && node.children.length > 0) {
-    node.children.forEach((row, rowIndex) => {
-      const cells = row.children.map(cell =>
-        cell.children.map(c => extractTextFromNode(c)).join('')
-      );
-      markdown += '| ' + cells.join(' | ') + ' |\n';
-
-      // Add separator after header row
-      if (rowIndex === 0) {
-        markdown += '| ' + cells.map(() => '---').join(' | ') + ' |\n';
-      }
-    });
-  }
-
-  return markdown;
-}
-
-/**
- * Convert HTML to Notion block (handle <details> tags)
- */
-function convertHtml(node) {
-  const html = node.value || '';
-
-  // Check if it's a <details> tag for spoilers
+  // Check if it's a <details> tag for spoilers/toggles
   if (html.includes('<details>')) {
+    // Extract summary if present
+    const summaryMatch = html.match(/<summary>(.*?)<\/summary>/s);
+    const summary = summaryMatch ? summaryMatch[1].trim() : 'Detalhes';
+
     return {
       object: 'block',
       type: 'toggle',
       toggle: {
         rich_text: [{
           type: 'text',
-          text: { content: 'Detalhes' }
+          text: { content: summary }
         }],
         color: 'default'
       }
@@ -242,18 +237,31 @@ function convertHtml(node) {
 }
 
 /**
- * Convert inline content (text, links, emphasis, etc.) to Notion rich_text array
+ * Convert inline token to Notion rich_text array
  */
-function convertInlineContent(nodes) {
-  if (!nodes || nodes.length === 0) return [];
+function convertInlineToken(token) {
+  if (!token.children || token.children.length === 0) {
+    return [{
+      type: 'text',
+      text: { content: token.content || '' },
+      annotations: {
+        bold: false,
+        italic: false,
+        strikethrough: false,
+        underline: false,
+        code: false,
+        color: 'default'
+      }
+    }];
+  }
 
   const richText = [];
 
-  for (const node of nodes) {
-    if (node.type === 'text') {
+  for (const child of token.children) {
+    if (child.type === 'text') {
       richText.push({
         type: 'text',
-        text: { content: node.value },
+        text: { content: child.content },
         annotations: {
           bold: false,
           italic: false,
@@ -263,41 +271,44 @@ function convertInlineContent(nodes) {
           color: 'default'
         }
       });
-    } else if (node.type === 'strong') {
-      // Bold text
-      const content = extractTextFromNode(node);
+    } else if (child.type === 'strong_open') {
+      // Find the text inside strong tags
+      const nextChild = token.children[token.children.indexOf(child) + 1];
+      if (nextChild && nextChild.type === 'text') {
+        richText.push({
+          type: 'text',
+          text: { content: nextChild.content },
+          annotations: {
+            bold: true,
+            italic: false,
+            strikethrough: false,
+            underline: false,
+            code: false,
+            color: 'default'
+          }
+        });
+      }
+    } else if (child.type === 'em_open') {
+      // Find the text inside em tags
+      const nextChild = token.children[token.children.indexOf(child) + 1];
+      if (nextChild && nextChild.type === 'text') {
+        richText.push({
+          type: 'text',
+          text: { content: nextChild.content },
+          annotations: {
+            bold: false,
+            italic: true,
+            strikethrough: false,
+            underline: false,
+            code: false,
+            color: 'default'
+          }
+        });
+      }
+    } else if (child.type === 'code_inline') {
       richText.push({
         type: 'text',
-        text: { content },
-        annotations: {
-          bold: true,
-          italic: false,
-          strikethrough: false,
-          underline: false,
-          code: false,
-          color: 'default'
-        }
-      });
-    } else if (node.type === 'emphasis') {
-      // Italic text
-      const content = extractTextFromNode(node);
-      richText.push({
-        type: 'text',
-        text: { content },
-        annotations: {
-          bold: false,
-          italic: true,
-          strikethrough: false,
-          underline: false,
-          code: false,
-          color: 'default'
-        }
-      });
-    } else if (node.type === 'inlineCode') {
-      // Inline code
-      richText.push({
-        type: 'text',
-        text: { content: node.value },
+        text: { content: child.content },
         annotations: {
           bold: false,
           italic: false,
@@ -307,50 +318,36 @@ function convertInlineContent(nodes) {
           color: 'default'
         }
       });
-    } else if (node.type === 'link') {
-      // Link
-      const content = extractTextFromNode(node);
-      richText.push({
-        type: 'text',
-        text: {
-          content,
-          link: { url: node.url }
-        },
-        annotations: {
-          bold: false,
-          italic: false,
-          strikethrough: false,
-          underline: false,
-          code: false,
-          color: 'default'
-        }
-      });
-    } else if (node.type === 'break') {
-      // Line break
+    } else if (child.type === 'link_open') {
+      // Find the text inside link
+      const nextChild = token.children[token.children.indexOf(child) + 1];
+      if (nextChild && nextChild.type === 'text') {
+        richText.push({
+          type: 'text',
+          text: {
+            content: nextChild.content,
+            link: { url: child.attrGet('href') || '' }
+          },
+          annotations: {
+            bold: false,
+            italic: false,
+            strikethrough: false,
+            underline: false,
+            code: false,
+            color: 'default'
+          }
+        });
+      }
+    } else if (child.type === 'softbreak' || child.type === 'hardbreak') {
       richText.push({
         type: 'text',
         text: { content: '\n' }
       });
-    } else if (node.children) {
-      // Recursively process children
-      richText.push(...convertInlineContent(node.children));
     }
   }
 
   // Merge consecutive text nodes with same formatting
   return mergeConsecutiveTextNodes(richText);
-}
-
-/**
- * Extract plain text from AST node
- */
-function extractTextFromNode(node) {
-  if (node.type === 'text') {
-    return node.value;
-  } else if (node.children) {
-    return node.children.map(extractTextFromNode).join('');
-  }
-  return '';
 }
 
 /**
@@ -391,11 +388,23 @@ function mergeConsecutiveTextNodes(richText) {
  * @returns {Array<{block: Object, position: Object}>}
  */
 function markdownToNotionBlocks(markdown) {
-  const ast = parseMarkdownToAST(markdown);
+  const tokens = parseMarkdownToTokens(markdown);
   const blocks = [];
 
-  function traverse(node, lineOffset = 0) {
-    const notionBlock = astNodeToNotionBlock(node);
+  // Calculate line positions from markdown
+  const lines = markdown.split('\n');
+  let currentLine = 1;
+
+  for (let i = 0; i < tokens.length; i++) {
+    const token = tokens[i];
+
+    // Calculate approximate position based on token map
+    const position = token.map ? {
+      start: token.map[0] + 1,
+      end: token.map[1] + 1
+    } : null;
+
+    const notionBlock = tokenToNotionBlock(token, tokens, i);
 
     if (notionBlock) {
       // Handle list nodes that return arrays
@@ -403,43 +412,27 @@ function markdownToNotionBlocks(markdown) {
         notionBlock.forEach((block, index) => {
           blocks.push({
             block,
-            position: node.position ? {
-              start: node.position.start.line,
-              end: node.position.end.line
-            } : null,
-            type: node.type,
+            position,
+            type: token.type,
             listIndex: index
           });
         });
       } else {
         blocks.push({
           block: notionBlock,
-          position: node.position ? {
-            start: node.position.start.line,
-            end: node.position.end.line
-          } : null,
-          type: node.type
+          position,
+          type: token.type
         });
       }
     }
-
-    // Traverse children for non-list nodes (lists are handled above)
-    if (node.children && node.type !== 'list') {
-      node.children.forEach(child => traverse(child, lineOffset));
-    }
-  }
-
-  if (ast.children) {
-    ast.children.forEach(child => traverse(child));
   }
 
   return blocks;
 }
 
 module.exports = {
-  parseMarkdownToAST,
-  astNodeToNotionBlock,
+  parseMarkdownToTokens,
+  tokenToNotionBlock,
   markdownToNotionBlocks,
-  convertInlineContent,
-  extractTextFromNode
+  convertInlineToken
 };
