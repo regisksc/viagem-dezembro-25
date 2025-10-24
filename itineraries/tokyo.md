@@ -3,20 +3,42 @@
 ## 🏨 Informações do Hotel
 
 **Nome:** Ibis Styles Tokyo Ginza
-**Check-in:** 19/12/2025 15:00 | **Check-out:** 24/12/2025 11:00
+**Check-in:** 19/12/2025 15:00 | **Check-out:** 24/12/2025 03:00 (madrugada)
 **Preço:** JPY 20,149/noite (~R$ 675/noite)
-**Café da manhã:** 7:00-11:00 (últimos pedidos 10:30)
+**Café da manhã:** 7:00-11:00
 **Inclui:** Café da manhã
 
 ---
 
-**Ir para:** [Sexta, 19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) | [Domingo, 21 dez](#domingo-21-de-dezembro-de-2025) | [Segunda, 22 dez](#segunda-feira-22-de-dezembro-de-2025) | [Terça, 23 dez](#terça-feira-23-de-dezembro-de-2025) | [Quarta, 24 dez](#quarta-feira-24-de-dezembro-de-2025---dia-de-partida)
+## ⏰ TRABALHO REMOTO - HORÁRIOS CRÍTICOS
+
+**DSU Diário (Seg-Sex):** 23:30 JST (09:30 EST)
+**Reunião Semanal (Quintas):** 00:30 sexta JST (10:30 EST quinta)
+**Regra:** Estar no hotel às 21:00 trabalhando
+
+**DIAS SEM DSU:** Sábado 20 e Domingo 21 🎉
+
+---
+
+## 🛍️ ESTRATÉGIA DE SHOPPING
+
+**SÁBADO 20/12 = DIA PRINCIPAL DE COMPRAS** (80-90%)
+- Único dia livre completo sem DSU
+- Foco: Eletrônicos, washlet, facas, cerâmicas
+
+**SEGUNDA 22/12 = COMPRAS COMPLEMENTARES** (10-15%)
+- Roupas, papelaria, itens esquecidos
+
+**TERÇA 23/12 = ÚLTIMA CHANCE** (5%)
+- Snacks frescos, depachika descontos após 19:00
 
 ---
 
 ## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo do dia:** Chegada de Nagano (14:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu + Harajuku | Ain Soph Ginza (jantar vegan)
+**📋 Resumo do dia:** Chegada de Nagano (14:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu | Jantar vegan
+
+**💡 DIA DE CHEGADA = SEM DSU!**
 
 ### 14:52 • Chegada em Tokyo Station
 
@@ -62,82 +84,133 @@ ainsoph.jp/ginza
 - 2º andar: panquecas veganas, pudim japonês vegano, tiramisu
 - **Horário:** Seg-Sáb Lunch 11:30-14:30, Tea 14:30-17:00, Dinner 18:00-21:00
 
-### 20:30 – 22:30 • Exploração de Ginza à noite
-- Área sofisticada com lojas de luxo
-- Arquitetura moderna iluminada
-- Perto do hotel
+### 20:30 – 21:00 • Volta ao hotel
 
-### 22:30 – 23:00 • Retorno ao hotel
-
-### 23:00 – 23:30 • Descanso
-
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
+**SEM DSU - É SEXTA, CHEGOU DE NAGANO! 🎉**
 
 ---
 
-## Sábado, 20 de dezembro de 2025
+## Sábado, 20 de dezembro de 2025 - SHOPPING DAY! 🛍️
 
-**📋 Resumo do dia:** Senso-ji Asakusa | Tokyo Vegan Ramen Center (cooking class) | Tokyo Skytree | Akihabara (anime/games) | Vegan Bistro Jangara
+**📋 Resumo:** Senso-ji + Nakamise (manhã) | **MARATONA DE COMPRAS** (tarde) | **Tokyo Metropolitan Building Observatory** (grátis, noite)
 
-**💡 POR QUE SÁBADO EM TOKYO:** Final de semana = mais eventos, movimento, energia na cidade!
+**💡 DIA MAIS IMPORTANTE = SEM DSU!**
 
 ### 07:00 – 08:00 • Café da manhã no hotel
 
-### 08:00 – 12:00 • Templo Senso-ji em Asakusa
-- **Entrada:** FREE
-- Templo budista mais ANTIGO de Tokyo (fundado 628)
-- **Nakamise Shopping Street:** 250m de lojas tradicionais
-- Kaminarimon Gate com lanterna gigante de 700kg
-- Omikuji (papelzinhos de sorte) ¥100
-- Incenso purificador
-- **MELHOR:** Cedo da manhã ou noite iluminado
+### 08:00 – 12:30 • Senso-ji + Nakamise Shopping
 
-### 12:00 – 13:30 • Almoço
-**Opção vegetariana:**
-- **Tokyo Vegan Ramen Center** - Aula de sushi vegano + almoço | ¥5000-8000 (~R$ 182-292 / $35-56 USD)
-+81-3-6457-5100
-tokyoveganramen.com
-- EXPERIÊNCIA ÚNICA! Cooking class hands-on
-- Ramen GIGANTE com vegetais inteiros
-- Sushi vegano que você faz
-- **Reserva:** 1-2 semanas antecedência via Airbnb Experiences/Klook
+<details>
+<summary>Templo mais antigo + compras tradicionais</summary>
 
-### 13:30 – 17:00 • Tokyo Skytree
-- **Entrada:** ¥2100 (~R$ 77 / $15 USD) | Fonte: Site oficial
-- **Reserva:** 1 semana antecedência
-- Torre mais ALTA do Japão - 634m
-- Deck de observação a 350m e 450m
-- Vista 360° - em dias claros vê Monte Fuji
-- Piso de vidro para corajosos
-- **MELHOR:** Pôr do sol para ver dia e noite
-- Shopping Solamachi na base
+**Senso-ji:**
+- Templo budista fundado em 628
+- Kaminarimon Gate (lanterna 700kg)
+- Omikuji (sorte) ¥100
+- **MELHOR:** Manhã cedo
 
-### 17:00 – 19:00 • Akihabara
-- **Entrada:** FREE
-- CAPITAL mundial de anime, manga e eletrônicos
-- Lojas de 7-8 andares só de anime/games
-- Arcades com jogos clássicos e modernos
-- Maid cafés
-- Mandarake, Animate, Yodobashi Camera
-- Eletrônicos, figuras, cards, cosplay
+**Nakamise Street:**
+- 250m de lojas tradicionais
+- ✅ **COMPRAR AQUI:**
+  - Souvenirs tradicionais
+  - Snacks japoneses
+  - Hashis decorados
+  - Yukatas
+  - Leques
+  - Cerâmicas pequenas
 
-### 19:00 – 20:30 • Jantar
-**Opção vegetariana:**
-- **Vegan Bistro Jangara** - Vegan ramen | ¥1200-1800 (~R$ 44-66 / $8-13 USD)
-- Buffalo chicken vegano (tangy e spicy)
-- Karabun - tonkatsu ramen picante
-- Mentaiko vegano
-- **FILAS LONGAS mas VALE A PENA!**
+**Tempo:** 4-5h (incluindo compras)
 
-### 20:30 – 22:30 • Exploração de Akihabara à noite
-- Neons, arcades, lojas abertas até tarde
+</details>
 
-### 22:30 – 23:00 • Retorno ao hotel
+### 12:30 – 13:30 • Almoço rápido (Asakusa)
 
-### 23:00 • Descanso
+### 13:30 – 20:30 • 🛍️ **MARATONA DE COMPRAS** ⭐⭐⭐
 
-**SEM WORK CALL!** É sábado! 🎉
+<details>
+<summary>ROTEIRO OTIMIZADO - 7 HORAS DE SHOPPING</summary>
+
+#### **13:30-16:30 | AKIHABARA** (3h)
+
+**YODOBASHI CAMERA AKIHABARA**
+- ✅ **WASHLET** - Testar modelos, decidir qual levar
+  - Panasonic DL-RSTK40 (¥42-55k)
+  - LIXIL CW-E89A (¥70-95k)
+  - TOTO S7 (¥95-120k)
+- ✅ Câmeras usadas (se houver)
+- ✅ Eletrônicos gerais
+- ✅ Gadgets tech
+- **Tax-free!**
+
+**BIC CAMERA AKIHABARA**
+- Comparar preços
+- Produtos que Yodobashi não tem
+
+**NAKANO BROADWAY** (opcional se tempo)
+- Câmeras vintage (Fujiya Camera)
+- Anime/manga goods
+
+#### **16:30-18:00 | KAPPABASHI** (1.5h)
+
+**Área de utensílios de cozinha**
+
+- ✅ **KAMA-ASA** - Facas japonesas profissionais
+- ✅ **DENGAMA** - Cerâmicas (Bizen, Shigaraki, Arita)
+- ✅ **MIKURA** - Hashis especiais (500+ tipos)
+
+#### **18:00-20:00 | GINZA** (2h - volta)
+
+**DON QUIJOTE GINZA**
+- ✅ FARMÁCIA COMPLETA:
+  - Rohto eye drops
+  - Kobayashi produtos
+  - Panasonic eye masks
+  - Sana Nameraka
+  - Meishoku peeling
+  - Bioré wipes
+  - Breath capsules
+- ✅ Snacks diversos
+- ✅ Beauty products
+
+**MATSUMOTO KIYOSHI** (drugstore)
+- Itens que faltaram no Don Qui
+
+**UNIQLO GINZA** (se tempo)
+- Roupas básicas
+
+</details>
+
+### 20:00 – 20:30 • Jantar rápido (bentos)
+
+### 20:30 – 22:00 • **Tokyo Metropolitan Building Observatory** 🌃
+
+<details>
+<summary>Vista panorâmica de Tokyo - GRÁTIS!</summary>
+
+**O QUE É:**
+- Observatório GRATUITO no 45º andar
+- Vista 360° de Tokyo iluminada
+- Vê Tokyo Tower, Tokyo Skytree, e em dias claros Monte Fuji
+- **Altura:** 202m
+
+**LOCALIZAÇÃO:** Shinjuku
+- De Ginza: 15min de metrô
+
+**HORÁRIO:** Até 23:00 (Norte) / 22:30 (Sul)
+**ENTRADA:** FREE! ⭐
+**MELHOR:** Noite (ver cidade iluminada)
+
+**Por quê à noite:**
+- Após shopping do dia
+- Vista noturna incrível
+- Grátis!
+- Sem pressão de horário (sem DSU sábado)
+
+</details>
+
+### 22:00 – 23:00 • Volta ao hotel
+
+**SEM DSU - É SÁBADO! 🎉**
 
 ---
 
@@ -356,10 +429,9 @@ tokyoveganramen.com
 
 - Metrô Shinjuku → Ginza (15-20min)
 
-### 20:30 – 21:00 • Descanso
+### 20:30 – 21:00 • Hotel
 
-### 21:00 – 22:00+ • Trabalho remoto (07:00 EST = 21:00 JST)
-- Daily work call DOMINGO à noite
+**SEM DSU - É DOMINGO! 🎉**
 
 ---
 
@@ -408,219 +480,323 @@ tokyoveganramen.com
 
 ---
 
-## Segunda-feira, 22 de dezembro de 2025
+## Segunda-feira, 22 de dezembro de 2025 - **STUDIO GHIBLI** + Compras
 
-**📋 Resumo do dia:** teamLab Planets (arte digital imersiva) | Gundam DiverCity | Inari Sando | Rainbow Bridge sunset | Plus Veganique Jiyugaoka
+**📋 Resumo:** **Studio Ghibli Museum** | **Gotokuji Temple (Cat Shrine)** | **Daruma Shrine** | Compras complementares | DSU 23:30
 
-### 07:00 – 08:00 • Café da manhã no hotel
+**⚠️ TEM DSU HOJE!**
 
-### 08:00 – 13:00 • Odaiba: teamLab Planets
-- **Entrada:** ¥3800 (~R$ 139 / $27 USD) | Fonte: Site oficial
-- **Reserva:** 1-2 MESES antecedência - MUITO popular!
-- Museu de arte digital IMERSIVO
-- Andar descalço em água, flores digitais interativas
-- Experiência sensorial única
-- 2-3h para visita completa
+### 07:00 – 08:00 • Café da manhã
 
-**DiverCity Tokyo Plaza:**
-- Gundam gigante em frente
-- Shopping, food court
-- Vista de Odaiba
+### 08:00 – 13:00 • 🎬 **STUDIO GHIBLI MUSEUM**
 
-### 13:00 – 14:30 • Almoço em Odaiba
-**Opção vegetariana:**
-- Food courts em DiverCity ou Aqua City com opções veganas
+<details>
+<summary>Museu mágico do Studio Ghibli em Mitaka</summary>
 
-### 14:30 – 17:00 • Inari Sando (alternativa ao Fushimi Inari)
-- **Entrada:** FREE
-- Torii gates SEM multidões
-- Hidden gem em Tokyo
-- Túneis de torii vermelhos
-- Atmosfera serena, perfeito para fotos
+**O QUE É:**
+- Museu criado por Hayao Miyazaki
+- Dedicado aos filmes do Studio Ghibli
+- Experiência imersiva e mágica
+- Robot gigante de Laputa no rooftop
+- Saturn Theater (filmes curtos exclusivos)
+- Cat Bus (só para crianças, mas tem outro para adultos)
+- Straw Hat Cafe
+- Museum shop (PRECISA de ticket para entrar)
 
-### 17:00 – 19:00 • Rainbow Bridge ao pôr do sol
-- Vista da ponte iluminada
-- Passeio à beira-mar em Odaiba
-- Fotos com Tokyo skyline
+**LOCALIZAÇÃO:** Mitaka (oeste de Tokyo)
+- **Como chegar:** JR Chuo Line até Mitaka Station
+- **Da estação:** Ônibus (10min) ou caminhar (15min - recomendado!)
 
-### 19:00 – 20:30 • Jantar
-**Opção vegetariana:**
-- **Plus Veganique Jiyugaoka** - 100% Vegan orgânico | ¥2500 lunch/dinner (~R$ 91 / $18 USD)
-- Buffet e pratos à la carte
-- Opções gluten-free
-- Prato antipasto vegano
-- **Transporte:** ~30 min de Odaiba
-- **Horário:** Qua-Seg Lunch 12:00-15:00, Dinner 17:00-23:00 (LO 21:00)
+**TICKETS:**
+- **COMPRAR EM LAWSON** - início do mês anterior
+- Horários: 10:00, 12:00, 14:00, 16:00
+- **RECOMENDADO:** 10:00 ou 12:00
+- **Pode chegar 30min antes** do horário
+- **Entrada:** ¥1,000
+- **TRAZER PASSAPORTE** (verificam ID)
 
-### 20:30 – 22:30 • Retorno ao hotel e descanso
+**REGRAS:**
+- ❌ NÃO pode filmar/fotografar DENTRO
+- ✅ PODE filmar/fotografar FORA (rooftop, jardim)
+- ❌ NÃO pode entrar fantasiado
 
-### 22:30 – 23:00 • Preparação
+**TICKET ESPECIAL:**
+- Ao entrar, trocam seu ticket por um pedaço de FILME real
+- Aleatório (de qualquer filme Ghibli)
+- Colecionável!
 
-### 23:00 – 23:30 • Descanso
+**TEMPO:** 3-4h (pode ficar até fechar 18:00)
+- Museum: 2-3h
+- Inokashira Park ao redor: 1h
 
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
+**DICAS:**
+- Explorar TUDO (detalhes escondidos em cada canto)
+- Assistir filme curto no Saturn Theater
+- Procurar o Oscar escondido!
+- Visitar rooftop para foto com robot
+- Stained glass windows (lindos!)
+- Zeotropes interativos
+- Comprar guidebook na loja
+
+</details>
+
+### 13:00 – 14:00 • Almoço (Mitaka/Kichijoji)
+
+### 14:00 – 16:00 • 🐱 **GOTOKUJI TEMPLE** (Cat Shrine)
+
+<details>
+<summary>O templo dos 1000 gatos da sorte!</summary>
+
+**O QUE É:**
+- Santuário famoso pelas **centenas de Maneki-neko** (gatinhos da sorte)
+- Origem da lenda do gato que acena
+- Templo coberto de estatuetas de gatos brancos
+- UM DOS LUGARES MAIS INSTAGRAMÁVEIS de Tokyo!
+
+**COMO CHEGAR:**
+- De Mitaka/Kichijoji: ~30min (Odakyu Line)
+- **Estação:** Gotokuji Station
+- **Caminhada:** 10min da estação até templo
+
+**O QUE FAZER:**
+- Fotografar os milhares de Maneki-neko
+- Comprar seu próprio gato da sorte (¥300-1000)
+- Explorar o templo zen
+- MUITO fotogênico - tire MUITAS fotos!
+
+**ENTRADA:** FREE
+**Horário:** Até 17:30
+**Tempo:** 1-1.5h
+
+</details>
+
+### 16:00 – 17:00 • 🎴 **DARUMA SHOPS** (Asakusa)
+
+<details>
+<summary>Bonecos vermelhos de sorte</summary>
+
+**O QUE É:**
+- **Daruma:** boneco vermelho redondo sem braços/pernas que não cai
+- Usado para fazer desejos (pintar 1 olho ao fazer pedido, 2º quando realizar)
+
+**ONDE COMPRAR EM TOKYO:**
+- **Nakamise Street (Asakusa)** - várias lojas
+- Shops especializados em Daruma
+- Templos que vendem
+
+**O QUE FAZER:**
+- Ver variedade de Daruma (vários tamanhos)
+- Comprar seu próprio (¥500-3000)
+- Fazer pedido e pintar 1 olho
+
+**Nota:** Templo principal (Shorinzan Daruma-ji) fica em Takasaki (2h), então melhor comprar em Asakusa mesmo
+
+</details>
+
+### 17:00 – 20:00 • 🛍️ **COMPRAS COMPLEMENTARES**
+
+<details>
+<summary>Itens que faltaram no sábado</summary>
+
+**HARAJUKU/SHIBUYA:**
+- **Tokyu Hands** - Papelaria, misc
+- **Uniqlo** - Roupas
+- **ABC-Mart / Sneaker stores** (se interesse)
+
+**SHIMOKITAZAWA** (vintage - se tempo):
+- Roupas vintage
+- Atmosfera autêntica
+
+**OU FICAR EM GINZA:**
+- Compras rápidas próximo hotel
+- Menos deslocamento
+
+</details>
+
+### 20:00 – 21:00 • Volta hotel + jantar
+
+### 21:00 – 23:30 • Trabalho remoto ⚠️
+
+### 23:30 • DSU
 
 ---
 
-## Terça-feira, 23 de dezembro de 2025
+## Terça-feira, 23 de dezembro de 2025 - **TEAMLAB** + Última Chance
 
-**📋 Resumo do dia:** Palácio Imperial | Luxury Dessert Mall (matcha cheesecake) | Compras finais | Bon vegan kaiseki (despedida) | Organizar malas para voo
+**📋 Resumo:** **TeamLab Borderless** | Compras finais | Depachika descontos | DSU 23:30
 
-### 07:00 – 08:00 • Café da manhã no hotel
+**⚠️ ÚLTIMO DIA DE COMPRAS!**
 
-### 08:00 – 12:00 • Palácio Imperial e jardins
-- **Entrada:** FREE (East Gardens)
-- Residência do Imperador do Japão
-- East Gardens abertos ao público
-- Ponte Nijubashi icônica
-- Tours guiados do palácio interior (reservar antecipado)
-- Área tranquila no centro de Tokyo
+### 07:00 – 08:00 • Café da manhã
 
-### 12:00 – 13:30 • Almoço
-**Opção vegetariana:**
-- **Luxury Dessert Mall - Vegan Vendor** | ¥1000-2000 (~R$ 36-73 / $7-14 USD)
-- Mall com andar inteiro de sobremesas premium
-- Vendor 100% vegano
-- Matcha cheesecake vegano INCRÍVEL
+### 08:00 – 13:00 • 🎨 **TEAMLAB BORDERLESS AZABUDAI**
 
-### 13:30 – 17:00 • Exploração final + compras
-- Últimas compras em Ginza/Shibuya/Harajuku
-- Souvenirs, eletrônicos, snacks japoneses
+<details>
+<summary>Museu de arte digital imersivo</summary>
 
-### 17:00 – 19:00 • Jantar de despedida do Japão
-**Opção vegetariana:**
-- **Bon** - 100% Vegan fine dining kaiseki | ¥5000-8000 (~R$ 182-292 / $35-56 USD)
-- Experiência vegan kaiseki tradicional
-- Ambiente em tatami
-- **Reserva:** Pelo menos 1 semana antecedência
+**O QUE É:**
+- Museu de arte digital interativa
+- Salas com projeções 360°, luzes, mirrors
+- Instalações que reagem ao seu movimento
+- Experiência SURREAL e fotogênica
+- Um dos museus mais visitados do mundo
 
-### 19:00 – 22:00 • Última noite em Tokyo
-- Revisitar local favorito
-- Fotos finais
-- Organizar malas para partida amanhã
+**NOVO LOCAL (2024):**
+- **TeamLab Borderless Azabudai Hills**
+- Reabriu em fevereiro 2024
+- Localização: Azabudai Hills (Roppongi area)
 
-### 22:00 – 23:00 • Organizar malas COMPLETO + CARREGAR TUDO!
-- **VOO AMANHÃ 08:30 = ACORDAR 04:30!** ⚠️
-- Separar documentos, passaporte, boarding pass
-- **CARREGAR:** Celular, power banks, eletrônicos
-- Deixar roupa separada para amanhã
-- Deixar malas 100% prontas
+**COMO CHEGAR:**
+- Metrô até Kamiyacho ou Roppongi-itchome
+- 10-15min a pé
 
-### 23:00 – 23:30 • ⚠️ PEDIR TÁXI PARA AMANHÃ 04:50!
-- **IMPORTANTE:** Ir à recepção pedir táxi para amanhã 04:50
-- Alternativa: Reservar Uber/JapanTaxi app agora
-- Confirmar hotel que você sai MUITO cedo
+**TICKETS:**
+- **COMPRAR ONLINE** com antecedência!
+- Horários marcados (10:00, 11:00, 12:00...)
+- **Recomendado:** 10:00 ou 11:00
+- **Preço:** ¥3,800-4,200
+- **Site:** borderless.teamlab.art
 
-### 23:30 – 00:30+ • Trabalho remoto (09:30 EST = 23:30 JST)
-- Daily work call
-- **DORMIR CEDO HOJE!** Acordar 04:30 amanhã
+**TEMPO:** 2-3h
+- Explore no seu ritmo
+- MUITAS fotos!
+
+**DICAS:**
+- Usar roupas claras (refletem melhor as luzes)
+- Celular carregado (muitas fotos)
+- Ir com tempo (não é para correr)
+
+**PRINCIPAIS SALAS:**
+- Forest of Flowers
+- Lamp Forest
+- Crystal Universe
+- Athletics Forest (interativo)
+
+</details>
+
+### 13:00 – 14:00 • Almoço
+
+### 14:00 – 16:00 • Organizar malas + descanso
+
+**IMPORTANTE:** Preparar tudo para saída madrugada!
+
+### 16:00 – 20:00 • 🛍️ **COMPRAS FINAIS** + DEPACHIKA
+
+<details>
+<summary>Última chance + descontos!</summary>
+
+**16:00-18:30 - CHECKLIST FINAL:**
+- ❓ Esqueceu algo importante?
+- ❓ Presentes de última hora?
+- ❓ Farmácia - algum item faltou?
+
+**18:30-20:00 - DEPACHIKA DESCONTOS! ⭐**
+
+**Isetan Shinjuku:**
+- **APÓS 19:00** = descontos em bentos, food
+- Souvenirs gourmet
+- Snacks premium
+- Food gifts
+
+**Ginza Mitsukoshi:**
+- Próximo ao hotel
+- Também tem descontos noturnos
+
+**OK Supermarket Ginza:**
+- Snacks a preço local
+- Compras de último minuto
+
+</details>
+
+### 20:00 – 21:00 • Volta hotel + organização final
+
+### 21:00 – 23:30 • Trabalho remoto ⚠️
+
+### 23:30 • **ÚLTIMA DSU EM TOKYO**
 
 ---
 
-## Quarta-feira, 24 de dezembro de 2025 - DIA DE PARTIDA ✈️
+## Quarta-feira, 24 de dezembro de 2025 - PARTIDA MADRUGADA ✈️
 
-**📋 Resumo do dia:** Check-out hotel MADRUGADA | Táxi para Haneda Airport | Voo 08:30 HND → CDG (Paris)
+**📋 Resumo:** Saída madrugada para aeroporto Haneda → Paris
 
-**⚠️ VOO 08:30 = ACORDAR MUITO CEDO! Primeiro trem é muito arriscado.**
-
-### 04:30 • Despertar MADRUGADA ⏰
-
-**Por quê tão cedo:**
-- Voo: 08:30
-- Chegar aeroporto: 05:30 (3h antes)
-- Transporte: 04:50 saída do hotel
-- = Acordar 04:30
+### 02:00 – 03:00 • Check-out e ida ao aeroporto
 
 <details>
-<summary>Checklist de partida</summary>
+<summary>Detalhes partida</summary>
 
-- ✅ Passaporte, boarding pass (imprimir ou digital)
-- ✅ Cartões de crédito, dinheiro
-- ✅ Documentos de viagem
-- ✅ Carregar eletrônicos (fazer NA NOITE ANTERIOR!)
-- ✅ Última verificação do quarto
-- ✅ Não esquecer nada no cofre/banheiro
+**Voo:** HND 08:30 → CDG (verificar horário exato)
+- **Check-out:** 03:00 (madrugada)
+- **Aeroporto:** Haneda (HND)
+- **Chegar:** 3h antes (~05:30)
+
+**Transporte:**
+- **Táxi:** Mais prático madrugada
+- **Custo:** ¥4000-6000
+- **Tempo:** 30-40min
+
+**OU:**
+- First train (~05:00) se voo for mais tarde
 
 </details>
 
-### 04:30 – 04:50 • Preparação final + check-out antecipado
-- Lavar rosto, trocar roupa
-- **SEM café da manhã** (muito cedo, comer no aeroporto)
-- Check-out antecipado no hotel
-- Última verificação das malas
+**SEM TEMPO PARA COMPRAS!**
 
-### 04:50 – 05:30 • TÁXI Ginza → Haneda Airport (ÚNICA OPÇÃO!)
+---
 
-<details>
-<summary>Por quê táxi é OBRIGATÓRIO nesse horário</summary>
+## 📋 CHECKLIST DE COMPRAS TOKYO
 
-**❌ TRENS NÃO FUNCIONAM às 04:50:**
-- Tokyo Monorail: Primeiro trem Hamamatsucho 05:17 → Haneda 05:30
-- Keikyu Line: Primeiro trem Shinagawa ~05:00 → Haneda 05:11
-- JR Yamanote para Hamamatsucho: Primeiro ~05:00
-- **= Chegaria 05:30 NO LIMITE, SEM MARGEM DE ERRO**
+### **SÁBADO 20 (80-90%):**
+- [ ] Washlet (testar e comprar)
+- [ ] Eletrônicos (Yodobashi)
+- [ ] Facas japonesas (Kappabashi)
+- [ ] Cerâmicas (Kappabashi)
+- [ ] Hashis especiais
+- [ ] Farmácia completa (Don Qui)
+- [ ] Skin care japonês
+- [ ] Souvenirs Nakamise
 
-**✅ TÁXI É A ÚNICA OPÇÃO SEGURA:**
-- **Reservar ANTECIPADO:** Pedir hotel chamar táxi para 04:50
-- **OU:** Uber/apps de táxi (menos confiável de madrugada)
-- **Saída:** 04:50 do hotel
-- **Chegada:** 05:20-05:30 Haneda (sem trânsito de madrugada)
-- **Tempo:** 20-30min
-- **Custo:** ¥5,000-7,000 (~R$ 183-256 / $35-50)
+### **SEGUNDA 22 (10-15%):**
+- [ ] Roupas (Uniqlo, GU)
+- [ ] Papelaria (Tokyu Hands)
+- [ ] Sneakers (se interesse)
+- [ ] Itens esquecidos
 
-**Dica:** Pedir hotel arranjar táxi NA NOITE ANTERIOR (23/12)!
+### **TERÇA 23 (5%):**
+- [ ] Snacks frescos
+- [ ] Depachika (após 19:00)
+- [ ] KitKats especiais
+- [ ] Emergências
 
-</details>
+---
 
-### 05:20 – 05:30 • Chegada Haneda Airport Terminal 3 (Internacional)
+## 💡 DICAS IMPORTANTES
 
-<details>
-<summary>Informações Haneda</summary>
+### **Studio Ghibli:**
+- Comprar tickets INÍCIO DO MÊS (Lawson)
+- Trazer passaporte
+- Chegar 30min antes
+- NÃO pode fotografar dentro
 
-**Terminal 3 - Internacional:**
-- Check-in counters: 3h antes do voo
-- Immigration & Security: Pode ter fila
-- Duty-free shops extensos
+### **TeamLab:**
+- Comprar online com antecedência
+- Roupas claras (refletem luz)
+- Celular carregado
 
-**Tempo recomendado:**
-- ✅ Check-in: 2h30-3h antes
-- ✅ Immigration: 2h antes
-- ✅ Embarque: 45min antes
+### **Gotokuji (Cat Shrine):**
+- Ir de tarde/fim de tarde
+- Comprar Maneki-neko de lembrança
 
-</details>
+### **Shopping Sábado:**
+- ACORDAR CEDO (07:00)
+- Seguir roteiro: Senso-ji → Akihabara → Kappabashi → Ginza
+- Tax-free em tudo
+- Não perder tempo decidindo
 
-### 05:30 – 06:00 • Check-in
-- Check-in counters abrem 3h antes (05:30)
-- Fazer check-in das malas
-- Pegar boarding pass
-
-### 06:00 – 06:30 • Immigration & Security
-- Passar pela imigração japonesa (carimbo de saída)
-- Security check
-- Entrar na área de embarque
-
-### 06:30 – 08:00 • Área de embarque - Tempo LIVRE!
-- ☕ **Café da manhã no aeroporto** (primeira refeição do dia!)
-- 🛍️ Duty-free shopping (última chance!)
-  - Whisky japonês, sake, snacks, cosméticos
-- 📸 Últimas fotos do Japão
-- Relaxar antes do voo longo (13h para Paris)
-
-### 08:00 • Embarque
-- Gate provavelmente abre ~07:45
-- Embarcar com calma
-
-### 08:30 • VOO HND → CDG (Paris) ✈️
-- **Voo:** [Adicionar número do voo]
-- **Cia aérea:** [Adicionar cia aérea]
-- **Origem:** Tokyo Haneda (HND) - Terminal 3
-- **Destino:** Paris Charles de Gaulle (CDG)
-- **Horário saída:** 08:30 (horário Tokyo)
-- **Duração:** ~13h
-- **Chegada Paris:** ~14:30 (mesmo dia, horário Paris)
-
-**🎌 Fim da aventura japonesa! Au revoir Tokyo, Bonjour Paris! 🇫🇷**
+### **Trabalho:**
+- Segunda/Terça: Hotel às 21:00
+- DSU 23:30
+- Quarta: Saída madrugada
 
 ---
 
