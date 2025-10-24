@@ -233,6 +233,21 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - **Preço:** ~¥1,800
 - ![Referência](attached_image:6)
 
+#### **7. ROHTO EYE DROPS** (Colírio vitamínico) 👁️
+- **Para:** Olhos cansados, vermelhos, irritados
+- **Contém:** Vitaminas para os olhos (B6, E, K, Na)
+- **Tipos:** Regular (com vitaminas) e Lycée (rosa, hidratante)
+- **Sensação:** Refrescante e calmante
+- **Preço:** ~¥1,380-1,518
+- **Reddit:** "Best eye drops for tired eyes after screen time"
+
+#### **8. KOBAYASHI BREATH CARE CAPSULE** (Cápsula anti-odor)
+- **Como funciona:** Cápsula se dissolve no estômago e neutraliza odores de dentro pra fora
+- **Para:** Depois de comer alho, cebola, comidas fortes
+- **Diferencial:** Não é enxaguante bucal comum, trabalha internamente
+- **Duração:** Efeito dura horas
+- **Preço:** Aprox. ¥800-1,000
+
 </details>
 
 ---
@@ -267,6 +282,35 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - **Target:** Manchas, acne marks
 - **Preço:** ~¥1,200
 - Reddit: "As good as Timeless C serum, fraction of price"
+
+**SANA NAMERAKA ISOFLAVONE** (Eye Cream & Moisturizer)
+- Eye cream à base de soja para hidratar e reduzir rugas
+- Textura leve, absorve rápido
+- **Preço:** ~¥980-1,078
+- Favorito de locais por custo-benefício
+
+**MEISHOKU DETCLEAR BRIGHT & PEEL** (Peeling gel)
+- Peeling suave para remover células mortas
+- Clareia e uniformiza a pele
+- **Uso:** 1-2x por semana
+- **Preço:** ~¥1,045
+- "Helps with dark circles and anti-aging"
+
+**KAO BIORÉ COLD BODY WIPES** (Lenços refrescantes)
+- Lenços para corpo com sensação de frio instantânea
+- **Ideal para:** Verão quente e úmido japonês
+- **Efeito:** Cooling dura vários minutos
+- **Downside:** Gera lixo descartável, mas muito útil
+- **Preço:** ~¥300 (pack pequeno)
+- "Life saver in summer humidity"
+
+**KAO MEGRHYTHM STEAM EYE MASK** (Máscara térmica olhos)
+- Máscara descartável que aquece ao redor dos olhos
+- **Aromas:** Lavanda, camomila, sem perfume
+- **Para:** Insônia, estresse, relaxamento
+- **Efeito:** Aromaterapia suave + calor = facilita sono
+- **Preço:** ~¥880 (5 unidades)
+- "Amazing for sleep issues and stress"
 
 </details>
 
@@ -336,6 +380,30 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - **Como usar:** 2-3 gotas em cabelo úmido
 - **Preço:** ¥1,500 (dura 6+ meses)
 - **Hidden gem:** Japonesas usam há SÉCULOS
+
+</details>
+
+---
+
+### 🏠 **UTILIDADES DOMÉSTICAS & TRAVEL ESSENTIALS**
+
+<details>
+<summary>Produtos úteis para viagem e hotel</summary>
+
+#### **KOBAYASHI TOILET DEODORIZER (1 Drop)**
+- **Como funciona:** 1 gota antes de usar o banheiro = elimina odores completamente
+- **Eficácia:** Versão japonesa é MUITO mais forte que versões de outros países
+- **Praticidade:** Compacto, perfeito pra levar em viagens
+- **Duração:** 1 frasco dura meses
+- **Preço:** ~¥500-700
+- "One drop is enough to completely neutralize bathroom smell"
+
+#### **KOBAYASHI SAWADAY** (Aromatizadores)
+- Aromatizadores de ambiente em diversos formatos
+- **Tipos:** Gel, spray, stick
+- **Fragrâncias:** Lavanda, limão, flor de cerejeira
+- **Para:** Quarto de hotel, mala, banheiro
+- **Preço:** ~¥300-800
 
 </details>
 
