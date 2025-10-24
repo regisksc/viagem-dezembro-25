@@ -10,6 +10,10 @@
 
 ---
 
+**Ir para:** [Sexta, 19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) | [Sábado, 20 dez](#sábado-20-de-dezembro-de-2025---shopping-day-️) | [Domingo, 21 dez](#domingo-21-de-dezembro-de-2025---day-trip-monte-fuji-) | [Segunda, 22 dez](#segunda-feira-22-de-dezembro-de-2025---studio-ghibli--compras) | [Terça, 23 dez](#terça-feira-23-de-dezembro-de-2025---teamlab--última-chance) | [Quarta, 24 dez](#quarta-feira-24-de-dezembro-de-2025---partida-madrugada-️)
+
+---
+
 ## ⏰ TRABALHO REMOTO - HORÁRIOS CRÍTICOS
 
 **DSU Diário (Seg-Sex):** 23:30 JST (09:30 EST)
