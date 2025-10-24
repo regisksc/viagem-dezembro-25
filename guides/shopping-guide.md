@@ -776,6 +776,304 @@ Reddit: "Snacks em Asakusa/Harajuku = 2-3x preço normal"
 
 ---
 
+## 🚽 ASSENTOS SANITÁRIOS INTELIGENTES (WASHLET / ウォシュレット)
+
+### **Por que comprar no Japão?**
+- Tecnologia superior e preços melhores que importar
+- Variedade enorme de marcas e modelos
+- Lojas físicas com demonstração e suporte técnico
+- Garantia japonesa (1-5 anos dependendo do modelo)
+
+---
+
+### 🏆 **TOP 6 MODELOS - RANKING 2025**
+
+<details>
+<summary>Ranking completo com análise de custo-benefício</summary>
+
+#### **#1 Panasonic DL-RSTK40** 💰 MELHOR CUSTO-BENEFÍCIO
+**Preço:** ¥42,000-55,000 | **Nota:** 10/10
+
+**Tipo:** Instantâneo (瞬間式 - sem tanque)
+
+**Funções:**
+- ✅ Bidê (frontal e traseiro)
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ Desodorizador automático
+- ✅ Autolimpeza do bocal
+- ✅ **Bocal de aço inox Ag+ antibacteriano**
+- ✅ Modo economia de energia
+- ❌ Tampa automática
+- ❌ Controle por app
+
+**Vantagens:**
+- Equilíbrio perfeito entre funções e preço
+- Aquecimento instantâneo com baixíssimo consumo
+- Bocal inox mais durável e higiênico que plástico
+- **#1 no ranking 価格コム 2025**
+
+**Desvantagens:**
+- Sem tecnologia UV/eWater para autolimpeza química
+- Não possui tampa automática ou luz noturna
+
+**💡 Por quê escolher:** Cobre 90% das funções premium por metade do preço. Ideal para quem quer qualidade sem pagar por extras desnecessários.
+
+---
+
+#### **#2 LIXIL CW-E89A (INAX)** 🌟 TECNOLOGIA UV
+**Preço:** ¥70,000-95,000 | **Nota:** 9/10
+
+**Tipo:** Instantâneo com UV
+
+**Funções:**
+- ✅ Bidê completo
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ Desodorizador
+- ✅ Autolimpeza do bocal
+- ✅ **Tecnologia UV antibacteriana (IBOX)**
+- ✅ **Tampa automática**
+- ✅ **Controle via app**
+
+**Vantagens:**
+- Tecnologia UV elimina 99,9% das bactérias
+- Design moderno e controle inteligente
+- Muito confiável em residências japonesas
+- Excelente substituto moderno do TOTO S7
+
+**Desvantagens:**
+- Mais caro que Panasonic sem diferenças perceptíveis no uso básico
+- Necessita instalação profissional (mais complexo)
+
+**💡 Por quê escolher:** Equilíbrio luxo e funcionalidade. Para quem quer tecnologia de ponta com preço razoável.
+
+---
+
+#### **#3 TOTO S7 (SW4736)** 👑 PADRÃO DE REFERÊNCIA
+**Preço:** ¥95,000-120,000 | **Nota:** 8.5/10
+
+**Tipo:** Instantâneo premium (eWater+)
+
+**Funções:**
+- ✅ Bidê premium
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ Desodorizador potente
+- ✅ Autolimpeza do bocal
+- ✅ **Tecnologia eWater+ (água eletrolisada esterilizante)**
+- ✅ **Tampa automática**
+- ✅ **Luz noturna**
+- ❌ Controle por app
+
+**Vantagens:**
+- Padrão ouro em conforto e higiene
+- eWater+ mantém interior esterilizado sem químicos
+- Confiabilidade e design consagrado TOTO
+- Acabamento premium
+
+**Desvantagens:**
+- Preço elevado para funções similares ao LIXIL
+- Não adiciona grande diferença prática sobre LIXIL, exceto acabamento
+
+**💡 Por quê escolher:** Para quem busca o topo de linha clássico japonês e não se importa com o preço premium.
+
+---
+
+#### **#4 Coway BAS16G** 💪 PRESSÃO FORTE
+**Preço:** ¥50,000-68,000 | **Nota:** 8/10
+
+**Tipo:** Instantâneo alta pressão (Coreia)
+
+**Funções:**
+- ✅ Bidê com pressão ajustável forte
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ **Modo massagem com jato oscilante**
+- ✅ Desodorizador
+
+**Vantagens:**
+- Pressão de água muito forte (melhor limpeza)
+- Função de massagem exclusiva
+- Popular entre usuários masculinos
+- Custo-benefício excelente
+
+**Desvantagens:**
+- Design menos refinado que produtos japoneses
+- Secador e controle mais barulhentos
+- Marca coreana (menos conhecida no Japão)
+
+**💡 Por quê escolher:** Alternativa potente e confiável para quem prefere maior força de jato.
+
+---
+
+#### **#5 Bio Bidet BB-2000** 🌏 INTERNACIONAL
+**Preço:** ¥65,000-75,000 | **Nota:** 7.5/10
+
+**Tipo:** Instantâneo internacional
+
+**Funções:**
+- ✅ Bidê ajustável
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ Modo massagem
+- ✅ **Luz noturna**
+- ✅ **Controle remoto completo**
+
+**Vantagens:**
+- Pressão muito forte e ajustável
+- Boa relação custo para unidade importada
+- Luz noturna e múltiplos níveis de secagem
+- Interface em inglês
+
+**Desvantagens:**
+- Design estrangeiro menos integrado a banheiros japoneses
+- Peças sobressalentes difíceis de encontrar no Japão
+- Suporte técnico limitado
+
+**💡 Por quê escolher:** Ideal se você mora fora do Japão e quer um modelo internacional compatível.
+
+---
+
+#### **#6 Kohler Cleanset S500** 💎 LUXO IMPORTADO
+**Preço:** ¥85,000-110,000 | **Nota:** 6.5/10
+
+**Tipo:** Luxo importado (EUA)
+
+**Funções:**
+- ✅ Bidê premium
+- ✅ Aquecimento de assento
+- ✅ Secador a ar quente
+- ✅ Autolimpeza do bocal
+- ✅ Luz de ambiente
+- ✅ Tampa automática silenciosa
+
+**Vantagens:**
+- Excelente design e materiais premium
+- Integra luz de ambiente sofisticada
+- Tampa automática ultra silenciosa
+- Marca de luxo reconhecida
+
+**Desvantagens:**
+- Peças e manutenção muito caras
+- Pouco disponível fora de showrooms premium
+- Custo-benefício ruim (paga-se pelo design)
+
+**💡 Por quê escolher:** Mais luxo estético do que funcional. Só vale se design for prioridade absoluta.
+
+</details>
+
+---
+
+### 📊 COMPARAÇÃO RÁPIDA
+
+| Modelo | Preço | Auto Tampa | UV/eWater | App | Nota C/B |
+|--------|-------|------------|-----------|-----|----------|
+| **Panasonic RSTK40** | ¥42-55k | ❌ | ❌ | ❌ | 10/10 ⭐ |
+| **LIXIL CW-E89A** | ¥70-95k | ✅ | ✅ UV | ✅ | 9/10 |
+| **TOTO S7** | ¥95-120k | ✅ | ✅ eWater | ❌ | 8.5/10 |
+| **Coway BAS16G** | ¥50-68k | ❌ | ❌ | ❌ | 8/10 |
+| **Bio Bidet BB-2000** | ¥65-75k | ❌ | ❌ | ❌ | 7.5/10 |
+| **Kohler S500** | ¥85-110k | ✅ | ❌ | ❌ | 6.5/10 |
+
+---
+
+### 🛒 ONDE COMPRAR
+
+#### **Lojas Físicas (Recomendado):**
+
+**Yodobashi Camera** (Shinjuku, Akihabara)
+- ✅ Pode testar modelos na loja
+- ✅ Staff explica todas as funções
+- ✅ Tax-free disponível
+- ✅ Point card = 10% cashback
+- 📍 Yodobashi Akihabara tem maior variedade
+
+**Bic Camera** (Várias localizações)
+- ✅ Preços competitivos
+- ✅ Negocia desconto no balcão
+- ✅ Tax-free
+- 📍 Bic Camera Ikebukuro (grande seção)
+
+**Kojima** (Especializada eletrodomésticos)
+- ✅ Preços geralmente 5-10% menores
+- ✅ Menos turística = vendedor atende melhor
+- 📍 Kojima x Bic Camera Akihabara
+
+#### **Online:**
+
+**価格コム (Kakaku.com)**
+- Comparador de preços #1 do Japão
+- Mostra lojas mais baratas
+- Reviews de usuários japoneses
+
+**Amazon Japan**
+- Entrega rápida (1-2 dias)
+- Pode entregar no hotel
+- Interface em inglês disponível
+
+**Rakuten**
+- Cashback points generoso
+- Vendedores oficiais das marcas
+- Super Sale: 5, 10, 15 de cada mês
+
+---
+
+### ⚠️ ANTES DE COMPRAR
+
+#### **Especificações Técnicas:**
+
+**Tamanho do vaso:**
+- 普通型 (Regular/Round): ~42cm
+- 大型 (Elongated/Oval): ~47cm
+- **MEDIR ANTES DE COMPRAR!**
+
+**Voltagem:**
+- Japão: 100V 50/60Hz
+- Brasil: 110V ou 220V
+- **Vai precisar de transformador no Brasil!**
+
+**Instalação:**
+- Precisa de tomada perto do vaso (max 1.5m)
+- Conexão de água padrão japonês
+- Instalação profissional recomendada: ¥15,000-30,000
+
+#### **Transporte:**
+
+**Dimensões típicas:**
+- Peso: 5-8kg
+- Caixa: ~50x45x20cm
+- **Cabe em mala despachada!**
+
+**Dicas:**
+- Peça embalagem reforçada na loja
+- Declare na alfândega (limite $1,000 USD)
+- Guarde nota fiscal para garantia
+
+---
+
+### 💡 RECOMENDAÇÃO FINAL
+
+**Melhor custo-benefício geral:**
+→ **Panasonic DL-RSTK40** (¥42-55k)
+- #1 no ranking japonês
+- Tem TODAS as funções essenciais
+- Economia de energia superior
+
+**Para quem quer tecnologia moderna:**
+→ **LIXIL CW-E89A** (¥70-95k)
+- UV antibacteriano
+- Tampa automática + app
+- Melhor que TOTO S7 em recursos
+
+**Para quem quer o melhor (e tem budget):**
+→ **TOTO S7** (¥95-120k)
+- Padrão ouro japonês
+- eWater+ exclusivo
+- Durabilidade comprovada
+
+---
+
 **🎌 Última dica do Reddit:**
 *"Don't overthink it. Walk into stores full of Japanese people. If you're the only tourist there, you found the right place."*
 
