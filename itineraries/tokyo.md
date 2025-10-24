@@ -38,181 +38,309 @@
 
 ---
 
-## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
+## Sexta-feira, 19 de dezembro de 2025 - CHEGADA + COMPRAS GINZA
 
-**📋 Resumo do dia:** Chegada de Nagano (14:52) | Check-in Ginza | Shibuya Crossing | Meiji Jingu | Jantar vegan
+**📋 Resumo:** Chegada (14:52) | Check-in Ginza | **Compras farmácia/beauty Ginza** | Jantar
 
 **💡 DIA DE CHEGADA = SEM DSU!**
 
-### 14:52 • Chegada em Tokyo Station
-
-- **🚅 Chegada:** Hakutaka 562 de Nagano (13:23-14:52)
-- **🛄 Malas:** Enviadas via Yamato de Nagano, você só tem mochila!
-
-### 14:52 – 16:00 • Deslocamento + Check-in Ibis Styles Tokyo Ginza
+### 14:52 • Chegada Tokyo Station
 
 <details>
-<summary>Detalhes</summary>
+<summary>Detalhes chegada</summary>
 
-- **14:52-15:00:** Sair da Tokyo Station
-- **15:00-15:15:** Metrô/trem para Ginza (10-15min)
-- **15:15-16:00:** Check-in e refresh no hotel
-
-**💡 Check-in:** 15:00 oficial (flexível)
-**Malas grandes:** Chegam via Yamato ainda hoje ou amanhã
+- **🚅 Trem:** Hakutaka 562 de Nagano (13:23-14:52)
+- **🛄 Malas:** Enviadas via Yamato, só mochila!
 
 </details>
 
-### 16:00 – 17:30 • Shibuya Crossing e Hachiko
-- **Entrada:** FREE
-- CRUZAMENTO mais FAMOSO do mundo - até 3.000 pessoas por vez
-- Estátua de Hachiko - cão leal que esperou dono por 9 anos
-- **Melhor vista:** Starbucks 2º andar do Tsutaya
-- Neons impressionantes à noite
-- **Transporte:** JR Yamanote Line até Shibuya Station
+### 14:52 – 16:00 • Check-in Ibis Styles Ginza
 
-### 17:30 – 19:00 • Meiji Jingu e Harajuku
-- **Entrada:** FREE
-- Santuário xintoísta dedicado ao Imperador Meiji
-- Floresta de 100.000 árvores no meio de Tokyo
-- Torii gates gigantes de madeira cipreste
-- **Takeshita Street em Harajuku:** Moda kawaii, crepes, cotton candy
-- Contraste: paz do templo vs energia de Harajuku
+<details>
+<parameter name="Detalhes</summary>
 
-### 19:00 – 20:30 • Jantar
-**Opção vegetariana:**
-- **Ain Soph Ginza** (perto do hotel) - 100% Vegan | ¥1500-2500 (~R$ 55-91 / $11-18 USD)
-+81-3-6228-6714
-ainsoph.jp/ginza
-- 1º andar: patisserie vegana
-- 2º andar: panquecas veganas, pudim japonês vegano, tiramisu
-- **Horário:** Seg-Sáb Lunch 11:30-14:30, Tea 14:30-17:00, Dinner 18:00-21:00
+- **14:52-15:00:** Sair Tokyo Station
+- **15:00-15:15:** Metrô para Ginza (10-15min)
+- **15:15-16:00:** Check-in e refresh
 
-### 20:30 – 21:00 • Volta ao hotel
+</details>
 
-**SEM DSU - É SEXTA, CHEGOU DE NAGANO! 🎉**
+### 16:00 – 17:30 • 💊 **MATSUMOTO KIYOSHI GINZA**
+
+<details>
+<summary>Farmácia - Compras iniciais</summary>
+
+**Localização:** 5min do hotel a pé
+**Tax-free:** SIM
+
+**COMPRAR AQUI:**
+- ✅ Fukemin Soft-A shampoo anti-caspa (~¥1,000)
+- ✅ Pair Acne Cream (~¥1,200)
+- ✅ Pabron Gold A gripe/tosse (~¥1,500)
+- ✅ Mouth Ulcer Patch (~¥800)
+- ✅ Muhi S2a anti-coceira (~¥600)
+- ✅ Accelerator Floral Apple crescimento capilar (~¥1,800)
+- ✅ Melano CC Vitamina C (~¥1,200)
+- ✅ Hada Labo Shirojyun Premium (~¥1,000)
+- ✅ Argelan lip balms
+
+**Horário:** Até 22:00
+**Tempo:** 1.5h
+
+</details>
+
+### 17:30 – 19:00 • 🛍️ **DON QUIJOTE GINZA**
+
+<details>
+<summary>Farmácia complementar + K-Beauty + snacks</summary>
+
+**Localização:** No prédio do Uniqlo Ginza (10min do hotel)
+**Por quê aqui:** Menos caótico que Shibuya/Shinjuku
+
+**COMPRAR AQUI:**
+- ✅ Rohto Eye Drops (~¥1,380-1,518)
+- ✅ Kobayashi Breath Care Capsule (~¥800-1,000)
+- ✅ Sana Nameraka eye cream (~¥980)
+- ✅ Meishoku Detclear peeling (~¥1,045)
+- ✅ Bioré Cold Body Wipes (~¥300)
+- ✅ Kao Megrhythm Eye Mask (~¥880)
+- ✅ Kobayashi Toilet Deodorizer
+- ✅ K-Beauty (COSRX, Etude House - preços OK)
+- ✅ Snacks japoneses iniciais
+
+**Horário:** Até 05:00 (aberto quase 24h!)
+**Tempo:** 1.5h
+
+</details>
+
+### 19:00 – 20:30 • Jantar: **Ain Soph Ginza**
+
+<details>
+<summary>100% Vegan perto do hotel</summary>
+
+- **Preço:** ¥1500-2500
+- **Tel:** +81-3-6228-6714
+- Panquecas veganas, pudim japonês, tiramisu
+- **Horário:** Dinner 18:00-21:00
+
+</details>
+
+### 20:30 – 21:00 • Volta hotel
+
+**SEM DSU - É SEXTA! 🎉**
 
 ---
 
 ## Sábado, 20 de dezembro de 2025 - SHOPPING DAY! 🛍️
 
-**📋 Resumo:** Senso-ji + Nakamise (manhã) | **MARATONA DE COMPRAS** (tarde) | **Tokyo Metropolitan Building Observatory** (grátis, noite)
+**📋 Resumo:** Cozinha (Kappabashi) | Câmeras (Nakano) | Eletrônicos/Washlet (Akihabara) | Shibuya/Meiji | Observatory
 
 **💡 DIA MAIS IMPORTANTE = SEM DSU!**
 
-### 07:00 – 08:00 • Café da manhã no hotel
+### 07:00 – 08:00 • Café da manhã
 
-### 08:00 – 12:30 • Senso-ji + Nakamise Shopping
+### 08:00 – 09:00 • Deslocamento Ginza → Asakusa
+
+### 09:00 – 09:30 • 🏮 **SENSO-JI TEMPLE** (rápido)
 
 <details>
-<summary>Templo mais antigo + compras tradicionais</summary>
+<summary>Visita expressa ao templo</summary>
 
-**Senso-ji:**
-- Templo budista fundado em 628
+- Templo budista mais antigo (628)
 - Kaminarimon Gate (lanterna 700kg)
-- Omikuji (sorte) ¥100
-- **MELHOR:** Manhã cedo
-
-**Nakamise Street:**
-- 250m de lojas tradicionais
-- ✅ **COMPRAR AQUI:**
-  - Souvenirs tradicionais
-  - Snacks japoneses
-  - Hashis decorados
-  - Yukatas
-  - Leques
-  - Cerâmicas pequenas
-
-**Tempo:** 4-5h (incluindo compras)
+- Omikuji ¥100
+- **SEM compras** na Nakamise (overpriced)
+- Apenas fotos rápidas
 
 </details>
 
-### 12:30 – 13:30 • Almoço rápido (Asakusa)
+### 09:30 – 12:00 • 🔪 **KAPPABASHI KITCHEN TOWN**
 
-### 13:30 – 20:30 • 🛍️ **MARATONA DE COMPRAS** ⭐⭐⭐
+**10:00-11:00 | KAMA-ASA + MUSASHI JAPAN (Facas)**
 
 <details>
-<summary>ROTEIRO OTIMIZADO - 7 HORAS DE SHOPPING</summary>
+<summary>Facas japonesas profissionais</summary>
 
-#### **13:30-16:30 | AKIHABARA** (3h)
+**KAMA-ASA:**
+- Loja mais ANTIGA de Tokyo
+- Faca profissional ~¥10,000 (dura vida toda)
+- **Pode personalizar** (gravar nome)
+- Tax-free
 
-**YODOBASHI CAMERA AKIHABARA**
-- ✅ **WASHLET** - Testar modelos, decidir qual levar
-  - Panasonic DL-RSTK40 (¥42-55k)
-  - LIXIL CW-E89A (¥70-95k)
-  - TOTO S7 (¥95-120k)
-- ✅ Câmeras usadas (se houver)
-- ✅ Eletrônicos gerais
-- ✅ Gadgets tech
-- **Tax-free!**
+**MUSASHI JAPAN:**
+- 2 andares de facas
+- Preços melhores que Kama-Asa
+- Menos turístico
 
-**BIC CAMERA AKIHABARA**
-- Comparar preços
+**COMPRAR:** 1-2 facas de qualidade
+
+</details>
+
+**11:00-11:45 | DENGAMA + YABUKITA (Cerâmicas)**
+
+<details>
+<summary>Cerâmicas tradicionais japonesas</summary>
+
+**DENGAMA:**
+- 2 andares de cerâmicas
+- Bizen, Shigaraki, Arita, Echizen
+- Preços razoáveis
+
+**YABUKITA:**
+- Menos conhecido = menos gente
+- Coleção colorida
+- Vasos de flores lindos
+
+</details>
+
+**11:45-12:00 | MIKURA (Hashis)**
+
+<details>
+<summary>500+ tipos de chopsticks</summary>
+
+- ¥300-3,000
+- Hashis personalizados
+- Gift idea
+
+</details>
+
+### 12:00 – 13:00 • Almoço (Asakusa)
+
+### 13:00 – 13:30 • Deslocamento Asakusa → Nakano
+
+### 13:30 – 15:30 • 📷 **NAKANO BROADWAY**
+
+**13:30-15:00 | FUJIYA CAMERA**
+
+<details>
+<summary>Câmeras usadas - MELHOR de Tokyo</summary>
+
+**Por quê aqui:**
+- Fundada 1938 (87 anos)
+- 2,000+ itens second-hand
+- **MUITO mais barato** que Akihabara
+- Tax-free (-10%)
+- Staff ajuda muito
+
+**COMPRAR:**
+- ✅ Câmera vintage (~¥5,000-15,000)
+- ✅ Câmera retro de chaveiro (~¥1,000-3,000)
+- Filmes coloridos e P&B
+
+**Reddit:** "Preços honestos, found Canon AE-1 for ¥8,000 perfect condition"
+
+</details>
+
+**15:00-15:30 | Exploring Nakano Broadway**
+
+<details>
+<summary>Shopping complex vintage/pop culture</summary>
+
+- Anime, manga, figuras
+- **vs Akihabara:** Mais autêntico, preços melhores
+- Lojas de vintage/junk electronics
+
+</details>
+
+### 15:30 – 16:00 • Deslocamento Nakano → Akihabara
+
+### 16:00 – 19:00 • 💻 **AKIHABARA**
+
+**16:00-17:30 | YODOBASHI CAMERA**
+
+<details>
+<summary>Eletrônicos + WASHLET</summary>
+
+**PRIORIDADE #1: WASHLET**
+- ✅ Testar modelos ao vivo
+- ✅ Panasonic DL-RSTK40 (¥42-55k) - Custo-benefício
+- ✅ LIXIL CW-E89A (¥70-95k) - Com UV
+- ✅ TOTO S7 (¥95-120k) - Premium
+- **Decidir e comprar** (ou reservar)
+
+**OUTROS:**
+- Eletrônicos gerais
+- Gadgets tech
+- Food court no topo (almoço barato)
+
+**Tax-free:** SIM
+**Point card:** Ganha pontos
+
+</details>
+
+**17:30-18:30 | BIC CAMERA AKIHABARA**
+
+<details>
+<summary>Comparar preços + tourist discount</summary>
+
+- Pedir **tourist discount card** (5-10%)
+- Stack com tax-free
+- Comparar washlet se não comprou
+- Hair dryers, small appliances
 - Produtos que Yodobashi não tem
 
-**NAKANO BROADWAY** (opcional se tempo)
-- Câmeras vintage (Fujiya Camera)
-- Anime/manga goods
-
-#### **16:30-18:00 | KAPPABASHI** (1.5h)
-
-**Área de utensílios de cozinha**
-
-- ✅ **KAMA-ASA** - Facas japonesas profissionais
-- ✅ **DENGAMA** - Cerâmicas (Bizen, Shigaraki, Arita)
-- ✅ **MIKURA** - Hashis especiais (500+ tipos)
-
-#### **18:00-20:00 | GINZA** (2h - volta)
-
-**DON QUIJOTE GINZA**
-- ✅ FARMÁCIA COMPLETA:
-  - Rohto eye drops
-  - Kobayashi produtos
-  - Panasonic eye masks
-  - Sana Nameraka
-  - Meishoku peeling
-  - Bioré wipes
-  - Breath capsules
-- ✅ Snacks diversos
-- ✅ Beauty products
-
-**MATSUMOTO KIYOSHI** (drugstore)
-- Itens que faltaram no Don Qui
-
-**UNIQLO GINZA** (se tempo)
-- Roupas básicas
-
 </details>
 
-### 20:00 – 20:30 • Jantar rápido (bentos)
-
-### 20:30 – 22:00 • **Tokyo Metropolitan Building Observatory** 🌃
+**18:30-19:00 | HARD OFF / SURUGAYA**
 
 <details>
-<summary>Vista panorâmica de Tokyo - GRÁTIS!</summary>
+<summary>Bargains em junk/segunda mão</summary>
 
-**O QUE É:**
-- Observatório GRATUITO no 45º andar
-- Vista 360° de Tokyo iluminada
-- Vê Tokyo Tower, Tokyo Skytree, e em dias claros Monte Fuji
-- **Altura:** 202m
+**HARD OFF:**
+- Seção "JUNK" = super barato
+- Vintage games, audio gear
+- Testar antes de comprar
 
-**LOCALIZAÇÃO:** Shinjuku
-- De Ginza: 15min de metrô
-
-**HORÁRIO:** Até 23:00 (Norte) / 22:30 (Sul)
-**ENTRADA:** FREE! ⭐
-**MELHOR:** Noite (ver cidade iluminada)
-
-**Por quê à noite:**
-- Após shopping do dia
-- Vista noturna incrível
-- Grátis!
-- Sem pressão de horário (sem DSU sábado)
+**SURUGAYA:**
+- Retro/junk electronics
+- 2,000+ cameras vintage
 
 </details>
 
-### 22:00 – 23:00 • Volta ao hotel
+### 19:00 – 19:30 • Deslocamento Akihabara → Shibuya
+
+### 19:30 – 21:00 • 🌆 **SHIBUYA + MEIJI JINGU**
+
+**19:30-20:15 | Shibuya Crossing**
+
+<details>
+<summary>Cruzamento mais famoso</summary>
+
+- Até 3,000 pessoas por vez
+- Estátua Hachiko
+- **Melhor vista:** Starbucks 2º andar Tsutaya
+- Neons à noite = LINDO
+
+</details>
+
+**20:15-21:00 | Meiji Jingu**
+
+<details>
+<summary>Santuário iluminado</summary>
+
+- Aberto até 18:00-18:40 (dezembro sunset cedo)
+- **ATENÇÃO:** Pode estar fechado!
+- Se fechado: explorar Harajuku/Omotesando iluminado
+
+</details>
+
+### 21:00 – 21:30 • Deslocamento Shibuya → Shinjuku
+
+### 21:30 – 22:30 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
+
+<details>
+<summary>Vista panorâmica - GRÁTIS!</summary>
+
+- Observatório 45º andar
+- Vista 360° Tokyo iluminada
+- Altura 202m
+- Vê Tokyo Tower, Skytree, Monte Fuji
+- **Horário:** Até 23:00
+- **ENTRADA FREE!**
+
+</details>
+
+### 22:30 – 23:00 • Volta hotel
 
 **SEM DSU - É SÁBADO! 🎉**
 
@@ -574,46 +702,69 @@ ainsoph.jp/ginza
 
 </details>
 
-### 16:00 – 17:00 • 🎴 **DARUMA SHOPS** (Asakusa)
+### 16:00 – 20:00 • 🛍️ **COMPRAS COMPLEMENTARES**
+
+**16:00-17:00 | TOKYU HANDS (Shibuya)**
 
 <details>
-<summary>Bonecos vermelhos de sorte</summary>
+<summary>Papelaria + decoração + misc</summary>
 
-**O QUE É:**
-- **Daruma:** boneco vermelho redondo sem braços/pernas que não cai
-- Usado para fazer desejos (pintar 1 olho ao fazer pedido, 2º quando realizar)
+- 7-8 andares de TUDO
+- **Andar de papelaria:** Melhor do mundo
+- DIY, craft, stationery, home decor
+- Tax-free
 
-**ONDE COMPRAR EM TOKYO:**
-- **Nakamise Street (Asakusa)** - várias lojas
-- Shops especializados em Daruma
-- Templos que vendem
-
-**O QUE FAZER:**
-- Ver variedade de Daruma (vários tamanhos)
-- Comprar seu próprio (¥500-3000)
-- Fazer pedido e pintar 1 olho
-
-**Nota:** Templo principal (Shorinzan Daruma-ji) fica em Takasaki (2h), então melhor comprar em Asakusa mesmo
+**COMPRAR:**
+- ✅ Papelaria japonesa
+- ✅ Itens decoração
+- ✅ Travel organizers
+- ✅ Misc gadgets
 
 </details>
 
-### 17:00 – 20:00 • 🛍️ **COMPRAS COMPLEMENTARES**
+**17:00-18:00 | UNIQLO Ginza (OU Shibuya)**
 
 <details>
-<summary>Itens que faltaram no sábado</summary>
+<summary>Roupas básicas</summary>
 
-**HARAJUKU/SHIBUYA:**
-- **Tokyu Hands** - Papelaria, misc
-- **Uniqlo** - Roupas
-- **ABC-Mart / Sneaker stores** (se interesse)
+- **Happy hour:** Terça/Sexta 14h-17h (SE for terça!)
+- Preços melhores que Uniqlo internacional
+- Básicos de qualidade
+- Tax-free
 
-**SHIMOKITAZAWA** (vintage - se tempo):
-- Roupas vintage
-- Atmosfera autêntica
+</details>
 
-**OU FICAR EM GINZA:**
-- Compras rápidas próximo hotel
-- Menos deslocamento
+**18:00-19:00 | DARUMA + Asakusa Nakamise**
+
+<details>
+<summary>Souvenirs tradicionais + Daruma</summary>
+
+**DARUMA:**
+- Boneco vermelho redondo da sorte
+- Fazer pedido e pintar 1 olho
+- ¥500-3000
+
+**NAKAMISE (SE TEMPO):**
+- Souvenirs tradicionais
+- Hashis decorados
+- Snacks japoneses
+- (Mais caros que supermercado, mas bonitos)
+
+</details>
+
+**19:00-20:00 | DAISO Harajuku (OU perto)**
+
+<details>
+<summary>100 Yen Shop - 7 andares!</summary>
+
+- TUDO ¥110 (¥100 + tax)
+- Qualidade alta para ¥100
+
+**COMPRAR:**
+- ✅ Stationery (pens, notebooks)
+- ✅ Kitchen gadgets
+- ✅ Beauty tools
+- ✅ Travel organizers
 
 </details>
 
@@ -686,29 +837,66 @@ ainsoph.jp/ginza
 
 ### 16:00 – 20:00 • 🛍️ **COMPRAS FINAIS** + DEPACHIKA
 
+**16:00-17:00 | Checklist Final (Ginza)**
+
 <details>
-<summary>Última chance + descontos!</summary>
+<summary>Última verificação</summary>
 
-**16:00-18:30 - CHECKLIST FINAL:**
-- ❓ Esqueceu algo importante?
-- ❓ Presentes de última hora?
-- ❓ Farmácia - algum item faltou?
+**Matsumoto Kiyoshi / Sundrug:**
+- ❓ Esqueceu algum item de farmácia?
+- ❓ Presentesde última hora?
 
-**18:30-20:00 - DEPACHIKA DESCONTOS! ⭐**
+**Muji Ginza:**
+- Household goods, stationery
+- Preços melhores que Muji internacional
 
-**Isetan Shinjuku:**
+</details>
+
+**17:00-18:30 | MATIOKA / OK Supermarket**
+
+<details>
+<summary>Snacks a preços LOCAIS</summary>
+
+**MATIOKA OKASHINO:**
+- Cadeia 150+ lojas em Tokyo
+- **PREÇOS LOCAIS** (não inflado)
+- MAIOR seleção de KitKats japoneses
+- Lotado de mães e idosos = sinal de valor
+
+**OK SUPERMARKET (Ginza):**
+- Mesmo prédio Uniqlo Ginza
+- Preços EXTREMAMENTE baixos
+- Seção snacks a preço real
+
+**COMPRAR:**
+- ✅ KitKats sabores exclusivos (matcha, sake, hojicha)
+- ✅ Pocky regional flavors
+- ✅ Hi-Chew (muito mais barato)
+- ✅ Snacks bulk
+
+</details>
+
+**18:30-20:00 | DEPACHIKA DESCONTOS! ⭐**
+
+<details>
+<summary>Department store basements</summary>
+
+**Isetan Shinjuku (OU Ginza Mitsukoshi):**
 - **APÓS 19:00** = descontos em bentos, food
 - Souvenirs gourmet
 - Snacks premium
 - Food gifts
+- Prepared foods
 
-**Ginza Mitsukoshi:**
-- Próximo ao hotel
-- Também tem descontos noturnos
+**Por quê após 19:00:**
+- Items próximos de expirar = desconto
+- Melhor custo-benefício
 
-**OK Supermarket Ginza:**
-- Snacks a preço local
-- Compras de último minuto
+**COMPRAR:**
+- ✅ Royce Chocolate (Hokkaido)
+- ✅ Tokyo Banana
+- ✅ Shiroi Koibito cookies
+- ✅ Snacks premium
 
 </details>
 
