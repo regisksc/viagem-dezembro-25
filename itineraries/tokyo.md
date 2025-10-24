@@ -57,7 +57,7 @@
 ### 14:52 – 16:00 • Check-in Ibis Styles Ginza
 
 <details>
-<parameter name="Detalhes</summary>
+<summary>Detalhes</summary>
 
 - **14:52-15:00:** Sair Tokyo Station
 - **15:00-15:15:** Metrô para Ginza (10-15min)
