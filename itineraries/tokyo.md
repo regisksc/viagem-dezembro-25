@@ -38,11 +38,12 @@
 
 ---
 
-## Sexta-feira, 19 de dezembro de 2025 - CHEGADA + COMPRAS GINZA
+## Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo:** Chegada (14:52) | Check-in Ginza | **Compras farmácia/beauty Ginza** | Jantar
+**📋 Resumo:** Chegada (14:52) | Check-in Ginza | Explorar Ginza | Jantar
 
 **💡 DIA DE CHEGADA = SEM DSU!**
+**💡 FARMÁCIA: Amanhã em Asakusa/Shinjuku (MUITO mais barato!)**
 
 ### 14:52 • Chegada Tokyo Station
 
@@ -65,51 +66,24 @@
 
 </details>
 
-### 16:00 – 17:30 • 💊 **MATSUMOTO KIYOSHI GINZA**
+### 16:00 – 19:00 • Explorar Ginza
 
 <details>
-<summary>Farmácia - Compras iniciais</summary>
+<summary>Apenas explorar (SEM grandes compras)</summary>
 
-**Localização:** 5min do hotel a pé
-**Tax-free:** SIM
+**Por quê NÃO comprar farmácia hoje:**
+- Ginza = área cara
+- Matsumoto Kiyoshi aqui não é a mais barata
+- **Amanhã:** Seims Asakusa (20% OFF) + OS Pharmacy Shinjuku (35% OFF!)
 
-**COMPRAR AQUI:**
-- ✅ Fukemin Soft-A shampoo anti-caspa (~¥1,000)
-- ✅ Pair Acne Cream (~¥1,200)
-- ✅ Pabron Gold A gripe/tosse (~¥1,500)
-- ✅ Mouth Ulcer Patch (~¥800)
-- ✅ Muhi S2a anti-coceira (~¥600)
-- ✅ Accelerator Floral Apple crescimento capilar (~¥1,800)
-- ✅ Melano CC Vitamina C (~¥1,200)
-- ✅ Hada Labo Shirojyun Premium (~¥1,000)
-- ✅ Argelan lip balms
+**O que fazer hoje:**
+- Caminhar por Ginza
+- Ver vitrines
+- **Compras de emergência SOMENTE** se necessário
+- Guardar dinheiro para amanhã
 
-**Horário:** Até 22:00
-**Tempo:** 1.5h
-
-</details>
-
-### 17:30 – 19:00 • 🛍️ **DON QUIJOTE GINZA**
-
-<details>
-<summary>Farmácia complementar + K-Beauty + snacks</summary>
-
-**Localização:** No prédio do Uniqlo Ginza (10min do hotel)
-**Por quê aqui:** Menos caótico que Shibuya/Shinjuku
-
-**COMPRAR AQUI:**
-- ✅ Rohto Eye Drops (~¥1,380-1,518)
-- ✅ Kobayashi Breath Care Capsule (~¥800-1,000)
-- ✅ Sana Nameraka eye cream (~¥980)
-- ✅ Meishoku Detclear peeling (~¥1,045)
-- ✅ Bioré Cold Body Wipes (~¥300)
-- ✅ Kao Megrhythm Eye Mask (~¥880)
-- ✅ Kobayashi Toilet Deodorizer
-- ✅ K-Beauty (COSRX, Etude House - preços OK)
-- ✅ Snacks japoneses iniciais
-
-**Horário:** Até 05:00 (aberto quase 24h!)
-**Tempo:** 1.5h
+**Se precisar algo urgente:**
+- Matsumoto Kiyoshi Ginza (conveniente, mas caro)
 
 </details>
 
@@ -154,9 +128,47 @@
 
 </details>
 
-### 09:30 – 12:00 • 🔪 **KAPPABASHI KITCHEN TOWN**
+### 09:30 – 11:00 • 💊 **SEIMS PHARMACY ASAKUSA** ⭐⭐⭐
 
-**10:00-11:00 | KAMA-ASA + MUSASHI JAPAN (Facas)**
+<details>
+<summary>FARMÁCIA COMPLETA - 20% OFF acima de ¥10k!</summary>
+
+**Localização:** Asakusa (2 andares, perto Senso-ji)
+**Por quê aqui:** 20% OFF em compras acima de ¥10,000!
+
+**COMPRAR AQUI (TUDO):**
+- ✅ Fukemin Soft-A shampoo anti-caspa (~¥1,000)
+- ✅ Pair Acne Cream (~¥1,200)
+- ✅ Pabron Gold A OU Dudu gripe/tosse (~¥1,500)
+- ✅ Mouth Ulcer Patch (~¥800)
+- ✅ Muhi S2a anti-coceira (~¥600)
+- ✅ Stoppa (diarreia) (~¥800)
+- ✅ EVE Quick DX (dor/cólica) (~¥1,000)
+- ✅ Arizon (alergia) (~¥1,200)
+- ✅ Lukaxang (tosse) (~¥800)
+- ✅ Accelerator Floral Apple crescimento capilar (~¥1,800)
+- ✅ Melano CC Vitamina C (~¥1,200)
+- ✅ Hada Labo Shirojyun Premium (~¥1,000)
+- ✅ Argelan lip balms
+- ✅ Sana Nameraka eye cream (~¥980)
+- ✅ Meishoku Detclear peeling (~¥1,045)
+- ✅ Bioré Cold Body Wipes (~¥300)
+- ✅ Kao Megrhythm Eye Mask (~¥880)
+- ✅ K-Beauty (COSRX, Etude House)
+
+**ESTRATÉGIA:**
+- Gastar >¥10,000 = 20% OFF automático!
+- Tax-free também
+- Comprar TUDO de farmácia aqui
+
+**Horário:** Até 22:00
+**Tempo:** 1.5h
+
+</details>
+
+### 11:00 – 13:00 • 🔪 **KAPPABASHI KITCHEN TOWN**
+
+**11:00-11:45 | KAMA-ASA + MUSASHI JAPAN (Facas)**
 
 <details>
 <summary>Facas japonesas profissionais</summary>
@@ -176,7 +188,7 @@
 
 </details>
 
-**11:00-11:45 | DENGAMA + YABUKITA (Cerâmicas)**
+**11:45-12:30 | DENGAMA + YABUKITA (Cerâmicas)**
 
 <details>
 <summary>Cerâmicas tradicionais japonesas</summary>
@@ -193,7 +205,7 @@
 
 </details>
 
-**11:45-12:00 | MIKURA (Hashis)**
+**12:30-13:00 | MIKURA (Hashis)**
 
 <details>
 <summary>500+ tipos de chopsticks</summary>
@@ -204,13 +216,13 @@
 
 </details>
 
-### 12:00 – 13:00 • Almoço (Asakusa)
+### 13:00 – 14:00 • Almoço (Asakusa)
 
-### 13:00 – 13:30 • Deslocamento Asakusa → Nakano
+### 14:00 – 14:30 • Deslocamento Asakusa → Nakano
 
-### 13:30 – 15:30 • 📷 **NAKANO BROADWAY**
+### 14:30 – 16:30 • 📷 **NAKANO BROADWAY**
 
-**13:30-15:00 | FUJIYA CAMERA**
+**14:30-16:00 | FUJIYA CAMERA**
 
 <details>
 <summary>Câmeras usadas - MELHOR de Tokyo</summary>
@@ -231,7 +243,7 @@
 
 </details>
 
-**15:00-15:30 | Exploring Nakano Broadway**
+**16:00-16:30 | Exploring Nakano Broadway**
 
 <details>
 <summary>Shopping complex vintage/pop culture</summary>
@@ -242,11 +254,11 @@
 
 </details>
 
-### 15:30 – 16:00 • Deslocamento Nakano → Akihabara
+### 16:30 – 17:00 • Deslocamento Nakano → Akihabara
 
-### 16:00 – 19:00 • 💻 **AKIHABARA**
+### 17:00 – 20:00 • 💻 **AKIHABARA**
 
-**16:00-17:30 | YODOBASHI CAMERA**
+**17:00-18:30 | YODOBASHI CAMERA**
 
 <details>
 <summary>Eletrônicos + WASHLET</summary>
@@ -268,7 +280,7 @@
 
 </details>
 
-**17:30-18:30 | BIC CAMERA AKIHABARA**
+**18:30-19:30 | BIC CAMERA AKIHABARA**
 
 <details>
 <summary>Comparar preços + tourist discount</summary>
@@ -281,7 +293,7 @@
 
 </details>
 
-**18:30-19:00 | HARD OFF / SURUGAYA**
+**19:30-20:00 | HARD OFF / SURUGAYA**
 
 <details>
 <summary>Bargains em junk/segunda mão</summary>
@@ -297,39 +309,44 @@
 
 </details>
 
-### 19:00 – 19:30 • Deslocamento Akihabara → Shibuya
+### 20:00 – 20:30 • Deslocamento Akihabara → Shinjuku
 
-### 19:30 – 21:00 • 🌆 **SHIBUYA + MEIJI JINGU**
-
-**19:30-20:15 | Shibuya Crossing**
+### 20:30 – 21:30 • 💊 **OS PHARMACY SHINJUKU** ⭐⭐⭐
 
 <details>
-<summary>Cruzamento mais famoso</summary>
+<summary>ATÉ 35% MAIS BARATO - Completar farmácia!</summary>
 
-- Até 3,000 pessoas por vez
-- Estátua Hachiko
-- **Melhor vista:** Starbucks 2º andar Tsutaya
-- Neons à noite = LINDO
+**Localização:** Shinjuku Station
+**Por quê aqui:** **ATÉ 35% MAIS BARATO** que outras farmácias!
+
+**COMPRAR AQUI (itens específicos MUITO mais baratos):**
+- ✅ DHC Eyelash Serum (35% OFF!)
+- ✅ Hatomugi Skin Conditioner (35% OFF!)
+- ✅ Detoxifying feet patches (35% OFF!)
+- ✅ Rohto Eye Drops (~¥1,380-1,518)
+- ✅ Kobayashi Toilet Deodorizer
+- ✅ Qualquer item que faltou na Seims
+
+**ATENÇÃO:**
+- ❌ NÃO tem tax refund
+- ❌ Só aceita CASH (sacar antes!)
+- ⏰ Horário reduzido (verificar)
+
+**ESTRATÉGIA:**
+- Comprar itens que são MUITO mais baratos aqui
+- Comparar preços com Seims
+- Economizar até 35%!
+
+**Tempo:** 1h
 
 </details>
-
-**20:15-21:00 | Meiji Jingu**
-
-<details>
-<summary>Santuário iluminado</summary>
-
-- Aberto até 18:00-18:40 (dezembro sunset cedo)
-- **ATENÇÃO:** Pode estar fechado!
-- Se fechado: explorar Harajuku/Omotesando iluminado
-
-</details>
-
-### 21:00 – 21:30 • Deslocamento Shibuya → Shinjuku
 
 ### 21:30 – 22:30 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
 
 <details>
 <summary>Vista panorâmica - GRÁTIS!</summary>
+
+**Localização:** Shinjuku (10min a pé de OS Pharmacy)
 
 - Observatório 45º andar
 - Vista 360° Tokyo iluminada
@@ -338,9 +355,17 @@
 - **Horário:** Até 23:00
 - **ENTRADA FREE!**
 
+**Por quê à noite:**
+- Logo após OS Pharmacy (perto!)
+- Vista noturna incrível
+- Grátis!
+- Perfeito final do dia
+
 </details>
 
 ### 22:30 – 23:00 • Volta hotel
+
+**💡 Shibuya/Meiji:** Mover para Segunda-feira tarde (após compras)
 
 **SEM DSU - É SÁBADO! 🎉**
 

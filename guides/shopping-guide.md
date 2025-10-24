@@ -161,22 +161,52 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 ### **Lojas Recomendadas:**
 
 <details>
-<summary>Matsumoto Kiyoshi vs outros</summary>
+<summary>Ranking de preços: Mais barato ao mais caro</summary>
 
-### **MATSUMOTO KIYOSHI** (Matsukiyo)
-- Mais famosa, MAS nem sempre a mais barata
-- **Vantagem:** Maior seleção
-- **Tax-free:** SIM
+### **🥇 OS PHARMACY** (Shinjuku) ⭐⭐⭐ MAIS BARATO!
+- **Localização:** Shinjuku Station
+- **ATÉ 35% MAIS BARATO** que Matsukiyo e Don Qui!
+- Exemplos: DHC eyelash serum, Hatomugi skin conditioner, foot patches
+- **ATENÇÃO:**
+  - ❌ NÃO tem tax refund
+  - ❌ Só aceita CASH
+  - ⏰ Horário reduzido
+- **Quando ir:** Sábado à noite (após shopping, antes do Observatory)
 
-### **SUNDRUG** 💎 MELHOR CUSTO-BENEFÍCIO (Reddit favorite)
+### **🥈 SEIMS PHARMACY** (Asakusa e outras) ⭐⭐⭐
+- **Várias filiais** em Tokyo
+- **20% OFF** em compras acima de ¥10,000
+- J-Beauty e K-Beauty
+- **Melhor filial:** Asakusa (2 andares, vazio em noites de dia de semana)
+- Tax-free: SIM
+- **Quando ir:** Sábado manhã (após Senso-ji)
+
+### **🥉 DAIKOKU DRUGSTORE** ⭐⭐
+- Sales mensais
+- **Membership grátis:** 5% OFF em medicamentos/health foods
+- **Dias 15, 16, 17 de cada mês:** 10% OFF
+- Várias localizações
+
+### **SUNDRUG** 💎
 - Preços 5-10% mais baratos que Matsukiyo
 - **Localização:** Em todo Tokyo
 - **Dica:** Sundrug de bairros residenciais = preços ainda melhores
 
-### **TSURUHA DRUGSTORE** 💎 HIDDEN GEM
+### **TSURUHA DRUGSTORE** 💎
 - Menos turístico
-- **Preços:** Os MAIS BARATOS segundo Reddit
-- Seleção menor, mas básicos estão todos lá
+- Preços baixos
+- Seleção menor, mas básicos estão lá
+
+### **MATSUMOTO KIYOSHI** (Matsukiyo)
+- Mais famosa, MAS **NÃO a mais barata**
+- **Vantagem:** Maior seleção
+- **Tax-free:** SIM
+- **Use para:** Compras de emergência/conveniência
+
+### **DON QUIJOTE**
+- **EVITE** filiais turísticas (Shibuya, Shinjuku central)
+- **OK:** Don Qui Ginza (menos caótico, preços ok para K-Beauty)
+- Não é a mais barata
 
 ### **COCOKARAFINE**
 - Meio termo (preço e seleção)
@@ -248,6 +278,43 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - **Duração:** Efeito dura horas
 - **Preço:** Aprox. ¥800-1,000
 
+#### **9. DUDU** (Gripe/resfriado)
+- **Para:** Sintomas de gripe e resfriado comum
+- **Efetivo para:** Nariz escorrendo
+- **Vantagem:** Fácil de tomar
+- **Must-know medicine** segundo locals
+
+#### **10. STOPPA (Stop Bath)** (Diarreia)
+- **Para:** Diarreia súbita
+- **Efeito:** MUITO rápido
+- **Atenção:** Sabor não é para todos
+- **Versões:** 4 diferentes para escolher
+
+#### **11. EVE QUICK DX** (Analgésico)
+- **Para:** Dor de cabeça, dor muscular, cólica menstrual, dor nas articulações
+- **Lifesaver** para mulheres (cólica)
+- Multi-propósito
+
+#### **12. ARIZON / ALIZON** (Alergia/Hay Fever)
+- **Para:** Pólen, poeira doméstica, irritação nasal, congestão
+- **Importante:** Primavera no Japão = hay fever comum
+- Dezembro: menos necessário, mas bom ter
+
+#### **13. LUKAXANG** (Tosse)
+- **Para:** Tosse e desconforto na garganta
+- **Formato:** Pó que dissolve direto na boca
+- **Vantagem:** NÃO precisa de água
+- Muito conveniente
+
+#### **14. DHC EYELASH SERUM** (Crescimento cílios)
+- **Onde mais barato:** OS Pharmacy Shinjuku (até 35% OFF)
+- Para crescimento e fortalecimento dos cílios
+
+#### **15. HATOMUGI SKIN CONDITIONER** (Tônico)
+- **Onde mais barato:** OS Pharmacy Shinjuku (até 35% OFF)
+- Tônico hidratante popular
+- Grande volume, bom custo-benefício
+
 </details>
 
 ---
@@ -311,6 +378,32 @@ Reddit consensus: "Akihabara é overpriced para vintage, vá em NAKANO ou SHINJU
 - **Efeito:** Aromaterapia suave + calor = facilita sono
 - **Preço:** ~¥880 (5 unidades)
 - "Amazing for sleep issues and stress"
+
+**TRANSINE** (Melasma e manchas) 💎 SÓ NO JAPÃO!
+- Linha especializada em tratar melasma e manchas (stain)
+- **Ativo patenteado** exclusivo
+- Incrivelmente bom para clarear manchas
+- **Tem suplemento oral** também
+- **Preço:** Mais caro (~¥3,000+), mas vale
+- **Só encontra no Japão!**
+
+**CUREL** (Pele sensível e dermatite) 💎 SÓ NO JAPÃO!
+- Especialista em **pele sensível e dermatite**
+- Muito usado por japoneses
+- Linha completa:
+  - Pele oleosa
+  - Pele seca
+  - Pele extra seca
+- **Preço:** ~¥1,900
+- **Só encontra no Japão!**
+
+**ANESSA** (Protetor solar) #1 NO JAPÃO!
+- **#1 em vendas** de protetor solar no Japão
+- Super fluido
+- Absorve rápido
+- **Tecnologia de espalhabilidade** incrível
+- Espalha muito bem na pele
+- **Preço:** ~¥2,000-3,000
 
 </details>
 
