@@ -16,7 +16,7 @@
 
 ## Terça-feira, 09 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo do dia:** Chegada em Osaka (KIX 19:05) | Shuttle gratuito para hotel | Check-in Swissôtel | Primeira exploração Dotonbori | Paprika Shokudo (jantar vegano)
+**📋 Resumo do dia:** Chegada em Osaka (KIX 19:05) | Shuttle gratuito para hotel | Check-in Swissôtel | **Camera Kitamura (URGENTE - fecha 21h!)** | Primeira exploração Dotonbori | Paprika Shokudo (jantar vegano)
 
 ### 19:05 • Chegada no Kansai International Airport (KIX)
 - **Voo:** HX612 Hong Kong Airlines (HKG → KIX)
@@ -69,8 +69,26 @@
 
 ---
 
-### 21:30 – 23:00 • Jantar e primeira exploração: Dotonbori
-- **🚶 Distância:** 10-15 min a pé do Swissôtel
+### 21:30 – 22:00 • Camera Kitamura Namba CITY (URGENTE - fecha 21h!)
+- **🚶 Distância:** 3-5 min a pé do Swissôtel
+- **Local:** Namba CITY South Building B1F
+- **Endereço:** 5 Chome-1-60 Namba, Chuo Ward, Osaka, 542-0076
+
+<details>
+<summary>Detalhes</summary>
+
+- **Horário:** 10:00-21:00 (fecha às 21h!)
+- **Por que ir:** Loja de câmeras com equipamentos digitais, usados, lentes
+- **Cupom:** 5% desconto + isenção de impostos para estrangeiros
+- **Tempo:** 30min (compras rápidas)
+- **⚠️ URGENTE:** Primeira parada após check-in - loja fecha às 21h!
+
+</details>
+
+---
+
+### 22:00 – 23:00 • Jantar e primeira exploração: Dotonbori
+- **🚶 Distância:** 10-15 min a pé do Swissôtel (após Camera Kitamura)
 
 <details>
 <summary>Detalhes</summary>
