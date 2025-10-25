@@ -186,8 +186,7 @@
 
 **📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Eletrônicos/Washlet (Akihabara) → Roupas/Thrift (Shibuya) → Câmeras/Games (Shinjuku) → Observatory
 
-> **🎯 DIA MAIS IMPORTANTE = SEM DSU!**
-> **⚠️ 80-90% DAS COMPRAS ACONTECEM HOJE**
+> **🎯 Único dia livre completo = SEM DSU!**
 
 ---
 
@@ -981,7 +980,7 @@
 
 ---
 
-### 🕐 16:00 – 20:00 • 🛍️ **COMPRAS COMPLEMENTARES**
+### 🕐 16:00 – 20:00 • 🛍️ **Explorar e souvenirs**
 
 > **💡 Sábado já cobriu:** Tokyu Hands, Uniqlo/GU, Thrift shops
 
@@ -1059,9 +1058,9 @@
 
 # Terça-feira, 23 de dezembro de 2025 - TEAMLAB + Última Chance
 
-**📋 Resumo do dia:** **TeamLab Borderless** → Compras finais → Depachika descontos → DSU 23:30
+**📋 Resumo do dia:** TeamLab Borderless → Última chance souvenirs → Depachika descontos → DSU 23:30
 
-> **⚠️ ÚLTIMO DIA DE COMPRAS!**
+> **⚠️ TEM DSU HOJE!**
 > **🕐 Estar no hotel às 21:00**
 
 ---
@@ -1127,7 +1126,7 @@
 
 ---
 
-### 🕐 16:00 – 20:00 • 🛍️ **COMPRAS FINAIS** + DEPACHIKA
+### 🕐 16:00 – 20:00 • 🛍️ **Última chance** + DEPACHIKA
 
 #### 🕐 16:00-17:00 | ✅ Checklist Final (Ginza)
 
@@ -1236,8 +1235,6 @@
 - 🚇 First train (~05:00) se voo for mais tarde
 
 </details>
-
-> **⚠️ SEM TEMPO PARA COMPRAS!**
 
 ---
 ---
