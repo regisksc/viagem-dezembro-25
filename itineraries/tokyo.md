@@ -184,7 +184,7 @@
 
 # Sábado, 20 de dezembro de 2025 - SHOPPING DAY
 
-**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Eletrônicos/Washlet (Akihabara) → Câmeras/Games (Shinjuku) → Observatory → Roupas/Thrift (Shibuya noite)
+**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Eletrônicos/Washlet (Akihabara) → Roupas/Thrift (Shibuya) → Câmeras/Games (Shinjuku) → Observatory
 
 > **🎯 DIA MAIS IMPORTANTE = SEM DSU!**
 > **⚠️ 80-90% DAS COMPRAS ACONTECEM HOJE**
@@ -375,9 +375,9 @@
 
 ---
 
-### 🕐 14:00 – 17:30 • 💻 **AKIHABARA** - Eletrônicos & Washlet
+### 🕐 14:00 – 17:00 • 💻 **AKIHABARA** - Eletrônicos & Washlet
 
-#### 🕐 14:00-16:00 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
+#### 🕐 14:00-15:45 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Eletrônicos + WASHLET</summary>
@@ -402,7 +402,7 @@
 
 ---
 
-#### 🕐 16:00-17:00 | 💻 BIC CAMERA AKIHABARA
+#### 🕐 15:45-17:00 | 💻 BIC CAMERA AKIHABARA
 
 <details>
 <summary>🎯 Comparar preços + tourist discount</summary>
@@ -418,65 +418,103 @@
 
 ---
 
-#### 🕐 17:00-17:30 | 🎮 RETRO GAMES (se tempo) `[OPCIONAL]`
+### 🕐 17:00 – 17:30 • 🚇 Deslocamento Akihabara → Shibuya
+
+**🚇 Rota:** Ginza Line (Suehirocho → Shibuya) ou JR Yamanote Line
+**⏱️ Tempo:** 20-25min
+
+---
+
+### 🕐 17:30 – 19:30 • 🛍️ **SHIBUYA** - Roupas & Thrift
+
+#### 🕐 17:30-18:30 | 🏬 TOKYU HANDS `[PRIORITÁRIO]`
 
 <details>
-<summary>🎯 Super Potato ou Traders</summary>
+<summary>🎯 Papelaria + decoração</summary>
 
-**📍 SUPER POTATO:**
-- 🎮 3 andares de retro gaming
-- 🕹️ Famicom, Super Famicom, Game Boy
-- 💰 Preços razoáveis
-- 🎯 Gaming nostalgia
+**🏢 Descrição:**
+- 🏢 7-8 andares de TUDO
+- ✏️ **Andar de papelaria:** Melhor do mundo
+- 🎨 DIY, craft, stationery, home decor
+- 💳 Tax-free
+- 🕐 **Horário:** Até 20:00-21:00
 
-**OU se não der tempo, pular para Shinjuku!**
+**🛒 COMPRAR:**
+- ✅ Papelaria japonesa
+- ✅ Itens decoração
+- ✅ Travel organizers
+- ✅ Misc gadgets
+
+> **💡 Timing perfeito:** Lojas ainda abertas (17:30-18:30)
 
 </details>
 
 ---
 
-### 🕐 17:30 – 18:00 • 🚇 Deslocamento Akihabara → Shinjuku
+#### 🕐 18:30-19:30 | 👗 THRIFT SHOPPING `[PRIORITÁRIO]`
 
-**🚇 Rota:** JR Chuo Line (rápido) ou JR Yamanote Line
-**⏱️ Tempo:** 15-20min
+<details>
+<summary>🎯 Brechós e vintage - 1h</summary>
+
+**📍 2ND STREET SHIBUYA:**
+- 🏢 4 andares de second-hand
+- 👕 Roupas, acessórios, bags
+- 💰 Preços: ¥500-5,000
+- 🌟 Qualidade excelente
+- 🕐 **Horário:** Até 20:00-21:00
+
+**📍 BOOKOFF SUPER BAZAAR:**
+- 📚 Livros, mangá, CDs
+- 👕 Roupas vintage
+- 🎮 Games antigos
+- 💰 Seção ¥100-500
+
+**📍 RAGTAG SHIBUYA (se tempo):**
+- 👔 Designer second-hand
+- 🏷️ Marcas high-end
+- 💰 30-70% OFF retail
+
+> **💡 Estratégia:**
+> - 1h para explorar os brechós
+> - Lojas ainda abertas!
+> - Foco em vintage/thrift (Uniqlo já foi sexta)
+
+</details>
 
 ---
 
-### 🕐 18:00 – 19:30 • 📷 **SHINJUKU** - Câmeras & Games `[PRIORITÁRIO]`
+### 🕐 19:30 – 20:00 • 🚇 Deslocamento Shibuya → Shinjuku
+
+**🚇 Rota:** JR Yamanote Line (direto, 7min) ou Fukutoshin Line
+**⏱️ Tempo:** 10-15min
+
+---
+
+### 🕐 20:00 – 21:00 • 📷 **SHINJUKU** - Câmeras & Games `[PRIORITÁRIO]`
 
 <details>
-<summary>🎯 MAP Camera + Hard Off - melhor de Shinjuku</summary>
+<summary>🎯 MAP Camera + Hard Off</summary>
 
 **📍 MAP CAMERA SHINJUKU:**
 - 🏢 **5 ANDARES** de câmeras e equipamento
 - 📷 Maior seleção de câmeras usadas de Tokyo
 - 💎 Condição PRISTINE (como novos)
-- 💰 Trade-in disponível
 - 📦 Câmera vintage: ¥5,000-15,000
 - 📦 Câmera digital usada: ¥20,000-50,000
-- 🎯 **Melhor para:** Digital usado + lentes profissionais
 
-**📍 HARD OFF SHINJUKU (perto):**
+**📍 HARD OFF SHINJUKU:**
 - 💎 Seção "JUNK" = super barato
 - 📷 **Câmera retro de chaveiro** (~¥1,000-3,000)
 - 🎮 **Vintage games** (Famicom, GameBoy, etc)
 - 🎧 Audio gear vintage
-- ⚡ Pode testar antes de comprar
-- 💡 Reddit: "Junk section is a goldmine"
 
-> **💡 Por quê Shinjuku:**
-> - ✅ MAP Camera = #2 melhor loja de câmeras de Tokyo
-> - ✅ Hard Off Shinjuku tem MUITO vintage gaming
-> - ✅ Já estarão em Shinjuku para snacks + observatory
-> - ✅ Melhor custo-benefício que Akihabara
-
-**⏱️ Tempo:** 1h para ambas as lojas
+> **💡 Timing:** 1h para ambas as lojas (20:00-21:00)
 
 </details>
 
 ---
 
-### 🕐 19:30 – 20:00 • 🍫 **MATIOKA OKASHINO SHINJUKU** `[PRIORITÁRIO]`
+### 🕐 21:00 – 21:30 • 🍫 **MATIOKA OKASHINO SHINJUKU** `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Snacks e doces a PREÇOS LOCAIS!</summary>
@@ -510,7 +548,7 @@
 
 ---
 
-### 🕐 20:00 – 21:00 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
+### 🕐 21:30 – 22:30 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
 
 <details>
 <summary>🎯 Vista panorâmica - GRÁTIS!</summary>
@@ -536,72 +574,10 @@
 
 ---
 
-### 🕐 21:00 – 21:30 • 🚇 Deslocamento Shinjuku → Shibuya
+### 🕐 22:30 – 23:00 • 🚇 Volta hotel Ginza
 
-**🚇 Rota:** JR Yamanote Line (direto, 7min) ou Fukutoshin Line
-**⏱️ Tempo:** 10-15min
-
----
-
-### 🕐 21:30 – 23:00 • 🛍️ **SHIBUYA** - Roupas & Thrift
-
-#### 🕐 21:30-22:15 | 🏬 TOKYU HANDS
-
-<details>
-<parameter name="summary">🎯 Papelaria express</summary>
-
-**🏢 Descrição:**
-- 🏢 7-8 andares de TUDO
-- ✏️ **Andar de papelaria:** Melhor do mundo
-- 💳 Tax-free
-- 🕐 Aberto até 21:00 ou 22:00 (verificar!)
-
-**🛒 COMPRAR rápido:**
-- ✅ Papelaria japonesa
-- ✅ Travel organizers
-
-> **💡 Uniqlo:** Já visitado sexta (19 dez) em Ginza
-
-</details>
-
----
-
-#### 🕐 22:15-23:00 | 👗 THRIFT SHOPPING `[PRIORITÁRIO]`
-
-<details>
-<summary>🎯 Brechós e vintage - FOCO PRINCIPAL!</summary>
-
-**📍 2ND STREET SHIBUYA:**
-- 🏢 4 andares de second-hand
-- 👕 Roupas, acessórios, bags
-- 💰 Preços: ¥500-5,000
-- 🌟 Qualidade excelente
-- 🕐 **Horário:** Até 21:00-22:00 (verificar!)
-
-**📍 BOOKOFF SUPER BAZAAR:**
-- 📚 Livros, mangá, CDs
-- 👕 Roupas vintage
-- 🎮 Games antigos
-- 💰 Seção ¥100-500
-
-**📍 RAGTAG SHIBUYA (se tempo):**
-- 👔 Designer second-hand
-- 🏷️ Marcas high-end
-- 💰 30-70% OFF retail
-
-> **💡 Estratégia:**
-> - Foco em thrift/vintage (Uniqlo já foi sexta)
-> - 45min tempo total
-> - Se lojas fecharem cedo: Shibuya Crossing iluminado!
-
-</details>
-
----
-
-### 🕐 23:00 – 23:30 • 🚇 Volta hotel Ginza
-
-**🚇 Rota:** Ginza Line (direta Shibuya → Ginza)
-**⏱️ Tempo:** 15-20min
+**🚇 Rota:** JR Yamanote Line Shinjuku → Yurakucho, walk to Ginza
+**⏱️ Tempo:** 20-25min
 
 **✅ SEM DSU - É SÁBADO! 🎉**
 
