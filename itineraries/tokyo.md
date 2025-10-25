@@ -203,7 +203,7 @@
 
 ---
 
-### 🕐 07:00 – 08:00 • ☕ Café da manhã
+### 🕐 07:00 – 08:00 • ☕ Café da manhã (hotel)
 
 ---
 
@@ -211,7 +211,7 @@
 
 ---
 
-### 🕐 09:00 – 09:30 • 🏮 **SENSO-JI TEMPLE** `[RÁPIDO]`
+### 🕐 09:00 – 09:20 • 🏮 **SENSO-JI TEMPLE** `[RÁPIDO]`
 
 <details>
 <summary>📍 Visita expressa ao templo</summary>
@@ -227,7 +227,35 @@
 
 ---
 
-### 🕐 09:30 – 11:00 • 💊 **SEIMS PHARMACY ASAKUSA** `[PRIORITÁRIO]` ⭐⭐⭐
+### 🕐 09:20 – 09:30 • 🏪 **ASAKUSA UNDERGROUND ST** `[OPCIONAL]`
+
+<details>
+<summary>📍 Retro shopping street (1955)</summary>
+
+**💡 O que é:**
+- 🕰️ Rua comercial subterrânea MAIS ANTIGA do Japão (1955)
+- 🎭 Atmosfera nostálgica da era Showa
+- 🛍️ ~20 lojas e restaurantes vintage
+- 🚇 Conecta Tobu Asakusa Station ao Shin Nakamise
+
+**🎯 O que ver (RÁPIDO):**
+- ✅ Atmosfera retro time-capsule
+- ✅ Lojas vintage, papelaria antiga
+- ✅ Barbearias tradicionais
+- 💰 Coin lockers baratos (¥200)
+
+**💡 Por quê visitar:**
+- ✅ No caminho da farmácia
+- ✅ Contraste com Tokyo moderna
+- ✅ Fotos legais do Japão antigo
+
+**⏱️ Tempo:** 10min (só passar e ver)
+
+</details>
+
+---
+
+### 🕐 09:30 – 10:30 • 💊 **SEIMS PHARMACY ASAKUSA** `[PRIORITÁRIO]` ⭐⭐⭐
 
 <details>
 <summary>🎯 FARMÁCIA COMPLETA - 20% OFF acima de ¥10k!</summary>
@@ -265,15 +293,14 @@
 > - Comprar TUDO de farmácia aqui
 
 **🕐 Horário:** Até 22:00
-**⏱️ Tempo:** 1.5h
 
 </details>
 
 ---
 
-### 🕐 11:00 – 13:00 • 🔪 **KAPPABASHI KITCHEN TOWN**
+### 🕐 10:30 – 12:30 • 🔪 **KAPPABASHI KITCHEN TOWN**
 
-#### 🕐 11:00-11:45 | 🔪 KAMA-ASA + MUSASHI JAPAN (Facas)
+#### 🕐 10:30-11:15 | 🔪 KAMA-ASA + MUSASHI JAPAN (Facas)
 
 <details>
 <summary>🎯 Facas japonesas profissionais</summary>
@@ -295,7 +322,7 @@
 
 ---
 
-#### 🕐 11:45-12:30 | 🏺 DENGAMA + YABUKITA (Cerâmicas)
+#### 🕐 11:15-12:00 | 🏺 DENGAMA + YABUKITA (Cerâmicas)
 
 <details>
 <summary>🎯 Cerâmicas tradicionais japonesas</summary>
@@ -314,7 +341,7 @@
 
 ---
 
-#### 🕐 12:30-13:00 | 🥢 MIKURA (Hashis)
+#### 🕐 12:00-12:30 | 🥢 MIKURA (Hashis)
 
 <details>
 <summary>🎯 500+ tipos de chopsticks</summary>
@@ -327,17 +354,39 @@
 
 ---
 
-### 🕐 13:00 – 14:00 • 🍜 Almoço (Asakusa)
+### 🕐 12:30 – 13:30 • 🍜 **Almoço Vegano: Asakusa Nadai Ramen Yoroiya**
+
+<details>
+<summary>🌱 Vegan ramen tradicional perto de Kappabashi</summary>
+
+**📍 Localização:** 1-36-7 Asakusa, Denboin Street (próximo Senso-ji)
+**📞 Tel:** +81-3-3845-4618
+
+**💰 Preço:** ¥900-1,300
+**🍜 Menu:**
+- Vegan ramen com caldo gentle de vegetais
+- Toppings: tofu frito grosso, bamboo, cenoura, batata doce
+
+**💡 Por quê aqui:**
+- ✅ Fundado em 1992 - tradicional!
+- ✅ 5min de Kappabashi
+- ✅ Preço bom
+- ✅ Ramen vegano autêntico
+- ⚠️ FILAS LONGAS mas vale a pena
+
+**🕐 Horário:** 11:00-20:30
+
+</details>
 
 ---
 
-### 🕐 14:00 – 14:30 • 🚇 Deslocamento Asakusa → Nakano
+### 🕐 13:30 – 14:00 • 🚇 Deslocamento Asakusa → Nakano
 
 ---
 
-### 🕐 14:30 – 16:30 • 📷 **NAKANO BROADWAY**
+### 🕐 14:00 – 16:00 • 📷 **NAKANO BROADWAY**
 
-#### 🕐 14:30-16:00 | 📷 FUJIYA CAMERA
+#### 🕐 14:00-15:30 | 📷 FUJIYA CAMERA
 
 <details>
 <summary>🎯 Câmeras usadas - MELHOR de Tokyo</summary>
@@ -360,7 +409,7 @@
 
 ---
 
-#### 🕐 16:00-16:30 | 🏢 Exploring Nakano Broadway
+#### 🕐 15:30-16:00 | 🏢 Exploring Nakano Broadway
 
 <details>
 <summary>📍 Shopping complex vintage/pop culture</summary>
@@ -374,13 +423,13 @@
 
 ---
 
-### 🕐 16:30 – 17:00 • 🚇 Deslocamento Nakano → Akihabara
+### 🕐 16:00 – 16:30 • 🚇 Deslocamento Nakano → Akihabara
 
 ---
 
-### 🕐 17:00 – 20:00 • 💻 **AKIHABARA**
+### 🕐 16:30 – 19:30 • 💻 **AKIHABARA**
 
-#### 🕐 17:00-18:30 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
+#### 🕐 16:30-18:00 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Eletrônicos + WASHLET</summary>
@@ -405,7 +454,7 @@
 
 ---
 
-#### 🕐 18:30-19:30 | 💻 BIC CAMERA AKIHABARA
+#### 🕐 18:00-19:00 | 💻 BIC CAMERA AKIHABARA
 
 <details>
 <summary>🎯 Comparar preços + tourist discount</summary>
@@ -421,7 +470,7 @@
 
 ---
 
-#### 🕐 19:30-20:00 | 🎮 HARD OFF / SURUGAYA `[OPCIONAL]`
+#### 🕐 19:00-19:30 | 🎮 HARD OFF / SURUGAYA `[OPCIONAL]`
 
 <details>
 <summary>🎯 Bargains em junk/segunda mão</summary>
@@ -439,7 +488,41 @@
 
 ---
 
-### 🕐 20:00 – 20:30 • 🚇 Deslocamento Akihabara → Shinjuku
+### 🕐 19:30 – 20:00 • 🚇 Deslocamento Akihabara → Shinjuku
+
+---
+
+### 🕐 20:00 – 20:30 • 🍫 **MATIOKA OKASHINO SHINJUKU** `[PRIORITÁRIO]`
+
+<details>
+<summary>🎯 Snacks e doces a PREÇOS LOCAIS!</summary>
+
+**📍 Localização:** Shinjuku Nishiguchi (West Exit), 1-12-1 Nishi-Shinjuku
+**📞 Tel:** +81-3-3342-0321
+**🕐 Horário:** 10:00-21:30
+
+> **💡 Por quê aqui:**
+> - 💰 Cadeia 150+ lojas - PREÇOS LOCAIS (não inflado)!
+> - 🍫 MAIOR seleção de KitKats japoneses
+> - 🍬 1000+ tipos de snacks e doces japoneses
+> - 👥 Lotado de mães e idosos = sinal de valor real
+
+**🛒 COMPRAR:**
+- ✅ KitKats sabores exclusivos (matcha, sake, hojicha, wasabi, etc)
+- ✅ Pocky regional flavors
+- ✅ Hi-Chew (MUITO mais barato que nas lojas turísticas)
+- ✅ Snacks bulk para presentear
+- ✅ Doces japoneses tradicionais (mochi, senbei, etc)
+- ✅ Chocolates japoneses (Meiji, Lotte, Glico)
+
+**💰 Previsão:** ¥3,000-5,000 (vai comprar muita coisa!)
+
+**💡 Estratégia:**
+- Comprar snacks e doces aqui ANTES da farmácia
+- Guardar na mochila
+- Preços 30-50% mais baratos que Don Quijote/conbini turísticos
+
+</details>
 
 ---
 
