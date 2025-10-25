@@ -1,5 +1,7 @@
 # 🗼 Tokyo
 
+[19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) • [20 dez](#sábado-20-de-dezembro-de-2025---shopping-day-️) • [21 dez](#domingo-21-de-dezembro-de-2025---day-trip-monte-fuji-) • [22 dez](#segunda-feira-22-de-dezembro-de-2025---studio-ghibli--compras) • [23 dez](#terça-feira-23-de-dezembro-de-2025---teamlab--última-chance) • [24 dez](#quarta-feira-24-de-dezembro-de-2025---partida-madrugada-️)
+
 ---
 
 ## 🏨 Informações do Hotel
@@ -9,20 +11,6 @@
 **Preço:** JPY 20,149/noite (~R$ 675/noite)
 **Café da manhã:** 7:00-11:00
 **Inclui:** Café da manhã
-
----
-
-## 📅 NAVEGAÇÃO RÁPIDA
-
-**Ir para:**
-- [⏰ Trabalho Remoto](#-trabalho-remoto---horários-críticos)
-- [🛍️ Estratégia Shopping](#️-estratégia-de-shopping)
-- [Sexta, 19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada)
-- [Sábado, 20 dez](#sábado-20-de-dezembro-de-2025---shopping-day-️)
-- [Domingo, 21 dez](#domingo-21-de-dezembro-de-2025---day-trip-monte-fuji-)
-- [Segunda, 22 dez](#segunda-feira-22-de-dezembro-de-2025---studio-ghibli--compras)
-- [Terça, 23 dez](#terça-feira-23-de-dezembro-de-2025---teamlab--última-chance)
-- [Quarta, 24 dez](#quarta-feira-24-de-dezembro-de-2025---partida-madrugada-️)
 
 ---
 
