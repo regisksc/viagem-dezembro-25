@@ -77,53 +77,68 @@
 
 ---
 
-### 🕐 16:00 – 18:30 • 🏬 Explorar PRINCIPAIS LOJAS de Ginza
+### 🕐 16:00 – 18:30 • 🏬 Explorar GINZA `[CONTEÚDO]`
 
 <details>
-<summary>📍 Ver principais lojas (SEM grandes compras)</summary>
+<summary>📍 Flagship stores + TikTok-worthy spots</summary>
 
 > **⚠️ Por quê NÃO comprar farmácia hoje:**
 > - Ginza = área cara
-> - Matsumoto Kiyoshi aqui não é a mais barata
-> - **Amanhã:** Seims Asakusa (20% OFF) + OS Pharmacy Shinjuku (35% OFF!)
+> - **Amanhã:** Seims Asakusa (20% OFF)
 
-**🎯 Lojas principais para conhecer:**
+**🎥 CONTEÚDO TikTok - Locais principais:**
 
-**📍 Uniqlo Ginza (Flagship)**
-- 🏢 12 andares - loja conceito
-- 👕 Ver novidades que não têm no Brasil
-- 💰 Não comprar ainda (amanhã tem mais tempo)
+**📍 Ginza Crossing `[MUST FILM]`**
+- 🚦 Cruzamento icônico de Ginza
+- 🌃 Luzes de neon + movimento
+- 📱 Ângulo: Do alto (pedestrian bridge) ou street level
+- ⏰ Melhor: Anoitecer (18:00-18:30)
+
+**📍 Uniqlo Ginza (Flagship) `[CONTEÚDO]`**
+- 🏢 12 andares - arquitetura moderna
+- 👕 Loja conceito com inovações
+- 🎥 Interior design minimalista japonês
+- 📱 Ângulo: Fachada + escalators + variedade
 - 📍 Mesmo prédio do OK Supermarket
 
-**📍 Muji Ginza (Flagship)**
-- 🏢 10 andares de minimalismo
-- 🏠 Household, stationery, clothes
-- 💰 Preços melhores que Muji internacional
-- 🎯 Fazer lista mental do que comprar depois
+**📍 Muji Ginza (Flagship) `[CONTEÚDO]`**
+- 🏢 10 andares de minimalismo aesthetic
+- 🏠 Design japonês icônico
+- 🎥 Muji Hotel + displays perfeitos para TikTok
+- 📱 Ângulo: Vitrines, organização zen
 
-**📍 Ginza Six / Ginza Mitsukoshi**
-- 🏬 Ver depachika (basement food hall)
-- 🎁 Souvenirs gourmet
-- 💡 Voltar terça após 19:00 para descontos
+**📍 Ginza Six / Ginza Mitsukoshi `[CONTEÚDO]`**
+- 🏬 Depachika (basement food hall) VISUAL INCRÍVEL
+- 🍱 Food displays artísticos
+- 🎥 Variedade, cores, apresentação impecável
+- 📱 Ângulo: Panorâmica de displays + detalhes
 
-**📍 Don Quijote Ginza (se tempo)**
-- 🏢 Mesmo prédio Uniqlo
-- 👀 Só dar uma olhada rápida
-- ❌ NÃO comprar farmácia aqui (caro!)
+**📍 Don Quijote Ginza `[CONTEÚDO]`**
+- 🏢 Caos organizado japonês
+- 🎵 Jingle icônico "Don Don Don..."
+- 🎥 Corredores apertados + produtos empilhados
+- 📱 Ângulo: Intensidade sensorial, produtos únicos
 
-**🚶 Caminhar por:**
-- ✨ Chuo-dori (rua principal)
-- 🏮 Ver vitrines de departamento stores
-- 🌃 Sentir vibe de Ginza à noite
+**🚶 Chuo-dori (Rua Principal) `[CONTEÚDO]`**
+- ✨ Rua principal de Ginza à noite
+- 🏮 Luzes + vitrines luxury brands
+- 🎥 Contraste: tradição x modernidade
+- 📱 Ângulo: Walk-through POV
+
+> **💡 TikTok Strategy - Sexta:**
+> - "Primeiro dia em Tokyo: Ginza after dark"
+> - Contraste: Flagship stores vs Don Quijote
+> - Depachika food porn
+> - Ginza crossing vs Shibuya crossing (comparar amanhã)
 
 </details>
 
 ---
 
-### 🕐 18:30 – 19:00 • 🛒 **OK SUPERMARKET GINZA** `[PRIORITÁRIO]`
+### 🕐 18:30 – 19:00 • 🛒 **OK SUPERMARKET GINZA** `[PRIORITÁRIO]` `[CONTEÚDO]`
 
 <details>
-<summary>🎯 Compras no supermercado MAIS BARATO de Ginza!</summary>
+<summary>🎯 Supermercado local + TikTok food!</summary>
 
 **📍 Localização:** Mesmo prédio do Uniqlo Ginza (basement)
 
@@ -132,7 +147,6 @@
 > - 🍱 Sushi platters $22 CAD
 > - 🍙 Toro rolls $6
 > - 🍣 Nigiri $10
-> - 🍪 Snacks a preço real (não inflado)
 
 **🛒 COMPRAR:**
 - ✅ Jantar de hoje (bentô, onigiri, sushi)
@@ -140,16 +154,23 @@
 - ✅ Snacks para hotel
 - ✅ Água, chá gelado
 
+**🎥 CONTEÚDO TikTok:**
+- 🍱 Bentô sections artísticos
+- 💰 "Supermercado japonês preços REAIS"
+- 🍙 Variedade de onigiri (30+ tipos)
+- 🎨 Apresentação vs preço
+- 📱 Ângulo: Comparação preços, variedade
+
 **💰 Previsão:** ¥2,000-3,000 (2 pessoas)
 
 </details>
 
 ---
 
-### 🕐 19:00 – 19:30 • 🍔 Jantar rápido: **2foods Ginza Loft**
+### 🕐 19:00 – 19:30 • 🍔 Jantar rápido: **2foods Ginza Loft** `[CONTEÚDO]`
 
 <details>
-<summary>🌱 Vegan burger RÁPIDO (30min)</summary>
+<summary>🌱 Vegan burger + TikTok aesthetic</summary>
 
 **📍 Localização:** Ginza Loft 2F (perto do hotel)
 
@@ -160,13 +181,19 @@
 - Omurice vegano
 - Nuggets com dips coloridos
 
+**🎥 CONTEÚDO TikTok:**
+- 🍔 Apresentação visual do burger
+- 🌈 Dips coloridos aesthetic
+- 🌱 "Vegan junk food em Tokyo"
+- 📱 Ângulo: Flat lay do prato + ambiente
+
 **🕐 Tempo:** 30 minutos (comer rápido)
 
 > **💡 Por quê aqui:**
 > - ✅ Perto do hotel
-> - ✅ Rápido (30min)
+> - ✅ Visual instagramável
 > - ✅ Vegan burger gostoso
-> - ✅ Preço razoável
+> - ✅ Primeiro jantar em Tokyo
 
 **OU Alternativa:**
 - Comer bentô/sushi do OK Supermarket no hotel (mais barato e rápido)
@@ -401,7 +428,7 @@
 
 ---
 
-#### 🕐 15:45-17:00 | 💻 BIC CAMERA AKIHABARA
+#### 🕐 15:45-16:30 | 💻 BIC CAMERA AKIHABARA
 
 <details>
 <summary>🎯 Comparar preços + tourist discount</summary>
@@ -412,6 +439,37 @@
 - 🔍 Comparar washlet se não comprou
 - 💨 Hair dryers, small appliances
 - 📦 Produtos que Yodobashi não tem
+
+</details>
+
+---
+
+#### 🕐 16:30-17:00 | 🎬 LAMMTARRA EPIXIS AKIBA `[CONTEÚDO]`
+
+<details>
+<summary>🎯 5 andares de entretenimento japonês - TikTok!</summary>
+
+**📍 Localização:** Sotokanda, Chiyoda-ku (Akihabara)
+
+**🏢 O que é:**
+- 🎬 5 ANDARES de DVD, vídeo, livros, entretenimento
+- 📊 Gradação por andar: mainstream → nicho → adulto
+- 🇯🇵 Cultura pop japonesa autêntica
+- 🎥 Visual único e colorido
+
+**🎥 CONTEÚDO TikTok:**
+- ✅ Fachada colorida (ótima para vídeo)
+- ✅ Andares mainstream (anime, games, idol culture)
+- ✅ Cultura *otaku* autêntica de Akihabara
+- ✅ Gravar sem mostrar detalhes sensíveis
+- 📱 Perspectiva cultural/antropológica
+
+> **💡 TikTok angle:**
+> - "5 andares revelando camadas da cultura pop japonesa"
+> - "Do mainstream ao underground de Akiba"
+> - Foco em arquitetura, variedade, aspecto cultural
+
+**⏱️ Tempo:** 30min (explorar + gravar)
 
 </details>
 
