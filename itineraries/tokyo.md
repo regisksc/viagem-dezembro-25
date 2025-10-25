@@ -545,10 +545,10 @@
 
 ### 🕐 21:30 – 23:00 • 🛍️ **SHIBUYA** - Roupas & Thrift
 
-#### 🕐 21:30-22:00 | 🏬 TOKYU HANDS
+#### 🕐 21:30-22:15 | 🏬 TOKYU HANDS
 
 <details>
-<summary>🎯 Papelaria express (30min)</summary>
+<parameter name="summary">🎯 Papelaria express</summary>
 
 **🏢 Descrição:**
 - 🏢 7-8 andares de TUDO
@@ -560,46 +560,39 @@
 - ✅ Papelaria japonesa
 - ✅ Travel organizers
 
-</details>
-
----
-
-#### 🕐 22:00-22:30 | 👕 UNIQLO / GU (se aberto)
-
-<details>
-<summary>🎯 Roupas básicas</summary>
-
-**📍 UNIQLO SHIBUYA:**
-- 👕 Básicos de qualidade
-- 💳 Tax-free
-- 🕐 **Horário:** Até 21:00-22:00 (verificar!)
-
-**📍 GU (Mesma área):**
-- 💰 30-40% mais barato que Uniqlo
-- 🏢 Mesma empresa
-
-> **⚠️ ATENÇÃO:** Se Uniqlo fechar cedo (21:00), fazer às 21:00-21:30 antes Tokyu Hands
+> **💡 Uniqlo:** Já visitado sexta (19 dez) em Ginza
 
 </details>
 
 ---
 
-#### 🕐 22:30-23:00 | 👗 THRIFT SHOPPING (se aberto) `[OPCIONAL]`
+#### 🕐 22:15-23:00 | 👗 THRIFT SHOPPING `[PRIORITÁRIO]`
 
 <details>
-<summary>🎯 2nd Street ou BookOff</summary>
+<summary>🎯 Brechós e vintage - FOCO PRINCIPAL!</summary>
 
 **📍 2ND STREET SHIBUYA:**
 - 🏢 4 andares de second-hand
+- 👕 Roupas, acessórios, bags
 - 💰 Preços: ¥500-5,000
-- 🕐 **Horário:** Verificar (pode fechar 21:00-22:00)
+- 🌟 Qualidade excelente
+- 🕐 **Horário:** Até 21:00-22:00 (verificar!)
 
 **📍 BOOKOFF SUPER BAZAAR:**
 - 📚 Livros, mangá, CDs
+- 👕 Roupas vintage
 - 🎮 Games antigos
 - 💰 Seção ¥100-500
 
-> **💡 Backup:** Se tudo fechar, explorar Shibuya Crossing iluminado à noite!
+**📍 RAGTAG SHIBUYA (se tempo):**
+- 👔 Designer second-hand
+- 🏷️ Marcas high-end
+- 💰 30-70% OFF retail
+
+> **💡 Estratégia:**
+> - Foco em thrift/vintage (Uniqlo já foi sexta)
+> - 45min tempo total
+> - Se lojas fecharem cedo: Shibuya Crossing iluminado!
 
 </details>
 
