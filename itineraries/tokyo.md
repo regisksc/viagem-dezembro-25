@@ -196,7 +196,7 @@
 
 # 📅 Sábado, 20 de dezembro de 2025 - SHOPPING DAY! 🛍️
 
-**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Câmeras (Nakano) → Eletrônicos/Washlet (Akihabara) → Farmácia (Shinjuku) → Observatory
+**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Câmeras + Eletrônicos/Washlet (Akihabara) → Snacks (Shinjuku) → Observatory
 
 > **🎯 DIA MAIS IMPORTANTE = SEM DSU!**
 > **⚠️ 80-90% DAS COMPRAS ACONTECEM HOJE**
@@ -380,56 +380,43 @@
 
 ---
 
-### 🕐 13:30 – 14:00 • 🚇 Deslocamento Asakusa → Nakano
+### 🕐 13:30 – 14:00 • 🚇 Deslocamento Asakusa → Akihabara
 
 ---
 
-### 🕐 14:00 – 16:00 • 📷 **NAKANO BROADWAY**
+### 🕐 14:00 – 19:30 • 💻 **AKIHABARA**
 
-#### 🕐 14:00-15:30 | 📷 FUJIYA CAMERA
+#### 🕐 14:00-16:00 | 📷 CÂMERAS VINTAGE `[PRIORITÁRIO]`
 
 <details>
-<summary>🎯 Câmeras usadas - MELHOR de Tokyo</summary>
+<parameter name="summary">🎯 Hard Off + Surugaya - Camera shopping</summary>
 
-**💡 Por quê aqui:**
-- 🏆 Fundada 1938 (87 anos)
-- 📦 2,000+ itens second-hand
-- 💰 **MUITO mais barato** que Akihabara
-- 💳 Tax-free (-10%)
-- 👥 Staff ajuda muito
+**📍 HARD OFF AKIHABARA:**
+- 💎 Seção "JUNK" = super barato (untested items)
+- 📷 Câmeras vintage, retro electronics
+- 🎮 Vintage games, audio gear
+- 🛒 **Câmera retro de chaveiro** (~¥1,000-3,000)
+- ⚡ **Pode testar** antes de comprar
+- 💡 Reddit: "Junk section is a goldmine"
 
-**🛒 COMPRAR:**
-- ✅ Câmera vintage (~¥5,000-15,000)
-- ✅ Câmera retro de chaveiro (~¥1,000-3,000)
-- ✅ Filmes coloridos e P&B
+**📍 SURUGAYA AKIHABARA:**
+- 📦 2,000+ câmeras vintage e modernas
+- 💰 **Mais barato** que outras lojas de Akihabara
+- 🏪 Especialista em retro/junk electronics
+- 🛒 Câmera vintage funcionando (~¥5,000-15,000)
 
-> **💬 Reddit:** "Preços honestos, found Canon AE-1 for ¥8,000 perfect condition"
+> **💡 Por quê aqui em vez de Nakano:**
+> - ✅ Já está em Akihabara (economia de tempo/transporte)
+> - ✅ Surugaya tem preços competitivos
+> - ✅ Hard Off junk section = bargains incríveis
+
+**⏱️ Tempo:** 2h para explorar ambas as lojas com calma
 
 </details>
 
 ---
 
-#### 🕐 15:30-16:00 | 🏢 Exploring Nakano Broadway
-
-<details>
-<summary>📍 Shopping complex vintage/pop culture</summary>
-
-**🎯 O que ver:**
-- ✅ Anime, manga, figuras
-- ✅ **vs Akihabara:** Mais autêntico, preços melhores
-- ✅ Lojas de vintage/junk electronics
-
-</details>
-
----
-
-### 🕐 16:00 – 16:30 • 🚇 Deslocamento Nakano → Akihabara
-
----
-
-### 🕐 16:30 – 19:30 • 💻 **AKIHABARA**
-
-#### 🕐 16:30-18:00 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
+#### 🕐 16:00-18:00 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Eletrônicos + WASHLET</summary>
@@ -465,24 +452,6 @@
 - 🔍 Comparar washlet se não comprou
 - 💨 Hair dryers, small appliances
 - 📦 Produtos que Yodobashi não tem
-
-</details>
-
----
-
-#### 🕐 19:00-19:30 | 🎮 HARD OFF / SURUGAYA `[OPCIONAL]`
-
-<details>
-<summary>🎯 Bargains em junk/segunda mão</summary>
-
-**📍 HARD OFF:**
-- 💰 Seção "JUNK" = super barato
-- 🎮 Vintage games, audio gear
-- ✅ Testar antes de comprar
-
-**📍 SURUGAYA:**
-- 📷 Retro/junk electronics
-- 📦 2,000+ cameras vintage
 
 </details>
 
@@ -526,44 +495,12 @@
 
 ---
 
-### 🕐 20:30 – 21:30 • 💊 **OS PHARMACY SHINJUKU** `[PRIORITÁRIO]` ⭐⭐⭐
-
-<details>
-<summary>🎯 ATÉ 35% MAIS BARATO - Completar farmácia!</summary>
-
-**📍 Localização:** Shinjuku Station
-**💡 Por quê aqui:** **ATÉ 35% MAIS BARATO** que outras farmácias!
-
-**🛒 COMPRAR AQUI (itens específicos MUITO mais baratos):**
-- ✅ DHC Eyelash Serum (35% OFF!)
-- ✅ Hatomugi Skin Conditioner (35% OFF!)
-- ✅ Detoxifying feet patches (35% OFF!)
-- ✅ Rohto Eye Drops (~¥1,380-1,518)
-- ✅ Kobayashi Toilet Deodorizer
-- ✅ Qualquer item que faltou na Seims
-
-> **⚠️ ATENÇÃO:**
-> - ❌ NÃO tem tax refund
-> - ❌ Só aceita CASH (sacar antes!)
-> - ⏰ Horário reduzido (verificar)
-
-> **💰 ESTRATÉGIA:**
-> - Comprar itens que são MUITO mais baratos aqui
-> - Comparar preços com Seims
-> - Economizar até 35%!
-
-**⏱️ Tempo:** 1h
-
-</details>
-
----
-
-### 🕐 21:30 – 22:30 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
+### 🕐 20:30 – 22:00 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
 
 <details>
 <summary>🎯 Vista panorâmica - GRÁTIS!</summary>
 
-**📍 Localização:** Shinjuku (10min a pé de OS Pharmacy)
+**📍 Localização:** Shinjuku (10min a pé de Matioka Okashino)
 
 **🎯 O que ver:**
 - 🏢 Observatório 45º andar
@@ -574,16 +511,17 @@
 - 💰 **ENTRADA FREE!**
 
 **💡 Por quê à noite:**
-- ✅ Logo após OS Pharmacy (perto!)
+- ✅ Logo após Matioka Okashino (perto!)
 - ✅ Vista noturna incrível
 - ✅ Grátis!
 - ✅ Perfeito final do dia
+- ⏱️ Tempo estendido: 1h30 para aproveitar com calma
 
 </details>
 
 ---
 
-### 🕐 22:30 – 23:00 • 🏨 Volta hotel
+### 🕐 22:00 – 22:30 • 🏨 Volta hotel
 
 > **💡 Shibuya/Meiji:** Mover para Segunda-feira tarde (após compras)
 
