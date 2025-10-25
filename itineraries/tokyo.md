@@ -1,6 +1,6 @@
 # 🗼 Tokyo
 
-[19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) • [20 dez](#sábado-20-de-dezembro-de-2025---shopping-day-️) • [21 dez](#domingo-21-de-dezembro-de-2025---day-trip-monte-fuji-) • [22 dez](#segunda-feira-22-de-dezembro-de-2025---studio-ghibli--compras) • [23 dez](#terça-feira-23-de-dezembro-de-2025---teamlab--última-chance) • [24 dez](#quarta-feira-24-de-dezembro-de-2025---partida-madrugada-️)
+[19 dez](#sexta-feira-19-de-dezembro-de-2025---chegada) • [20 dez](#sábado-20-de-dezembro-de-2025---shopping-day) • [21 dez](#domingo-21-de-dezembro-de-2025---day-trip-monte-fuji) • [22 dez](#segunda-feira-22-de-dezembro-de-2025---studio-ghibli--compras) • [23 dez](#terça-feira-23-de-dezembro-de-2025---teamlab--última-chance) • [24 dez](#quarta-feira-24-de-dezembro-de-2025---partida-madrugada)
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 ---
 
-# 📅 Sexta-feira, 19 de dezembro de 2025 - CHEGADA
+# Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
 **📋 Resumo do dia:** Chegada Tokyo (14:52) → Check-in Ginza → Explorar lojas Ginza → Compras OK Supermarket → Jantar rápido
 
@@ -182,7 +182,7 @@
 ---
 ---
 
-# 📅 Sábado, 20 de dezembro de 2025 - SHOPPING DAY! 🛍️
+# Sábado, 20 de dezembro de 2025 - SHOPPING DAY
 
 **📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Eletrônicos/Washlet (Akihabara) → Câmeras/Games (Shinjuku) → Observatory → Roupas/Thrift (Shibuya noite)
 
@@ -608,7 +608,7 @@
 ---
 ---
 
-# 📅 Domingo, 21 de dezembro de 2025 - DAY TRIP MONTE FUJI 🗻
+# Domingo, 21 de dezembro de 2025 - DAY TRIP MONTE FUJI
 
 **📋 Resumo do dia:** LAWSON FUJI (foto VIRAL) → Chureito Pagoda (vista ICÔNICA) → Oshino Hakkai (vila + 8 lagos) → Kawaguchi Asama Shrine (UNESCO) → Retorno Tokyo
 
@@ -904,7 +904,7 @@
 ---
 ---
 
-# 📅 Segunda-feira, 22 de dezembro de 2025 - **STUDIO GHIBLI** + Compras
+# Segunda-feira, 22 de dezembro de 2025 - STUDIO GHIBLI + Compras
 
 **📋 Resumo do dia:** **Studio Ghibli Museum** → **Gotokuji Temple (Cat Shrine)** → **Daruma Shrine** → Compras complementares → DSU 23:30
 
@@ -1081,7 +1081,7 @@
 ---
 ---
 
-# 📅 Terça-feira, 23 de dezembro de 2025 - **TEAMLAB** + Última Chance
+# Terça-feira, 23 de dezembro de 2025 - TEAMLAB + Última Chance
 
 **📋 Resumo do dia:** **TeamLab Borderless** → Compras finais → Depachika descontos → DSU 23:30
 
@@ -1235,7 +1235,7 @@
 ---
 ---
 
-# 📅 Quarta-feira, 24 de dezembro de 2025 - PARTIDA MADRUGADA ✈️
+# Quarta-feira, 24 de dezembro de 2025 - PARTIDA MADRUGADA
 
 **📋 Resumo:** Saída madrugada para aeroporto Haneda → Paris
 
