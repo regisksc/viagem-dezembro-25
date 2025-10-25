@@ -196,7 +196,7 @@
 
 # 📅 Sábado, 20 de dezembro de 2025 - SHOPPING DAY! 🛍️
 
-**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Câmeras + Eletrônicos/Washlet (Akihabara) → Snacks (Shinjuku) → Observatory
+**📋 Resumo do dia:** Farmácia (Asakusa) → Cozinha (Kappabashi) → Roupas/Thrift (Shibuya) → Eletrônicos/Washlet (Akihabara) → Câmeras/Games (Shinjuku) → Observatory
 
 > **🎯 DIA MAIS IMPORTANTE = SEM DSU!**
 > **⚠️ 80-90% DAS COMPRAS ACONTECEM HOJE**
@@ -380,43 +380,88 @@
 
 ---
 
-### 🕐 13:30 – 14:00 • 🚇 Deslocamento Asakusa → Akihabara
+### 🕐 13:30 – 14:00 • 🚇 Deslocamento Asakusa → Shibuya
 
 ---
 
-### 🕐 14:00 – 19:30 • 💻 **AKIHABARA**
+### 🕐 14:00 – 16:30 • 🛍️ **SHIBUYA** - Roupas & Thrift
 
-#### 🕐 14:00-16:00 | 📷 CÂMERAS VINTAGE `[PRIORITÁRIO]`
+#### 🕐 14:00-15:00 | 🏬 TOKYU HANDS `[PRIORITÁRIO]`
 
 <details>
-<parameter name="summary">🎯 Hard Off + Surugaya - Camera shopping</summary>
+<summary>🎯 Papelaria + decoração + misc</summary>
 
-**📍 HARD OFF AKIHABARA:**
-- 💎 Seção "JUNK" = super barato (untested items)
-- 📷 Câmeras vintage, retro electronics
-- 🎮 Vintage games, audio gear
-- 🛒 **Câmera retro de chaveiro** (~¥1,000-3,000)
-- ⚡ **Pode testar** antes de comprar
-- 💡 Reddit: "Junk section is a goldmine"
+**🏢 Descrição:**
+- 🏢 7-8 andares de TUDO
+- ✏️ **Andar de papelaria:** Melhor do mundo
+- 🎨 DIY, craft, stationery, home decor
+- 💳 Tax-free
 
-**📍 SURUGAYA AKIHABARA:**
-- 📦 2,000+ câmeras vintage e modernas
-- 💰 **Mais barato** que outras lojas de Akihabara
-- 🏪 Especialista em retro/junk electronics
-- 🛒 Câmera vintage funcionando (~¥5,000-15,000)
-
-> **💡 Por quê aqui em vez de Nakano:**
-> - ✅ Já está em Akihabara (economia de tempo/transporte)
-> - ✅ Surugaya tem preços competitivos
-> - ✅ Hard Off junk section = bargains incríveis
-
-**⏱️ Tempo:** 2h para explorar ambas as lojas com calma
+**🛒 COMPRAR:**
+- ✅ Papelaria japonesa
+- ✅ Itens decoração
+- ✅ Travel organizers
+- ✅ Misc gadgets
 
 </details>
 
 ---
 
-#### 🕐 16:00-18:00 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
+#### 🕐 15:00-15:30 | 👕 UNIQLO / GU
+
+<details>
+<summary>🎯 Roupas básicas</summary>
+
+**📍 UNIQLO SHIBUYA:**
+- 👕 Básicos de qualidade
+- 💰 Preços melhores que internacional
+- 💳 Tax-free
+
+**📍 GU (Mesma área):**
+- 💰 30-40% mais barato que Uniqlo
+- 🏢 Mesma empresa, qualidade boa
+- 👕 Tendências japonesas
+
+</details>
+
+---
+
+#### 🕐 15:30-16:30 | 👗 THRIFT SHOPPING
+
+<details>
+<summary>🎯 Brechós e vintage em Shibuya</summary>
+
+**📍 2ND STREET SHIBUYA:**
+- 🏢 4 andares de second-hand
+- 👕 Roupas, acessórios, bags
+- 💰 Preços: ¥500-5,000
+- 🌟 Qualidade excelente
+- 💡 Reddit: "Best thrift chain in Tokyo"
+
+**📍 BOOKOFF SUPER BAZAAR:**
+- 📚 Livros, mangá, CDs
+- 👕 Roupas vintage
+- 🎮 Games antigos
+- 💰 Seção ¥100-500
+
+**📍 RAGTAG SHIBUYA (se tempo):**
+- 👔 Designer second-hand
+- 🏷️ Marcas high-end
+- 💰 30-70% OFF retail
+
+**💡 Área:** Todas próximas de Shibuya Station
+
+</details>
+
+---
+
+### 🕐 16:30 – 17:00 • 🚇 Deslocamento Shibuya → Akihabara
+
+---
+
+### 🕐 17:00 – 19:00 • 💻 **AKIHABARA** - Eletrônicos
+
+#### 🕐 17:00-18:30 | 💻 YODOBASHI CAMERA `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Eletrônicos + WASHLET</summary>
@@ -441,7 +486,7 @@
 
 ---
 
-#### 🕐 18:00-19:00 | 💻 BIC CAMERA AKIHABARA
+#### 🕐 18:30-19:00 | 💻 BIC CAMERA AKIHABARA
 
 <details>
 <summary>🎯 Comparar preços + tourist discount</summary>
@@ -457,11 +502,45 @@
 
 ---
 
-### 🕐 19:30 – 20:00 • 🚇 Deslocamento Akihabara → Shinjuku
+### 🕐 19:00 – 19:30 • 🚇 Deslocamento Akihabara → Shinjuku
 
 ---
 
-### 🕐 20:00 – 20:30 • 🍫 **MATIOKA OKASHINO SHINJUKU** `[PRIORITÁRIO]`
+### 🕐 19:30 – 20:30 • 📷 **SHINJUKU** - Câmeras & Games `[PRIORITÁRIO]`
+
+<details>
+<summary>🎯 MAP Camera + Hard Off - melhor de Shinjuku</summary>
+
+**📍 MAP CAMERA SHINJUKU:**
+- 🏢 **5 ANDARES** de câmeras e equipamento
+- 📷 Maior seleção de câmeras usadas de Tokyo
+- 💎 Condição PRISTINE (como novos)
+- 💰 Trade-in disponível
+- 📦 Câmera vintage: ¥5,000-15,000
+- 📦 Câmera digital usada: ¥20,000-50,000
+- 🎯 **Melhor para:** Digital usado + lentes profissionais
+
+**📍 HARD OFF SHINJUKU (perto):**
+- 💎 Seção "JUNK" = super barato
+- 📷 **Câmera retro de chaveiro** (~¥1,000-3,000)
+- 🎮 **Vintage games** (Famicom, GameBoy, etc)
+- 🎧 Audio gear vintage
+- ⚡ Pode testar antes de comprar
+- 💡 Reddit: "Junk section is a goldmine"
+
+> **💡 Por quê Shinjuku:**
+> - ✅ MAP Camera = #2 melhor loja de câmeras de Tokyo
+> - ✅ Hard Off Shinjuku tem MUITO vintage gaming
+> - ✅ Já estarão em Shinjuku para snacks + observatory
+> - ✅ Melhor custo-benefício que Akihabara
+
+**⏱️ Tempo:** 1h para ambas as lojas
+
+</details>
+
+---
+
+### 🕐 20:30 – 21:00 • 🍫 **MATIOKA OKASHINO SHINJUKU** `[PRIORITÁRIO]`
 
 <details>
 <summary>🎯 Snacks e doces a PREÇOS LOCAIS!</summary>
@@ -495,7 +574,7 @@
 
 ---
 
-### 🕐 20:30 – 22:00 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
+### 🕐 21:00 – 22:00 • 🌃 **TOKYO METROPOLITAN BUILDING OBSERVATORY**
 
 <details>
 <summary>🎯 Vista panorâmica - GRÁTIS!</summary>
@@ -521,7 +600,7 @@
 
 ---
 
-### 🕐 22:00 – 22:30 • 🏨 Volta hotel
+### 🕐 22:00 – 22:30 • 🏨 Volta hotel Ginza
 
 > **💡 Shibuya/Meiji:** Mover para Segunda-feira tarde (após compras)
 
@@ -929,43 +1008,9 @@
 
 ### 🕐 16:00 – 20:00 • 🛍️ **COMPRAS COMPLEMENTARES**
 
-#### 🕐 16:00-17:00 | 📝 TOKYU HANDS (Shibuya)
+> **💡 Sábado já cobriu:** Tokyu Hands, Uniqlo/GU, Thrift shops
 
-<details>
-<summary>🎯 Papelaria + decoração + misc</summary>
-
-**🏢 Descrição:**
-- 🏢 7-8 andares de TUDO
-- ✏️ **Andar de papelaria:** Melhor do mundo
-- 🎨 DIY, craft, stationery, home decor
-- 💳 Tax-free
-
-**🛒 COMPRAR:**
-- ✅ Papelaria japonesa
-- ✅ Itens decoração
-- ✅ Travel organizers
-- ✅ Misc gadgets
-
-</details>
-
----
-
-#### 🕐 17:00-18:00 | 👕 UNIQLO Ginza (OU Shibuya)
-
-<details>
-<summary>🎯 Roupas básicas</summary>
-
-**💰 Vantagens:**
-- ⏰ **Happy hour:** Terça/Sexta 14h-17h (SE for terça!)
-- 💰 Preços melhores que Uniqlo internacional
-- 👕 Básicos de qualidade
-- 💳 Tax-free
-
-</details>
-
----
-
-#### 🕐 18:00-19:00 | 🎎 DARUMA + Asakusa Nakamise
+#### 🕐 16:00-17:30 | 🎎 DARUMA + Asakusa Nakamise
 
 <details>
 <summary>🎯 Souvenirs tradicionais + Daruma</summary>
@@ -980,6 +1025,26 @@
 - 🥢 Hashis decorados
 - 🍘 Snacks japoneses
 - 💡 (Mais caros que supermercado, mas bonitos)
+
+</details>
+
+---
+
+#### 🕐 17:30-19:00 | 🎨 BEAMS JAPAN + MUJI (se tempo)
+
+<details>
+<summary>🎯 Design japonês + extras</summary>
+
+**📍 BEAMS JAPAN (Shinjuku):**
+- 🏢 7 andares de design japonês
+- 🎁 High-quality Japanese gifts
+- 💰 Todo nível de preço
+- 🎨 Fashion, crafts, food specialty
+
+**📍 MUJI GINZA (se tempo):**
+- 🏠 Household goods, stationery
+- 💰 Preços melhores que internacional
+- ✨ Minimalismo japonês
 
 </details>
 
