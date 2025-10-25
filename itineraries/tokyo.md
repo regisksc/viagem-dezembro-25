@@ -55,7 +55,7 @@
 
 # 📅 Sexta-feira, 19 de dezembro de 2025 - CHEGADA
 
-**📋 Resumo do dia:** Chegada Tokyo (14:52) → Check-in Ginza → Explorar Ginza → Jantar
+**📋 Resumo do dia:** Chegada Tokyo (14:52) → Check-in Ginza → Explorar lojas Ginza → Compras OK Supermarket → Jantar rápido
 
 > **💡 DIA DE CHEGADA = SEM DSU!**
 > **⚠️ FARMÁCIA:** Amanhã em Asakusa/Shinjuku (MUITO mais barato!)
@@ -89,44 +89,105 @@
 
 ---
 
-### 🕐 16:00 – 19:00 • Explorar Ginza
+### 🕐 16:00 – 18:30 • 🏬 Explorar PRINCIPAIS LOJAS de Ginza
 
 <details>
-<summary>📍 Apenas explorar (SEM grandes compras)</summary>
+<summary>📍 Ver principais lojas (SEM grandes compras)</summary>
 
 > **⚠️ Por quê NÃO comprar farmácia hoje:**
 > - Ginza = área cara
 > - Matsumoto Kiyoshi aqui não é a mais barata
 > - **Amanhã:** Seims Asakusa (20% OFF) + OS Pharmacy Shinjuku (35% OFF!)
 
-**🎯 O que fazer hoje:**
-- ✅ Caminhar por Ginza
-- ✅ Ver vitrines
-- ✅ Compras de emergência SOMENTE se necessário
-- ✅ Guardar dinheiro para amanhã
+**🎯 Lojas principais para conhecer:**
 
-**Se precisar algo urgente:**
-- 📍 Matsumoto Kiyoshi Ginza (conveniente, mas caro)
+**📍 Uniqlo Ginza (Flagship)**
+- 🏢 12 andares - loja conceito
+- 👕 Ver novidades que não têm no Brasil
+- 💰 Não comprar ainda (amanhã tem mais tempo)
+- 📍 Mesmo prédio do OK Supermarket
+
+**📍 Muji Ginza (Flagship)**
+- 🏢 10 andares de minimalismo
+- 🏠 Household, stationery, clothes
+- 💰 Preços melhores que Muji internacional
+- 🎯 Fazer lista mental do que comprar depois
+
+**📍 Ginza Six / Ginza Mitsukoshi**
+- 🏬 Ver depachika (basement food hall)
+- 🎁 Souvenirs gourmet
+- 💡 Voltar terça após 19:00 para descontos
+
+**📍 Don Quijote Ginza (se tempo)**
+- 🏢 Mesmo prédio Uniqlo
+- 👀 Só dar uma olhada rápida
+- ❌ NÃO comprar farmácia aqui (caro!)
+
+**🚶 Caminhar por:**
+- ✨ Chuo-dori (rua principal)
+- 🏮 Ver vitrines de departamento stores
+- 🌃 Sentir vibe de Ginza à noite
 
 </details>
 
 ---
 
-### 🕐 19:00 – 20:30 • 🍽️ Jantar: **Ain Soph Ginza**
+### 🕐 18:30 – 19:00 • 🛒 **OK SUPERMARKET GINZA** `[PRIORITÁRIO]`
 
 <details>
-<summary>🌱 100% Vegan perto do hotel</summary>
+<summary>🎯 Compras no supermercado MAIS BARATO de Ginza!</summary>
 
-**💰 Preço:** ¥1500-2500
-**📞 Tel:** +81-3-6228-6714
-**🍴 Menu:** Panquecas veganas, pudim japonês, tiramisu
-**🕐 Horário:** Dinner 18:00-21:00
+**📍 Localização:** Mesmo prédio do Uniqlo Ginza (basement)
+
+> **💡 Por quê aqui:**
+> - 💰 Preços EXTREMAMENTE baixos (usado por locais!)
+> - 🍱 Sushi platters $22 CAD
+> - 🍙 Toro rolls $6
+> - 🍣 Nigiri $10
+> - 🍪 Snacks a preço real (não inflado)
+
+**🛒 COMPRAR:**
+- ✅ Jantar de hoje (bentô, onigiri, sushi)
+- ✅ Café da manhã amanhã (frutas, iogurte, bebidas)
+- ✅ Snacks para hotel
+- ✅ Água, chá gelado
+
+**💰 Previsão:** ¥2,000-3,000 (2 pessoas)
 
 </details>
 
 ---
 
-### 🕐 20:30 – 21:00 • 🏨 Volta hotel
+### 🕐 19:00 – 19:30 • 🍔 Jantar rápido: **2foods Ginza Loft**
+
+<details>
+<summary>🌱 Vegan burger RÁPIDO (30min)</summary>
+
+**📍 Localização:** Ginza Loft 2F (perto do hotel)
+
+**💰 Preço:** ¥1,420 (Rich Teriyaki Avocado Burger)
+**🍔 Menu:**
+- Rich Teriyaki Avocado Burger
+- Vegan junk food
+- Omurice vegano
+- Nuggets com dips coloridos
+
+**🕐 Tempo:** 30 minutos (comer rápido)
+
+> **💡 Por quê aqui:**
+> - ✅ Perto do hotel
+> - ✅ Rápido (30min)
+> - ✅ Vegan burger gostoso
+> - ✅ Preço razoável
+
+**OU Alternativa:**
+- Comer bentô/sushi do OK Supermarket no hotel (mais barato e rápido)
+
+</details>
+
+---
+
+### 🕐 19:30 – 20:00 • 🏨 Volta hotel + descanso
 
 **✅ SEM DSU - É SEXTA! 🎉**
 
